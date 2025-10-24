@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sponsor added, Holt.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 268"
+}

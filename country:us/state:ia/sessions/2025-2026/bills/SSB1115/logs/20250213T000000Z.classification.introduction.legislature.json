@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Local Government.",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1115"
+}

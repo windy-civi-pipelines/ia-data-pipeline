@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 02/11/2025 3:00PM House Lounge.",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 54"
+}

@@ -1,0 +1,59 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "1396XD",
+  "title": "National Guard Service Scholarship Program (1396XD) - Public Defense, Department of",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/BP/1518305.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Background Statement",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/bgs/89448_Fed_TA_TAG_Memo_LSA.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/prefiledBills",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:05:06Z"
+  }
+}

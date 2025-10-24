@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Bossman, Madison and Williams.",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 129"
+}

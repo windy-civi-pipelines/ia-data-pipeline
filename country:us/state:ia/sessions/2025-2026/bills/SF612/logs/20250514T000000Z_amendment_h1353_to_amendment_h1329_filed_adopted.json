@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment H-1353 to amendment H-1329 filed, adopted.",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 612"
+}

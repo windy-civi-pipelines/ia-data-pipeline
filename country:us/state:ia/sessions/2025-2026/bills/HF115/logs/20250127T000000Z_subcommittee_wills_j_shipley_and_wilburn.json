@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Wills, J., Shipley and Wilburn.",
+    "date": "2025-01-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 115"
+}

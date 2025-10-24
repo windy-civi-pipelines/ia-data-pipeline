@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed House, yeas 63, nays 33.",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 189"
+}

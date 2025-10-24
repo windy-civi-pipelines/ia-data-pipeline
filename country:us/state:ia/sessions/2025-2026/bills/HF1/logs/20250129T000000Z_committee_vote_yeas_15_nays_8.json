@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee vote: Yeas, 15. Nays, 8.",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 1"
+}

@@ -1,0 +1,59 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "1428DP",
+  "title": "IPERS, Notification Requirements (1428DP) - Public Employees\u2019 Retirement System, Iowa",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/BP/1518106.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Background Statement",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/bgs/89501_1428_d.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/prefiledBills",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:05:05Z"
+  }
+}

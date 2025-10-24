@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 03/27/2025 8:45AM RM 102.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 305"
+}

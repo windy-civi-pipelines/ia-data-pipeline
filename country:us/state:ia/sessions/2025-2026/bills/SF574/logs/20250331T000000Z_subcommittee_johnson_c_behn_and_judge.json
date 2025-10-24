@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Johnson, C., Behn and Judge.",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 574"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "HF 437 substituted.",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 519"
+}

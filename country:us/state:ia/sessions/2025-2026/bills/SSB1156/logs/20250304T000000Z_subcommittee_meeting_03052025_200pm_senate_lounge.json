@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee Meeting: 03/05/2025 2:00PM Senate Lounge.",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1156"
+}

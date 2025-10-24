@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Hora, Jacoby and Shipley.",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 152"
+}

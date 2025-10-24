@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Collins, Kurth and Sexton.",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 65"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee reassigned: Lofgren, Petersen, and Webster.",
+    "date": "2025-01-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 22"
+}

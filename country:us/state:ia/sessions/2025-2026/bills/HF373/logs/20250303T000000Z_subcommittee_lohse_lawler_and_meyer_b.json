@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Lohse, Lawler and Meyer, B.",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 373"
+}

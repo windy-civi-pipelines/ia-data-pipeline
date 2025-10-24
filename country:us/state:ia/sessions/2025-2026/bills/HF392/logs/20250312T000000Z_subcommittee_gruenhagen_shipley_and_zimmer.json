@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Gruenhagen, Shipley, and Zimmer.",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 392"
+}

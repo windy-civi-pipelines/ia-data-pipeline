@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Weldon, Ingels and Matson.",
+    "date": "2025-03-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 730"
+}

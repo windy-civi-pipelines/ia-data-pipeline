@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee reassigned: Schultz, Bisignano, and Driscoll.",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1215"
+}

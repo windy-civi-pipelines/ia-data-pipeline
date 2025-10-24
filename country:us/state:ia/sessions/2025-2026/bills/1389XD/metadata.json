@@ -1,0 +1,59 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "1389XD",
+  "title": "Sports Wagering Winnings, Withholding (1389XD) - Revenue, Department of",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/BP/1518304.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Background Statement",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/bgs/89455_Background_Memo_Sports_Wagering_Winnings,_Withholding.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/prefiledBills",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:05:06Z"
+  }
+}

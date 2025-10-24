@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1193 filed.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 826"
+}

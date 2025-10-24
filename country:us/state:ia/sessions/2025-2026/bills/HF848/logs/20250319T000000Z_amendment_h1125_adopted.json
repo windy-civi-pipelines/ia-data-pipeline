@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1125 adopted.",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 848"
+}

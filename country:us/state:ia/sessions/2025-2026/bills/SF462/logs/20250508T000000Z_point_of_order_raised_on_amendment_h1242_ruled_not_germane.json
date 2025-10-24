@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Point of order raised on amendment H-1242, ruled not germane.",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 462"
+}

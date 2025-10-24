@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Meggers, Jones and Scheetz.",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 235"
+}

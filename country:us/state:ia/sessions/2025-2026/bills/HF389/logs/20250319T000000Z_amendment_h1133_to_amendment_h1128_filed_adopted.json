@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment H-1133 to amendment H-1128 filed, adopted.",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 389"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Subcommittee recommends passage.",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 22"
+}

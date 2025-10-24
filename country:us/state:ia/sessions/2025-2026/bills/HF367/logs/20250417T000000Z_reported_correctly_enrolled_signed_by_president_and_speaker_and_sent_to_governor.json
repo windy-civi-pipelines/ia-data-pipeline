@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported correctly enrolled, signed by President and Speaker, and sent to Governor.",
+    "date": "2025-04-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 367"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Holt, Wheeler and Wilburn.",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 53"
+}

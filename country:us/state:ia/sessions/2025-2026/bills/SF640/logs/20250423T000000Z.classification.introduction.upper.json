@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced, placed on Appropriations calendar.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 640"
+}

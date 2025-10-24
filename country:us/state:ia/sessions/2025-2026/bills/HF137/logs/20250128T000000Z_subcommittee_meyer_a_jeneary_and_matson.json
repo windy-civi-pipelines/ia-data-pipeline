@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Meyer, A., Jeneary and Matson.",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 137"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee reassigned: Lawler, Meyer, B. and Nordman.",
+    "date": "2025-02-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 164"
+}

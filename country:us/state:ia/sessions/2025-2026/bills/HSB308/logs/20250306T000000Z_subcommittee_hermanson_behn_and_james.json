@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Hermanson, Behn and James.",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 308"
+}

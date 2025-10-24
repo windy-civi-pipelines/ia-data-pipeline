@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Dickey, Dotzler, and Pike.",
+    "date": "2025-01-15",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1014"
+}

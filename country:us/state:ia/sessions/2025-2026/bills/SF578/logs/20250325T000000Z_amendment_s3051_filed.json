@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment S-3051 filed.",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 578"
+}

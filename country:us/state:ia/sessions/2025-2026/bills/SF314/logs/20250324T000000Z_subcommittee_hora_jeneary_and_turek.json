@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Hora, Jeneary and Turek.",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 314"
+}

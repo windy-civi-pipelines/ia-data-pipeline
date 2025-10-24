@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Meggers, Amos Jr. and Rinker.",
+    "date": "2025-01-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 26"
+}

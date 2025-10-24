@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Westrich, Driscoll, and Wahls.",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1105"
+}

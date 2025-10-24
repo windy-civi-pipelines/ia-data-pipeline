@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment H-1004 to amendment H-1002 filed, adopted.",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 144"
+}

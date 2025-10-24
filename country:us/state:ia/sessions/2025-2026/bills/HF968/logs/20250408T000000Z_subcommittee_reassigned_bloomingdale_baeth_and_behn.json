@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee reassigned: Bloomingdale, Baeth and Behn.",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 968"
+}

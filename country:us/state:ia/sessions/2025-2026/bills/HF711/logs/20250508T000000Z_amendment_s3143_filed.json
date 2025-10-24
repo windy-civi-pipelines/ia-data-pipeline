@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment S-3143 filed.",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 711"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Rules and Administration.",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR 2"
+}

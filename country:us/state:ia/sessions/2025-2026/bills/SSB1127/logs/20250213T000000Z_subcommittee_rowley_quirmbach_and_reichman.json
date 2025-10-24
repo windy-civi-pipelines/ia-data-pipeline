@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Rowley, Quirmbach, and Reichman.",
+    "date": "2025-02-13",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1127"
+}

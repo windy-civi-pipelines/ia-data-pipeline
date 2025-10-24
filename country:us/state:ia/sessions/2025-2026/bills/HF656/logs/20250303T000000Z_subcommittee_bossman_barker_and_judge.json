@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Bossman, Barker and Judge.",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 656"
+}

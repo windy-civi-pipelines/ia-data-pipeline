@@ -1,0 +1,75 @@
+{
+  "id": "ocd-jurisdiction/country:us/state:ia/government",
+  "name": "Iowa",
+  "url": "https://www.legis.iowa.gov/",
+  "division_id": "ocd-division/country:us/state:ia",
+  "classification": "state",
+  "legislative_sessions": [
+    {
+      "_scraped_name": "General Assembly: 84",
+      "identifier": "2011-2012",
+      "name": "2011-2012 Regular Session",
+      "start_date": "2011-01-10",
+      "end_date": "2012-05-09"
+    },
+    {
+      "_scraped_name": "General Assembly: 85",
+      "identifier": "2013-2014",
+      "name": "2013-2014 Regular Session",
+      "start_date": "2013-01-14",
+      "end_date": "2014-05-02"
+    },
+    {
+      "_scraped_name": "General Assembly: 86",
+      "identifier": "2015-2016",
+      "name": "2015-2016 Regular Session",
+      "start_date": "2015-01-12",
+      "end_date": "2016-04-29"
+    },
+    {
+      "_scraped_name": "General Assembly: 87",
+      "identifier": "2017-2018",
+      "name": "2017-2018 Regular Session",
+      "start_date": "2017-01-09",
+      "end_date": "2017-04-29"
+    },
+    {
+      "_scraped_name": "General Assembly: 88",
+      "identifier": "2019-2020",
+      "name": "2019-2020 Regular Session",
+      "start_date": "2019-01-14",
+      "end_date": "2020-04-27"
+    },
+    {
+      "_scraped_name": "General Assembly: 89",
+      "classification": "primary",
+      "identifier": "2021-2022",
+      "name": "2021-2022 Regular Session",
+      "start_date": "2021-01-11",
+      "end_date": "2021-06-19",
+      "active": false
+    },
+    {
+      "_scraped_name": "General Assembly: 90",
+      "classification": "primary",
+      "identifier": "2023-2024",
+      "name": "2023-2024 Regular Session",
+      "start_date": "2023-01-09",
+      "end_date": "2024-04-16",
+      "active": false
+    },
+    {
+      "_scraped_name": "General Assembly: 91",
+      "classification": "primary",
+      "identifier": "2025-2026",
+      "name": "2025-2026 Regular Session",
+      "start_date": "2025-01-13",
+      "end_date": "2025-04-22",
+      "active": true,
+      "extras": {
+        "ordinal": 91
+      }
+    }
+  ],
+  "extras": {}
+}

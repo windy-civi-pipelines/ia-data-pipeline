@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to State Government.",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1034"
+}

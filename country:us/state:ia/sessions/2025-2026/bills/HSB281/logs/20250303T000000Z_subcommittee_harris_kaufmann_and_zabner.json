@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Harris, Kaufmann and Zabner.",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 281"
+}

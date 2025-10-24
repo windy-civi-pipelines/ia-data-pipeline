@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Shipley, Bousselot, and Staed.",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1230"
+}

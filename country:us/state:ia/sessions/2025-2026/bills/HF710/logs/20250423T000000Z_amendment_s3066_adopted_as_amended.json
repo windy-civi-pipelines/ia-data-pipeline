@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment S-3066 adopted, as amended.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 710"
+}

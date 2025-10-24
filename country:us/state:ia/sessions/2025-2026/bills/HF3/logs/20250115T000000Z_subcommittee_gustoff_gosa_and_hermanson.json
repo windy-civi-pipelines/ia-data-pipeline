@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Gustoff, Gosa and Hermanson.",
+    "date": "2025-01-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 3"
+}

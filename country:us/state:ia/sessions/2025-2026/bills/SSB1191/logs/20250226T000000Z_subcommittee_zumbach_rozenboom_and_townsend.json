@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Zumbach, Rozenboom, and Townsend.",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1191"
+}

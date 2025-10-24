@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Tabled until future meeting.",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 563"
+}

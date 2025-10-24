@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee reassigned: Holt, Wilburn and Williams.",
+    "date": "2025-02-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 227"
+}

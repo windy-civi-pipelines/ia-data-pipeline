@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Kraayenbrink, Costello, and Petersen.",
+    "date": "2025-04-01",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1216"
+}

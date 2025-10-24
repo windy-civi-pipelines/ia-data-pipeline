@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Boden, Wilson and Wulf.",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 321"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Wilz, H., Blom and Johnson, R.",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 65"
+}

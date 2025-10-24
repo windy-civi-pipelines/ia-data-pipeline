@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee vote: Yeas, 24. Nays, 0. Excused, 1.",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 831"
+}

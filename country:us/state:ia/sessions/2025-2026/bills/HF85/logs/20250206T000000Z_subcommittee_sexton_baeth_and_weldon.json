@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Sexton, Baeth and Weldon.",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 85"
+}

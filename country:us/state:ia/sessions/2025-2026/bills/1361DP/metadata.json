@@ -1,0 +1,59 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "1361DP",
+  "title": "Continuing Health Insurance for Certain Surviving Spouses and Dependents (1361DP) - Administrative Services, Department of",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/BP/1518487.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Background Statement",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/bgs/89387_Memo_for_Continuing_Health_Coverage_State_Employees.docx",
+          "media_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/prefiledBills",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:05:07Z"
+  }
+}

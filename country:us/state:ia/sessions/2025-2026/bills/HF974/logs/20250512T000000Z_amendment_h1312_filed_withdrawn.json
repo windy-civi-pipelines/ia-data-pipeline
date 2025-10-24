@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1312 filed, withdrawn.",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 974"
+}

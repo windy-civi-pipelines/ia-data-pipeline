@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Hora, Collins and Kurth.",
+    "date": "2025-02-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 154"
+}

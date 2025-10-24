@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Collins, Bossman and Cooling.",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 246"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Hayes, Gjerde and Weldon.",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 2"
+}

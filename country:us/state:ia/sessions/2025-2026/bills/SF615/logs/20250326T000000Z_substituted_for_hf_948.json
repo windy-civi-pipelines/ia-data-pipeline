@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Substituted for HF 948.",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 615"
+}

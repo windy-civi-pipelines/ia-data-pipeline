@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Thomson, C., Lawler and Wessel-Kroeschell.",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 300"
+}

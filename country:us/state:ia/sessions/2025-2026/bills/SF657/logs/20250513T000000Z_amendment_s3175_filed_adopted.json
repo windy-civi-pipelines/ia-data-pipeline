@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment S-3175 filed, adopted.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 657"
+}

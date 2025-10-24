@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Dunwell, Cooling and Johnson, C.",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 69"
+}

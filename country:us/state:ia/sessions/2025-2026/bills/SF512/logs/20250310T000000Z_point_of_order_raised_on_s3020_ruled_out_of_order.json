@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Point of order raised on S-3020, ruled out of order.",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 512"
+}

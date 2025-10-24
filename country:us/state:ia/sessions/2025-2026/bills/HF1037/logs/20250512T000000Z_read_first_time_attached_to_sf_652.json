@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read first time, attached to SF 652.",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1037"
+}

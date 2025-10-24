@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment S-3073 adopted.",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 856"
+}

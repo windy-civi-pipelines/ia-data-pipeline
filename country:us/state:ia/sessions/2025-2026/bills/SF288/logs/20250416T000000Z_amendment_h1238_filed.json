@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1238 filed.",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 288"
+}

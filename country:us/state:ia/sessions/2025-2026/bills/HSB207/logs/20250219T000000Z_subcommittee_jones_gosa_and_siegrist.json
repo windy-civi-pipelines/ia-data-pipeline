@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Jones, Gosa and Siegrist.",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 207"
+}

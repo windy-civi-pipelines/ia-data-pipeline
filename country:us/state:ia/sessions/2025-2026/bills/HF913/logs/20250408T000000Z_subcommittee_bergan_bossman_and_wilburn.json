@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Bergan, Bossman and Wilburn.",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 913"
+}

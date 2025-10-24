@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee returns the bill to Committee without recommendation. [].",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 411"
+}

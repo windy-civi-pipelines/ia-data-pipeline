@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to State Government.",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 158"
+}

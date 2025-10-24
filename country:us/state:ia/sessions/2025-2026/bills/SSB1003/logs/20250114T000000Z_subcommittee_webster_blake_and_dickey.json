@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Webster, Blake, and Dickey.",
+    "date": "2025-01-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1003"
+}

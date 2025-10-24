@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Bloomingdale, McBurney and Meggers.",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 228"
+}

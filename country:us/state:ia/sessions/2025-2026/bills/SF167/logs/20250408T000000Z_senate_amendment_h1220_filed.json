@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate amendment H-1220 filed.",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 167"
+}

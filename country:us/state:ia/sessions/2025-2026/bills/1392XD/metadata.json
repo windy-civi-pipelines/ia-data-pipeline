@@ -1,0 +1,59 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "1392XD",
+  "title": "Department of Revenue, Alcohol Omnibus (1392XD) - Revenue, Department of",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "proposed bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Prefiled",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/BP/1520451.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Background Statement",
+      "links": [
+        {
+          "url": "https://www.legis.iowa.gov/docs/publications/bgs/89453_Background_Memo_Alcohol_Omnibus_Bill.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.iowa.gov/legislation/billTracking/prefiledBills",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ia/government",
+    "name": "Iowa",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ia"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-24T05:05:06Z"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1273 to amendment H-1233 adopted.",
+    "date": "2025-04-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 986"
+}

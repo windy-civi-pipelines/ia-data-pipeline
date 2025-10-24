@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Wilz, H., Smith and Turek.",
+    "date": "2025-01-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 116"
+}

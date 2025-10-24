@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Gehlbach, Gjerde and Johnson, C.",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 446"
+}

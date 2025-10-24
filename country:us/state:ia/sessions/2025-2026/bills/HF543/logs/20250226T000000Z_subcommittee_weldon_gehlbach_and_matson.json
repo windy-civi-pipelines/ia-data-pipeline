@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Weldon, Gehlbach and Matson.",
+    "date": "2025-02-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 543"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Johnson, C., Gjerde and Hora.",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 536"
+}

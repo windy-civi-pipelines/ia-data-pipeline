@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: De Witt, Schultz, and Winckler.",
+    "date": "2025-04-07",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1221"
+}

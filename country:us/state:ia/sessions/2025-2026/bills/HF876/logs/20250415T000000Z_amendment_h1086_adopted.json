@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1086 adopted.",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 876"
+}

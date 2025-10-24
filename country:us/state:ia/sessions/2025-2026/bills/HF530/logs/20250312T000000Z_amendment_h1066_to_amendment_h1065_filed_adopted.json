@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment H-1066 to amendment H-1065 filed, adopted.",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 530"
+}

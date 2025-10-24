@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Message from House, with amendment S-3060.",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 106"
+}

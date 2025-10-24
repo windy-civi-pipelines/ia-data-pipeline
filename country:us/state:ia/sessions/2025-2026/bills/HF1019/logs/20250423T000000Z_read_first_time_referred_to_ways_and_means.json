@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read first time, referred to Ways and Means.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1019"
+}

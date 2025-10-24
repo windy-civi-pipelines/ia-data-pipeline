@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Wheeler, Johnson, C. and Matson.",
+    "date": "2025-02-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 147"
+}

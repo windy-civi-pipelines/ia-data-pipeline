@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment H-1267 to amendment H-1265 filed, adopted.",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1002"
+}

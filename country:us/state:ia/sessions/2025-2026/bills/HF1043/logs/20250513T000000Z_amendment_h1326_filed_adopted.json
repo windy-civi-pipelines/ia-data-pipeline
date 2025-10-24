@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Amendment H-1326 filed, adopted.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction",
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1043"
+}

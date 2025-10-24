@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Lohse, Lawler and Wilburn.",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 908"
+}

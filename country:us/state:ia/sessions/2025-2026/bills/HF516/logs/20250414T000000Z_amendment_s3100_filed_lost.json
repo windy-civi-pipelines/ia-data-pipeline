@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment S-3100 filed, lost.",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 516"
+}

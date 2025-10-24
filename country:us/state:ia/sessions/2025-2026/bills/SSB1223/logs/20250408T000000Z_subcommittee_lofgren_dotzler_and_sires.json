@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Lofgren, Dotzler, and Sires.",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1223"
+}

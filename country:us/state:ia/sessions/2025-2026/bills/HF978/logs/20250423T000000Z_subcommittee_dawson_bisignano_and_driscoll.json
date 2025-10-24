@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Dawson, Bisignano, and Driscoll.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 978"
+}

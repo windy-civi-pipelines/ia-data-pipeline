@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report approving bill, renumbered as SF 660.",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1240"
+}

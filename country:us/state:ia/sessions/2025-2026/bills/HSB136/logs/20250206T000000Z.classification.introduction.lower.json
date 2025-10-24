@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Transportation.",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HSB 136"
+}

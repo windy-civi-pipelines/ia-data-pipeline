@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1014 adopted.",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 260"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Barker, Baeth and Moore, T.",
+    "date": "2025-02-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 133"
+}

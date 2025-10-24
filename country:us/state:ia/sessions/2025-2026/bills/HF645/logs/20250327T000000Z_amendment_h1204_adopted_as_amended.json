@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1204 adopted, as amended.",
+    "date": "2025-03-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 645"
+}

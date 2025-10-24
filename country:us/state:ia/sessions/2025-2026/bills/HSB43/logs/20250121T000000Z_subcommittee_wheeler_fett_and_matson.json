@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Wheeler, Fett and Matson.",
+    "date": "2025-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 43"
+}

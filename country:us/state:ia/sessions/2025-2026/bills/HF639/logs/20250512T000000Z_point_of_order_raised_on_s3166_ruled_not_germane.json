@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Point of order raised on S-3166, ruled not germane.",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 639"
+}

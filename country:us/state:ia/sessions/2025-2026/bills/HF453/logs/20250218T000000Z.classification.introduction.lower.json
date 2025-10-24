@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced, referred to Judiciary.",
+    "date": "2025-02-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 453"
+}

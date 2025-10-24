@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Sweeney, Evans, and Zimmer.",
+    "date": "2025-02-17",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1134"
+}

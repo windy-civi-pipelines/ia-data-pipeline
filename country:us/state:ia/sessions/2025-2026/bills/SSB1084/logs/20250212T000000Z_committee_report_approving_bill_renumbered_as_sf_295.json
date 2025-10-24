@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report approving bill, renumbered as SF 295.",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SSB 1084"
+}

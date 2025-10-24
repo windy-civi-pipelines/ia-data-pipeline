@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed House, yeas 85, nays 6.",
+    "date": "2025-04-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 513"
+}

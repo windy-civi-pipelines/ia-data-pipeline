@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1328 filed.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 1052"
+}

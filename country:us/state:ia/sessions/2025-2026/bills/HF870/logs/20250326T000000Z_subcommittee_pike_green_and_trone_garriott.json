@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Pike, Green, and Trone Garriott.",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 870"
+}

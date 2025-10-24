@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report approving bill, renumbered as HF 1002.",
+    "date": "2025-04-10",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HF 755"
+}

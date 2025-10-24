@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Item vetoed, signed by Governor.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 647"
+}

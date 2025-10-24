@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Bergan, Gehlbach and Srinivas.",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 343"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Salmon, Campbell, and Celsi.",
+    "date": "2025-02-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 329"
+}

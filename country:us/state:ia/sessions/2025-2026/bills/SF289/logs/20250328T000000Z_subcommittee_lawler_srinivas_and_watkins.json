@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Lawler, Srinivas and Watkins.",
+    "date": "2025-03-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SF 289"
+}

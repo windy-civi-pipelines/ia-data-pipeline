@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Amendment H-1200 to amendment H-1198 filed, withdrawn.",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SF 615"
+}

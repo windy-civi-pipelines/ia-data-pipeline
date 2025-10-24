@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Holt, Gjerde and Johnson, C.",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HF 92"
+}

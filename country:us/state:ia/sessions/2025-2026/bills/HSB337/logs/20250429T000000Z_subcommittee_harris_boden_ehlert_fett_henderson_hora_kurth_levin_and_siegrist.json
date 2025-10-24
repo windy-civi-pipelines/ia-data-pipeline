@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Subcommittee: Harris, Boden, Ehlert, Fett, Henderson, Hora, Kurth, Levin and Siegrist.",
+    "date": "2025-04-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HSB 337"
+}
