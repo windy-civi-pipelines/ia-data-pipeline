@@ -1,0 +1,588 @@
+Title: 3 <Section 1. Section 43.49, subsection 1, unnumbered
+Official Title: 3 <Section 1. Section 43.49, subsection 1, unnumbered
+Number of Sections: 1
+Source: versions - Amendment H-1155
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+House File 928
+H-1155
+1 Amend House File 928 as follows:
+2 1. Page 1, before line 1 by inserting:
+4 paragraph 1, Code 2025, is amended to read as follows:
+5 On the Monday or Tuesday following the primary election, the
+6 board of supervisors shall meet, open, and canvass the returns
+7 from each voting precinct in the county, and make abstracts
+8 thereof, stating the following:
+9 Sec. ___. Section 43.56, subsection 2, Code 2025, is amended
+10 by striking the subsection.
+11 Sec. ___. Section 46.24, subsection 1, Code 2025, is amended
+12 to read as follows:
+13 1. A judge of the supreme court, court of appeals, or
+14 district court including a district associate judge, full-time
+15 associate juvenile judge, or full-time associate probate judge,
+16 or a clerk of the district court must receive more affirmative
+17 than negative votes to be retained in office. When the poll
+18 is closed, the election judges shall publicly canvass the vote
+19 forthwith. The board of supervisors shall canvass the returns
+20 on the Monday or Tuesday after the election, and shall promptly
+21 certify the number of affirmative and negative votes on each
+22 judge or clerk to the state commissioner of elections.
+23 Sec. ___. Section 50.21, subsection 1, Code 2025, is amended
+24 to read as follows:
+25 1. The commissioner shall reconvene the election board of
+26 the special precinct established by section 53.20 not earlier
+27 than noon on the second day following each election which
+28 is required by law to be canvassed on the Monday or Tuesday
+29 following the election. If the second day following such an
+30 election is a legal holiday the special precinct election board
+31 may be convened at noon on the day following the election, and
+32 if the canvass of the election is scheduled at any time earlier
+33 than the Monday Tuesday following the election, the special
+34 precinct election board shall be reconvened at noon on the day
+35 following the election.
+HF 928.1148 (1) 91
+-1- ss/ns 1/8
+1 Sec. ___. Section 50.24, subsections 1 and 4, Code 2025, are
+2 amended to read as follows:
+3 1. The county board of supervisors shall meet to canvass
+4 the vote on the first Monday or Tuesday after the day of
+5 each election to which this chapter is applicable, unless
+6 the law authorizing the election specifies another date for
+7 the canvass. If that Monday or Tuesday is a public holiday,
+8 section 4.1, subsection 34, controls.
+9 4. For a regular or special city election or a city runoff
+10 election, if the city is located in more than one county, the
+11 controlling commissioner for that city under section 47.2 shall
+12 conduct a second canvass on the second Monday or Tuesday after
+13 the day of the election. However, if a recount is requested
+14 pursuant to section 50.48, the controlling commissioner shall
+15 conduct the second canvass within two business days after the
+16 conclusion of the recount proceedings. Each commissioner
+17 conducting a canvass for the city pursuant to subsection 1
+18 shall transmit abstracts for the offices and public measures of
+19 that city to the controlling commissioner for that city, along
+20 with individual tallies for each write-in candidate. At the
+21 second canvass, the county board of supervisors of the county
+22 of the controlling commissioner shall canvass the abstracts
+23 received pursuant to this subsection and shall prepare a
+24 combined city abstract stating the number of votes cast in the
+25 city for each office and on each question on the ballot for
+26 the city election. The combined city abstract shall further
+27 indicate the name of each person who received votes for each
+28 office on the ballot, the number of votes each person named
+29 received for that office, and the number of votes for and
+30 against each question submitted to the voters at the election.
+31 The votes of all write-in candidates who each received less
+32 than five percent of the total votes cast in the city for
+33 an office shall be reported collectively under the heading
+34 “scattering”.
+35 Sec. ___. Section 50.24, subsection 5, paragraph a, Code
+HF 928.1148 (1) 91
+-2- ss/ns 2/8
+1 2025, is amended to read as follows:
+2 a. For a regular or special school election, if the school
+3 district is located in more than one county, the controlling
+4 commissioner for that school district under section 47.2 shall
+5 conduct a second canvass on the second Monday or Tuesday after
+6 the day of election. However, if a recount is requested
+7 pursuant to section 50.48, the controlling commissioner shall
+8 conduct the second canvass within two business days after the
+9 conclusion of the recount proceedings. Each commissioner
+10 conducting a canvass for the school district pursuant to
+11 subsection 1 shall transmit abstracts for the offices and
+12 public measures of that school district to the controlling
+13 commissioner for that school district, along with individual
+14 tallies for each write-in candidate. At the second canvass the
+15 county board of supervisors of the controlling county shall
+16 canvass the abstracts received pursuant to this subsection and
+17 shall prepare a combined school district abstract stating the
+18 number of votes cast in the school district for each office and
+19 on each question on the ballot for the school election. The
+20 combined school district abstract shall further indicate the
+21 name of each person who received votes for each office on the
+22 ballot, the number of votes each person named received for that
+23 office, and the number of votes for and against each question
+24 submitted to the voters at the election. The votes of all
+25 write-in candidates who each received less than five percent of
+26 the total votes cast in the school district for an office shall
+27 be reported collectively under the heading “scattering”.>
+28 2. Page 1, lines 9 and 10, by striking <day second Wednesday
+29 following the county board’s canvass of the> and inserting <day
+30 following the county board’s canvass of the>
+31 3. Page 1, line 15, by striking <one percent or less>
+32 and inserting <less than either one percent or fifty votes,
+33 whichever is lesser>
+34 4. Page 1, line 29, by striking <second Wednesday following>
+35 and inserting <day following the county board’s canvass of>
+HF 928.1148 (1) 91
+-3- ss/ns 3/8
+1 5. Page 1, line 34, by striking <one percent or less> and
+2 inserting <less than fifteen hundredths of one percent for the
+3 election or nomination of a candidate for a statewide elected
+4 office or federal office, or less than either one percent or
+5 fifty votes, whichever is lesser, for all other elections or
+6 nominations>
+7 6. By striking page 2, line 18, through page 3, line 11, and
+8 inserting:
+9 <Sec. ___. Section 50.48, subsection 2, Code 2025, is
+10 amended by striking the subsection.>
+11 7. Page 3, line 22, by striking <the commissioner, the
+12 commissioner’s>
+13 8. Page 3, by striking lines 23 and 24 and inserting <the
+14 commissioner and the commissioner’s staff. The commissioner
+15 may assign persons employed by the commissioner to tally
+16 ballots during the election as members of the recount
+17 board. If the commissioner assigns persons employed by the
+18 commissioner to tally ballots during the election as members of
+19 the recount board to recount an election for a partisan office,
+20 the commissioner shall assign an equal number of persons from
+21 each political party.>
+22 9. Page 4, by striking lines 3 through 5 and inserting
+23 <of the recount in each county where the recount is being
+24 conducted. A candidate may replace an observer appointed by
+25 the candidate at any time.>
+26 10. Page 4, line 16, by striking <If automatic tabulating>
+27 and inserting <If automatic tabulating>
+28 11. Page 4, by striking lines 17 and 18 and inserting
+29 <equipment was used to count the ballots, the recount board may
+30 request the commissioner to retabulate the ballots using>
+31 12. Page 4, line 19, by striking <the automatic tabulating
+32 equipment.> and inserting <the automatic tabulating equipment.>
+33 13. Page 4, by striking lines 22 through 25 and inserting <A
+34 recount shall be conducted by the use of automatic tabulating
+35 equipment, except that the state commissioner, for an election
+HF 928.1148 (1) 91
+-4- ss/ns 4/8
+1 for a member of the general assembly, or commissioner, for a
+2 local elective office, may direct that an election be conducted
+3 by hand due to extraordinary circumstances. The same method
+4 of conducting the recount shall be used in each precinct where
+5 the recount is conducted. The commissioner shall make all
+6 pieces of automatic tabulating equipment available for use in
+7 the recount.>
+8 14. Page 5, line 8, by striking <subsection> and inserting
+9 <subsections>
+10 15. Page 5, line 9, by striking <commissioner> and inserting
+11 <recount board>
+12 16. Page 5, line 12, after <recount> by inserting <in a
+13 county>
+14 17. Page 5, after line 20 by inserting:
+15 <NEW SUBSECTION. 10. Before a recount board has issued its
+16 final report, the candidate or person who requested the recount
+17 may reach an agreement with the apparent winner to accept the
+18 results of the original canvass by submitting the agreement in
+19 writing to each recount board that is conducting the recount.
+20 Upon receipt of the agreement, the recount boards shall cease
+21 their work and report to each county commissioner in a county
+22 where the recount is being conducted that the results of the
+23 original canvass are the official results.
+24 Sec. ___. Section 50.49, subsection 1, Code 2025, is amended
+25 to read as follows:
+26 1. A recount for any public measure shall be ordered by the
+27 board of canvassers if a petition requesting a recount is filed
+28 with the state commissioner for a public measure voted on by
+29 the electors of the entire state, or the county commissioner
+30 for all other public measures, not later than three days after
+31 the completion of the canvass of votes for the election at
+32 which the question appeared on the ballot and the abstracts
+33 prepared pursuant to section 50.24 indicate that the difference
+34 between the affirmative and negative votes cast on the public
+35 measure is less than fifteen hundredths of one percent for a
+HF 928.1148 (1) 91
+-5- ss/ns 5/8
+1 public measure voted on by the electors of the entire state,
+2 or less than either one percent or fifty votes, whichever is
+3 lesser, for all other public measures. The petition shall be
+4 signed by the greater of not less than ten eligible electors or
+5 a number of eligible electors equaling one percent of the total
+6 number of votes cast upon the public measure. Each petitioner
+7 must be a person who was entitled to vote on the public measure
+8 in question or would have been so entitled if registered to
+9 vote.
+10 Sec. ___. Section 50.49, subsection 4, Code 2025, is amended
+11 by striking the subsection.
+12 Sec. ___. Section 50.50, Code 2025, is amended to read as
+13 follows:
+14 50.50 Administrative recounts audits.
+15 1. The commissioner who was responsible for conducting an
+16 election may request an administrative recount audit when the
+17 commissioner is informed or suspects that voting equipment used
+18 in the election malfunctioned or that programming errors may
+19 have affected the outcome of the election, or if the precinct
+20 election officials report counting errors to the commissioner
+21 after the conclusion of the canvass of votes in the precinct.
+22 An administrative recount audit shall be conducted by the board
+23 of the special precinct established by section 53.23. Bond
+24 shall not be required for an administrative recount. The
+25 state commissioner may adopt rules for administrative recounts
+26 audits.
+27 2. If the recount board finds that there is an error
+28 in the programming of any voting equipment which may have
+29 affected the outcome of the election for any office or public
+30 measure on the ballot, the recount board shall describe the
+31 errors in its report to the commissioner. The commissioner
+32 shall notify the board of supervisors. The supervisors shall
+33 determine whether to order an administrative recount for any
+34 or all of the offices and public measures on the ballot. Each
+35 political party, as defined in section 43.2, may appoint up
+HF 928.1148 (1) 91
+-6- ss/ns 6/8
+1 to five observers to witness an audit conducted pursuant to
+2 this section. The observers shall be appointed by the county
+3 chairperson or, if the county chairperson fails to make an
+4 appointment, by the state chairperson. However, if either or
+5 both political parties fail to appoint an observer, the board
+6 may continue with the proceedings.>
+7 18. Page 6, by striking lines 5 through 24.
+8 19. Page 7, after line 13 by inserting:
+9 <Sec. ___. Section 60.2, Code 2025, is amended to read as
+10 follows:
+11 60.2 Clerk.
+12 The secretary of state clerk of the supreme court shall be
+13 the clerk of the court, or, in the secretary of state’s absence
+14 or inability to act, the clerk of the supreme court.>
+15 20. Page 7, after line 31 by inserting:
+16 <Sec. ___. Section 61.2, Code 2025, is amended to read as
+17 follows:
+18 61.2 Clerk.
+19 The secretary of state clerk of the supreme court shall be
+20 the clerk of this court; but if the person holding that office
+21 is a party to the contest, the clerk of the supreme court, or,
+22 in case of that person’s absence or inability, the auditor of
+23 state shall be clerk.>
+24 21. Page 8, lines 29 and 30, by striking <five district
+25 judges> and inserting <a district court judge from the judicial
+26 district where the county election is being contested>
+27 22. Page 9, after line 20 by inserting:
+28 <Sec. ___. Section 260C.15, subsection 5, Code 2025, is
+29 amended to read as follows:
+30 5. The votes cast in the election shall be canvassed and
+31 abstracts of the votes cast shall be certified as required by
+32 section 277.20. In each county whose commissioner of elections
+33 is the controlling commissioner for a merged area under section
+34 47.2, the county board of supervisors shall convene on the
+35 second Monday or Tuesday after the day of the election to
+HF 928.1148 (1) 91
+-7- ss/ns 7/8
+1 canvass the abstracts of votes cast from each county in the
+2 merged area, and declare the results of the voting. The
+3 commissioner shall at once issue certificates of election to
+4 each person declared elected, and shall certify to the merged
+5 area board in substantially the manner prescribed by section
+6 50.27 the result of the voting on any public question submitted
+7 to the voters of the merged area. Members elected to the board
+8 of directors of a merged area shall qualify by taking the oath
+9 of office prescribed in section 277.28.>
+10 23. By renumbering as necessary.
+______________________________
+HARRIS of Appanoose
+HF 928.1148 (1) 91
+-8- ss/ns 8/8
+[DELETED: eFe9AdHeFe98asf1.Pe1,bele1byi<n1.Sn4,sn1,uph1,Ce2,isadtordasfOnteMyorTyfgtepye,tbdofssslm,o,adcsterfmehvgptintec,admeat,sgtefS._.Sn4,sn2,Ce2,isa0bysgtes1S._.Sn4,sn1,Ce2,isa2tordasf31.Ajeoftesec,ctofa,o4dtctigadtaej,f5aejej,orfeaepej6orackoftedtctmtremea7tnnevstoberdino.Wntep8isc,teenjsslpycstev9f.Tebdofssslcster0onteMyorTyartee,adslp1cytenrofaeadnevsone2jeorcktotesecrofe3S._.Sn5,sn1,Ce2,isa4tordasf51.Tecrslreteenbdo6teslptedbysn50nte7tnnnontesddyfgehenw8isrdbylwtobecdonteMyorT9fgtee.Iftesddyfgsha0enisallhyteslptenb1mybecdatnnontedyfgtee,a2iftecsofteenissdataytee3tnteMyTyfgtee,tes4ptenbdslberdatnnonted5fgteeF98()9s1]
+[DELETED: S._.Sn5,ss1ad4,Ce2,aadtordasf1.TecybdofssslmttocteveonteftMyorTyartedyoehentowhtscrisa,utelwagteenssardeftec.IfttMyorTyisapchsn4,sn3,c4.Frarrorslcyenoracyr0e,iftecyisldinmetnoec,t1cgcrfrttcyursn42s2ctasdcsontesdMyorTya3tedyoftee.H,ifartisr4pttosn5,tecgcrs5cttesdcswntobsdsart6cnoftertp.Ehc7cgacsfrtecypttosn8slttasfrteosadpcmso9ttcytotecgcrfrttc,a0whiltsfrehwnc.Att1sdc,tecybdofssoftec2oftecgcrslcstea3rdpttotssnadslpe4cdcyatsgtenrofvsctint5cyfrehoeadonehqnontebtf6tecye.Tecdcyatslf7ieteneofehpnwordvsfre8oeonteb,tenrofvsehpnn9rdfrtto,adtenrofvsfra0atehqnsdtotevsattee1Tevsofalwncswoehrdl2tnfeptoftetlvsctintecyf3anoeslberdcyurteh4“5S._.Sn5,sn5,pha,CF98()9s2]
+[DELETED: 2,isadtordasfFrarrorslsle,iftesdtisldinmetnoec,teccrfrttsldtursn42sctasdcsontesdMyorTyatedyofe.H,ifartisrpttosn5,tecgcrscttesdcswntobsdsartcnoftertp.Ehc0cgacsfrtesldtptt1sn1slttasfrteosa2pcmsofttsldttotec3crfrttsld,agwhi4tsfrehwnc.Attesdcst5cybdofssoftecgcys6csteasrdpttotssna7slpeacdsldtatsgt8nrofvsctintesldtfrehoea9onehqnontebtfrtesle.T0cdsldtatslfriet1neofehpnwordvsfrehoeont2b,tenrofvsehpnndrdfrt3o,adtenrofvsfradatehq4sdtotevsattee.Tevsofa5wncswoehrdlstnfepto6tetlvsctintesldtfranoes7berdcyurtehg“82.Pe1,ls9ad1,bysg<ysdW9fgtecybscsoft>adig<0fgtecybscsoft13.Pe1,le1,bysg<eptorl2adig<stneroeptorfyv3wrisl44.Pe1,le2,bysg<dWyf5adig<yfgtecybscsoF98()9s3]
+[DELETED: 5.Pe1,le3,bysg<eptorl>aig<stnfnhsofoeptfrtenornnofacefraseeoeorflo,orlstneroeptofyv,wrisl,fraloreson6.Bysgpe2,le1,thpe3,le1,ai<._.Sn5,sn2,Ce2,i0adbysgtes17.Pe3,le2,bysg<ec,t2c38.Pe3,bysgls23ad24adig<4cradtecss.Tec5myanpsedbytecrtot6bsdgteenasmsofter7b.Iftecraspsedbyt8crtotybsdgteenasmso9tertbdtortanenfrapno0tecrslananelnrofpsf1ehplp29.Pe4,bysgls3th5adi3<ftertinehcywetertisb4c.Acemyreanoradb5teceatayt61.Pe4,le1,bysg<fact7adig<fact81.Pe4,bysgls17ad18adi9<twsudtoctteb,tertbdm0rttecrtoretebsu11.Pe4,le1,bysg<eact2e>adig<eactge31.Pe4,bysgls22th25adig<4rtslbecdbyteueofact5e,ettttesec,franeF98()9s4]
+[DELETED: framroftegla,orc,frlleeo,mydtttanenbecbyhddetoeyc.Tesemofcgtertslbeudinehptwtertisc.Tecrslmeapsofactgetaefrueiter1.Pe5,le8,bysg<>adi<01.Pe5,le9,bysg<>adi1<tb21.Pe5,le1,ar<>byig<n3c41.Pe5,arle20byi5<WS.1.Beartbdhsidi6flr,teceorpnwordter7myrhanatwhteatwrtoatt8rsofteolcsbysgteati9wgtoehrtbdttiscgter0Unrtoftea,tertbsslc1trwkadrttoehcycrinac2wetertisbgcdtttersoft3olcsaeteolr4S._.Sn5,sn1,Ce2,isa5tordasf61.Artfraypcmeslbeodbyt7bdofcsifapnrgartisf8whtesecrfrapcmevdonb9teesofteees,ortecyc0fralorpcm,ntlrtntedsa1tecnoftecsofvsfrteena2whteqnadontebtadtea3pdpttosn54iettted4bnteaeadnevsctontep5meislstnfnhsofoeptfrF98()9s5]
+[DELETED: pcmevdonbyteesofteeesorlstneroeptorfyv,wril,fralorpcm.Tepnslbsdbytegrofntlstntneeesoanrofeeesegoeptoftetnrofvsctuntepcm.Ehpmtbeapnwowsedtoveontepcminqnorwdhebnsoedifrdtv0S._.Sn5,sn4,Ce2,isa1bysgtes2S._.Sn5,Ce2,isadtorda3f0Aersa51.Tecrwowsrefrcga6enmyrtanaertatwnt7crisidorssttvgetu8inteenmdorttpgesm9headteoeoftee,oriftep0enosrtcgestotec1artecnoftecsofvsintep2Anaertatslbecdbyteb3ofteslptedbysn5.B4slntberdfranaer.T5secrmyatrsfraer6a72.Iftertbdfsttteisane8intepgofayvgetwhmyh9adteoeofteenfrayoeorp0meonteb,tertbdsldet1esinisrttotec.Tec2slnytebdofs.Tesss3dewrtooranaertfra4oralofteosadpcmsonteb.E5plp,asddinsn4,myatuF98()9s6]
+[DELETED: tofeostowsanatcdptttss.Teosslbeadbyteccno,iftecycnfstomeaa,bytesec.H,iferobhplpsfltoatano,tebmycewhtep1.Pe6,bysgls5th21.Pe7,arle13byi<._.Sn6,Ce2,isadtorda0f2C2Tesyofseckoftesectslb3teckoftec,o,intesyofssa4oriytoa,teckoftesec52.Pe7,arle31byi6<._.Sn6,Ce2,isadtorda7f2C9Tesyofseckoftesectslb0teckoftsc;btiftepnhgtto1isapytotec,teckoftesec,o2inceofttpsaeori,tearo3seslbec42.Pe8,ls29ad3,bysg<ed5j>adig<adtctjefmtej6dtwetecyenisbgc72.Pe9,arle20byi8<._.Sn2,sn5,Ce2,i9adtordasf05.Tevsctinteenslbecda1asoftevsctslbecdasrdb2sn2.Inehcywecrofe3istecgcrframdaaurs44,tecybdofssslceont5sdMyorTyartedyofteentF98()9s7]
+[DELETED: csteasofvsctfmehcyintmda,addetersoftev.Tcrslatoeiecsofentehpndde,adslcytotemaabdinsytemrpdbys57tertoftevgonaypcqnstotevsoftemda.Msedtotebofdsofamdaaslqybytgteoofoepdinsn202.ByrgasnSofAF98()9s8]
+
+
+================================================================================
+
+Raw Text:
+House File 928
+H-1155
+1 Amend House File 928 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 43.49, subsection 1, unnumbered
+4 paragraph 1, Code 2025, is amended to read as follows:
+5 On the Monday or Tuesday following the primary election, the
+6 board of supervisors shall meet, open, and canvass the returns
+7 from each voting precinct in the county, and make abstracts
+8 thereof, stating the following:
+9 Sec. ___. Section 43.56, subsection 2, Code 2025, is amended
+10 by striking the subsection.
+11 Sec. ___. Section 46.24, subsection 1, Code 2025, is amended
+12 to read as follows:
+13 1. A judge of the supreme court, court of appeals, or
+14 district court including a district associate judge, full-time
+15 associate juvenile judge, or full-time associate probate judge,
+16 or a clerk of the district court must receive more affirmative
+17 than negative votes to be retained in office. When the poll
+18 is closed, the election judges shall publicly canvass the vote
+19 forthwith. The board of supervisors shall canvass the returns
+20 on the Monday or Tuesday after the election, and shall promptly
+21 certify the number of affirmative and negative votes on each
+22 judge or clerk to the state commissioner of elections.
+23 Sec. ___. Section 50.21, subsection 1, Code 2025, is amended
+24 to read as follows:
+25 1. The commissioner shall reconvene the election board of
+26 the special precinct established by section 53.20 not earlier
+27 than noon on the second day following each election which
+28 is required by law to be canvassed on the Monday or Tuesday
+29 following the election. If the second day following such an
+30 election is a legal holiday the special precinct election board
+31 may be convened at noon on the day following the election, and
+32 if the canvass of the election is scheduled at any time earlier
+33 than the Monday Tuesday following the election, the special
+34 precinct election board shall be reconvened at noon on the day
+35 following the election.
+HF 928.1148 (1) 91
+-1- ss/ns 1/8
+
+1 Sec. ___. Section 50.24, subsections 1 and 4, Code 2025, are
+2 amended to read as follows:
+3 1. The county board of supervisors shall meet to canvass
+4 the vote on the first Monday or Tuesday after the day of
+5 each election to which this chapter is applicable, unless
+6 the law authorizing the election specifies another date for
+7 the canvass. If that Monday or Tuesday is a public holiday,
+8 section 4.1, subsection 34, controls.
+9 4. For a regular or special city election or a city runoff
+10 election, if the city is located in more than one county, the
+11 controlling commissioner for that city under section 47.2 shall
+12 conduct a second canvass on the second Monday or Tuesday after
+13 the day of the election. However, if a recount is requested
+14 pursuant to section 50.48, the controlling commissioner shall
+15 conduct the second canvass within two business days after the
+16 conclusion of the recount proceedings. Each commissioner
+17 conducting a canvass for the city pursuant to subsection 1
+18 shall transmit abstracts for the offices and public measures of
+19 that city to the controlling commissioner for that city, along
+20 with individual tallies for each write-in candidate. At the
+21 second canvass, the county board of supervisors of the county
+22 of the controlling commissioner shall canvass the abstracts
+23 received pursuant to this subsection and shall prepare a
+24 combined city abstract stating the number of votes cast in the
+25 city for each office and on each question on the ballot for
+26 the city election. The combined city abstract shall further
+27 indicate the name of each person who received votes for each
+28 office on the ballot, the number of votes each person named
+29 received for that office, and the number of votes for and
+30 against each question submitted to the voters at the election.
+31 The votes of all write-in candidates who each received less
+32 than five percent of the total votes cast in the city for
+33 an office shall be reported collectively under the heading
+34 “scattering”.
+35 Sec. ___. Section 50.24, subsection 5, paragraph a, Code
+HF 928.1148 (1) 91
+-2- ss/ns 2/8
+
+1 2025, is amended to read as follows:
+2 a. For a regular or special school election, if the school
+3 district is located in more than one county, the controlling
+4 commissioner for that school district under section 47.2 shall
+5 conduct a second canvass on the second Monday or Tuesday after
+6 the day of election. However, if a recount is requested
+7 pursuant to section 50.48, the controlling commissioner shall
+8 conduct the second canvass within two business days after the
+9 conclusion of the recount proceedings. Each commissioner
+10 conducting a canvass for the school district pursuant to
+11 subsection 1 shall transmit abstracts for the offices and
+12 public measures of that school district to the controlling
+13 commissioner for that school district, along with individual
+14 tallies for each write-in candidate. At the second canvass the
+15 county board of supervisors of the controlling county shall
+16 canvass the abstracts received pursuant to this subsection and
+17 shall prepare a combined school district abstract stating the
+18 number of votes cast in the school district for each office and
+19 on each question on the ballot for the school election. The
+20 combined school district abstract shall further indicate the
+21 name of each person who received votes for each office on the
+22 ballot, the number of votes each person named received for that
+23 office, and the number of votes for and against each question
+24 submitted to the voters at the election. The votes of all
+25 write-in candidates who each received less than five percent of
+26 the total votes cast in the school district for an office shall
+27 be reported collectively under the heading “scattering”.>
+28 2. Page 1, lines 9 and 10, by striking <day second Wednesday
+29 following the county board’s canvass of the> and inserting <day
+30 following the county board’s canvass of the>
+31 3. Page 1, line 15, by striking <one percent or less>
+32 and inserting <less than either one percent or fifty votes,
+33 whichever is lesser>
+34 4. Page 1, line 29, by striking <second Wednesday following>
+35 and inserting <day following the county board’s canvass of>
+HF 928.1148 (1) 91
+-3- ss/ns 3/8
+
+1 5. Page 1, line 34, by striking <one percent or less> and
+2 inserting <less than fifteen hundredths of one percent for the
+3 election or nomination of a candidate for a statewide elected
+4 office or federal office, or less than either one percent or
+5 fifty votes, whichever is lesser, for all other elections or
+6 nominations>
+7 6. By striking page 2, line 18, through page 3, line 11, and
+8 inserting:
+9 <Sec. ___. Section 50.48, subsection 2, Code 2025, is
+10 amended by striking the subsection.>
+11 7. Page 3, line 22, by striking <the commissioner, the
+12 commissioner’s>
+13 8. Page 3, by striking lines 23 and 24 and inserting <the
+14 commissioner and the commissioner’s staff. The commissioner
+15 may assign persons employed by the commissioner to tally
+16 ballots during the election as members of the recount
+17 board. If the commissioner assigns persons employed by the
+18 commissioner to tally ballots during the election as members of
+19 the recount board to recount an election for a partisan office,
+20 the commissioner shall assign an equal number of persons from
+21 each political party.>
+22 9. Page 4, by striking lines 3 through 5 and inserting
+23 <of the recount in each county where the recount is being
+24 conducted. A candidate may replace an observer appointed by
+25 the candidate at any time.>
+26 10. Page 4, line 16, by striking <If automatic tabulating>
+27 and inserting <If automatic tabulating>
+28 11. Page 4, by striking lines 17 and 18 and inserting
+29 <equipment was used to count the ballots, the recount board may
+30 request the commissioner to retabulate the ballots using>
+31 12. Page 4, line 19, by striking <the automatic tabulating
+32 equipment.> and inserting <the automatic tabulating equipment.>
+33 13. Page 4, by striking lines 22 through 25 and inserting <A
+34 recount shall be conducted by the use of automatic tabulating
+35 equipment, except that the state commissioner, for an election
+HF 928.1148 (1) 91
+-4- ss/ns 4/8
+
+1 for a member of the general assembly, or commissioner, for a
+2 local elective office, may direct that an election be conducted
+3 by hand due to extraordinary circumstances. The same method
+4 of conducting the recount shall be used in each precinct where
+5 the recount is conducted. The commissioner shall make all
+6 pieces of automatic tabulating equipment available for use in
+7 the recount.>
+8 14. Page 5, line 8, by striking <subsection> and inserting
+9 <subsections>
+10 15. Page 5, line 9, by striking <commissioner> and inserting
+11 <recount board>
+12 16. Page 5, line 12, after <recount> by inserting <in a
+13 county>
+14 17. Page 5, after line 20 by inserting:
+15 <NEW SUBSECTION. 10. Before a recount board has issued its
+16 final report, the candidate or person who requested the recount
+17 may reach an agreement with the apparent winner to accept the
+18 results of the original canvass by submitting the agreement in
+19 writing to each recount board that is conducting the recount.
+20 Upon receipt of the agreement, the recount boards shall cease
+21 their work and report to each county commissioner in a county
+22 where the recount is being conducted that the results of the
+23 original canvass are the official results.
+24 Sec. ___. Section 50.49, subsection 1, Code 2025, is amended
+25 to read as follows:
+26 1. A recount for any public measure shall be ordered by the
+27 board of canvassers if a petition requesting a recount is filed
+28 with the state commissioner for a public measure voted on by
+29 the electors of the entire state, or the county commissioner
+30 for all other public measures, not later than three days after
+31 the completion of the canvass of votes for the election at
+32 which the question appeared on the ballot and the abstracts
+33 prepared pursuant to section 50.24 indicate that the difference
+34 between the affirmative and negative votes cast on the public
+35 measure is less than fifteen hundredths of one percent for a
+HF 928.1148 (1) 91
+-5- ss/ns 5/8
+
+1 public measure voted on by the electors of the entire state,
+2 or less than either one percent or fifty votes, whichever is
+3 lesser, for all other public measures. The petition shall be
+4 signed by the greater of not less than ten eligible electors or
+5 a number of eligible electors equaling one percent of the total
+6 number of votes cast upon the public measure. Each petitioner
+7 must be a person who was entitled to vote on the public measure
+8 in question or would have been so entitled if registered to
+9 vote.
+10 Sec. ___. Section 50.49, subsection 4, Code 2025, is amended
+11 by striking the subsection.
+12 Sec. ___. Section 50.50, Code 2025, is amended to read as
+13 follows:
+14 50.50 Administrative recounts audits.
+15 1. The commissioner who was responsible for conducting an
+16 election may request an administrative recount audit when the
+17 commissioner is informed or suspects that voting equipment used
+18 in the election malfunctioned or that programming errors may
+19 have affected the outcome of the election, or if the precinct
+20 election officials report counting errors to the commissioner
+21 after the conclusion of the canvass of votes in the precinct.
+22 An administrative recount audit shall be conducted by the board
+23 of the special precinct established by section 53.23. Bond
+24 shall not be required for an administrative recount. The
+25 state commissioner may adopt rules for administrative recounts
+26 audits.
+27 2. If the recount board finds that there is an error
+28 in the programming of any voting equipment which may have
+29 affected the outcome of the election for any office or public
+30 measure on the ballot, the recount board shall describe the
+31 errors in its report to the commissioner. The commissioner
+32 shall notify the board of supervisors. The supervisors shall
+33 determine whether to order an administrative recount for any
+34 or all of the offices and public measures on the ballot. Each
+35 political party, as defined in section 43.2, may appoint up
+HF 928.1148 (1) 91
+-6- ss/ns 6/8
+
+1 to five observers to witness an audit conducted pursuant to
+2 this section. The observers shall be appointed by the county
+3 chairperson or, if the county chairperson fails to make an
+4 appointment, by the state chairperson. However, if either or
+5 both political parties fail to appoint an observer, the board
+6 may continue with the proceedings.>
+7 18. Page 6, by striking lines 5 through 24.
+8 19. Page 7, after line 13 by inserting:
+9 <Sec. ___. Section 60.2, Code 2025, is amended to read as
+10 follows:
+11 60.2 Clerk.
+12 The secretary of state clerk of the supreme court shall be
+13 the clerk of the court, or, in the secretary of state’s absence
+14 or inability to act, the clerk of the supreme court.>
+15 20. Page 7, after line 31 by inserting:
+16 <Sec. ___. Section 61.2, Code 2025, is amended to read as
+17 follows:
+18 61.2 Clerk.
+19 The secretary of state clerk of the supreme court shall be
+20 the clerk of this court; but if the person holding that office
+21 is a party to the contest, the clerk of the supreme court, or,
+22 in case of that person’s absence or inability, the auditor of
+23 state shall be clerk.>
+24 21. Page 8, lines 29 and 30, by striking <five district
+25 judges> and inserting <a district court judge from the judicial
+26 district where the county election is being contested>
+27 22. Page 9, after line 20 by inserting:
+28 <Sec. ___. Section 260C.15, subsection 5, Code 2025, is
+29 amended to read as follows:
+30 5. The votes cast in the election shall be canvassed and
+31 abstracts of the votes cast shall be certified as required by
+32 section 277.20. In each county whose commissioner of elections
+33 is the controlling commissioner for a merged area under section
+34 47.2, the county board of supervisors shall convene on the
+35 second Monday or Tuesday after the day of the election to
+HF 928.1148 (1) 91
+-7- ss/ns 7/8
+
+1 canvass the abstracts of votes cast from each county in the
+2 merged area, and declare the results of the voting. The
+3 commissioner shall at once issue certificates of election to
+4 each person declared elected, and shall certify to the merged
+5 area board in substantially the manner prescribed by section
+6 50.27 the result of the voting on any public question submitted
+7 to the voters of the merged area. Members elected to the board
+8 of directors of a merged area shall qualify by taking the oath
+9 of office prescribed in section 277.28.>
+10 23. By renumbering as necessary.
+______________________________
+HARRIS of Appanoose
+HF 928.1148 (1) 91
+-8- ss/ns 8/8
+
+[DELETED: eFe9AdHeFe98asf1.Pe1,bele1byi<n1.Sn4,sn1,uph1,Ce2,isadtordasfOnteMyorTyfgtepye,tbdofssslm,o,adcsterfmehvgptintec,admeat,sgtefS._.Sn4,sn2,Ce2,isa0bysgtes1S._.Sn4,sn1,Ce2,isa2tordasf31.Ajeoftesec,ctofa,o4dtctigadtaej,f5aejej,orfeaepej6orackoftedtctmtremea7tnnevstoberdino.Wntep8isc,teenjsslpycstev9f.Tebdofssslcster0onteMyorTyartee,adslp1cytenrofaeadnevsone2jeorcktotesecrofe3S._.Sn5,sn1,Ce2,isa4tordasf51.Tecrslreteenbdo6teslptedbysn50nte7tnnnontesddyfgehenw8isrdbylwtobecdonteMyorT9fgtee.Iftesddyfgsha0enisallhyteslptenb1mybecdatnnontedyfgtee,a2iftecsofteenissdataytee3tnteMyTyfgtee,tes4ptenbdslberdatnnonted5fgteeF98()9s1]
+[DELETED: S._.Sn5,ss1ad4,Ce2,aadtordasf1.TecybdofssslmttocteveonteftMyorTyartedyoehentowhtscrisa,utelwagteenssardeftec.IfttMyorTyisapchsn4,sn3,c4.Frarrorslcyenoracyr0e,iftecyisldinmetnoec,t1cgcrfrttcyursn42s2ctasdcsontesdMyorTya3tedyoftee.H,ifartisr4pttosn5,tecgcrs5cttesdcswntobsdsart6cnoftertp.Ehc7cgacsfrtecypttosn8slttasfrteosadpcmso9ttcytotecgcrfrttc,a0whiltsfrehwnc.Att1sdc,tecybdofssoftec2oftecgcrslcstea3rdpttotssnadslpe4cdcyatsgtenrofvsctint5cyfrehoeadonehqnontebtf6tecye.Tecdcyatslf7ieteneofehpnwordvsfre8oeonteb,tenrofvsehpnn9rdfrtto,adtenrofvsfra0atehqnsdtotevsattee1Tevsofalwncswoehrdl2tnfeptoftetlvsctintecyf3anoeslberdcyurteh4“5S._.Sn5,sn5,pha,CF98()9s2]
+[DELETED: 2,isadtordasfFrarrorslsle,iftesdtisldinmetnoec,teccrfrttsldtursn42sctasdcsontesdMyorTyatedyofe.H,ifartisrpttosn5,tecgcrscttesdcswntobsdsartcnoftertp.Ehc0cgacsfrtesldtptt1sn1slttasfrteosa2pcmsofttsldttotec3crfrttsld,agwhi4tsfrehwnc.Attesdcst5cybdofssoftecgcys6csteasrdpttotssna7slpeacdsldtatsgt8nrofvsctintesldtfrehoea9onehqnontebtfrtesle.T0cdsldtatslfriet1neofehpnwordvsfrehoeont2b,tenrofvsehpnndrdfrt3o,adtenrofvsfradatehq4sdtotevsattee.Tevsofa5wncswoehrdlstnfepto6tetlvsctintesldtfranoes7berdcyurtehg“82.Pe1,ls9ad1,bysg<ysdW9fgtecybscsoft>adig<0fgtecybscsoft13.Pe1,le1,bysg<eptorl2adig<stneroeptorfyv3wrisl44.Pe1,le2,bysg<dWyf5adig<yfgtecybscsoF98()9s3]
+[DELETED: 5.Pe1,le3,bysg<eptorl>aig<stnfnhsofoeptfrtenornnofacefraseeoeorflo,orlstneroeptofyv,wrisl,fraloreson6.Bysgpe2,le1,thpe3,le1,ai<._.Sn5,sn2,Ce2,i0adbysgtes17.Pe3,le2,bysg<ec,t2c38.Pe3,bysgls23ad24adig<4cradtecss.Tec5myanpsedbytecrtot6bsdgteenasmsofter7b.Iftecraspsedbyt8crtotybsdgteenasmso9tertbdtortanenfrapno0tecrslananelnrofpsf1ehplp29.Pe4,bysgls3th5adi3<ftertinehcywetertisb4c.Acemyreanoradb5teceatayt61.Pe4,le1,bysg<fact7adig<fact81.Pe4,bysgls17ad18adi9<twsudtoctteb,tertbdm0rttecrtoretebsu11.Pe4,le1,bysg<eact2e>adig<eactge31.Pe4,bysgls22th25adig<4rtslbecdbyteueofact5e,ettttesec,franeF98()9s4]
+[DELETED: framroftegla,orc,frlleeo,mydtttanenbecbyhddetoeyc.Tesemofcgtertslbeudinehptwtertisc.Tecrslmeapsofactgetaefrueiter1.Pe5,le8,bysg<>adi<01.Pe5,le9,bysg<>adi1<tb21.Pe5,le1,ar<>byig<n3c41.Pe5,arle20byi5<WS.1.Beartbdhsidi6flr,teceorpnwordter7myrhanatwhteatwrtoatt8rsofteolcsbysgteati9wgtoehrtbdttiscgter0Unrtoftea,tertbsslc1trwkadrttoehcycrinac2wetertisbgcdtttersoft3olcsaeteolr4S._.Sn5,sn1,Ce2,isa5tordasf61.Artfraypcmeslbeodbyt7bdofcsifapnrgartisf8whtesecrfrapcmevdonb9teesofteees,ortecyc0fralorpcm,ntlrtntedsa1tecnoftecsofvsfrteena2whteqnadontebtadtea3pdpttosn54iettted4bnteaeadnevsctontep5meislstnfnhsofoeptfrF98()9s5]
+[DELETED: pcmevdonbyteesofteeesorlstneroeptorfyv,wril,fralorpcm.Tepnslbsdbytegrofntlstntneeesoanrofeeesegoeptoftetnrofvsctuntepcm.Ehpmtbeapnwowsedtoveontepcminqnorwdhebnsoedifrdtv0S._.Sn5,sn4,Ce2,isa1bysgtes2S._.Sn5,Ce2,isadtorda3f0Aersa51.Tecrwowsrefrcga6enmyrtanaertatwnt7crisidorssttvgetu8inteenmdorttpgesm9headteoeoftee,oriftep0enosrtcgestotec1artecnoftecsofvsintep2Anaertatslbecdbyteb3ofteslptedbysn5.B4slntberdfranaer.T5secrmyatrsfraer6a72.Iftertbdfsttteisane8intepgofayvgetwhmyh9adteoeofteenfrayoeorp0meonteb,tertbdsldet1esinisrttotec.Tec2slnytebdofs.Tesss3dewrtooranaertfra4oralofteosadpcmsonteb.E5plp,asddinsn4,myatuF98()9s6]
+[DELETED: tofeostowsanatcdptttss.Teosslbeadbyteccno,iftecycnfstomeaa,bytesec.H,iferobhplpsfltoatano,tebmycewhtep1.Pe6,bysgls5th21.Pe7,arle13byi<._.Sn6,Ce2,isadtorda0f2C2Tesyofseckoftesectslb3teckoftec,o,intesyofssa4oriytoa,teckoftesec52.Pe7,arle31byi6<._.Sn6,Ce2,isadtorda7f2C9Tesyofseckoftesectslb0teckoftsc;btiftepnhgtto1isapytotec,teckoftesec,o2inceofttpsaeori,tearo3seslbec42.Pe8,ls29ad3,bysg<ed5j>adig<adtctjefmtej6dtwetecyenisbgc72.Pe9,arle20byi8<._.Sn2,sn5,Ce2,i9adtordasf05.Tevsctinteenslbecda1asoftevsctslbecdasrdb2sn2.Inehcywecrofe3istecgcrframdaaurs44,tecybdofssslceont5sdMyorTyartedyofteentF98()9s7]
+[DELETED: csteasofvsctfmehcyintmda,addetersoftev.Tcrslatoeiecsofentehpndde,adslcytotemaabdinsytemrpdbys57tertoftevgonaypcqnstotevsoftemda.Msedtotebofdsofamdaaslqybytgteoofoepdinsn202.ByrgasnSofAF98()9s8]

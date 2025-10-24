@@ -1,0 +1,47 @@
+Title: 1 Amend the amendment, H-1230, to House File 989, as follows:
+Official Title: 1 Amend the amendment, H-1230, to House File 989, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1256
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 989
+H-1256
+2 1. Page 6, after line 32 by inserting:
+3 <___. Page 7, after line 14 by inserting:
+4 <1A. As a condition to issuing a construction permit, the
+5 applicant must consent to the department’s testing of materials
+6 in a digester structure for the presence of perfluoroalkyl and
+7 polyfluoroalkyl substances as required by the department during
+8 normal business hours.>>
+9 2. By renumbering as necessary.
+______________________________
+KURTH of Scott
+H 1230.1616 (2) 91
+-1- da/ns 1/1
+[DELETED: eFe9Adtea,H,toHeFe9,asf1.Pe6,arle32byi<.Pe7,arle14byi<.Asacntoigacnp,tatmtcttotedstgofminadrsefrtepeofplaplssasrdbytedtdnlbsh2.ByrgasnHofS16()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 989
+H-1256
+1 Amend the amendment, H-1230, to House File 989, as follows:
+2 1. Page 6, after line 32 by inserting:
+3 <___. Page 7, after line 14 by inserting:
+4 <1A. As a condition to issuing a construction permit, the
+5 applicant must consent to the department’s testing of materials
+6 in a digester structure for the presence of perfluoroalkyl and
+7 polyfluoroalkyl substances as required by the department during
+8 normal business hours.>>
+9 2. By renumbering as necessary.
+______________________________
+KURTH of Scott
+H 1230.1616 (2) 91
+-1- da/ns 1/1
+
+[DELETED: eFe9Adtea,H,toHeFe9,asf1.Pe6,arle32byi<.Pe7,arle14byi<.Asacntoigacnp,tatmtcttotedstgofminadrsefrtepeofplaplssasrdbytedtdnlbsh2.ByrgasnHofS16()9s1]

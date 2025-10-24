@@ -1,0 +1,39 @@
+Title: 2 1. Page 3, line 14, by striking <100.00> and inserting
+Official Title: 2 1. Page 3, line 14, by striking <100.00> and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1330
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 1044
+H-1330
+1 Amend House File 1044 as follows:
+3 <98.00>
+4 2. Page 4, line 7, by striking <8.00> and inserting <7.00>
+5 3. Page 14, line 21, by striking <4.20> and inserting <3.20>
+______________________________
+BERGAN of Winneshiek
+HF 1044.2033 (1) 91
+-1- sc/ns 1/1
+[DELETED: eFe1AdHeFe14asf1.Pe3,le1,bysg<>adi<2.Pe4,le7,bysg<>adig<3.Pe1,le2,bysg<>adig<NofWF13()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 1044
+H-1330
+1 Amend House File 1044 as follows:
+2 1. Page 3, line 14, by striking <100.00> and inserting
+3 <98.00>
+4 2. Page 4, line 7, by striking <8.00> and inserting <7.00>
+5 3. Page 14, line 21, by striking <4.20> and inserting <3.20>
+______________________________
+BERGAN of Winneshiek
+HF 1044.2033 (1) 91
+-1- sc/ns 1/1
+
+[DELETED: eFe1AdHeFe14asf1.Pe3,le1,bysg<>adi<2.Pe4,le7,bysg<>adig<3.Pe1,le2,bysg<>adig<NofWF13()9s1]

@@ -1,0 +1,55 @@
+Title: 2 1. Page 1, line 24, before <The> by inserting <1.>
+Official Title: 2 1. Page 1, line 24, before <The> by inserting <1.>
+Number of Sections: 1
+Source: versions - Amendment H-1199
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 970
+H-1199
+1 Amend House File 970 as follows:
+3 2. Page 1, line 25, by striking <from> and inserting <that>
+4 3. Page 1, line 26, by striking <to provide> and inserting
+5 <provide approval>
+6 4. Page 1, line 28, after <program,> by inserting <for>
+7 5. Page 1, line 29, by striking <food> and inserting <foods
+8 and beverages>
+9 6. Page 1, after line 32 by inserting:
+10 <2. Upon receipt of federal approval as described in
+11 subsection 1, the healthy food based on necessary nutrition for
+12 good health standards shall not be rescinded without enacting
+13 legislation.>
+______________________________
+NORDMAN of Dallas
+HF 970.1275 (1) 91
+-1- lh/ko 1/1
+[DELETED: eFe9AdHeFe90asf1.Pe1,le2,be<>byig<2.Pe1,le2,bysg<>adig<3.Pe1,le2,bysg<op>adi<ea4.Pe1,le2,ar<>byig<5.Pe1,le2,bysg<>adig<adb6.Pe1,arle32byi0<.Unrtofflalasddi1sn1,tehyfdbdonnynnf2gdhhssslntberdwte3lNofDF95()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 970
+H-1199
+1 Amend House File 970 as follows:
+2 1. Page 1, line 24, before <The> by inserting <1.>
+3 2. Page 1, line 25, by striking <from> and inserting <that>
+4 3. Page 1, line 26, by striking <to provide> and inserting
+5 <provide approval>
+6 4. Page 1, line 28, after <program,> by inserting <for>
+7 5. Page 1, line 29, by striking <food> and inserting <foods
+8 and beverages>
+9 6. Page 1, after line 32 by inserting:
+10 <2. Upon receipt of federal approval as described in
+11 subsection 1, the healthy food based on necessary nutrition for
+12 good health standards shall not be rescinded without enacting
+13 legislation.>
+______________________________
+NORDMAN of Dallas
+HF 970.1275 (1) 91
+-1- lh/ko 1/1
+
+[DELETED: eFe9AdHeFe90asf1.Pe1,le2,be<>byig<2.Pe1,le2,bysg<>adig<3.Pe1,le2,bysg<op>adi<ea4.Pe1,le2,ar<>byig<5.Pe1,le2,bysg<>adig<adb6.Pe1,arle32byi0<.Unrtofflalasddi1sn1,tehyfdbdonnynnf2gdhhssslntberdwte3lNofDF95()9o1]

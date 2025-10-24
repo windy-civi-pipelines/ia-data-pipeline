@@ -1,0 +1,39 @@
+Title: 2 1. Page 1, line 13, after <thereof.> by inserting <The
+Official Title: 2 1. Page 1, line 13, after <thereof.> by inserting <The
+Number of Sections: 1
+Source: versions - Amendment S-3040
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 593
+S-3040
+1 Amend Senate File 593 as follows:
+3 county auditor shall provide the county recorder with any
+4 amendment to the district parcel record within a reasonable
+5 period after receiving the amendment.>
+______________________________
+ANNETTE SWEENEY
+SF 593.1114 (2) 91
+-1- da/ns 1/1
+[DELETED: eFe5AdSeFe53asf1.Pe1,le1,ar<>byig<cyarslpetecyrrwhaattotedtplrdwnarpdarrgteaESF54()9s1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 593
+S-3040
+1 Amend Senate File 593 as follows:
+2 1. Page 1, line 13, after <thereof.> by inserting <The
+3 county auditor shall provide the county recorder with any
+4 amendment to the district parcel record within a reasonable
+5 period after receiving the amendment.>
+______________________________
+ANNETTE SWEENEY
+SF 593.1114 (2) 91
+-1- da/ns 1/1
+
+[DELETED: eFe5AdSeFe53asf1.Pe1,le1,ar<>byig<cyarslpetecyrrwhaattotedtplrdwnarpdarrgteaESF54()9s1]

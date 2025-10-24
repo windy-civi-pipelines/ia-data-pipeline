@@ -1,0 +1,37 @@
+Title: 1 Amend House File 806, as passed by the House, as follows:
+Official Title: 1 Amend House File 806, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3071
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 806
+S-3071
+2 1. Page 1, line 5, by striking <142C.1> and inserting
+3 <142C.2>
+______________________________
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+MIKE KLIMESH, CHAIRPERSON
+HF 806.1348 (3) 91
+-1- lh/ko 1/1
+[DELETED: eFe8AdHeFe8,aspdbyteH,asf1.Pe1,le5,bysg<>adi<EONHHADHNSEK,CF88()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 806
+S-3071
+1 Amend House File 806, as passed by the House, as follows:
+2 1. Page 1, line 5, by striking <142C.1> and inserting
+3 <142C.2>
+______________________________
+COMMITTEE ON HEALTH AND HUMAN SERVICES
+MIKE KLIMESH, CHAIRPERSON
+HF 806.1348 (3) 91
+-1- lh/ko 1/1
+
+[DELETED: eFe8AdHeFe8,aspdbyteH,asf1.Pe1,le5,bysg<>adi<EONHHADHNSEK,CF88()9o1]

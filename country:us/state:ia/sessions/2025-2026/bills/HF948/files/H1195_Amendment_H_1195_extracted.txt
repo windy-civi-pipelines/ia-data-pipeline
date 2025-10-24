@@ -1,0 +1,318 @@
+Title: 2 1. By striking everything after the enacting clause and
+Official Title: 2 1. By striking everything after the enacting clause and
+Number of Sections: 1
+Source: versions - Amendment H-1195
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+House File 948
+H-1195
+1 Amend House File 948 as follows:
+3 inserting:
+4 <DIVISION I
+5 IOWA HEALTH AND WELLNESS PLAN —— WORK REQUIREMENTS
+6 Section 1. NEW SECTION. 249N.4A Work requirements.
+7 1. The department shall request any federal approval
+8 necessary to include work requirements as a condition of a
+9 member maintaining eligibility for the Iowa health and wellness
+10 plan.
+11 2. The goal of including work requirements is to reduce the
+12 dependence of low-income Iowans on public assistance programs
+13 through efforts that advance economic stability and mobility.
+14 3. The department shall require as a condition of
+15 maintaining eligibility for the Iowa health and wellness
+16 plan that a member work at least eighty hours each month, as
+17 determined by the department.
+18 4. The department shall exempt an individual from the work
+19 requirements for the Iowa health and wellness plan if the
+20 individual meets any of the following criteria:
+21 a. The individual is under nineteen years of age.
+22 b. The individual is sixty-five years of age or older.
+23 c. The individual is determined to be disabled by the United
+24 States social security administration.
+25 d. The individual is identified as medically frail or
+26 medically exempt under the Medicaid program.
+27 e. The individual is a caretaker of a dependent child under
+28 six years of age.
+29 f. The individual is pregnant and the pregnancy is high
+30 risk.
+31 g. The individual is receiving unemployment compensation as
+32 determined by the department of workforce development.
+33 h. The individual is participating in substance use disorder
+34 treatment, not to exceed a consecutive six-month period.
+35 i. The individual is otherwise exempt for good cause as
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-1- lh/ko 1/4
+1 determined by the director.
+2 5. To maximize fiscal stability and administrative
+3 efficiency, any exemption applied under the Iowa health and
+4 wellness plan shall be substantially similar to the exemptions
+5 applied under other public assistance programs.
+6 6. Upon the department’s receipt of federal approval,
+7 and the department’s operationalizing of a real-time system
+8 to facilitate recipient reporting and department evaluation
+9 efforts, the department shall implement work requirements as a
+10 condition of maintaining eligibility for the Iowa health and
+11 wellness plan. The department shall adopt rules pursuant to
+12 chapter 17A as necessary to administer the work requirements
+13 for the Iowa health and wellness plan.
+14 7. The department may resubmit a request for federal
+15 approval submitted under subsection 1 if the initial request is
+16 denied or withdrawn for any reason.
+17 8. If federal law or regulations affecting work
+18 requirements for the Iowa health and wellness plan are modified
+19 to exclude work requirements as a basis for maintaining
+20 eligibility as provided in this section, the department shall
+21 discontinue the Iowa health and wellness plan, subject to
+22 federal approval. If, under federal law, the department is not
+23 allowed to discontinue the Iowa health and wellness plan, the
+24 department may implement an alternative plan as specified in
+25 the medical assistance state plan or waiver for coverage of the
+26 affected population, subject to prior statutory approval of
+27 implementation of the alternative plan.
+28 Sec. 2. EFFECTIVE DATE. This division of this Act, being
+29 deemed of immediate importance, takes effect upon enactment.
+30 DIVISION II
+31 WORK RULES AND REQUIREMENTS FOR PUBLIC ASSISTANCE PROGRAMS
+32 Sec. 3. PUBLIC ASSISTANCE PROGRAMS —— WORK RULES AND
+33 REQUIREMENTS ALIGNMENT. The department of health and human
+34 services shall work with the United State department of
+35 health and human services and the United States department
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-2- lh/ko 2/4
+1 of agriculture to align the requirements and rules for
+2 participants of public assistance programs related to working,
+3 including but not limited to rules and requirements related
+4 to employment and training for the supplemental nutrition
+5 assistance program.
+6 DIVISION III
+7 INFORMATION TECHNOLOGY
+8 Sec. 4. NEW SECTION. 217.25 Information technology fund.
+9 1. An information technology fund is created in the state
+10 treasury under the control of the department of health and
+11 human services. The fund shall consist of moneys appropriated
+12 or transferred to, or deposited in, the fund as provided
+13 by law. All moneys deposited or paid into the fund are
+14 appropriated to the department of health and human services
+15 to be used for information technology systems and related
+16 modernization initiatives.
+17 2. Notwithstanding section 8.33, moneys appropriated in
+18 this section that remain unencumbered or unobligated at the
+19 close of the fiscal year shall not revert but shall remain
+20 available for expenditure for the purposes designated until the
+21 close of the succeeding fiscal year. Notwithstanding section
+22 12C.7, subsection 2, interest or earnings on moneys in the fund
+23 shall be credited to the fund.
+24 Sec. 5. TRANSFER OF MONEYS. Any unobligated or unencumbered
+25 moneys remaining in the public assistance modernization
+26 fund created in section 239.11, on June 30, 2025, shall be
+27 transferred to the information technology fund created in
+28 section 217.25, as enacted in this division of this Act.
+29 Sec. 6. REPEAL. Section 239.11, Code 2025, is repealed.
+30 DIVISION IV
+31 MEDICAID FOR EMPLOYED PEOPLE WITH DISABILITIES PROGRAM
+32 Sec. 7. Section 249A.3, subsection 2, paragraph a,
+33 subparagraph (1), subparagraph division (a), Code 2025, is
+34 amended to read as follows:
+35 (a) As allowed under 42 U.S.C. §1396a(a)(10)(A)(ii)(XIII),
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-3- lh/ko 3/4
+1 individuals with disabilities, who are less than sixty-five
+2 years of age, who are members of families whose income is
+3 less than two hundred fifty percent of the most recently
+4 revised official poverty guidelines published by the United
+5 States department of health and human services for the family,
+6 who have earned income and who are eligible for mandatory
+7 medical assistance or optional medical assistance under this
+8 section if earnings are disregarded. As allowed by 42 U.S.C.
+9 §1396a(r)(2), unearned income shall also be disregarded in
+10 determining whether an individual is eligible for assistance
+11 under this subparagraph. For the purposes of determining the
+12 amount of an individual’s resources under this subparagraph and
+13 as allowed by 42 U.S.C. §1396a(r)(2), a maximum of ten thousand
+14 dollars of available resources for an individual and twenty-one
+15 thousand dollars of available resources for a couple shall be
+16 disregarded, and any additional resources held in a retirement
+17 account, in a medical savings account, or in any other account
+18 approved under rules adopted by the department shall also be
+19 disregarded.>
+20 2. Title page, by striking lines 1 through 5 and inserting
+21 <An Act relating to work requirements for the Iowa health and
+22 wellness plan, public assistance programs, an information
+23 technology fund, the public assistance modernization fund, and
+24 the Medicaid for employed people with disabilities program, and
+25 including effective date provisions.>
+______________________________
+NORDMAN of Dallas
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-4- lh/ko 4/4
+[DELETED: eFe9AdHeFe98asf1.Bysgegarteegceai<NIAHHADWSPN——WKRSn1.NWSAWkr1.TedtslrtayflanytoiewkrsasacnofmrmgeyfrteIahhadw0p12.Teglofigwkrsistoret2deofleIsonpcaep3thesttaeecsyadm43.Tedtslreasacno5mgeyfrteIahhadw6pnttamrwkatlteyhsehm,a7ddbyted84.Tedtsletanilfmtew9rsfrteIahhadwspnift0ilmsayoftefgc1Teilisurnnysofa2Teilisseysofaeoro3TeilisddtobeddbyteU4Ssslsya5Teilisidasmyflo6myeturteMdp7Teilisacrofadtcdu8sxysofa9Teilisptadtepyish0r1Teilisrgutcna2ddbytedtofwed3Teilispginseued4t,nttoedaceshp5TeilisoeetfrgdceaF97()9gtsHF98toCMtoSF6o1]
+[DELETED: ddbyted5.Tomeflsyadae,ayenadurteIahhawspnslbesysrtoteeadurorpcaep6.Untedsrtofflaadtedsogofarestofertrgaddtee,tedtslitwkrsas0cnofmgeyfrteIahha1wsp.Tedtslatrsptt2cr1Aasnytoartewkr3frteIahhadwsp47.Tedtmyrtartfrf5alsdursn1ifteilrti6ddorwnfrayr78.Iffllworrsagw8rsfrteIahhadwspnaem9toeewkrsasabsfrm0eyaspdintss,tedts1deteIahhadwsp,stt2fla.I,urfll,tedtisn3adtodeteIahhadwsp,t4dtmyitanaepnassdi5temlaesepnorwrfrceoft6adp,sttoprsyalo7inofteaep8S.2.EED.TsdnoftsA,b9ddofiei,tsetune0DNI1WKRSADRSFRPCAEP2S.3.PCAEPS——WKRSA3RSA.Tedtofhhadh4ssslwkwhteUdSedto5hhadhnssadteUdSsdF97()9gtsHF98toCMtoSF6o2]
+[DELETED: ofaetoantersadrsfpsofpcaepsrdtowigbtntldtorsadrsrtoetadtgfrteslnaepDNIINTS.4.NWS5Intyf1.Anintyfdiscdintes0tyurtecloftedtofhha1hns.Tefdslctofmsa2ortdt,orddi,tefdasp3byl.Almsddorpdiotefda4adtotedtofhhadhns5tobeudfrintyssadr6mni72.Ngsn8,msadi8tssnttrnudorudatt9ceofteflyrslntrtbtslr0aefreefrtepsddult1ceoftesgfly.Ngs21,sn2,itoresonmsintef3slbecdtotef4S.5.TROFM.Ayudoru5msrgintepcaem6fdcdinsn2,onJe3,2,slb7tdtoteintyfdcdi8sn2,asedintsdnoftsA9S.6.R.Sn2,Ce2,isr0DNI1MDFREDPEWHDSP2S.7.Sn2,sn2,pha3sh(,shdn(,Ce2,i4adtordasf5()Asadur42U.§F97()9gtsHF98toCMtoSF6o3]
+[DELETED: iswhd,woaelstnsysofa,woaemsoffsweieilstntohdfyptoftemtrrdolpygspdbyteUSsdtofhhadhnssfrtefwoheedieadwoaeeefrmmlaeorolmlaeurtsnifesaed.Asadby42U§,udieslaobeddi0dgwraniliseefra1urtss.Frtepsofdgt2atofanisrsurtssha3asadby42U.§,ammoftnt4dsofaersfraniladt5tddsofaersfraceslb6d,adayalrshdinar7a,inamlssa,orinayora8adurrsadbytedtslaob9d02.Tep,bysgls1th5adi1<nAtrgtowkrsfrteIahha2wsp,pcaep,ani3tyf,tepcaemnf,a4teMdfredpewhdsp,a5igeedepNofDF97()9gtsHF98toCMtoSF6o4]
+
+
+================================================================================
+
+Raw Text:
+House File 948
+H-1195
+1 Amend House File 948 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 IOWA HEALTH AND WELLNESS PLAN —— WORK REQUIREMENTS
+6 Section 1. NEW SECTION. 249N.4A Work requirements.
+7 1. The department shall request any federal approval
+8 necessary to include work requirements as a condition of a
+9 member maintaining eligibility for the Iowa health and wellness
+10 plan.
+11 2. The goal of including work requirements is to reduce the
+12 dependence of low-income Iowans on public assistance programs
+13 through efforts that advance economic stability and mobility.
+14 3. The department shall require as a condition of
+15 maintaining eligibility for the Iowa health and wellness
+16 plan that a member work at least eighty hours each month, as
+17 determined by the department.
+18 4. The department shall exempt an individual from the work
+19 requirements for the Iowa health and wellness plan if the
+20 individual meets any of the following criteria:
+21 a. The individual is under nineteen years of age.
+22 b. The individual is sixty-five years of age or older.
+23 c. The individual is determined to be disabled by the United
+24 States social security administration.
+25 d. The individual is identified as medically frail or
+26 medically exempt under the Medicaid program.
+27 e. The individual is a caretaker of a dependent child under
+28 six years of age.
+29 f. The individual is pregnant and the pregnancy is high
+30 risk.
+31 g. The individual is receiving unemployment compensation as
+32 determined by the department of workforce development.
+33 h. The individual is participating in substance use disorder
+34 treatment, not to exceed a consecutive six-month period.
+35 i. The individual is otherwise exempt for good cause as
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-1- lh/ko 1/4
+
+1 determined by the director.
+2 5. To maximize fiscal stability and administrative
+3 efficiency, any exemption applied under the Iowa health and
+4 wellness plan shall be substantially similar to the exemptions
+5 applied under other public assistance programs.
+6 6. Upon the department’s receipt of federal approval,
+7 and the department’s operationalizing of a real-time system
+8 to facilitate recipient reporting and department evaluation
+9 efforts, the department shall implement work requirements as a
+10 condition of maintaining eligibility for the Iowa health and
+11 wellness plan. The department shall adopt rules pursuant to
+12 chapter 17A as necessary to administer the work requirements
+13 for the Iowa health and wellness plan.
+14 7. The department may resubmit a request for federal
+15 approval submitted under subsection 1 if the initial request is
+16 denied or withdrawn for any reason.
+17 8. If federal law or regulations affecting work
+18 requirements for the Iowa health and wellness plan are modified
+19 to exclude work requirements as a basis for maintaining
+20 eligibility as provided in this section, the department shall
+21 discontinue the Iowa health and wellness plan, subject to
+22 federal approval. If, under federal law, the department is not
+23 allowed to discontinue the Iowa health and wellness plan, the
+24 department may implement an alternative plan as specified in
+25 the medical assistance state plan or waiver for coverage of the
+26 affected population, subject to prior statutory approval of
+27 implementation of the alternative plan.
+28 Sec. 2. EFFECTIVE DATE. This division of this Act, being
+29 deemed of immediate importance, takes effect upon enactment.
+30 DIVISION II
+31 WORK RULES AND REQUIREMENTS FOR PUBLIC ASSISTANCE PROGRAMS
+32 Sec. 3. PUBLIC ASSISTANCE PROGRAMS —— WORK RULES AND
+33 REQUIREMENTS ALIGNMENT. The department of health and human
+34 services shall work with the United State department of
+35 health and human services and the United States department
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-2- lh/ko 2/4
+
+1 of agriculture to align the requirements and rules for
+2 participants of public assistance programs related to working,
+3 including but not limited to rules and requirements related
+4 to employment and training for the supplemental nutrition
+5 assistance program.
+6 DIVISION III
+7 INFORMATION TECHNOLOGY
+8 Sec. 4. NEW SECTION. 217.25 Information technology fund.
+9 1. An information technology fund is created in the state
+10 treasury under the control of the department of health and
+11 human services. The fund shall consist of moneys appropriated
+12 or transferred to, or deposited in, the fund as provided
+13 by law. All moneys deposited or paid into the fund are
+14 appropriated to the department of health and human services
+15 to be used for information technology systems and related
+16 modernization initiatives.
+17 2. Notwithstanding section 8.33, moneys appropriated in
+18 this section that remain unencumbered or unobligated at the
+19 close of the fiscal year shall not revert but shall remain
+20 available for expenditure for the purposes designated until the
+21 close of the succeeding fiscal year. Notwithstanding section
+22 12C.7, subsection 2, interest or earnings on moneys in the fund
+23 shall be credited to the fund.
+24 Sec. 5. TRANSFER OF MONEYS. Any unobligated or unencumbered
+25 moneys remaining in the public assistance modernization
+26 fund created in section 239.11, on June 30, 2025, shall be
+27 transferred to the information technology fund created in
+28 section 217.25, as enacted in this division of this Act.
+29 Sec. 6. REPEAL. Section 239.11, Code 2025, is repealed.
+30 DIVISION IV
+31 MEDICAID FOR EMPLOYED PEOPLE WITH DISABILITIES PROGRAM
+32 Sec. 7. Section 249A.3, subsection 2, paragraph a,
+33 subparagraph (1), subparagraph division (a), Code 2025, is
+34 amended to read as follows:
+35 (a) As allowed under 42 U.S.C. §1396a(a)(10)(A)(ii)(XIII),
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-3- lh/ko 3/4
+
+1 individuals with disabilities, who are less than sixty-five
+2 years of age, who are members of families whose income is
+3 less than two hundred fifty percent of the most recently
+4 revised official poverty guidelines published by the United
+5 States department of health and human services for the family,
+6 who have earned income and who are eligible for mandatory
+7 medical assistance or optional medical assistance under this
+8 section if earnings are disregarded. As allowed by 42 U.S.C.
+9 §1396a(r)(2), unearned income shall also be disregarded in
+10 determining whether an individual is eligible for assistance
+11 under this subparagraph. For the purposes of determining the
+12 amount of an individual’s resources under this subparagraph and
+13 as allowed by 42 U.S.C. §1396a(r)(2), a maximum of ten thousand
+14 dollars of available resources for an individual and twenty-one
+15 thousand dollars of available resources for a couple shall be
+16 disregarded, and any additional resources held in a retirement
+17 account, in a medical savings account, or in any other account
+18 approved under rules adopted by the department shall also be
+19 disregarded.>
+20 2. Title page, by striking lines 1 through 5 and inserting
+21 <An Act relating to work requirements for the Iowa health and
+22 wellness plan, public assistance programs, an information
+23 technology fund, the public assistance modernization fund, and
+24 the Medicaid for employed people with disabilities program, and
+25 including effective date provisions.>
+______________________________
+NORDMAN of Dallas
+HF 948.1267 (1) 91
+(amending this HF 948 to CONFORM to SF 615)
+-4- lh/ko 4/4
+
+[DELETED: eFe9AdHeFe98asf1.Bysgegarteegceai<NIAHHADWSPN——WKRSn1.NWSAWkr1.TedtslrtayflanytoiewkrsasacnofmrmgeyfrteIahhadw0p12.Teglofigwkrsistoret2deofleIsonpcaep3thesttaeecsyadm43.Tedtslreasacno5mgeyfrteIahhadw6pnttamrwkatlteyhsehm,a7ddbyted84.Tedtsletanilfmtew9rsfrteIahhadwspnift0ilmsayoftefgc1Teilisurnnysofa2Teilisseysofaeoro3TeilisddtobeddbyteU4Ssslsya5Teilisidasmyflo6myeturteMdp7Teilisacrofadtcdu8sxysofa9Teilisptadtepyish0r1Teilisrgutcna2ddbytedtofwed3Teilispginseued4t,nttoedaceshp5TeilisoeetfrgdceaF97()9gtsHF98toCMtoSF6o1]
+[DELETED: ddbyted5.Tomeflsyadae,ayenadurteIahhawspnslbesysrtoteeadurorpcaep6.Untedsrtofflaadtedsogofarestofertrgaddtee,tedtslitwkrsas0cnofmgeyfrteIahha1wsp.Tedtslatrsptt2cr1Aasnytoartewkr3frteIahhadwsp47.Tedtmyrtartfrf5alsdursn1ifteilrti6ddorwnfrayr78.Iffllworrsagw8rsfrteIahhadwspnaem9toeewkrsasabsfrm0eyaspdintss,tedts1deteIahhadwsp,stt2fla.I,urfll,tedtisn3adtodeteIahhadwsp,t4dtmyitanaepnassdi5temlaesepnorwrfrceoft6adp,sttoprsyalo7inofteaep8S.2.EED.TsdnoftsA,b9ddofiei,tsetune0DNI1WKRSADRSFRPCAEP2S.3.PCAEPS——WKRSA3RSA.Tedtofhhadh4ssslwkwhteUdSedto5hhadhnssadteUdSsdF97()9gtsHF98toCMtoSF6o2]
+[DELETED: ofaetoantersadrsfpsofpcaepsrdtowigbtntldtorsadrsrtoetadtgfrteslnaepDNIINTS.4.NWS5Intyf1.Anintyfdiscdintes0tyurtecloftedtofhha1hns.Tefdslctofmsa2ortdt,orddi,tefdasp3byl.Almsddorpdiotefda4adtotedtofhhadhns5tobeudfrintyssadr6mni72.Ngsn8,msadi8tssnttrnudorudatt9ceofteflyrslntrtbtslr0aefreefrtepsddult1ceoftesgfly.Ngs21,sn2,itoresonmsintef3slbecdtotef4S.5.TROFM.Ayudoru5msrgintepcaem6fdcdinsn2,onJe3,2,slb7tdtoteintyfdcdi8sn2,asedintsdnoftsA9S.6.R.Sn2,Ce2,isr0DNI1MDFREDPEWHDSP2S.7.Sn2,sn2,pha3sh(,shdn(,Ce2,i4adtordasf5()Asadur42U.§F97()9gtsHF98toCMtoSF6o3]
+[DELETED: iswhd,woaelstnsysofa,woaemsoffsweieilstntohdfyptoftemtrrdolpygspdbyteUSsdtofhhadhnssfrtefwoheedieadwoaeeefrmmlaeorolmlaeurtsnifesaed.Asadby42U§,udieslaobeddi0dgwraniliseefra1urtss.Frtepsofdgt2atofanisrsurtssha3asadby42U.§,ammoftnt4dsofaersfraniladt5tddsofaersfraceslb6d,adayalrshdinar7a,inamlssa,orinayora8adurrsadbytedtslaob9d02.Tep,bysgls1th5adi1<nAtrgtowkrsfrteIahha2wsp,pcaep,ani3tyf,tepcaemnf,a4teMdfredpewhdsp,a5igeedepNofDF97()9gtsHF98toCMtoSF6o4]

@@ -1,0 +1,43 @@
+Title: 2 1. Page 1, line 15, after <for> by inserting <nonresident
+Official Title: 2 1. Page 1, line 15, after <for> by inserting <nonresident
+Number of Sections: 1
+Source: versions - Amendment S-3055
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 422
+S-3055
+1 Amend Senate File 422 as follows:
+3 and>
+4 2. Page 1, lines 16 and 17, by striking <Nonresident hunters
+5 shall not engage in party hunting.>
+6 3. Title page, line 2, by striking <and making penalties
+7 applicable>
+______________________________
+ADRIAN DICKEY
+SF 422.1161 (2) 91
+-1- sb/js 1/1
+[DELETED: eFe4AdSeFe42asf1.Pe1,le1,ar<>byig<a2.Pe1,ls16ad1,bysg<thslnteeinpyh3.Tep,le2,bysg<dmgpaNDF41()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 422
+S-3055
+1 Amend Senate File 422 as follows:
+2 1. Page 1, line 15, after <for> by inserting <nonresident
+3 and>
+4 2. Page 1, lines 16 and 17, by striking <Nonresident hunters
+5 shall not engage in party hunting.>
+6 3. Title page, line 2, by striking <and making penalties
+7 applicable>
+______________________________
+ADRIAN DICKEY
+SF 422.1161 (2) 91
+-1- sb/js 1/1
+
+[DELETED: eFe4AdSeFe42asf1.Pe1,le1,ar<>byig<a2.Pe1,ls16ad1,bysg<thslnteeinpyh3.Tep,le2,bysg<dmgpaNDF41()9]

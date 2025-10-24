@@ -1,0 +1,175 @@
+Title: BILL)
+Official Title: BILL)
+Number of Sections: 1
+Source: versions - Prefiled
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE/HOUSE FILE _____
+BY (PROPOSED AUDITOR OF STATE
+A BILL FOR
+1 An Act relating to reimbursement for certain audit expenses to
+2 the auditor of state.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1334DP (2) 91
+ss/ns
+S.F. _____ H.F. _____
+1 Section 1. Section 11.5A, Code 2025, is amended to read as
+2 follows:
+3 11.5A Audit or examination —— costs.
+4 When requested by the auditor of state, the department
+5 of management shall transfer from any unappropriated funds
+6 in the state treasury an amount not exceeding the expenses
+7 and prorated salary costs already paid to perform audits or
+8 examinations of state departments and agencies, the offices
+9 of the judicial branch, and federal financial assistance as
+10 defined in the federal Single Audit Act, 31 U.S.C. §7501, et
+11 seq., received by all other departments, as listed in section
+12 11.5B, for which payments by agencies have not been made. Upon
+13 payment by the departments, the auditor of state shall credit
+14 the payments to the state treasury.
+15 Sec. 2. Section 11.5B, Code 2025, is amended to read as
+16 follows:
+17 11.5B Repayment of audit expenses by state departments and
+18 agencies.
+19 The auditor of state shall be reimbursed by a state
+20 department or agency for performing all audits or examinations
+21 of the following state departments or agencies department or
+22 agency, or funds received by a the department or agency:.
+23 1. Department of insurance and financial services.
+24 2. Department of health and human services.
+25 3. State department of transportation.
+26 4. State board of regents.
+27 5. Department of agriculture and land stewardship.
+28 6. Department of veterans affairs.
+29 7. Department of education.
+30 8. Department of workforce development.
+31 9. Department of natural resources.
+32 10. Offices of the clerks of the district court of the
+33 judicial branch.
+34 11. The Iowa public employees’ retirement system.
+35 12. Federal financial assistance, as defined in the federal
+LSB 1334DP (2) 91
+-1- ss/ns 1/2
+S.F. _____ H.F. _____
+1 Single Audit Act, 31 U.S.C. §7501, et seq., received by all
+2 other departments.
+3 13. Department of administrative services.
+4 Sec. 3. Section 11.5C, subsection 2, Code 2025, is amended
+5 to read as follows:
+6 2. If the state department that is the subject of the review
+7 is listed in section 11.5B, the The state department shall
+8 reimburse the auditor of state for the cost of the review and
+9 any subsequent assistance provided by the auditor of state.
+10 Sec. 4. NEW SECTION. 11.5D Billing rates.
+11 The auditor of state shall annually adopt rules pursuant
+12 to chapter 17A to establish the hourly billing rate at which
+13 audit services are performed by state auditors as described in
+14 section 11.31.
+15 EXPLANATION
+16 The inclusion of this explanation does not constitute agreement with
+17 the explanation’s substance by the members of the general assembly.
+18 This bill relates to the reimbursement of certain audit
+19 expenses to the auditor of state.
+20 The bill strikes a list of specified departments and
+21 agencies that must reimburse the auditor of state for
+22 performing audits and examinations, and instead provides that
+23 any audited department or agency must reimburse the auditor
+24 of state for performing audits and examinations. The bill
+25 requires the auditor of state to annually adopt billing rates
+26 by rule.
+LSB 1334DP (2) 91
+-2- ss/ns 2/2
+[DELETED: EFE_Y(DAROFSBLFAnAtrgtortfrcnatesttearofsBEITEDBYTEGLAYOFTESEOFIB1P()9]
+[DELETED: .__H._Sn1.Sn1,Ce2,isadtordafAAtoren——cWnrdbytearofs,tedofmtsltrfmayudfintesetyanatntegteeadpdsycsaypdtopmasoesofsedsada,teooftejlb,adflflaea0ddinteflSeAtA,31U.§,e1s,rdbyalord,asldins21,frwhpsbyashentbnm.U3ptbyted,tearofseslc4tepstoteset5S.2.Sn1,Ce2,isadtorda6fBRtofatesbysedsa9Tearofseslberdbyas0dtorayfrpgalasore1oftefgsedsorasdto2a,orfsrdbyatedtora31.Dtofieadfls42.Dtofhhadhns53.Sedtoft64.Sebdofr75.Dtofaeadlds86.Dtofvsa97.Dtofe08.Dtofwed19.Dtofnlr21.Osoftecsoftedtctoft3jlb41.TeIapce’rts51.Flfla,asddintefB1P()9s1]
+[DELETED: .__H._SeAtA,31U.§,ets,rdbyaord1.DtofaesS.3.Sn1,sn2,Ce2,isatordasf2.Iftesedtttistestofterisldinsn1,teTesedtsretearofsefrtectofterwaaystaepdbytearofs0S.4.NWSDBgr1Tearofseslayatrsp2tocr1Atoehtehybgreatw3atssaepdbyseasasddi4sn15Eeinoftsendsntceatweessebytemsoftegla8Tsblrstotertofcna9estotearofs0Teblssaltofsddsa1asttmtretearofsef2pgasade,adidpst3ayaddtoraymtretea4ofsefrpgasade.Teb5rstearofsetoayatbgr6byrB1P()9s2]
+
+
+================================================================================
+
+Raw Text:
+SENATE/HOUSE FILE _____
+BY (PROPOSED AUDITOR OF STATE
+BILL)
+A BILL FOR
+1 An Act relating to reimbursement for certain audit expenses to
+2 the auditor of state.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1334DP (2) 91
+ss/ns
+
+S.F. _____ H.F. _____
+1 Section 1. Section 11.5A, Code 2025, is amended to read as
+2 follows:
+3 11.5A Audit or examination —— costs.
+4 When requested by the auditor of state, the department
+5 of management shall transfer from any unappropriated funds
+6 in the state treasury an amount not exceeding the expenses
+7 and prorated salary costs already paid to perform audits or
+8 examinations of state departments and agencies, the offices
+9 of the judicial branch, and federal financial assistance as
+10 defined in the federal Single Audit Act, 31 U.S.C. §7501, et
+11 seq., received by all other departments, as listed in section
+12 11.5B, for which payments by agencies have not been made. Upon
+13 payment by the departments, the auditor of state shall credit
+14 the payments to the state treasury.
+15 Sec. 2. Section 11.5B, Code 2025, is amended to read as
+16 follows:
+17 11.5B Repayment of audit expenses by state departments and
+18 agencies.
+19 The auditor of state shall be reimbursed by a state
+20 department or agency for performing all audits or examinations
+21 of the following state departments or agencies department or
+22 agency, or funds received by a the department or agency:.
+23 1. Department of insurance and financial services.
+24 2. Department of health and human services.
+25 3. State department of transportation.
+26 4. State board of regents.
+27 5. Department of agriculture and land stewardship.
+28 6. Department of veterans affairs.
+29 7. Department of education.
+30 8. Department of workforce development.
+31 9. Department of natural resources.
+32 10. Offices of the clerks of the district court of the
+33 judicial branch.
+34 11. The Iowa public employees’ retirement system.
+35 12. Federal financial assistance, as defined in the federal
+LSB 1334DP (2) 91
+-1- ss/ns 1/2
+
+S.F. _____ H.F. _____
+1 Single Audit Act, 31 U.S.C. §7501, et seq., received by all
+2 other departments.
+3 13. Department of administrative services.
+4 Sec. 3. Section 11.5C, subsection 2, Code 2025, is amended
+5 to read as follows:
+6 2. If the state department that is the subject of the review
+7 is listed in section 11.5B, the The state department shall
+8 reimburse the auditor of state for the cost of the review and
+9 any subsequent assistance provided by the auditor of state.
+10 Sec. 4. NEW SECTION. 11.5D Billing rates.
+11 The auditor of state shall annually adopt rules pursuant
+12 to chapter 17A to establish the hourly billing rate at which
+13 audit services are performed by state auditors as described in
+14 section 11.31.
+15 EXPLANATION
+16 The inclusion of this explanation does not constitute agreement with
+17 the explanation’s substance by the members of the general assembly.
+18 This bill relates to the reimbursement of certain audit
+19 expenses to the auditor of state.
+20 The bill strikes a list of specified departments and
+21 agencies that must reimburse the auditor of state for
+22 performing audits and examinations, and instead provides that
+23 any audited department or agency must reimburse the auditor
+24 of state for performing audits and examinations. The bill
+25 requires the auditor of state to annually adopt billing rates
+26 by rule.
+LSB 1334DP (2) 91
+-2- ss/ns 2/2
+
+[DELETED: EFE_Y(DAROFSBLFAnAtrgtortfrcnatesttearofsBEITEDBYTEGLAYOFTESEOFIB1P()9]
+[DELETED: .__H._Sn1.Sn1,Ce2,isadtordafAAtoren——cWnrdbytearofs,tedofmtsltrfmayudfintesetyanatntegteeadpdsycsaypdtopmasoesofsedsada,teooftejlb,adflflaea0ddinteflSeAtA,31U.§,e1s,rdbyalord,asldins21,frwhpsbyashentbnm.U3ptbyted,tearofseslc4tepstoteset5S.2.Sn1,Ce2,isadtorda6fBRtofatesbysedsa9Tearofseslberdbyas0dtorayfrpgalasore1oftefgsedsorasdto2a,orfsrdbyatedtora31.Dtofieadfls42.Dtofhhadhns53.Sedtoft64.Sebdofr75.Dtofaeadlds86.Dtofvsa97.Dtofe08.Dtofwed19.Dtofnlr21.Osoftecsoftedtctoft3jlb41.TeIapce’rts51.Flfla,asddintefB1P()9s1]
+[DELETED: .__H._SeAtA,31U.§,ets,rdbyaord1.DtofaesS.3.Sn1,sn2,Ce2,isatordasf2.Iftesedtttistestofterisldinsn1,teTesedtsretearofsefrtectofterwaaystaepdbytearofs0S.4.NWSDBgr1Tearofseslayatrsp2tocr1Atoehtehybgreatw3atssaepdbyseasasddi4sn15Eeinoftsendsntceatweessebytemsoftegla8Tsblrstotertofcna9estotearofs0Teblssaltofsddsa1asttmtretearofsef2pgasade,adidpst3ayaddtoraymtretea4ofsefrpgasade.Teb5rstearofsetoayatbgr6byrB1P()9s2]

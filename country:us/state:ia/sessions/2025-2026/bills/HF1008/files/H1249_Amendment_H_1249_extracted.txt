@@ -1,0 +1,35 @@
+Title: 2 1. Page 17, lines 13 and 14, by striking <redevelopment
+Official Title: 2 1. Page 17, lines 13 and 14, by striking <redevelopment
+Number of Sections: 1
+Source: versions - Amendment H-1249
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 1008
+H-1249
+1 Amend House File 1008 as follows:
+3 trust> and inserting <hundred>
+______________________________
+NORDMAN of Dallas
+HF 1008.1607 (1) 91
+-1- js/ns 1/1
+[DELETED: eFe1AdHeFe18asf1.Pe1,ls13ad1,bysg<t>adig<NofDF17()9]
+
+
+================================================================================
+
+Raw Text:
+House File 1008
+H-1249
+1 Amend House File 1008 as follows:
+2 1. Page 17, lines 13 and 14, by striking <redevelopment
+3 trust> and inserting <hundred>
+______________________________
+NORDMAN of Dallas
+HF 1008.1607 (1) 91
+-1- js/ns 1/1
+
+[DELETED: eFe1AdHeFe18asf1.Pe1,ls13ad1,bysg<t>adig<NofDF17()9]
