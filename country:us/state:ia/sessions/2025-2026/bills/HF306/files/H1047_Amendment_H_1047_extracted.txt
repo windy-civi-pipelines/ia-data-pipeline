@@ -1,0 +1,35 @@
+Title: 1 Amend the amendment, H-1040, to House File 306, as follows:
+Official Title: 1 Amend the amendment, H-1040, to House File 306, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1047
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 306
+H-1047
+2 1. Page 1, line 9, by striking <simple> and inserting
+3 <serious>
+______________________________
+SRINIVAS of Polk
+H 1040.777 (2) 91
+-1- as/js 1/1
+[DELETED: eFe3Adtea,H,toHeFe3,asf1.Pe1,le9,bysg<>adi<SofP17()9]
+
+
+================================================================================
+
+Raw Text:
+House File 306
+H-1047
+1 Amend the amendment, H-1040, to House File 306, as follows:
+2 1. Page 1, line 9, by striking <simple> and inserting
+3 <serious>
+______________________________
+SRINIVAS of Polk
+H 1040.777 (2) 91
+-1- as/js 1/1
+
+[DELETED: eFe3Adtea,H,toHeFe3,asf1.Pe1,le9,bysg<>adi<SofP17()9]

@@ -1,0 +1,793 @@
+Title: 1 Amend House File 309, as passed by the House, as follows:
+Official Title: 1 Amend House File 309, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3082
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+House File 309
+S-3082
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 REVIEW OF CERTAIN DEFICIENT PRACTICES BY NURSING FACILITIES>
+5 2. Page 1, after line 14 by inserting:
+6 <DIVISION ___
+7 AUTHORIZED ELECTRONIC MONITORING IN NURSING FACILITIES
+8 Sec. ___. NEW SECTION. 135C.49 Definitions.
+9 As used in this subchapter, unless the context otherwise
+10 requires:
+11 1. “Electronic monitoring” means the placement and use of an
+12 electronic monitoring device by a resident in the resident’s
+13 room in accordance with this subchapter.
+14 2. “Electronic monitoring device” means a camera or other
+15 device that captures, records, or broadcasts audio, video,
+16 or both, that is placed in a resident’s room and is used to
+17 monitor the resident or activities in the room.
+18 3. “Resident” means an individual admitted to a nursing
+19 facility in a manner prescribed in section 135C.23.
+20 4. “Resident representative” means one of the following in
+21 the order of priority listed, to the extent the person may
+22 reasonably be identified and located:
+23 a. The attorney in fact designated to make treatment
+24 decisions for the resident in accordance with chapter 144B.
+25 b. The guardian of the resident if one has been appointed
+26 pursuant to chapter 633.
+27 c. The resident’s spouse.
+28 d. An adult child of the resident or, if the resident has
+29 more than one adult child, a majority of the adult children who
+30 are reasonably available.
+31 e. A parent of the resident, or parents if both are
+32 reasonably available.
+33 f. An adult sibling of the resident.
+34 Sec. ___. NEW SECTION. 135C.50 Electronic monitoring.
+35 1. A resident or a resident representative may conduct
+HF 309.1423 (2) 91
+-1- dg/ko 1/11
+1 electronic monitoring of the resident’s room through the use of
+2 an electronic monitoring device placed in the resident’s room
+3 pursuant to this subchapter.
+4 2. Nothing in this section precludes the use of electronic
+5 monitoring otherwise allowed by law.
+6 Sec. ___. NEW SECTION. 135C.51 Consent to electronic
+7 monitoring.
+8 1. Except as otherwise provided in this subchapter,
+9 a resident must consent to electronic monitoring in the
+10 resident’s room in writing on a notification and consent
+11 form prescribed by the department. If the resident has
+12 not affirmatively objected to electronic monitoring and the
+13 resident’s medical professional determines that the resident
+14 lacks the ability to understand and appreciate the nature
+15 and consequences of electronic monitoring, the resident
+16 representative may consent on behalf of the resident. For
+17 purposes of this subsection, a resident affirmatively objects
+18 when the resident orally, visually, or through the use of
+19 auxiliary aids or services declines electronic monitoring. The
+20 resident’s response shall be documented on the notification and
+21 consent form.
+22 2. Prior to a resident representative consenting on behalf
+23 of a resident, the resident shall be asked if the resident
+24 wants electronic monitoring to be conducted. The resident
+25 representative shall explain all of the following to the
+26 resident:
+27 a. The type of electronic monitoring device to be used.
+28 b. The standard conditions or restrictions that may be
+29 placed on the electronic monitoring device’s use including as
+30 specified in the list of standard conditions or restrictions
+31 contained in the notification and consent form completed by the
+32 resident as provided in section 135C.54.
+33 c. The dissemination and use of any recording as provided
+34 under section 135C.58 or 135C.59.
+35 d. The resident’s ability to decline all recordings.
+HF 309.1423 (2) 91
+-2- dg/ko 2/11
+1 3. A resident, or resident representative when consenting
+2 on behalf of the resident, may consent to electronic monitoring
+3 with any conditions or restrictions of the resident’s or
+4 resident representative’s choosing, including the list
+5 of standard conditions or restrictions contained in the
+6 notification and consent form completed by the resident
+7 as provided in section 135C.54. A resident, or resident
+8 representative when consenting on behalf of the resident, may
+9 request that the electronic monitoring device be turned off
+10 or the visual or audio recording component of the electronic
+11 monitoring device be blocked at any time.
+12 4. Prior to implementing electronic monitoring, a resident,
+13 or resident representative when acting on behalf of the
+14 resident, shall obtain the written consent on the notification
+15 and consent form of any other resident who is a roommate
+16 residing in the shared room. A roommate’s or roommate’s
+17 resident representative’s written consent shall comply with
+18 the requirements of this section. Consent by a roommate or
+19 a roommate’s resident representative under this subsection
+20 authorizes the resident’s use of any recording obtained under
+21 this section as provided under sections 135C.58 and 135C.59.
+22 5. Any resident conducting electronic monitoring shall
+23 immediately remove or disable an electronic monitoring device
+24 prior to a new resident who will be a roommate moving into
+25 a shared room, unless the resident conducting electronic
+26 monitoring obtains the new roommate’s or new roommate’s
+27 resident representative’s written consent as provided under
+28 this section prior to the new roommate moving into the shared
+29 room. Upon obtaining the new roommate’s or new roommate’s
+30 resident representative’s signed notification and consent form
+31 and submitting the form to the nursing facility as required
+32 under section 135C.53, the resident may resume electronic
+33 monitoring.
+34 6. The resident or roommate, or the resident representative
+35 or roommate’s resident representative if the representative is
+HF 309.1423 (2) 91
+-3- dg/ko 3/11
+1 consenting on behalf of the resident or roommate, may withdraw
+2 consent at any time and the withdrawal of consent shall be
+3 documented on the original consent form as provided under
+4 section 135C.53.
+5 Sec. ___. NEW SECTION. 135C.52 Refusal of roommate to
+6 consent.
+7 If a resident of a nursing facility who is residing in a
+8 shared room, or the resident representative of such a resident
+9 when acting on behalf of the resident, wants to conduct
+10 electronic monitoring and another resident living in or moving
+11 into the same shared room refuses to consent to the use of an
+12 electronic monitoring device, the nursing facility shall make
+13 a reasonable attempt to accommodate the resident who wants to
+14 conduct electronic monitoring. A nursing facility has met
+15 the requirement to make a reasonable attempt to accommodate
+16 a resident or resident representative who wants to conduct
+17 electronic monitoring when, upon notification that a roommate
+18 has not consented to the use of an electronic monitoring device
+19 in the resident’s room, the nursing facility offers to move one
+20 of the residents to another shared room that is available at
+21 the time of the request that accommodates the resident. If
+22 a resident chooses to reside in a private room in order to
+23 accommodate the use of an electronic monitoring device, the
+24 resident shall be subject to a private room rate. If a nursing
+25 facility is unable to accommodate a resident due to lack of
+26 space, the nursing facility shall reevaluate the request
+27 periodically until the request is fulfilled.
+28 Sec. ___. NEW SECTION. 135C.53 Notice and consent form
+29 submitted to nursing facility.
+30 1. Electronic monitoring may begin only after the resident
+31 or resident representative who intends to place an electronic
+32 monitoring device in the resident’s room and any roommate or
+33 roommate’s resident representative completes a notification and
+34 consent form and submits the form to the nursing facility.
+35 2. Upon receipt of the required, completed notification and
+HF 309.1423 (2) 91
+-4- dg/ko 4/11
+1 consent form, the nursing facility shall place the original
+2 form in the resident’s file, and a copy of the form in any
+3 roommate’s file. The nursing facility shall provide a copy to
+4 the resident and the resident’s roommate, as applicable.
+5 3. If a resident or roommate, or the resident representative
+6 or roommate’s resident representative if the representative
+7 is consenting on behalf of the resident or roommate, chooses
+8 to alter the conditions under which consent to electronic
+9 monitoring is given or chooses to withdraw consent to
+10 electronic monitoring, the nursing facility shall make
+11 available the original notification and consent form so that
+12 the original form may be updated. Upon receipt of the updated
+13 original form, the nursing facility shall place the updated
+14 original form in the resident’s file. The nursing facility
+15 shall provide a copy of the updated form to the resident and
+16 the resident’s roommate, as applicable.
+17 4. If a new roommate, or the new roommate’s resident
+18 representative when consenting on behalf of the new roommate,
+19 does not consent to electronic monitoring and submit a
+20 completed notification and consent form to the nursing
+21 facility, and the resident conducting the electronic monitoring
+22 does not remove or disable an existing electronic monitoring
+23 device, the nursing facility shall remove the electronic
+24 monitoring device.
+25 5. If a roommate, or the roommate’s resident representative
+26 when withdrawing consent on behalf of the roommate, submits
+27 an updated notification and consent form withdrawing consent
+28 and the resident conducting electronic monitoring does not
+29 remove or disable the electronic monitoring device, the nursing
+30 facility shall remove the electronic monitoring device.
+31 Sec. ___. NEW SECTION. 135C.54 Notification and consent
+32 form requirements.
+33 1. The notification and consent form completed by the
+34 resident shall include, at a minimum, all of the following
+35 information:
+HF 309.1423 (2) 91
+-5- dg/ko 5/11
+1 a. The resident’s signed consent to electronic monitoring or
+2 the signature of the resident representative, if applicable.
+3 If a resident representative signs the consent form, the form
+4 shall document all of the following:
+5 (1) The date the resident was asked if the resident wants
+6 electronic monitoring to be conducted.
+7 (2) Any person present when the resident was asked.
+8 (3) An acknowledgment that the resident did not
+9 affirmatively object.
+10 (4) The source of authority allowing the resident
+11 representative to sign the notification and consent form on the
+12 resident’s behalf.
+13 b. The resident’s roommate’s signed consent or the signature
+14 of the roommate’s resident representative, if applicable. If a
+15 roommate’s resident representative signs the consent form, the
+16 form shall document all of the following:
+17 (1) The date the roommate was asked if the roommate wants
+18 electronic monitoring to be conducted.
+19 (2) Any person present when the roommate was asked.
+20 (3) An acknowledgment that the roommate did not
+21 affirmatively object.
+22 (4) The source of authority allowing the resident
+23 representative to sign the notification and consent form on the
+24 roommate’s behalf.
+25 c. The type of electronic monitoring device to be used.
+26 d. Any installation needs, such as mounting of a device to
+27 a wall or ceiling.
+28 e. The proposed date of installation for scheduling
+29 purposes.
+30 f. A copy of any contract for maintenance of the electronic
+31 monitoring device by a commercial entity.
+32 g. A list of standard conditions or restrictions that the
+33 resident or a roommate may elect to place on the use of the
+34 electronic monitoring device including but not limited to all
+35 of the following:
+HF 309.1423 (2) 91
+-6- dg/ko 6/11
+1 (1) Prohibiting audio recording.
+2 (2) Prohibiting video recording.
+3 (3) Prohibiting broadcasting of audio or video.
+4 (4) Turning off the electronic monitoring device or
+5 blocking the visual recording component of the electronic
+6 monitoring device for the duration of an exam or procedure by a
+7 health care professional.
+8 (5) Turning off the electronic monitoring device or
+9 blocking the visual recording component of the electronic
+10 monitoring device while dressing or bathing is performed.
+11 (6) Turning off the electronic monitoring device for
+12 the duration of a visit with a spiritual adviser, ombudsman,
+13 attorney, financial planner, intimate partner, or other
+14 visitor.
+15 h. Any other condition or restriction elected by the
+16 resident or roommate on the use of an electronic monitoring
+17 device.
+18 i. A statement of the circumstances under which a recording
+19 may be disseminated under section 135C.58.
+20 j. A signature box to document if the resident or roommate
+21 withdraws consent.
+22 2. A nursing facility shall make the notification and
+23 consent form available to the residents and inform residents of
+24 the option to conduct electronic monitoring of the resident’s
+25 room.
+26 Sec. ___. NEW SECTION. 135C.55 Cost and installation.
+27 1. A resident who chooses to conduct electronic monitoring
+28 shall do so at the resident’s own expense, including payment of
+29 any purchase, installation, maintenance, and removal costs.
+30 2. If a resident chooses to place an electronic monitoring
+31 device that uses internet technology for visual or audio
+32 monitoring, the resident may be responsible for contracting
+33 with an internet service provider.
+34 3. The nursing facility shall make a reasonable attempt
+35 to accommodate the resident’s installation needs, including
+HF 309.1423 (2) 91
+-7- dg/ko 7/11
+1 allowing access to the nursing facility’s public-use internet
+2 or wi-fi systems when available for other public uses.
+3 4. All electronic monitoring device installations and
+4 supporting services shall comply with the requirements of the
+5 national fire protection association 101 life safety code.
+6 5. A nursing facility shall not charge a resident a fee
+7 for the costs of electricity used by the electronic monitoring
+8 device.
+9 Sec. ___. NEW SECTION. 135C.56 Notice to visitors.
+10 1. A nursing facility shall post a sign at each nursing
+11 facility entrance accessible to visitors that states
+12 “Electronic monitoring devices may be present in the rooms of
+13 residents to record persons and activities”.
+14 2. A nursing facility shall post a sign clearly and
+15 conspicuously at the entrance to a resident’s room where
+16 electronic monitoring is being conducted. The notice shall
+17 state “This room is electronically monitored”.
+18 3. The nursing facility is responsible for installing and
+19 maintaining the signage required in this section.
+20 Sec. ___. NEW SECTION. 135C.57 Obstruction of electronic
+21 monitoring devices.
+22 1. A person shall not knowingly hamper, obstruct, tamper
+23 with, or destroy an electronic monitoring device placed in
+24 a resident’s room without the permission of the resident or
+25 resident representative.
+26 2. A person shall not knowingly hamper, obstruct, tamper
+27 with, or destroy a video or audio recording obtained through
+28 the use of an electronic monitoring device in accordance with
+29 this subchapter.
+30 3. It is not a violation of this section for a person to
+31 turn off the electronic monitoring device or block the visual
+32 recording component of the electronic monitoring device at the
+33 direction of the resident or resident representative, or if
+34 consent has been withdrawn.
+35 4. A person who violates this section is guilty of a serious
+HF 309.1423 (2) 91
+-8- dg/ko 8/11
+1 misdemeanor.
+2 Sec. ___. NEW SECTION. 135C.58 Dissemination of recordings.
+3 1. A person shall not access any video or audio recording
+4 created through electronic monitoring under this subchapter
+5 without the written consent of the resident or resident
+6 representative.
+7 2. Except as otherwise required by law, a recording or copy
+8 of a recording created as provided in this subchapter may only
+9 be disseminated for the purpose of addressing health, safety,
+10 or welfare concerns of a resident.
+11 3. A person accessing or disseminating a recording or copy
+12 of a recording created as provided in this section in violation
+13 of this section is guilty of a serious misdemeanor.
+14 Sec. ___. NEW SECTION. 135C.59 Admissibility of evidence.
+15 Subject to applicable rules of evidence and procedure, any
+16 video or audio recording created through electronic monitoring
+17 under this subchapter may be admitted into evidence in a civil,
+18 criminal, or administrative proceeding if the contents of the
+19 recording have not been edited or artificially enhanced and the
+20 recording includes the date and time the events occurred.
+21 Sec. ___. NEW SECTION. 135C.60 Liability —— penalties.
+22 1. A nursing facility is not civilly or criminally liable
+23 for the disclosure of a recording by a resident or a person who
+24 consents on behalf of a resident for any purpose not authorized
+25 by this subchapter.
+26 2. A nursing facility is not civilly or criminally liable
+27 for a violation of a resident’s right to privacy arising out
+28 of any electronic monitoring conducted in accordance and in
+29 compliance with this subchapter.
+30 3. A nursing facility that knowingly violates this
+31 subchapter shall be subject to licensee discipline.
+32 Sec. ___. NEW SECTION. 135C.61 Resident protections.
+33 1. A nursing facility shall not do any of the following:
+34 a. Refuse to admit a potential resident or remove a resident
+35 because the nursing facility disagrees with the potential
+HF 309.1423 (2) 91
+-9- dg/ko 9/11
+1 resident’s or the resident’s decisions regarding electronic
+2 monitoring, whether the decision is made by a resident or a
+3 resident representative acting on behalf of the resident.
+4 b. Retaliate or discriminate against any resident for
+5 consenting or refusing to consent to electronic monitoring.
+6 c. Prevent the placement or use of an electronic monitoring
+7 device by a resident who has provided the nursing facility
+8 with the notification and consent form as required under this
+9 subchapter.
+10 2. Any contractual provision prohibiting, limiting,
+11 or otherwise modifying the rights and obligations in this
+12 subchapter is contrary to public policy and is void and
+13 unenforceable.
+14 Sec. ___. NEW SECTION. 135C.62 Report to department.
+15 A nursing facility shall report to the department, in a
+16 manner prescribed by the department, the number of electronic
+17 monitoring device notification and consent forms received by
+18 the nursing facility on an annual basis.
+19 Sec. ___. DIRECTIVE TO DEPARTMENT OF INSPECTIONS, APPEALS,
+20 AND LICENSING. The department of inspections, appeals, and
+21 licensing shall prescribe by rule pursuant to chapter 17A the
+22 notification and consent form described in this Act, and shall
+23 make the form available on the department’s internet site.
+24 Sec. ___. CODE EDITOR DIRECTIVE. The Code editor may codify
+25 the provisions of this Act as a new subchapter of chapter 135C
+26 entitled “Electronic Monitoring”.>
+27 3. Title page, by striking lines 1 through 3 and inserting
+28 <An Act relating to nursing facilities, including the review
+29 of certain deficient practices by nursing facilities, and the
+30 requirements for authorized electronic monitoring in nursing
+31 facilities, and providing penalties.>
+32 4. By renumbering as necessary.
+HF 309.1423 (2) 91
+-10- dg/ko 10/11
+______________________________
+TONY BISIGNANO
+HF 309.1423 (2) 91
+-11- dg/ko 11/11
+[DELETED: eFe3AdHeFe3,aspdbyteH,asf1.Pe1,bele1byi<NRWOFCNDTPSBYNGF2.Pe1,arle14byi<N_ADECMGINNGFS._.NWS9DAsudintss,ustecto0r11.msteptadueofacm2ecmgdebyartinter3rminaewhtss42.msacaorocmgd5dettc,r,orbsa,v6orb,ttispdinarsrmadisudt7mrtertorasinter83.msaniladtoan9fyinamrpdinsn104.msoeoftefgitr1teorofpyl,toteettepnm2rybeidadl3Teayinftddtomet4dsfrtertinaewhcr15Tegnoftertifoehsbna6pttocr67Terss8Anatcdofterto,ifterth9metnoeatc,amyofteatcnw0aerya1Aptofter,orpsifbha2rya3Anatsgofter4S._.NWS0Ecm51.ArtorartremycF33()9]
+[DELETED: ecmgoftersrmthteueoanecmgdepdintersrpttotss2.NgintssnpsteueofemgoeadbylS._.NWS1Cttoe1.Etasoepdintssartmtcttoecmgint0rsrminwgonannadc1fmpdbyted.Ifterth2ntayodtoecmgadt3rsmlpldsttter4lsteaytoudadaeten5adcsofecm,ter6remyctonbfofter.F7psoftss,artayo8wnterto,v,orthteueo9ayasorssdsecm.T0rsreslbeddontenna1ctf22.Prtoartrecgonb3ofar,tertslbeadifter4wsecmgtobec.Ter5reslenaloftefgtot6r7Teteofecmgdetobeu8Tesdcsorrsttmyb9pdonteecmgdsueiga0sdinteltofsdcsorr1cdintennadctfmcdbyt2rtaspdinsn13Tednadueofayrgasp4ursn18or15TersaytodealrF33()9]
+[DELETED: 3.Ar,orrtrewnconbfofter,mycttoecmwhaycsorrsoftersortrsc,igtelofsdcsorrscdintnnadctfmcdbyteraspdinsn1.Ar,orrrewncgonbfofter,mrtttteecmgdebetdo0ortevloraorgctoftee1mgdebebdatayt24.Prtoigecm,ar3orrtrewnagonbfoft4r,slontewnctonten5adctfmofayorrtwoisar6rgintesdr.Arsorr7rtrswnctslcyw8tersoftss.Ctbyareo9arsrtreurtss0astersueofayrgodu1tssnaspdurss18ad125.Ayrtcgecmgs3iyreordeanecmgd4prtoanwrtwowlbearemgi5asdr,ustertcge6mgostenwrsornwr7rtrswnctaspdu8tssnprtotenwremgiotes9r.Unogtenwrsornwr0rtrssdnnadctf1adsgtefmtotengfyasr2ursn1,tertmyree3m46.Tertorr,ortertr5orrsrtreiftereiF33()9]
+[DELETED: cgonbfoftertorr,mywctatayteadtewlofctslbddonteolctfmaspdusn1S._.NWS2RlofretIfartofangfywoisrginsdr,ortertreofsharwnagonbfofter,wstoc0ecmgadarrtlginorm1iotesesdrmrstocttoteueofa2ecmgd,tengfyslm3areattoaetertwowst4ctecm.Angfyhsm5terttomeareattoa6artorrtrewowstoc7ecmgw,unnnttar8hsntcdtoteueofanecmgd9intersr,tengfyostomeo0ofterstoarsdrmttisaea1teteoftertttaster.I2artcstoreinaperminort3aeteueofanecmgd,t4rtslbesttoapermr.Ifan5fyisuetoaeartdetolko6s,tengfyslreter7pyultertisf8S._.NWS3Neadctfdtongf01.Ecmgmybnoyarter1orrtrewoistopeane2mgdeintersrmadayreo3rsrtrecsanna4ctfmadsstefmtotengf52.Unrtofter,cdnnaF33()9]
+[DELETED: ctf,tengfyslpeteofmintersf,adacyoftefminarsf.Tengfyslpeacyttertadtersr,asa3.Ifartorr,ortertrorrsrtreifteriscgonbfoftertorr,ctoartecsurwhcttoemgisgnorcstowwctt0ecm,tengfyslm1aeteolnnadctfmsot2teolfmmybeu.Unrtofteu3olf,tengfyslpeteu4olfmintersf.Tengf5slpeacyofteudfmtoterta6tersr,asa74.Ifanwr,ortenwrsr8rewncgonbfoftenwr9dsntcttoecmgadst0cdnnadctfmtoten1f,adtertcgteecm2dsntreordeanegecm3d,tengfyslretee4mgd55.Ifar,ortersrtr6wnwgctonbfofter,s7anudnnadctfmwgc8adtertcgecmgdsn9reordeteecmgd,ten0fyslreteecmgd1S._.NWS4Nnadcmr31.Tennadctfmcdbyt4rtsli,atam,aloftef5iF33()9]
+[DELETED: Terssdcttoecmgoteseoftertr,ifaIfartresstectf,tefsldtaloftef()Tedetertwsadiftertwecmgtobec()Aypnptwntertwsa()Anattttertddnayo0()Teseofayagter1retosntennadctfmont2rsb3Tersrssdctortes4oftersrtr,ifa.If5rsrtresstectf,t6fmsldtaloftef7()Tedeterewsadifterew8ecmgtobec9()Aypnptwnterewsa0()Anattttereddn1ayo2()Teseofayagter3retosntennadctfmont4rsb5Teteofecmgdetobeu6Ayinn,shasmgofadet7awlorc8Tepddeofinfrs9p0Acyofayctfrmeoftee1mgdebyacle2Altofsdcsorrsttt3rtoraremyettopeonteueoft4ecmgdeigbtntldtoa5oftefF33()9]
+[DELETED: ()Pgaor()Pgvor()Pgbgofaoorv()Tgofteecmgdeobgtevlrgctofteemgdefrtednofanemorpebyhhcep()Tgofteecmgdeobgtevlrgctoftee0mgdewedgorbgisp1()Tgofteecmgdef2tednofavtwhasla,o3a,flp,iep,oro4v5Ayorcnorrnedbyt6rtorreonteueofanecm7d8Astoftecsurwhar9mybeddursn10Asebxtodtiftertorr1wsc22.Angfyslmetenna3ctfmaetotersadimrso4teontoctecmgofter5r6S._.NWS5Ctadi71.Artwocstoctecm8sldosoattersone,igpto9ayp,i,m,adrlc02.Ifartcstopeanecm1dettusittyfrvlora2m,tertmyberefrc3whanitsep43.Tengfyslmearea5toaetersinn,iF33()9]
+[DELETED: agastotengfspeiorwisswnaefrorpcu4.Alecmgdeisasgssslcywhtersoftnlfepnan11lesyc5.AngfyslntceartaffrtecsofeyudbyteecmdS._.NWS6Netov01.Angfyslptasnatehn1fyeeaetovstts2“cmgdsmybeptinterso3rstordpsada42.Angfyslptasncya5cyatteeetoarsrmw6ecmgisbgc.Tenes7se“srmiseym83.Tengfyisrefriga9mgteserdintss0S._.NWS7Onofegd21.Apnslntkyh,o,t3w,ordyanecmgdepdi4arsrmwttepnofterto5rtr62.Apnslntkyh,o,t7w,ordyavooraorgodt8teueofanecmgdeinaew9tss03.Itisntavnoftssnfrapnt1tnofteecmgdeorbktev2rgctofteecmgdeatt3dnoftertorrtr,ori4cthsbnw54.ApnwovstssnisgyofasF33()9]
+[DELETED: mS._.NWS8Dnofr1.Apnslntasayvooraorcdthecmgurtsswttewnctoftertorrr2.Etasoerdbyl,argorcofargcdaspdintssrmyobeddfrtepeofagh,s0orwecsofar13.Apnagordgargorc2ofargcdaspdintssninv3oftssnisgyofassm4S._.NWS9Ayofe5Sttoaersofeeadp,a6vooraorgcdthecm7urtssrmybeadioeeinac8c,oraepgiftecsoft9rghentbnedorayedadt0rgistedeadteteeso1S._.NWS0Ly——p21.Angfyisntcyorcyl3frtedeofargbyartorapnw4csonbfofartfraypenta5bytss62.Angfyisntcyorcyl7fravnofarsrttopyago8ofayecmgcdinaeadi9cewhtss03.Angfyttkyvst1srslbesttoled2S._.NWS1Rtp31.Angfyslntdoayoftef4Retoataplrtorrear5betengfydswhtepF33()9]
+[DELETED: rsortersdsrgem,wrtednismebyartorrtreagonbfofterReordeatayrtfcgorrgtocttoecmPtteptorueofanecmdebyartwohspdtengfwhtennadctfmasrdurts02.Ayclpnp,l1oroemgtersadosint2sriscytopcpyadisvda3u4S._.NWS2Rttod5Angfyslrttoted,in6mrpdbyted,tenrofe7mgdennadctfsrdb8tengfyonanalb9S._.DETODTOFI,A0ADL.Tedtofi,a,a1lgslpebyrepttocr1At2nnadctfmddintsA,ads3metefmaeontedsits4S._.CEERD.TeCeermyc5tepsoftsAtasanwsrofcr16ed“cM73.Tep,bysgls1th3adi8<nAtrgtongf,igter9ofcndtpsbyngf,adt0rsfradecmginn1f,adpgp24.ByrgasnF33()9]
+[DELETED: YBF33()9]
+
+
+================================================================================
+
+Raw Text:
+House File 309
+S-3082
+1 Amend House File 309, as passed by the House, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <DIVISION I
+4 REVIEW OF CERTAIN DEFICIENT PRACTICES BY NURSING FACILITIES>
+5 2. Page 1, after line 14 by inserting:
+6 <DIVISION ___
+7 AUTHORIZED ELECTRONIC MONITORING IN NURSING FACILITIES
+8 Sec. ___. NEW SECTION. 135C.49 Definitions.
+9 As used in this subchapter, unless the context otherwise
+10 requires:
+11 1. “Electronic monitoring” means the placement and use of an
+12 electronic monitoring device by a resident in the resident’s
+13 room in accordance with this subchapter.
+14 2. “Electronic monitoring device” means a camera or other
+15 device that captures, records, or broadcasts audio, video,
+16 or both, that is placed in a resident’s room and is used to
+17 monitor the resident or activities in the room.
+18 3. “Resident” means an individual admitted to a nursing
+19 facility in a manner prescribed in section 135C.23.
+20 4. “Resident representative” means one of the following in
+21 the order of priority listed, to the extent the person may
+22 reasonably be identified and located:
+23 a. The attorney in fact designated to make treatment
+24 decisions for the resident in accordance with chapter 144B.
+25 b. The guardian of the resident if one has been appointed
+26 pursuant to chapter 633.
+27 c. The resident’s spouse.
+28 d. An adult child of the resident or, if the resident has
+29 more than one adult child, a majority of the adult children who
+30 are reasonably available.
+31 e. A parent of the resident, or parents if both are
+32 reasonably available.
+33 f. An adult sibling of the resident.
+34 Sec. ___. NEW SECTION. 135C.50 Electronic monitoring.
+35 1. A resident or a resident representative may conduct
+HF 309.1423 (2) 91
+-1- dg/ko 1/11
+
+1 electronic monitoring of the resident’s room through the use of
+2 an electronic monitoring device placed in the resident’s room
+3 pursuant to this subchapter.
+4 2. Nothing in this section precludes the use of electronic
+5 monitoring otherwise allowed by law.
+6 Sec. ___. NEW SECTION. 135C.51 Consent to electronic
+7 monitoring.
+8 1. Except as otherwise provided in this subchapter,
+9 a resident must consent to electronic monitoring in the
+10 resident’s room in writing on a notification and consent
+11 form prescribed by the department. If the resident has
+12 not affirmatively objected to electronic monitoring and the
+13 resident’s medical professional determines that the resident
+14 lacks the ability to understand and appreciate the nature
+15 and consequences of electronic monitoring, the resident
+16 representative may consent on behalf of the resident. For
+17 purposes of this subsection, a resident affirmatively objects
+18 when the resident orally, visually, or through the use of
+19 auxiliary aids or services declines electronic monitoring. The
+20 resident’s response shall be documented on the notification and
+21 consent form.
+22 2. Prior to a resident representative consenting on behalf
+23 of a resident, the resident shall be asked if the resident
+24 wants electronic monitoring to be conducted. The resident
+25 representative shall explain all of the following to the
+26 resident:
+27 a. The type of electronic monitoring device to be used.
+28 b. The standard conditions or restrictions that may be
+29 placed on the electronic monitoring device’s use including as
+30 specified in the list of standard conditions or restrictions
+31 contained in the notification and consent form completed by the
+32 resident as provided in section 135C.54.
+33 c. The dissemination and use of any recording as provided
+34 under section 135C.58 or 135C.59.
+35 d. The resident’s ability to decline all recordings.
+HF 309.1423 (2) 91
+-2- dg/ko 2/11
+
+1 3. A resident, or resident representative when consenting
+2 on behalf of the resident, may consent to electronic monitoring
+3 with any conditions or restrictions of the resident’s or
+4 resident representative’s choosing, including the list
+5 of standard conditions or restrictions contained in the
+6 notification and consent form completed by the resident
+7 as provided in section 135C.54. A resident, or resident
+8 representative when consenting on behalf of the resident, may
+9 request that the electronic monitoring device be turned off
+10 or the visual or audio recording component of the electronic
+11 monitoring device be blocked at any time.
+12 4. Prior to implementing electronic monitoring, a resident,
+13 or resident representative when acting on behalf of the
+14 resident, shall obtain the written consent on the notification
+15 and consent form of any other resident who is a roommate
+16 residing in the shared room. A roommate’s or roommate’s
+17 resident representative’s written consent shall comply with
+18 the requirements of this section. Consent by a roommate or
+19 a roommate’s resident representative under this subsection
+20 authorizes the resident’s use of any recording obtained under
+21 this section as provided under sections 135C.58 and 135C.59.
+22 5. Any resident conducting electronic monitoring shall
+23 immediately remove or disable an electronic monitoring device
+24 prior to a new resident who will be a roommate moving into
+25 a shared room, unless the resident conducting electronic
+26 monitoring obtains the new roommate’s or new roommate’s
+27 resident representative’s written consent as provided under
+28 this section prior to the new roommate moving into the shared
+29 room. Upon obtaining the new roommate’s or new roommate’s
+30 resident representative’s signed notification and consent form
+31 and submitting the form to the nursing facility as required
+32 under section 135C.53, the resident may resume electronic
+33 monitoring.
+34 6. The resident or roommate, or the resident representative
+35 or roommate’s resident representative if the representative is
+HF 309.1423 (2) 91
+-3- dg/ko 3/11
+
+1 consenting on behalf of the resident or roommate, may withdraw
+2 consent at any time and the withdrawal of consent shall be
+3 documented on the original consent form as provided under
+4 section 135C.53.
+5 Sec. ___. NEW SECTION. 135C.52 Refusal of roommate to
+6 consent.
+7 If a resident of a nursing facility who is residing in a
+8 shared room, or the resident representative of such a resident
+9 when acting on behalf of the resident, wants to conduct
+10 electronic monitoring and another resident living in or moving
+11 into the same shared room refuses to consent to the use of an
+12 electronic monitoring device, the nursing facility shall make
+13 a reasonable attempt to accommodate the resident who wants to
+14 conduct electronic monitoring. A nursing facility has met
+15 the requirement to make a reasonable attempt to accommodate
+16 a resident or resident representative who wants to conduct
+17 electronic monitoring when, upon notification that a roommate
+18 has not consented to the use of an electronic monitoring device
+19 in the resident’s room, the nursing facility offers to move one
+20 of the residents to another shared room that is available at
+21 the time of the request that accommodates the resident. If
+22 a resident chooses to reside in a private room in order to
+23 accommodate the use of an electronic monitoring device, the
+24 resident shall be subject to a private room rate. If a nursing
+25 facility is unable to accommodate a resident due to lack of
+26 space, the nursing facility shall reevaluate the request
+27 periodically until the request is fulfilled.
+28 Sec. ___. NEW SECTION. 135C.53 Notice and consent form
+29 submitted to nursing facility.
+30 1. Electronic monitoring may begin only after the resident
+31 or resident representative who intends to place an electronic
+32 monitoring device in the resident’s room and any roommate or
+33 roommate’s resident representative completes a notification and
+34 consent form and submits the form to the nursing facility.
+35 2. Upon receipt of the required, completed notification and
+HF 309.1423 (2) 91
+-4- dg/ko 4/11
+
+1 consent form, the nursing facility shall place the original
+2 form in the resident’s file, and a copy of the form in any
+3 roommate’s file. The nursing facility shall provide a copy to
+4 the resident and the resident’s roommate, as applicable.
+5 3. If a resident or roommate, or the resident representative
+6 or roommate’s resident representative if the representative
+7 is consenting on behalf of the resident or roommate, chooses
+8 to alter the conditions under which consent to electronic
+9 monitoring is given or chooses to withdraw consent to
+10 electronic monitoring, the nursing facility shall make
+11 available the original notification and consent form so that
+12 the original form may be updated. Upon receipt of the updated
+13 original form, the nursing facility shall place the updated
+14 original form in the resident’s file. The nursing facility
+15 shall provide a copy of the updated form to the resident and
+16 the resident’s roommate, as applicable.
+17 4. If a new roommate, or the new roommate’s resident
+18 representative when consenting on behalf of the new roommate,
+19 does not consent to electronic monitoring and submit a
+20 completed notification and consent form to the nursing
+21 facility, and the resident conducting the electronic monitoring
+22 does not remove or disable an existing electronic monitoring
+23 device, the nursing facility shall remove the electronic
+24 monitoring device.
+25 5. If a roommate, or the roommate’s resident representative
+26 when withdrawing consent on behalf of the roommate, submits
+27 an updated notification and consent form withdrawing consent
+28 and the resident conducting electronic monitoring does not
+29 remove or disable the electronic monitoring device, the nursing
+30 facility shall remove the electronic monitoring device.
+31 Sec. ___. NEW SECTION. 135C.54 Notification and consent
+32 form requirements.
+33 1. The notification and consent form completed by the
+34 resident shall include, at a minimum, all of the following
+35 information:
+HF 309.1423 (2) 91
+-5- dg/ko 5/11
+
+1 a. The resident’s signed consent to electronic monitoring or
+2 the signature of the resident representative, if applicable.
+3 If a resident representative signs the consent form, the form
+4 shall document all of the following:
+5 (1) The date the resident was asked if the resident wants
+6 electronic monitoring to be conducted.
+7 (2) Any person present when the resident was asked.
+8 (3) An acknowledgment that the resident did not
+9 affirmatively object.
+10 (4) The source of authority allowing the resident
+11 representative to sign the notification and consent form on the
+12 resident’s behalf.
+13 b. The resident’s roommate’s signed consent or the signature
+14 of the roommate’s resident representative, if applicable. If a
+15 roommate’s resident representative signs the consent form, the
+16 form shall document all of the following:
+17 (1) The date the roommate was asked if the roommate wants
+18 electronic monitoring to be conducted.
+19 (2) Any person present when the roommate was asked.
+20 (3) An acknowledgment that the roommate did not
+21 affirmatively object.
+22 (4) The source of authority allowing the resident
+23 representative to sign the notification and consent form on the
+24 roommate’s behalf.
+25 c. The type of electronic monitoring device to be used.
+26 d. Any installation needs, such as mounting of a device to
+27 a wall or ceiling.
+28 e. The proposed date of installation for scheduling
+29 purposes.
+30 f. A copy of any contract for maintenance of the electronic
+31 monitoring device by a commercial entity.
+32 g. A list of standard conditions or restrictions that the
+33 resident or a roommate may elect to place on the use of the
+34 electronic monitoring device including but not limited to all
+35 of the following:
+HF 309.1423 (2) 91
+-6- dg/ko 6/11
+
+1 (1) Prohibiting audio recording.
+2 (2) Prohibiting video recording.
+3 (3) Prohibiting broadcasting of audio or video.
+4 (4) Turning off the electronic monitoring device or
+5 blocking the visual recording component of the electronic
+6 monitoring device for the duration of an exam or procedure by a
+7 health care professional.
+8 (5) Turning off the electronic monitoring device or
+9 blocking the visual recording component of the electronic
+10 monitoring device while dressing or bathing is performed.
+11 (6) Turning off the electronic monitoring device for
+12 the duration of a visit with a spiritual adviser, ombudsman,
+13 attorney, financial planner, intimate partner, or other
+14 visitor.
+15 h. Any other condition or restriction elected by the
+16 resident or roommate on the use of an electronic monitoring
+17 device.
+18 i. A statement of the circumstances under which a recording
+19 may be disseminated under section 135C.58.
+20 j. A signature box to document if the resident or roommate
+21 withdraws consent.
+22 2. A nursing facility shall make the notification and
+23 consent form available to the residents and inform residents of
+24 the option to conduct electronic monitoring of the resident’s
+25 room.
+26 Sec. ___. NEW SECTION. 135C.55 Cost and installation.
+27 1. A resident who chooses to conduct electronic monitoring
+28 shall do so at the resident’s own expense, including payment of
+29 any purchase, installation, maintenance, and removal costs.
+30 2. If a resident chooses to place an electronic monitoring
+31 device that uses internet technology for visual or audio
+32 monitoring, the resident may be responsible for contracting
+33 with an internet service provider.
+34 3. The nursing facility shall make a reasonable attempt
+35 to accommodate the resident’s installation needs, including
+HF 309.1423 (2) 91
+-7- dg/ko 7/11
+
+1 allowing access to the nursing facility’s public-use internet
+2 or wi-fi systems when available for other public uses.
+3 4. All electronic monitoring device installations and
+4 supporting services shall comply with the requirements of the
+5 national fire protection association 101 life safety code.
+6 5. A nursing facility shall not charge a resident a fee
+7 for the costs of electricity used by the electronic monitoring
+8 device.
+9 Sec. ___. NEW SECTION. 135C.56 Notice to visitors.
+10 1. A nursing facility shall post a sign at each nursing
+11 facility entrance accessible to visitors that states
+12 “Electronic monitoring devices may be present in the rooms of
+13 residents to record persons and activities”.
+14 2. A nursing facility shall post a sign clearly and
+15 conspicuously at the entrance to a resident’s room where
+16 electronic monitoring is being conducted. The notice shall
+17 state “This room is electronically monitored”.
+18 3. The nursing facility is responsible for installing and
+19 maintaining the signage required in this section.
+20 Sec. ___. NEW SECTION. 135C.57 Obstruction of electronic
+21 monitoring devices.
+22 1. A person shall not knowingly hamper, obstruct, tamper
+23 with, or destroy an electronic monitoring device placed in
+24 a resident’s room without the permission of the resident or
+25 resident representative.
+26 2. A person shall not knowingly hamper, obstruct, tamper
+27 with, or destroy a video or audio recording obtained through
+28 the use of an electronic monitoring device in accordance with
+29 this subchapter.
+30 3. It is not a violation of this section for a person to
+31 turn off the electronic monitoring device or block the visual
+32 recording component of the electronic monitoring device at the
+33 direction of the resident or resident representative, or if
+34 consent has been withdrawn.
+35 4. A person who violates this section is guilty of a serious
+HF 309.1423 (2) 91
+-8- dg/ko 8/11
+
+1 misdemeanor.
+2 Sec. ___. NEW SECTION. 135C.58 Dissemination of recordings.
+3 1. A person shall not access any video or audio recording
+4 created through electronic monitoring under this subchapter
+5 without the written consent of the resident or resident
+6 representative.
+7 2. Except as otherwise required by law, a recording or copy
+8 of a recording created as provided in this subchapter may only
+9 be disseminated for the purpose of addressing health, safety,
+10 or welfare concerns of a resident.
+11 3. A person accessing or disseminating a recording or copy
+12 of a recording created as provided in this section in violation
+13 of this section is guilty of a serious misdemeanor.
+14 Sec. ___. NEW SECTION. 135C.59 Admissibility of evidence.
+15 Subject to applicable rules of evidence and procedure, any
+16 video or audio recording created through electronic monitoring
+17 under this subchapter may be admitted into evidence in a civil,
+18 criminal, or administrative proceeding if the contents of the
+19 recording have not been edited or artificially enhanced and the
+20 recording includes the date and time the events occurred.
+21 Sec. ___. NEW SECTION. 135C.60 Liability —— penalties.
+22 1. A nursing facility is not civilly or criminally liable
+23 for the disclosure of a recording by a resident or a person who
+24 consents on behalf of a resident for any purpose not authorized
+25 by this subchapter.
+26 2. A nursing facility is not civilly or criminally liable
+27 for a violation of a resident’s right to privacy arising out
+28 of any electronic monitoring conducted in accordance and in
+29 compliance with this subchapter.
+30 3. A nursing facility that knowingly violates this
+31 subchapter shall be subject to licensee discipline.
+32 Sec. ___. NEW SECTION. 135C.61 Resident protections.
+33 1. A nursing facility shall not do any of the following:
+34 a. Refuse to admit a potential resident or remove a resident
+35 because the nursing facility disagrees with the potential
+HF 309.1423 (2) 91
+-9- dg/ko 9/11
+
+1 resident’s or the resident’s decisions regarding electronic
+2 monitoring, whether the decision is made by a resident or a
+3 resident representative acting on behalf of the resident.
+4 b. Retaliate or discriminate against any resident for
+5 consenting or refusing to consent to electronic monitoring.
+6 c. Prevent the placement or use of an electronic monitoring
+7 device by a resident who has provided the nursing facility
+8 with the notification and consent form as required under this
+9 subchapter.
+10 2. Any contractual provision prohibiting, limiting,
+11 or otherwise modifying the rights and obligations in this
+12 subchapter is contrary to public policy and is void and
+13 unenforceable.
+14 Sec. ___. NEW SECTION. 135C.62 Report to department.
+15 A nursing facility shall report to the department, in a
+16 manner prescribed by the department, the number of electronic
+17 monitoring device notification and consent forms received by
+18 the nursing facility on an annual basis.
+19 Sec. ___. DIRECTIVE TO DEPARTMENT OF INSPECTIONS, APPEALS,
+20 AND LICENSING. The department of inspections, appeals, and
+21 licensing shall prescribe by rule pursuant to chapter 17A the
+22 notification and consent form described in this Act, and shall
+23 make the form available on the department’s internet site.
+24 Sec. ___. CODE EDITOR DIRECTIVE. The Code editor may codify
+25 the provisions of this Act as a new subchapter of chapter 135C
+26 entitled “Electronic Monitoring”.>
+27 3. Title page, by striking lines 1 through 3 and inserting
+28 <An Act relating to nursing facilities, including the review
+29 of certain deficient practices by nursing facilities, and the
+30 requirements for authorized electronic monitoring in nursing
+31 facilities, and providing penalties.>
+32 4. By renumbering as necessary.
+HF 309.1423 (2) 91
+-10- dg/ko 10/11
+
+______________________________
+TONY BISIGNANO
+HF 309.1423 (2) 91
+-11- dg/ko 11/11
+
+[DELETED: eFe3AdHeFe3,aspdbyteH,asf1.Pe1,bele1byi<NRWOFCNDTPSBYNGF2.Pe1,arle14byi<N_ADECMGINNGFS._.NWS9DAsudintss,ustecto0r11.msteptadueofacm2ecmgdebyartinter3rminaewhtss42.msacaorocmgd5dettc,r,orbsa,v6orb,ttispdinarsrmadisudt7mrtertorasinter83.msaniladtoan9fyinamrpdinsn104.msoeoftefgitr1teorofpyl,toteettepnm2rybeidadl3Teayinftddtomet4dsfrtertinaewhcr15Tegnoftertifoehsbna6pttocr67Terss8Anatcdofterto,ifterth9metnoeatc,amyofteatcnw0aerya1Aptofter,orpsifbha2rya3Anatsgofter4S._.NWS0Ecm51.ArtorartremycF33()9]
+[DELETED: ecmgoftersrmthteueoanecmgdepdintersrpttotss2.NgintssnpsteueofemgoeadbylS._.NWS1Cttoe1.Etasoepdintssartmtcttoecmgint0rsrminwgonannadc1fmpdbyted.Ifterth2ntayodtoecmgadt3rsmlpldsttter4lsteaytoudadaeten5adcsofecm,ter6remyctonbfofter.F7psoftss,artayo8wnterto,v,orthteueo9ayasorssdsecm.T0rsreslbeddontenna1ctf22.Prtoartrecgonb3ofar,tertslbeadifter4wsecmgtobec.Ter5reslenaloftefgtot6r7Teteofecmgdetobeu8Tesdcsorrsttmyb9pdonteecmgdsueiga0sdinteltofsdcsorr1cdintennadctfmcdbyt2rtaspdinsn13Tednadueofayrgasp4ursn18or15TersaytodealrF33()9]
+[DELETED: 3.Ar,orrtrewnconbfofter,mycttoecmwhaycsorrsoftersortrsc,igtelofsdcsorrscdintnnadctfmcdbyteraspdinsn1.Ar,orrrewncgonbfofter,mrtttteecmgdebetdo0ortevloraorgctoftee1mgdebebdatayt24.Prtoigecm,ar3orrtrewnagonbfoft4r,slontewnctonten5adctfmofayorrtwoisar6rgintesdr.Arsorr7rtrswnctslcyw8tersoftss.Ctbyareo9arsrtreurtss0astersueofayrgodu1tssnaspdurss18ad125.Ayrtcgecmgs3iyreordeanecmgd4prtoanwrtwowlbearemgi5asdr,ustertcge6mgostenwrsornwr7rtrswnctaspdu8tssnprtotenwremgiotes9r.Unogtenwrsornwr0rtrssdnnadctf1adsgtefmtotengfyasr2ursn1,tertmyree3m46.Tertorr,ortertr5orrsrtreiftereiF33()9]
+[DELETED: cgonbfoftertorr,mywctatayteadtewlofctslbddonteolctfmaspdusn1S._.NWS2RlofretIfartofangfywoisrginsdr,ortertreofsharwnagonbfofter,wstoc0ecmgadarrtlginorm1iotesesdrmrstocttoteueofa2ecmgd,tengfyslm3areattoaetertwowst4ctecm.Angfyhsm5terttomeareattoa6artorrtrewowstoc7ecmgw,unnnttar8hsntcdtoteueofanecmgd9intersr,tengfyostomeo0ofterstoarsdrmttisaea1teteoftertttaster.I2artcstoreinaperminort3aeteueofanecmgd,t4rtslbesttoapermr.Ifan5fyisuetoaeartdetolko6s,tengfyslreter7pyultertisf8S._.NWS3Neadctfdtongf01.Ecmgmybnoyarter1orrtrewoistopeane2mgdeintersrmadayreo3rsrtrecsanna4ctfmadsstefmtotengf52.Unrtofter,cdnnaF33()9]
+[DELETED: ctf,tengfyslpeteofmintersf,adacyoftefminarsf.Tengfyslpeacyttertadtersr,asa3.Ifartorr,ortertrorrsrtreifteriscgonbfoftertorr,ctoartecsurwhcttoemgisgnorcstowwctt0ecm,tengfyslm1aeteolnnadctfmsot2teolfmmybeu.Unrtofteu3olf,tengfyslpeteu4olfmintersf.Tengf5slpeacyofteudfmtoterta6tersr,asa74.Ifanwr,ortenwrsr8rewncgonbfoftenwr9dsntcttoecmgadst0cdnnadctfmtoten1f,adtertcgteecm2dsntreordeanegecm3d,tengfyslretee4mgd55.Ifar,ortersrtr6wnwgctonbfofter,s7anudnnadctfmwgc8adtertcgecmgdsn9reordeteecmgd,ten0fyslreteecmgd1S._.NWS4Nnadcmr31.Tennadctfmcdbyt4rtsli,atam,aloftef5iF33()9]
+[DELETED: Terssdcttoecmgoteseoftertr,ifaIfartresstectf,tefsldtaloftef()Tedetertwsadiftertwecmgtobec()Aypnptwntertwsa()Anattttertddnayo0()Teseofayagter1retosntennadctfmont2rsb3Tersrssdctortes4oftersrtr,ifa.If5rsrtresstectf,t6fmsldtaloftef7()Tedeterewsadifterew8ecmgtobec9()Aypnptwnterewsa0()Anattttereddn1ayo2()Teseofayagter3retosntennadctfmont4rsb5Teteofecmgdetobeu6Ayinn,shasmgofadet7awlorc8Tepddeofinfrs9p0Acyofayctfrmeoftee1mgdebyacle2Altofsdcsorrsttt3rtoraremyettopeonteueoft4ecmgdeigbtntldtoa5oftefF33()9]
+[DELETED: ()Pgaor()Pgvor()Pgbgofaoorv()Tgofteecmgdeobgtevlrgctofteemgdefrtednofanemorpebyhhcep()Tgofteecmgdeobgtevlrgctoftee0mgdewedgorbgisp1()Tgofteecmgdef2tednofavtwhasla,o3a,flp,iep,oro4v5Ayorcnorrnedbyt6rtorreonteueofanecm7d8Astoftecsurwhar9mybeddursn10Asebxtodtiftertorr1wsc22.Angfyslmetenna3ctfmaetotersadimrso4teontoctecmgofter5r6S._.NWS5Ctadi71.Artwocstoctecm8sldosoattersone,igpto9ayp,i,m,adrlc02.Ifartcstopeanecm1dettusittyfrvlora2m,tertmyberefrc3whanitsep43.Tengfyslmearea5toaetersinn,iF33()9]
+[DELETED: agastotengfspeiorwisswnaefrorpcu4.Alecmgdeisasgssslcywhtersoftnlfepnan11lesyc5.AngfyslntceartaffrtecsofeyudbyteecmdS._.NWS6Netov01.Angfyslptasnatehn1fyeeaetovstts2“cmgdsmybeptinterso3rstordpsada42.Angfyslptasncya5cyatteeetoarsrmw6ecmgisbgc.Tenes7se“srmiseym83.Tengfyisrefriga9mgteserdintss0S._.NWS7Onofegd21.Apnslntkyh,o,t3w,ordyanecmgdepdi4arsrmwttepnofterto5rtr62.Apnslntkyh,o,t7w,ordyavooraorgodt8teueofanecmgdeinaew9tss03.Itisntavnoftssnfrapnt1tnofteecmgdeorbktev2rgctofteecmgdeatt3dnoftertorrtr,ori4cthsbnw54.ApnwovstssnisgyofasF33()9]
+[DELETED: mS._.NWS8Dnofr1.Apnslntasayvooraorcdthecmgurtsswttewnctoftertorrr2.Etasoerdbyl,argorcofargcdaspdintssrmyobeddfrtepeofagh,s0orwecsofar13.Apnagordgargorc2ofargcdaspdintssninv3oftssnisgyofassm4S._.NWS9Ayofe5Sttoaersofeeadp,a6vooraorgcdthecm7urtssrmybeadioeeinac8c,oraepgiftecsoft9rghentbnedorayedadt0rgistedeadteteeso1S._.NWS0Ly——p21.Angfyisntcyorcyl3frtedeofargbyartorapnw4csonbfofartfraypenta5bytss62.Angfyisntcyorcyl7fravnofarsrttopyago8ofayecmgcdinaeadi9cewhtss03.Angfyttkyvst1srslbesttoled2S._.NWS1Rtp31.Angfyslntdoayoftef4Retoataplrtorrear5betengfydswhtepF33()9]
+[DELETED: rsortersdsrgem,wrtednismebyartorrtreagonbfofterReordeatayrtfcgorrgtocttoecmPtteptorueofanecmdebyartwohspdtengfwhtennadctfmasrdurts02.Ayclpnp,l1oroemgtersadosint2sriscytopcpyadisvda3u4S._.NWS2Rttod5Angfyslrttoted,in6mrpdbyted,tenrofe7mgdennadctfsrdb8tengfyonanalb9S._.DETODTOFI,A0ADL.Tedtofi,a,a1lgslpebyrepttocr1At2nnadctfmddintsA,ads3metefmaeontedsits4S._.CEERD.TeCeermyc5tepsoftsAtasanwsrofcr16ed“cM73.Tep,bysgls1th3adi8<nAtrgtongf,igter9ofcndtpsbyngf,adt0rsfradecmginn1f,adpgp24.ByrgasnF33()9]
+[DELETED: YBF33()9]

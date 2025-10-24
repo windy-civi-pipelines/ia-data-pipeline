@@ -1,0 +1,35 @@
+Title: 1 Amend House File 309, as passed by the House, as follows:
+Official Title: 1 Amend House File 309, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3084
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 309
+S-3084
+2 1. Page 1, line 8, after <citation> by inserting <, and
+3 residents of the nursing facility,>
+______________________________
+MOLLY DONAHUE
+HF 309.1424 (1) 91
+-1- dg/ko 1/1
+[DELETED: eFe3AdHeFe3,aspdbyteH,asf1.Pe1,le8,ar<>byig<,arsoftengfYDF34()9]
+
+
+================================================================================
+
+Raw Text:
+House File 309
+S-3084
+1 Amend House File 309, as passed by the House, as follows:
+2 1. Page 1, line 8, after <citation> by inserting <, and
+3 residents of the nursing facility,>
+______________________________
+MOLLY DONAHUE
+HF 309.1424 (1) 91
+-1- dg/ko 1/1
+
+[DELETED: eFe3AdHeFe3,aspdbyteH,asf1.Pe1,le8,ar<>byig<,arsoftengfYDF34()9]

@@ -1,0 +1,33 @@
+Title: 1 Amend House File 640, as passed by the House, as follows:
+Official Title: 1 Amend House File 640, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1261
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate Amendment to
+House File 640
+H-1261
+2 1. Page 1, line 22, after <default> by inserting <for a
+3 reason other than nonpayment of rent,>
+HF 640.1657.S (1) 91
+-1- mb 1/1
+[DELETED: eAtteFe6AdHeFe6,aspdbyteH,asf1.Pe1,le2,ar<>byig<rrnortnntofrF6S()9]
+
+
+================================================================================
+
+Raw Text:
+Senate Amendment to
+House File 640
+H-1261
+1 Amend House File 640, as passed by the House, as follows:
+2 1. Page 1, line 22, after <default> by inserting <for a
+3 reason other than nonpayment of rent,>
+HF 640.1657.S (1) 91
+-1- mb 1/1
+
+[DELETED: eAtteFe6AdHeFe6,aspdbyteH,asf1.Pe1,le2,ar<>byig<rrnortnntofrF6S()9]

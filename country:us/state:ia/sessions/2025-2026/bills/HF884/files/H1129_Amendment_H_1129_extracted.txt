@@ -1,0 +1,53 @@
+Title: 2 1. Page 1, by striking lines 30 through 34 and inserting:
+Official Title: 2 1. Page 1, by striking lines 30 through 34 and inserting:
+Number of Sections: 1
+Source: versions - Amendment H-1129
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 884
+H-1129
+1 Amend House File 884 as follows:
+3 <4. The board of directors of a school district shall not
+4 do any of the following:
+5 a. Require or coerce a student to utilize the support,
+6 services, or programs provided by a chaplain who is employed
+7 or engaged by the board of directors of the school district
+8 pursuant to this section.
+9 b. Employ or engage a chaplain in lieu of a school counselor
+10 or a qualified guidance counselor licensed by the board of
+11 educational examiners under chapter 256, subchapter VII, part
+12 3.>
+______________________________
+KNIFF MCCULLA of Marion
+HF 884.1040 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe8AdHeFe84asf1.Pe1,bysgls30th34adi<.TebdofdsofasldtslndoayoftefReorceasttouetess,orpspdbyacnwoiseoredbytebdofdsoftesldpttotssEyoreeacninluofaslc0oraqdgecrldbytebdo1elesurcr2,srV,p23FMAofMF80()9]
+
+
+================================================================================
+
+Raw Text:
+House File 884
+H-1129
+1 Amend House File 884 as follows:
+2 1. Page 1, by striking lines 30 through 34 and inserting:
+3 <4. The board of directors of a school district shall not
+4 do any of the following:
+5 a. Require or coerce a student to utilize the support,
+6 services, or programs provided by a chaplain who is employed
+7 or engaged by the board of directors of the school district
+8 pursuant to this section.
+9 b. Employ or engage a chaplain in lieu of a school counselor
+10 or a qualified guidance counselor licensed by the board of
+11 educational examiners under chapter 256, subchapter VII, part
+12 3.>
+______________________________
+KNIFF MCCULLA of Marion
+HF 884.1040 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe8AdHeFe84asf1.Pe1,bysgls30th34adi<.TebdofdsofasldtslndoayoftefReorceasttouetess,orpspdbyacnwoiseoredbytebdofdsoftesldpttotssEyoreeacninluofaslc0oraqdgecrldbytebdo1elesurcr2,srV,p23FMAofMF80()9]

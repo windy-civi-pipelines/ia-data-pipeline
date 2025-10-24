@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, line 9, after <adopted> by inserting <pursuant
+Official Title: 2 1. Page 1, line 9, after <adopted> by inserting <pursuant
+Number of Sections: 1
+Source: versions - Amendment H-1026
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Joint Resolution 7
+H-1026
+1 Amend House Joint Resolution 7 as follows:
+3 thereto>
+______________________________
+FISHER of Tama
+HJR 7.312 (1) 91
+-1- sb/js 1/1
+[DELETED: eJtRnAdHeJtRn7asf1.Pe1,le9,ar<>byig<tRofTR72()9]
+
+
+================================================================================
+
+Raw Text:
+House Joint Resolution 7
+H-1026
+1 Amend House Joint Resolution 7 as follows:
+2 1. Page 1, line 9, after <adopted> by inserting <pursuant
+3 thereto>
+______________________________
+FISHER of Tama
+HJR 7.312 (1) 91
+-1- sb/js 1/1
+
+[DELETED: eJtRnAdHeJtRn7asf1.Pe1,le9,ar<>byig<tRofTR72()9]

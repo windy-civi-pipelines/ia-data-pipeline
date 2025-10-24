@@ -1,0 +1,53 @@
+Title: 1 Amend House File 710, as passed by the House, as follows:
+Official Title: 1 Amend House File 710, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3066
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 710
+S-3066
+2 1. Page 1, lines 3 and 4, by striking <dock site permit and
+3 hoist or slip assignment> and inserting <class I or class III
+4 dock permit, as provided in 571 IAC ch. 16,>
+5 2. Page 1, line 27, by striking <policies> and inserting
+6 <additional restrictions and requirements>
+7 3. Page 1, lines 29 and 30, by striking <dock otherwise
+8 prohibited by this section.> and inserting <dock. Restrictions
+9 and requirements adopted pursuant to the authority granted to
+10 an association under this subsection shall only apply to the
+11 association’s members and the association’s members’ guests.>
+______________________________
+COMMITTEE ON NATURAL RESOURCES AND ENVIRONMENT
+ANNETTE SWEENEY, CHAIRPERSON
+HF 710.1333 (3) 91
+-1- sb/js 1/1
+[DELETED: eFe7AdHeFe7,aspdbyteH,asf1.Pe1,ls3ad4,bysg<kseptahtorspa>adig<sIorcsIdkp,aspdin51ICc.12.Pe1,le2,bysg<>adi<lrsadr3.Pe1,ls29ad3,bysg<kopdbytss>adig<.Radrsadpttoteaygdt0ananurtssnsloyaytot1asmsadteasm’gEONNLRSADEES,CF73()9]
+
+
+================================================================================
+
+Raw Text:
+House File 710
+S-3066
+1 Amend House File 710, as passed by the House, as follows:
+2 1. Page 1, lines 3 and 4, by striking <dock site permit and
+3 hoist or slip assignment> and inserting <class I or class III
+4 dock permit, as provided in 571 IAC ch. 16,>
+5 2. Page 1, line 27, by striking <policies> and inserting
+6 <additional restrictions and requirements>
+7 3. Page 1, lines 29 and 30, by striking <dock otherwise
+8 prohibited by this section.> and inserting <dock. Restrictions
+9 and requirements adopted pursuant to the authority granted to
+10 an association under this subsection shall only apply to the
+11 association’s members and the association’s members’ guests.>
+______________________________
+COMMITTEE ON NATURAL RESOURCES AND ENVIRONMENT
+ANNETTE SWEENEY, CHAIRPERSON
+HF 710.1333 (3) 91
+-1- sb/js 1/1
+
+[DELETED: eFe7AdHeFe7,aspdbyteH,asf1.Pe1,ls3ad4,bysg<kseptahtorspa>adig<sIorcsIdkp,aspdin51ICc.12.Pe1,le2,bysg<>adi<lrsadr3.Pe1,ls29ad3,bysg<kopdbytss>adig<.Radrsadpttoteaygdt0ananurtssnsloyaytot1asmsadteasm’gEONNLRSADEES,CF73()9]

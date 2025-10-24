@@ -1,0 +1,1185 @@
+Title: 2 1. By striking everything after the enacting clause and
+Official Title: 2 1. By striking everything after the enacting clause and
+Number of Sections: 1
+Source: versions - Amendment S-3169
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+Senate File 630
+S-3169
+1 Amend Senate File 630 as follows:
+3 inserting:
+4 <Section 1. Section 2.42, Code 2025, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 17. To review and disapprove
+7 interdepartmental transfers described in section 8.39,
+8 subsection 4, paragraph “c”, as the council may determine.
+9 Sec. 2. Section 8.39, subsections 2 and 4, Code 2025, are
+10 amended to read as follows:
+11 2. If the appropriation of a department, institution,
+12 or agency is insufficient to properly meet the legitimate
+13 expenses of the department, institution, or agency, the
+14 director of the department of management, with the approval
+15 of the governor, may make an interdepartmental transfer from
+16 any other department, institution, or agency of the state
+17 having an appropriation in excess of its needs, of sufficient
+18 funds moneys to meet that deficiency. Such transfer shall
+19 be to an appropriation made from the same funding source and
+20 within the same fiscal year. The amount of a transfer made
+21 from an appropriation under this subsection shall be limited
+22 to not more than one-tenth of one percent of the total of all
+23 appropriations made from the funding source of the transferred
+24 appropriation for the fiscal year in which the transfer is
+25 made. An interdepartmental transfer to an appropriation which
+26 is not an entitlement appropriation is not authorized when
+27 the general assembly is in regular session and, in addition,
+28 the sum of interdepartmental transfers in a fiscal year to an
+29 appropriation which is not an entitlement appropriation shall
+30 not exceed fifty percent of the amount of the appropriation
+31 as enacted by the general assembly. For the purposes of this
+32 subsection, an entitlement appropriation is:
+33 a. “Appropriation in excess of its needs” means that the
+34 amount appropriated by the general assembly for a purpose is
+35 determined by the department, institution, or agency receiving
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-1- sc/ns 1/15
+1 the appropriation to be more than the amount necessary to carry
+2 out that purpose. An appropriation for an unspecified dollar
+3 amount, whether the appropriation is limited to be sufficient
+4 to carry out a particular purpose or is unlimited, shall not
+5 be considered an appropriation in excess of a department’s,
+6 institution’s, or agency’s needs.
+7 b. “Entitlement appropriation” means a line item
+8 appropriation to the state public defender for indigent defense
+9 or to the department of health and human services for foster
+10 care, state supplementary assistance, medical assistance, or
+11 for the family investment program.
+12 4. a. Prior to any transfer of funds moneys pursuant
+13 to subsection 1 or 2 of this section, or a transfer of an
+14 allocation from a subunit of a department which statutorily has
+15 independent budgeting authority, the director of the department
+16 of management shall notify the chairpersons of the standing
+17 committees on appropriations of the senate and the house of
+18 representatives and the chairpersons of subcommittees of such
+19 committees of the proposed transfer. The notice from the
+20 director shall include information concerning the amount of the
+21 proposed transfer, the departments, institutions, or agencies
+22 affected by the proposed transfer, and the reasons for the
+23 proposed transfer. Chairpersons
+24 b. Unless a transfer is governed under paragraph “c”,
+25 chairpersons notified shall be given at least two weeks to
+26 review and comment on the proposed transfer before the transfer
+27 of funds is made.
+28 c. (1) This paragraph applies to any transfer made for a
+29 fiscal year under subsection 2 between July 1 of that fiscal
+30 year and the subsequent first day of the regular session of the
+31 general assembly occurring in that fiscal year.
+32 (2) The director shall submit the notice required by this
+33 subsection to the chairpersons at least three weeks before the
+34 proposed transfer is made.
+35 (3) In addition to the information otherwise required, the
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-2- sc/ns 2/15
+1 notice required by this subsection and submitted under this
+2 paragraph must also include all of the following:
+3 (a) Information demonstrating that the appropriation from
+4 which the transfer will be made is in excess of the entity’s
+5 needs taking into account the date on which the transfer will
+6 occur within the fiscal year, and the reason the excess was not
+7 anticipated.
+8 (b) Information demonstrating that the appropriation to
+9 which the transfer will be made is insufficient to properly
+10 meet the legitimate expenses of the entity taking into account
+11 the date on which the transfer will occur within the fiscal
+12 year, and the reason the deficiency was not anticipated.
+13 (c) Information demonstrating that sufficient state moneys
+14 are available in the single funding source involved in the
+15 transfer, and citations to the law under which all entities
+16 affected by the transfer were appropriated moneys from that
+17 funding source for the applicable fiscal year.
+18 (4) Prior to the date the proposed transfer will be made,
+19 the legislative council may meet to consider the transfer. At
+20 the meeting, the legislative council may vote to disapprove the
+21 transfer. If the legislative council disapproves the transfer,
+22 the transfer shall not occur.
+23 Sec. 3. Section 8.57C, subsections 2, 3, and 4, Code 2025,
+24 are amended to read as follows:
+25 2. Moneys in the fund in a fiscal year shall be used as
+26 appropriated by the general assembly for the acquisition
+27 of computer hardware and software, software development,
+28 telecommunications equipment, and maintenance and lease
+29 agreements associated with technology components and for the
+30 purchase of equipment intended to provide an uninterruptible
+31 power supply are appropriated to the department of management
+32 to provide a stable funding source for implementation costs
+33 of state information technology projects that enhance the
+34 state’s technology infrastructure, improve government services,
+35 and promote innovation and economic development, including
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-3- sc/ns 3/15
+1 but not limited to new information technology projects
+2 and infrastructure replacement efforts of a department or
+3 establishment.
+4 a. The department shall prioritize proposed projects based
+5 on all of the following considerations:
+6 (1) Whether the project aligns with the state’s strategic
+7 priorities.
+8 (2) Whether the project promotes or introduces new
+9 technology or significantly improves an existing system.
+10 (3) Whether the project is feasible and whether the
+11 department or establishment has established readiness for the
+12 project to proceed, including a clear assessment of timelines,
+13 budgets, and measurable outcomes.
+14 (4) Whether the project includes a clear change management
+15 strategy to support user adoption and aligns with lean
+16 enterprise principles to maximize value, minimize waste, and
+17 ensure continuous improvement.
+18 (5) Whether the project provides a positive return on
+19 investment, considering both financial returns and nonfinancial
+20 benefits such as improved public safety, education, or health
+21 care.
+22 (6) Whether the project results in infrastructure that is
+23 scalable across the state enterprise.
+24 (7) Whether the department or establishment has identified
+25 how the completed project will be sustained beyond the initial
+26 funding period.
+27 (8) Whether the project improves access to governmental
+28 services, particularly in rural communities.
+29 (9) Whether the project involves an infrastructure project
+30 as opposed to maintenance or standard upgrades of existing
+31 technology.
+32 b. The department shall provide a prioritized list of
+33 proposed projects for funding to the governor, who shall use
+34 the list in developing a budgetary recommendation for the
+35 general assembly pursuant to section 8.21.
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-4- sc/ns 4/15
+1 3. a. There is appropriated from the general fund of the
+2 state to the technology reinvestment fund for the fiscal year
+3 beginning July 1, 2025, and for each subsequent fiscal year
+4 thereafter, the sum of seventeen million five hundred thousand
+5 dollars.
+6 b. There is appropriated from the rebuild Iowa
+7 infrastructure fund for the fiscal year beginning July 1, 2023,
+8 and ending June 30, 2024, the sum of eighteen million three
+9 hundred ninety thousand two hundred ninety dollars to the
+10 technology reinvestment fund, notwithstanding section 8.57,
+11 subsection 3, paragraph “c”.
+12 c. There is appropriated from the rebuild Iowa
+13 infrastructure fund for the fiscal year beginning July 1, 2024,
+14 and ending June 30, 2025, the sum of twenty-one million one
+15 hundred thirty-one thousand eight hundred seventy-three dollars
+16 to the technology reinvestment fund, notwithstanding section
+17 8.57, subsection 3, paragraph “c”.
+18 b. Notwithstanding section 8.33, moneys in the fund
+19 that remain unencumbered or unobligated at the close of a
+20 fiscal year shall not revert but shall remain available for
+21 expenditure for the purposes designated. Notwithstanding
+22 section 12C.7, subsection 2, interest or earnings on moneys in
+23 the fund shall be credited to the fund.
+24 4. Annually, on On or before January 15 of each year, a
+25 state agency that received an appropriation from this fund
+26 the department of management shall report to the legislative
+27 services agency and the department of management general
+28 assembly the status of all projects funded under this section
+29 that have been completed since the previous report was
+30 submitted or that are in progress. The report shall must
+31 include a description of the project, the progress of work
+32 completed, the total estimated cost of the project, a list of
+33 all revenue sources being used to fund the project, the amount
+34 of funds moneys expended, the amount of funds moneys obligated,
+35 and the date the project was completed or an estimated
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-5- sc/ns 5/15
+1 completion date of the project, where applicable.
+2 Sec. 4. Section 8.78, Code 2025, is amended to read as
+3 follows:
+4 8.78 Background checks.
+5 An applicant for employment with the department, or
+6 an applicant for employment with a supported entity for a
+7 position as information technology staff, may be subject to a
+8 background investigation by the department. The background
+9 investigation may include, without limitation, a work history,
+10 financial review, request for criminal history data, and
+11 national criminal history check through the federal bureau of
+12 investigation. In addition, a contractor, vendor, employee, or
+13 any other individual performing work for the department, or an
+14 individual on the information technology staff of a supported
+15 entity, may be subject to a national criminal history check
+16 through the federal bureau of investigation at least once
+17 every ten five years, including, without limitation, any time
+18 the department or supported entity has reason to believe an
+19 individual has been convicted of a crime. The department may
+20 request the national criminal history check and, if requested,
+21 shall provide the individual’s fingerprints to the department
+22 of public safety for submission through the state criminal
+23 history repository to the federal bureau of investigation.
+24 The individual shall authorize release of the results of the
+25 national criminal history check to the department and the
+26 applicable supported entity. The department shall pay the
+27 actual cost of the fingerprinting and national criminal history
+28 check, if any, unless otherwise agreed as part of a contract
+29 between the department or supported entity and a vendor or
+30 contractor performing work for the department or supported
+31 entity. The results of a criminal history check conducted
+32 pursuant to this section shall not be considered a public
+33 record under chapter 22.
+34 Sec. 5. NEW SECTION. 8.94 Contracts —— prohibited terms.
+35 Provisions included in a contract entered into pursuant to
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-6- sc/ns 6/15
+1 this subchapter that impose terms or conditions prohibited by
+2 this section are void as contrary to public policy. Such a
+3 contract shall be interpreted and enforced as if the contract
+4 did not include the prohibited terms or conditions. Prohibited
+5 terms and conditions include all of the following:
+6 1. A provision requiring the department or a supported
+7 entity to defend, indemnify, hold harmless another person, or
+8 otherwise assume the debt or liability of another person in
+9 violation of Article VII, section 1, of the Constitution of the
+10 State of Iowa.
+11 2. A provision that seeks to impose a term that is unknown
+12 to the department or supported entity at the time of signing
+13 the contract or that can be unilaterally changed by an entity
+14 other than the department or a supported entity.
+15 3. A provision that violates chapter 13 by not allowing
+16 the department or a supported entity to participate in its own
+17 defense through representation by the attorney general.
+18 4. A provision that grants to a person other than the
+19 attorney general the authority to convey to a court or litigant
+20 the state’s consent to any settlement of a suit involving the
+21 contract when such settlement could impose liability on the
+22 state.
+23 5. A provision that specifies that the contract is governed
+24 by the laws of a foreign state or nation.
+25 6. A provision that claims blanket confidentiality of the
+26 contract’s terms.
+27 7. A provision that claims that payment terms, including but
+28 not limited to cost proposals or other pricing information, of
+29 the contract are confidential.
+30 8. A provision that authorizes or requires a venue for
+31 litigation other than an appropriate state or federal court
+32 sitting in Iowa.
+33 9. A provision that requires the department or a supported
+34 entity to pay attorney fees, court costs, or other litigation
+35 expenses in the event of a contractual dispute.
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-7- sc/ns 7/15
+1 10. A provision that imposes on the department or a
+2 supported entity binding arbitration or any other binding
+3 extrajudicial dispute resolution process in which the final
+4 resolution is not determined by the state.
+5 11. A provision that waives the department’s or a supported
+6 entity’s right to a jury trial.
+7 12. A provision that obligates the department or a supported
+8 entity to pay late payment charges not consistent with section
+9 8A.514, interest greater than allowed under section 8A.514 or
+10 other applicable law, or any cancellation charges, as such
+11 charges constitute pledges of the state’s credit.
+12 13. A provision that obligates the department or a supported
+13 entity to pay a tax.
+14 14. A provision that imposes a prior notice obligation
+15 on the department or a supported entity as a condition for
+16 the automatic renewal of a software license. The department
+17 or a supported entity may provide notice of its intent to
+18 terminate a software license at any time before the renewal
+19 date established in the contract.
+20 15. A provision that obligates the department or a supported
+21 entity to accept risk of loss before the receipt of items or
+22 goods.
+23 16. A provision that obligates the department or a supported
+24 entity to have commercial insurance.
+25 17. A provision that obligates the department or a supported
+26 entity to grant to a nongovernmental entity full or partial
+27 ownership of intellectual property developed pursuant to the
+28 contract when the intellectual property is developed in whole
+29 or in part using federal funding.
+30 18. A provision that limits the time in which the department
+31 or a supported entity may bring a legal claim under the
+32 contract to a period shorter than that provided in Iowa law.
+33 19. A boilerplate provision included in transactional
+34 documents received by the department or a supported entity that
+35 seeks to alter the terms of the contract or to impose new terms
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-8- sc/ns 8/15
+1 in the contract.
+2 Sec. 6. NEW SECTION. 8.95 Contracts —— required terms.
+3 All of the following provisions shall be deemed to be
+4 included in a contract entered into by the department or a
+5 supported entity under this subchapter:
+6 1. Governing law. The contract shall be governed by
+7 the laws of the state of Iowa, without giving effect to any
+8 conflicts of law principles of Iowa law that may require the
+9 application of another jurisdiction’s law.
+10 2. Venue. Any litigation commenced in connection with the
+11 contract shall be brought and maintained in an appropriate
+12 state or federal court sitting in Iowa.
+13 Sec. 7. NEW SECTION. 8.96 Contracts —— limitation of
+14 liability —— prohibited terms.
+15 Notwithstanding section 8A.311, subsection 22, and rules
+16 adopted pursuant to that subsection, the director may include
+17 a contractual limitation of vendor liability in information
+18 technology goods and services contracts. A contractual
+19 limitation of vendor liability must take into consideration the
+20 public interest and the mitigation of risks associated with the
+21 use of information technology goods or services. Any portion
+22 of a contractual limitation of vendor liability that includes
+23 a repudiation of all liability for cybersecurity incidents or
+24 a limitation on the vendor’s liability for intentional torts,
+25 criminal acts, fraudulent conduct, intentional or willful
+26 misconduct, gross negligence, death, bodily injury, damage to
+27 real or personal property, intellectual property violations,
+28 liquidated damages, compliance with applicable laws, violations
+29 of confidential information obligations, or contractual
+30 obligations of the vendor pertaining to indemnification shall
+31 be void as a matter of law as contrary to public policy. A
+32 contractual limit of vendor liability that does not apply
+33 equally to the contracted parties or that limits a vendor’s
+34 liability to less than the contract value inclusive of all
+35 possible extensions is void as a matter of law as contrary to
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-9- sc/ns 9/15
+1 public policy.
+2 Sec. 8. NEW SECTION. 8.97 Confidentiality of communications
+3 with chief information security officer.
+4 In the interest of facilitating communication between
+5 the chief information security officer and other entities
+6 concerning security incidents and security breaches, all such
+7 communications and any documents generated based in whole or in
+8 part on such communications are confidential. Notwithstanding
+9 chapter 22 or any other provision of law to the contrary, the
+10 department shall not release such communications pursuant to
+11 state open records laws, and such communications shall not be
+12 received into evidence, subject to discovery, or otherwise
+13 used in a trial, hearing, or other proceeding in or before any
+14 court, regulatory body, or other authority of the state or a
+15 political subdivision of the state, unless the communications
+16 are subject to a protective order that prohibits further
+17 disclosure of such communications and requires any court
+18 filings of such communications to be made under seal. It is
+19 the intent of the general assembly that these prohibitions and
+20 restrictions also apply to federal courts, regulatory bodies,
+21 and other authorities and for purposes of federal open records
+22 laws, to the extent allowed by federal law and court rules.
+23 The chief information security officer shall not release such
+24 communications other than for any of the following purposes:
+25 1. Identifying a cybersecurity threat, including the source
+26 of the cybersecurity threat, or a security vulnerability, and
+27 then only to government officials for purposes of addressing
+28 the threat.
+29 2. Responding to, or otherwise preventing or mitigating,
+30 a specific threat of death, serious bodily harm, or serious
+31 economic harm.
+32 3. Responding to, investigating, prosecuting, or otherwise
+33 preventing or mitigating a serious threat to a minor, including
+34 sexual exploitation and threats to physical safety.
+35 4. Preventing, investigating, disrupting, or prosecuting an
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-10- sc/ns 10/15
+1 offense under state or federal law.
+2 5. Providing a confidential cybersecurity briefing to the
+3 governor or a member of the general assembly.
+4 Sec. 9. NEW SECTION. 8.98 Criminal justice information.
+5 1. The department is authorized to maintain an integrated
+6 information system that enables automated data sharing among
+7 the executive branch, judicial branch, and local agencies.
+8 2. The department is designated as the Iowa statistical
+9 analysis center for the purpose of coordinating with data
+10 resource agencies to provide data and analytical information
+11 to federal, state, and local governments. Notwithstanding any
+12 other provision of state law to the contrary, unless prohibited
+13 by federal law or regulation, the department shall be granted
+14 access, for purposes of research and evaluation, to all of
+15 the data listed in this subsection, except that intelligence
+16 data and peace officer investigative reports maintained
+17 by the department of public safety shall not be considered
+18 data for the purposes of this section. The department of
+19 management and any record, data, or information obtained by the
+20 department under this subsection is subject to the federal and
+21 state confidentiality laws and rules, including as described
+22 in chapter 22, applicable to the original record, data, or
+23 information, and to the original custodian of the record,
+24 data, or information. Authorized access under this subsection
+25 includes but is not limited to all of the following:
+26 a. Juvenile court records and all other information
+27 maintained under sections 232.147 through 232.151.
+28 b. Child abuse information under sections 235A.15 through
+29 235A.19.
+30 c. Dependent adult abuse records maintained under chapter
+31 235B.
+32 d. Criminal history data maintained under chapter 692.
+33 e. Sex offender registry information maintained under
+34 chapter 692A.
+35 f. Presentence investigation reports maintained under
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-11- sc/ns 11/15
+1 section 901.4.
+2 g. Corrections records maintained under sections 904.601 and
+3 904.602.
+4 h. Community-based correctional program records maintained
+5 under chapter 904.
+6 i. Parole records maintained under chapter 906.
+7 j. Deferred judgment, deferred or suspended sentence, and
+8 probation records maintained under chapter 907.
+9 k. Violation of parole or probation records maintained under
+10 chapter 908.
+11 l. Fine and victim restitution records maintained under
+12 chapters 909 and 910.
+13 m. Child welfare records maintained under chapter 235.
+14 3. The department is authorized to provide data analysis and
+15 reporting on issues that may affect the state’s correctional
+16 population and various subgroups of the population. This
+17 reporting may include the review of filed, public legislative
+18 bills, joint resolutions, and amendments, and compiling
+19 criminal justice data for completion of correctional impact
+20 statements under section 2.56, racial impact statements, and an
+21 annual prison population forecast.
+22 4. The department is authorized to maintain a multiagency
+23 information system to track the progress of juveniles and
+24 adults who have been charged with a criminal offense in
+25 the court system through various state and local agencies
+26 and programs. This system must utilize existing databases,
+27 including the Iowa court information system, the Iowa
+28 corrections offender network, the child welfare information
+29 system of the department of health and human services,
+30 the federally mandated national adoption and foster care
+31 information system, and other state and local databases
+32 pertaining to juveniles and to adults who have been charged
+33 with a criminal offense in the court system, to the extent
+34 practicable.
+35 5. The multiagency information system is authorized to
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-12- sc/ns 12/15
+1 count and track decision points for juveniles in the juvenile
+2 justice system and minors in the child welfare system, evaluate
+3 the experiences of the juveniles and minors, and evaluate
+4 the success of the services provided. The system is also
+5 authorized to count and track decision points for adults who
+6 have been charged with a criminal offense in the court system,
+7 including but not limited to dismissed charges, convictions,
+8 deferred judgments, and sentence information.
+9 6. If the department has insufficient moneys or resources
+10 to implement this section, the department is authorized to
+11 determine which portion of this section may be implemented, if
+12 any, and the remainder of this section shall not apply.
+13 Sec. 10. NEW SECTION. 8.99 Confidentiality of data.
+14 1. For purposes of chapter 22, the department shall not be
+15 deemed to be the lawful custodian of records the department
+16 maintains for another department or establishment under this
+17 subchapter, to the extent the records in question are held
+18 by the department as an automated data processing unit of
+19 government or held by the department solely for storage for
+20 another department or establishment. Such records include but
+21 are not limited to all of the following:
+22 a. Electronic messaging system data.
+23 b. Mainframe data.
+24 c. Storage solutions or other electronic information, such
+25 as on-premises server data storage and cloud data storage.
+26 2. If the department receives a request pursuant to chapter
+27 22 for records over which the department has determined it is
+28 not the lawful custodian, the department shall deny the request
+29 and inform the requester to seek the information from the
+30 lawful custodian as provided in chapter 22. The department’s
+31 determination that it is not the lawful custodian of records is
+32 presumed valid. The presumption may be rebutted by clear and
+33 convincing evidence to the contrary.
+34 3. The department shall provide assistance to the lawful
+35 custodian of records held by the department so that the lawful
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-13- sc/ns 13/15
+1 custodian can comply with the production obligations of chapter
+2 22.
+3 4. If the department receives a subpoena in an
+4 administrative, civil, or criminal case for records for which
+5 the department is not the lawful custodian, the department
+6 shall notify the lawful custodian and the attorney general’s
+7 office and cooperate in any efforts to resist the subpoena.
+8 Sec. 11. Section 216A.131A, Code 2025, is amended to read
+9 as follows:
+10 216A.131A Criminal and juvenile justice planning.
+11 The department shall fulfill the responsibilities of
+12 this subchapter, including the duties specified in sections
+13 216A.133, 216A.135, 216A.136, 216A.137, 216A.138, and 216A.140.
+14 Sec. 12. Section 216A.133, subsection 1, paragraphs d, e, f,
+15 l, and t, Code 2025, are amended by striking the paragraphs.
+16 Sec. 13. Section 216A.133, subsection 1, paragraph q,
+17 subparagraphs (1) and (6), Code 2025, are amended by striking
+18 the subparagraphs.
+19 Sec. 14. Section 216A.133, subsection 1, paragraph s, Code
+20 2025, is amended to read as follows:
+21 s. Provide expertise and advice to the legislative
+22 services agency, the department of management, the department
+23 of corrections, the judicial branch, and others charged
+24 with formulating fiscal, correctional, or minority impact
+25 statements.
+26 Sec. 15. Section 216A.135, subsection 2, paragraph e, Code
+27 2025, is amended by striking the paragraph.
+28 Sec. 16. Section 232.147, subsection 2, paragraph i, Code
+29 2025, is amended to read as follows:
+30 i. The statistical analysis center for the purposes stated
+31 in section 216A.136 8.98.
+32 Sec. 17. Section 232.147, subsection 3, paragraph n, Code
+33 2025, is amended to read as follows:
+34 n. The statistical analysis center for the purposes stated
+35 in section 216A.136 8.98.
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-14- sc/ns 14/15
+1 Sec. 18. Section 232.147, subsection 4, paragraph i, Code
+2 2025, is amended to read as follows:
+3 i. The statistical analysis center for the purposes stated
+4 in section 216A.136 8.98.
+5 Sec. 19. Section 232.149, subsection 5, paragraph f, Code
+6 2025, is amended to read as follows:
+7 f. The statistical analysis center for the purposes stated
+8 in section 216A.136 8.98.
+9 Sec. 20. Section 232.149A, subsection 3, paragraph m, Code
+10 2025, is amended to read as follows:
+11 m. The statistical analysis center for the purposes stated
+12 in section 216A.136 8.98.
+13 Sec. 21. REPEAL. Sections 216A.136, 216A.137, and
+14 216A.138, Code 2025, are repealed.
+15 Sec. 22. APPLICABILITY. The following apply to contracts
+16 entered into or renewed on or after the effective date of this
+17 Act:
+18 1. The section of this Act enacting section 8.94.
+19 2. The section of this Act enacting section 8.95.
+20 3. The section of this Act enacting section 8.96.>
+21 2. Title page, by striking lines 1 through 5 and inserting
+22 <An Act relating to matters under the purview of the
+23 department of management, making appropriations, and including
+24 applicability provisions.>
+______________________________
+MIKE BOUSSELOT
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-15- sc/ns 15/15
+[DELETED: eFe6AdSeFe60asf1.Bysgegarteegceai<n1.Sn2,Ce2,isadbyatefgnwsNWS.1.Torwaddiltsddinsn8sn4,ph,asteclmydS.2.Sn8,ss2ad4,Ce2,a0adtordasf12.Ifteanofad,i2orayisittopymttel3esofted,i,ora,t4droftedtofm,whtea5ofteg,mymeaniltrf6ayord,i,orayoftes7hgananinesofisn,ofs8fsmstomtttd.Shtrs9betoananmefmtesefgsea0wntesefly.Teatofatrm1fmananurtssnslbel2tontmetnohofoeptoftetlofa3asmefmtefgseoftet4anfrteflyrinwhtetri5m.Aniltrtoananw6isntanetanisntadw7teglayisinrrsna,ina8tesmofiltsinaflyrtoa9anwhisntanetans0ntedfyptofteatoftea1asedbytegla.Frtepsoft2s,anetani.“ninesofisn3msttt4atadbyteglayfrapei5ddbyted,i,orayrF60()9gtsSF60toCMtoHF1s1]
+[DELETED: teantobemetnteatnytocotttp.Ananfranudda,wrteanisldtobestocyotaprpeorisu,slnbecdananinesofadi,orasn.“tamsaleiantotesepcdrfritdortotedtofhhadhnssfrf0c,sesya,mla,o1frtefyitp24.Prtoaytroffsmsp3tosn1or2oftss,oratrofa4anfmastofadtwhsyh5itbga,tedrofted6ofmtslnytecsoftes7csonasofteseadteheo8rsadtecsofssofs9csoftepdt.Tenefmt0drslieincgteatoft1pdt,ted,i,ora2adbytepdt,adtersfrt3pdt.C.“4Usatrisgdurph5csndslbegnatlttowst6rwadctontepdtrbetet7offsism8()Tsphastoaytrmefr9flyrursn2bnJy1ofttf0yradtestftdyofterrsnoft1glayoginttfly2()Tedrslsttenerdbyt3sntotecsatlttewsbet4pdtrism5()Inantoteinoer,tF60()9gtsSF60toCMtoHF1s2]
+[DELETED: nerdbytssnadsdurtphmtaoiealoftef()Indgttteanfwhtetrwlbemeisinesofteenstgioattedeonwhtetrworwntefly,adternteeswsna()Indgttteantwhtetrwlbemeisittop0mtteleesofteeytgioa1tedeonwhtetrwlorwntef2y,adterntedywsnta3()Indgttstsem4aeaeintesefgseidint5t,adcstotelwurwhale6adbytetrweadmsfmt7fgsefrteaefly8()Prtotedetepdtrwlbem9teleclmymttocrtet.A0tem,teleclmyvetodet1t.Iftelecldstet2tetrslnto3S.3.Sn8,ss2,3,ad4,Ce24aeadtordasf52.Msintefdinaflyrslbeuda6adbyteglayfrtea7ofcrheads,sed8tse,admeadl9asadwhtycsadfrt0peofetidtopeanu1prsyaeadtotedtofm2topeasefgsefrinc3ofseintypstteet4sstyi,iegts5adpeinadecd,iF60()9gtsSF60toCMtoHF1s3]
+[DELETED: btntldtonwintypadiertesofadtoeTedtslpepdpsbonaloftefgc()Wrteptaswhtesssp()Wrteptpsorisntyorsyisanegs0()Wrteptisfeadwrt1dtorethsedrsfrt2pttop,igacratoft3b,admeo4()Wrteptisacrcem5sytosturanadaswhl6eepstomev,mew,a7eecsi8()Wrteptpsaperno9i,cgbhflrsadn0bsshasidpcs,e,orh1c2()Wrteptrsinietti3seastesee4()Wrtedtorethsi5hwtecdptwlbesdbdtei6fgp7()Wrteptisastog8s,pyinrlc9()Wrteptisaniep0asodtomeorsdusofe1t2Tedtslpeapdlto3pdpsfrfgtoteg,woslu4teltindgabyrnfrt5glaypttosn8F60()9gtsSF60toCMtoHF1s4]
+[DELETED: 3.TeisadfmteglfdoftsetotetyrtfdfrteflybgJy1,2,adfrehstflyt,tesmofsnmnfehdtdTeisadfmterdIiefdfrteflyrbgJy1,2adegJe3,2,tesmofenmnthdnytdtohdnydstot0tyrtf,ngsn81sn3,ph2TeisadfmterdI3iefdfrteflyrbgJy1,24adegJe3,2,tesmoftemno5hdtetdethdsed6totetyrtf,ngs78,sn3,ph8Ngsn8,msintef9ttrnudorudatteceof0flyrslntrtbtslrnaef1eefrtepsd.N2sn1,sn2,itoresonmsi3tefdslbecdtotef44.A,onOnorbeJy15ofehy,5seayttrdananfmtsf6tedtofmtslrttotel7ssayadtedtofmtg8aytessofalpsfdurtss9tthebncdsetepsrtw0sdorttaeinp.Tertslm1ieadnoftep,tepsofw2c,tetledctoftep,alto3alressbgudtofdtep,tea4offsmse,teatoffsmso5adtedeteptwscdoraneF60()9gtsSF60toCMtoHF1s5]
+[DELETED: cndeoftep,weaS.4.Sn8,Ce2,isadtordaf8BdcAnatfretwhted,oanatfretwhasdeyfrpnasintys,mybesttobdinbyted.Tebinmyi,wtl,awkh0flr,rtfrclhyd,a1nlclhyckthteflbuo2i.Ina,ac,v,e,o3ayorilpgwkfrted,ora4ilonteintysfofas5e,mybesttoanlclhyc6thteflbuofinatlto7eytnfey,i,wtl,ayt8tedtorsdeyhsrntobea9ilhsbncdofac.Tedtm0rttenlclhycka,ifr1slpeteisfstoted2ofpcsyfrsnthtesec3hyrytoteflbuofi4Teilslaereoftersoft5nlclhycktotedtadt6aesde.Tedtslpyt7alctoftefgadnlclh8c,ifa,usoeadasptofac9bntedtorsdeyadavro0crpgwkfrtedtors1e.Tersofaclhyckc2pttotssnslntbecdap3rdurcr24S.5.NWS4Cs——pdt5PsidinactediopttF60()9gtsSF60toCMtoHF1s6]
+[DELETED: tssrttietsorcspdbtssnaevdascytopcp.Shctslbeidadedasiftecddntietepdtsorc.Ptsadcsiealoftef1.Apnrgtedtoraseytod,i,hdhsarp,ooeaetedtorlyofarpnivnofAeV,sn1,ofteCnoft0SeofI12.Apnttsstoieatmttisu2totedtorsdeyatteteofs3tectorttcnbeuycdbyane4ortntedtorasde53.Apnttvscr13bynta6tedtorasdeytopeiniso7dethrnbyteayg84.Apnttgstoapnortnt9ayglteaytocytoactorl0tesscttoaystofastigt1ctwnshstcdielyont2s35.Apnttsstttectisg4bytelsofafnseorn56.Apnttcsbtcyoft6cst77.Apnttcsttptt,igb8ntldtoctpsororpgi,o9tectaec08.Apnttasorrsavef1lnortnanaeseorflc2sginI39.Apnttrstedtoras4eytopyayf,ctc,ororl5esinteetofacldF60()9gtsSF60toCMtoHF1s7]
+[DELETED: 1.Apnttisontedtorsdeybganorayorbeldernpsinwhtefrnisntddbytes1.Apnttwstedsorasesrttoajyt1.Apnttostedtoraseytopyleptcsntctwhs8,itgrtnadursn84o0orael,oraycnc,ass1cscepsoftessc21.Apnttostedtoras3eytopyat41.Apnttisaprneo5ontedtorasdeyasacnf6teacrlofasel.Ted7orasdeymypeneofisitt8teaseleataytebeter9deedintec01.Apnttostedtoras1eytoatrkoflsbetertofiso2g31.Apnttostedtoras4eytohecli51.Apnttostedtoras6eytogttoanleyflorp7opofilpyddpttot8ctwnteilpyisddinw9orinptugflf01.Apnttlsteteinwhted1orasdeymybgallcmurt2cttoapdsrtnttpdinIal31.Abepnidint4dsrdbytedtorasdeyt5sstoartetsoftectortoienwtF60()9gtsSF60toCMtoHF1s8]
+[DELETED: intecS.6.NWS5Cs——rdtAloftefgpsslbeddtobidinactediobytedtorsdeyurtss1.TectslbegdbgltelsofteseofI,wtggettoacsoflwpsofIalwttmyretanofarjsl02.Aylncdincnwht1ctslbebtadmdinana2seorflctsginI3S.7.NWS6Cs——lnoy——pdt5Ngsn8,sn2,adr6adpttotts,tedrmyi7acllnofvrlyini8tygsadssc.Ac9lnofvrlymtteiocnt0pcitadtemnofrsadwht1ueofintygsors.Ayp2ofacllnofvrlytti3arnofallyfrcyiso4alnontevslyfrilt5cla,ftc,ilorw6m,gsn,d,byi,det7rlorplp,ilpyv8ldd,cewhael,v9ofclino,orc0osoftevrpgtoins1bevdasamroflwascytopcp.2clltofvrlyttdsnta3eytotecdpsorttlsav4lytolstntectveieofa5peesisvdasamroflwascytF60()9gtsSF60toCMtoHF1s9]
+[DELETED: pcpS.8.NWS7CyofchcfinsyoInteitoffgcnbtecfinsyoradorecgsyisadsyb,alscsadaydsgdbdinweoriptonshcsaec.Ncr22orayorpnoflwtotec,t0dtslntreshcsptt1seonrsl,adshcsslntb2rdioe,sttod,oro3udinat,h,ororpginorbea4c,ryb,ororayofteseor5plsnoftes,ustec6aesttoapeorttpsf7deofshcsadrsayc8fsofshcstobemeurs.Iti9teitofteglaytttepsa0rsaoaytoflc,ryb1adorasadfrpsofflonr2l,toteetadbyfllwadctr3Tecfinsyorslntres4csortnfrayoftefgp51.Igacyt,igtes6oftecyt,orasyv,a7tnoytogtosfrpsofa8tet92.Rgt,oroepgorm0ascttofd,ssbyh,ors1ech23.Rgt,i,p,oro3pgormgasstttoam,i4slenadtstopls54.P,i,d,orpgaF60()9gtsSF60toCMtoHF1s1]
+[DELETED: oeurseorfll5.PgaclcybgtotgroramrofteglaS.9.NWS8Cljei1.Tedtisadtomnaniinsmttesaddasgateeeb,jlb,adlla2.TedtisddasteIasascrfrtepeofcgwhd0reastopedaadali1tof,s,adllg.Nga2orpnofselwtotec,usp3byfllworr,tedtslbeg4a,frpsofrhade,toalo5tedaldintss,ettti6daadpeoriersm7bytedtofpcsyslntbec8dafrtepsoftss.Tedto9mtadayr,d,orinodbyt0dturtssnissttotefla1secylsadr,igasd2incr2,aetoteolr,d,o3i,adtoteolcnofter4d,ori.Adasurtss5isbtisntldtoaloftef6Jectrsadalori7mdurss27th28Cdaeinurss25t920Dtataersmdurc122Clhydamdurcr63Sxorryinmdu4cr65PeinrsmduF60()9gtsSF60toCMtoHF1s1]
+[DELETED: sn9Csrsmdurss91a9Cdclpmrsmurcr9Persmdurcr9Ddj,ddorsds,apnrsmdurcr9Vnofpeorpnrsmdu0cr91Feadvmrnrsmdu2cs99ad93Cdwersmdurcr243.Tedtisadtopedaasa5rgonisttmyattessc6pnadvsssoftep.T7rgmyieterwoff,pcl8b,jtr,ada,adc9cljedafrcnofcli0ssursn2,rlits,ada1alpnpnf24.Tedtisadtomnam3insmtotktepsofjsa4aswohebncdwhacloei5tectsmthvsseadlla6adp.Tssmmtueegd7igteIactins,teI8csorn,tecdwei9smoftedtofhhadhns0tefymdnlanadfrc1ins,adorseadlld2pgtojsadtoaswohebnc3whacloeintects,totee4p55.TemyinsmisadtF60()9gtsSF60toCMtoHF1s1]
+[DELETED: ctadtkdnpsfrjsintejjesmadmsintecdwes,eteesoftejsadm,adetessoftessp.Tesmisaadtoctadtkdnpsfraswhebncdwhacloeintectsigbtntldtoddc,cddj,adsei6.Iftedthsitmsorr0toittss,tedtisadt1dewhpnoftssnmybei,i2a,adterroftssnslnta3S.1.NWS9Cyofd41.Frpsofcr2,tedtslntb5ddtobetellcnofrsted6msfrardtoreturt7s,toteettersinqnaeh8bytedtasanaddapguto9gtorhdbytedtsyfrsef0ardtore.Shrsieb1aentldtoaloftef2Ecmgsmd3Med4Sessororeci,s5asossrdaseadcddas62.Iftedtrsartpttoc722frrsorwhtedthsdditi8nttellc,tedtsldyter9adimterrtoskteinfmt0llcnaspdincr2.Ted1dnttitisnttellcnofrsi2pdv.Tepnmyberdbycra3cgeetotec43.Tedtslpeaetotel5cnofrshdbytedtsotttelF60()9gtsSF60toCMtoHF1s1]
+[DELETED: cncncywhtepnosofc24.Iftedtrsasainaa,c,orclcefrrsfrwtedtisnttellc,tedslnytellcnadteaygoeadceinayestorttesS.1.Sn2,Ce2,isadtorasfACladjejep1Tedtslflterso2tss,igtedssdins32,2,2,2,2,ad24S.1.Sn2,sn1,psd,e,f5l,adt,Ce2,aeadbysgtep6S.1.Sn2,sn1,phq7ss()ad(,Ce2,aeadbys8tes9S.1.Sn2,sn1,phs,C02,isadtordasf1Peeeadaetotel2ssa,tedtofm,ted3ofc,tejlb,adosc4whfgf,c,ormyi5s6S.1.Sn2,sn2,phe,C72,isadbysgtep8S.1.Sn2,sn2,phi,C92,isadtordasf0Teslascrfrtepss1insn2682S.1.Sn2,sn3,phn,C32,isadtordasf4Teslascrfrtepss5insn268F60()9gtsSF60toCMtoHF1s1]
+[DELETED: S.1.Sn2,sn4,phi,C2,isadtordasfTeslascrfrtepssinsn268S.1.Sn2,sn5,phf,C2,isadtordasfTeslascrfrtepssinsn268S.2.Sn2,sn3,phm,C02,isadtordasf1Teslascrfrtepss2insn2683S.2.R.Ss2,2,a42,Ce2,aer5S.2.A.Tefgaytoc6edioorrdonorarteeedeoft7A81.TesnoftsAtegsn892.TesnoftsAtegsn803.TesnoftsAtegsn812.Tep,bysgls1th5adi2<nAtrgtomsurtepwoft3dtofm,mga,adi4aypEBF60()9gtsSF60toCMtoHF1s1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 630
+S-3169
+1 Amend Senate File 630 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 2.42, Code 2025, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 17. To review and disapprove
+7 interdepartmental transfers described in section 8.39,
+8 subsection 4, paragraph “c”, as the council may determine.
+9 Sec. 2. Section 8.39, subsections 2 and 4, Code 2025, are
+10 amended to read as follows:
+11 2. If the appropriation of a department, institution,
+12 or agency is insufficient to properly meet the legitimate
+13 expenses of the department, institution, or agency, the
+14 director of the department of management, with the approval
+15 of the governor, may make an interdepartmental transfer from
+16 any other department, institution, or agency of the state
+17 having an appropriation in excess of its needs, of sufficient
+18 funds moneys to meet that deficiency. Such transfer shall
+19 be to an appropriation made from the same funding source and
+20 within the same fiscal year. The amount of a transfer made
+21 from an appropriation under this subsection shall be limited
+22 to not more than one-tenth of one percent of the total of all
+23 appropriations made from the funding source of the transferred
+24 appropriation for the fiscal year in which the transfer is
+25 made. An interdepartmental transfer to an appropriation which
+26 is not an entitlement appropriation is not authorized when
+27 the general assembly is in regular session and, in addition,
+28 the sum of interdepartmental transfers in a fiscal year to an
+29 appropriation which is not an entitlement appropriation shall
+30 not exceed fifty percent of the amount of the appropriation
+31 as enacted by the general assembly. For the purposes of this
+32 subsection, an entitlement appropriation is:
+33 a. “Appropriation in excess of its needs” means that the
+34 amount appropriated by the general assembly for a purpose is
+35 determined by the department, institution, or agency receiving
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-1- sc/ns 1/15
+
+1 the appropriation to be more than the amount necessary to carry
+2 out that purpose. An appropriation for an unspecified dollar
+3 amount, whether the appropriation is limited to be sufficient
+4 to carry out a particular purpose or is unlimited, shall not
+5 be considered an appropriation in excess of a department’s,
+6 institution’s, or agency’s needs.
+7 b. “Entitlement appropriation” means a line item
+8 appropriation to the state public defender for indigent defense
+9 or to the department of health and human services for foster
+10 care, state supplementary assistance, medical assistance, or
+11 for the family investment program.
+12 4. a. Prior to any transfer of funds moneys pursuant
+13 to subsection 1 or 2 of this section, or a transfer of an
+14 allocation from a subunit of a department which statutorily has
+15 independent budgeting authority, the director of the department
+16 of management shall notify the chairpersons of the standing
+17 committees on appropriations of the senate and the house of
+18 representatives and the chairpersons of subcommittees of such
+19 committees of the proposed transfer. The notice from the
+20 director shall include information concerning the amount of the
+21 proposed transfer, the departments, institutions, or agencies
+22 affected by the proposed transfer, and the reasons for the
+23 proposed transfer. Chairpersons
+24 b. Unless a transfer is governed under paragraph “c”,
+25 chairpersons notified shall be given at least two weeks to
+26 review and comment on the proposed transfer before the transfer
+27 of funds is made.
+28 c. (1) This paragraph applies to any transfer made for a
+29 fiscal year under subsection 2 between July 1 of that fiscal
+30 year and the subsequent first day of the regular session of the
+31 general assembly occurring in that fiscal year.
+32 (2) The director shall submit the notice required by this
+33 subsection to the chairpersons at least three weeks before the
+34 proposed transfer is made.
+35 (3) In addition to the information otherwise required, the
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-2- sc/ns 2/15
+
+1 notice required by this subsection and submitted under this
+2 paragraph must also include all of the following:
+3 (a) Information demonstrating that the appropriation from
+4 which the transfer will be made is in excess of the entity’s
+5 needs taking into account the date on which the transfer will
+6 occur within the fiscal year, and the reason the excess was not
+7 anticipated.
+8 (b) Information demonstrating that the appropriation to
+9 which the transfer will be made is insufficient to properly
+10 meet the legitimate expenses of the entity taking into account
+11 the date on which the transfer will occur within the fiscal
+12 year, and the reason the deficiency was not anticipated.
+13 (c) Information demonstrating that sufficient state moneys
+14 are available in the single funding source involved in the
+15 transfer, and citations to the law under which all entities
+16 affected by the transfer were appropriated moneys from that
+17 funding source for the applicable fiscal year.
+18 (4) Prior to the date the proposed transfer will be made,
+19 the legislative council may meet to consider the transfer. At
+20 the meeting, the legislative council may vote to disapprove the
+21 transfer. If the legislative council disapproves the transfer,
+22 the transfer shall not occur.
+23 Sec. 3. Section 8.57C, subsections 2, 3, and 4, Code 2025,
+24 are amended to read as follows:
+25 2. Moneys in the fund in a fiscal year shall be used as
+26 appropriated by the general assembly for the acquisition
+27 of computer hardware and software, software development,
+28 telecommunications equipment, and maintenance and lease
+29 agreements associated with technology components and for the
+30 purchase of equipment intended to provide an uninterruptible
+31 power supply are appropriated to the department of management
+32 to provide a stable funding source for implementation costs
+33 of state information technology projects that enhance the
+34 state’s technology infrastructure, improve government services,
+35 and promote innovation and economic development, including
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-3- sc/ns 3/15
+
+1 but not limited to new information technology projects
+2 and infrastructure replacement efforts of a department or
+3 establishment.
+4 a. The department shall prioritize proposed projects based
+5 on all of the following considerations:
+6 (1) Whether the project aligns with the state’s strategic
+7 priorities.
+8 (2) Whether the project promotes or introduces new
+9 technology or significantly improves an existing system.
+10 (3) Whether the project is feasible and whether the
+11 department or establishment has established readiness for the
+12 project to proceed, including a clear assessment of timelines,
+13 budgets, and measurable outcomes.
+14 (4) Whether the project includes a clear change management
+15 strategy to support user adoption and aligns with lean
+16 enterprise principles to maximize value, minimize waste, and
+17 ensure continuous improvement.
+18 (5) Whether the project provides a positive return on
+19 investment, considering both financial returns and nonfinancial
+20 benefits such as improved public safety, education, or health
+21 care.
+22 (6) Whether the project results in infrastructure that is
+23 scalable across the state enterprise.
+24 (7) Whether the department or establishment has identified
+25 how the completed project will be sustained beyond the initial
+26 funding period.
+27 (8) Whether the project improves access to governmental
+28 services, particularly in rural communities.
+29 (9) Whether the project involves an infrastructure project
+30 as opposed to maintenance or standard upgrades of existing
+31 technology.
+32 b. The department shall provide a prioritized list of
+33 proposed projects for funding to the governor, who shall use
+34 the list in developing a budgetary recommendation for the
+35 general assembly pursuant to section 8.21.
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-4- sc/ns 4/15
+
+1 3. a. There is appropriated from the general fund of the
+2 state to the technology reinvestment fund for the fiscal year
+3 beginning July 1, 2025, and for each subsequent fiscal year
+4 thereafter, the sum of seventeen million five hundred thousand
+5 dollars.
+6 b. There is appropriated from the rebuild Iowa
+7 infrastructure fund for the fiscal year beginning July 1, 2023,
+8 and ending June 30, 2024, the sum of eighteen million three
+9 hundred ninety thousand two hundred ninety dollars to the
+10 technology reinvestment fund, notwithstanding section 8.57,
+11 subsection 3, paragraph “c”.
+12 c. There is appropriated from the rebuild Iowa
+13 infrastructure fund for the fiscal year beginning July 1, 2024,
+14 and ending June 30, 2025, the sum of twenty-one million one
+15 hundred thirty-one thousand eight hundred seventy-three dollars
+16 to the technology reinvestment fund, notwithstanding section
+17 8.57, subsection 3, paragraph “c”.
+18 b. Notwithstanding section 8.33, moneys in the fund
+19 that remain unencumbered or unobligated at the close of a
+20 fiscal year shall not revert but shall remain available for
+21 expenditure for the purposes designated. Notwithstanding
+22 section 12C.7, subsection 2, interest or earnings on moneys in
+23 the fund shall be credited to the fund.
+24 4. Annually, on On or before January 15 of each year, a
+25 state agency that received an appropriation from this fund
+26 the department of management shall report to the legislative
+27 services agency and the department of management general
+28 assembly the status of all projects funded under this section
+29 that have been completed since the previous report was
+30 submitted or that are in progress. The report shall must
+31 include a description of the project, the progress of work
+32 completed, the total estimated cost of the project, a list of
+33 all revenue sources being used to fund the project, the amount
+34 of funds moneys expended, the amount of funds moneys obligated,
+35 and the date the project was completed or an estimated
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-5- sc/ns 5/15
+
+1 completion date of the project, where applicable.
+2 Sec. 4. Section 8.78, Code 2025, is amended to read as
+3 follows:
+4 8.78 Background checks.
+5 An applicant for employment with the department, or
+6 an applicant for employment with a supported entity for a
+7 position as information technology staff, may be subject to a
+8 background investigation by the department. The background
+9 investigation may include, without limitation, a work history,
+10 financial review, request for criminal history data, and
+11 national criminal history check through the federal bureau of
+12 investigation. In addition, a contractor, vendor, employee, or
+13 any other individual performing work for the department, or an
+14 individual on the information technology staff of a supported
+15 entity, may be subject to a national criminal history check
+16 through the federal bureau of investigation at least once
+17 every ten five years, including, without limitation, any time
+18 the department or supported entity has reason to believe an
+19 individual has been convicted of a crime. The department may
+20 request the national criminal history check and, if requested,
+21 shall provide the individual’s fingerprints to the department
+22 of public safety for submission through the state criminal
+23 history repository to the federal bureau of investigation.
+24 The individual shall authorize release of the results of the
+25 national criminal history check to the department and the
+26 applicable supported entity. The department shall pay the
+27 actual cost of the fingerprinting and national criminal history
+28 check, if any, unless otherwise agreed as part of a contract
+29 between the department or supported entity and a vendor or
+30 contractor performing work for the department or supported
+31 entity. The results of a criminal history check conducted
+32 pursuant to this section shall not be considered a public
+33 record under chapter 22.
+34 Sec. 5. NEW SECTION. 8.94 Contracts —— prohibited terms.
+35 Provisions included in a contract entered into pursuant to
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-6- sc/ns 6/15
+
+1 this subchapter that impose terms or conditions prohibited by
+2 this section are void as contrary to public policy. Such a
+3 contract shall be interpreted and enforced as if the contract
+4 did not include the prohibited terms or conditions. Prohibited
+5 terms and conditions include all of the following:
+6 1. A provision requiring the department or a supported
+7 entity to defend, indemnify, hold harmless another person, or
+8 otherwise assume the debt or liability of another person in
+9 violation of Article VII, section 1, of the Constitution of the
+10 State of Iowa.
+11 2. A provision that seeks to impose a term that is unknown
+12 to the department or supported entity at the time of signing
+13 the contract or that can be unilaterally changed by an entity
+14 other than the department or a supported entity.
+15 3. A provision that violates chapter 13 by not allowing
+16 the department or a supported entity to participate in its own
+17 defense through representation by the attorney general.
+18 4. A provision that grants to a person other than the
+19 attorney general the authority to convey to a court or litigant
+20 the state’s consent to any settlement of a suit involving the
+21 contract when such settlement could impose liability on the
+22 state.
+23 5. A provision that specifies that the contract is governed
+24 by the laws of a foreign state or nation.
+25 6. A provision that claims blanket confidentiality of the
+26 contract’s terms.
+27 7. A provision that claims that payment terms, including but
+28 not limited to cost proposals or other pricing information, of
+29 the contract are confidential.
+30 8. A provision that authorizes or requires a venue for
+31 litigation other than an appropriate state or federal court
+32 sitting in Iowa.
+33 9. A provision that requires the department or a supported
+34 entity to pay attorney fees, court costs, or other litigation
+35 expenses in the event of a contractual dispute.
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-7- sc/ns 7/15
+
+1 10. A provision that imposes on the department or a
+2 supported entity binding arbitration or any other binding
+3 extrajudicial dispute resolution process in which the final
+4 resolution is not determined by the state.
+5 11. A provision that waives the department’s or a supported
+6 entity’s right to a jury trial.
+7 12. A provision that obligates the department or a supported
+8 entity to pay late payment charges not consistent with section
+9 8A.514, interest greater than allowed under section 8A.514 or
+10 other applicable law, or any cancellation charges, as such
+11 charges constitute pledges of the state’s credit.
+12 13. A provision that obligates the department or a supported
+13 entity to pay a tax.
+14 14. A provision that imposes a prior notice obligation
+15 on the department or a supported entity as a condition for
+16 the automatic renewal of a software license. The department
+17 or a supported entity may provide notice of its intent to
+18 terminate a software license at any time before the renewal
+19 date established in the contract.
+20 15. A provision that obligates the department or a supported
+21 entity to accept risk of loss before the receipt of items or
+22 goods.
+23 16. A provision that obligates the department or a supported
+24 entity to have commercial insurance.
+25 17. A provision that obligates the department or a supported
+26 entity to grant to a nongovernmental entity full or partial
+27 ownership of intellectual property developed pursuant to the
+28 contract when the intellectual property is developed in whole
+29 or in part using federal funding.
+30 18. A provision that limits the time in which the department
+31 or a supported entity may bring a legal claim under the
+32 contract to a period shorter than that provided in Iowa law.
+33 19. A boilerplate provision included in transactional
+34 documents received by the department or a supported entity that
+35 seeks to alter the terms of the contract or to impose new terms
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-8- sc/ns 8/15
+
+1 in the contract.
+2 Sec. 6. NEW SECTION. 8.95 Contracts —— required terms.
+3 All of the following provisions shall be deemed to be
+4 included in a contract entered into by the department or a
+5 supported entity under this subchapter:
+6 1. Governing law. The contract shall be governed by
+7 the laws of the state of Iowa, without giving effect to any
+8 conflicts of law principles of Iowa law that may require the
+9 application of another jurisdiction’s law.
+10 2. Venue. Any litigation commenced in connection with the
+11 contract shall be brought and maintained in an appropriate
+12 state or federal court sitting in Iowa.
+13 Sec. 7. NEW SECTION. 8.96 Contracts —— limitation of
+14 liability —— prohibited terms.
+15 Notwithstanding section 8A.311, subsection 22, and rules
+16 adopted pursuant to that subsection, the director may include
+17 a contractual limitation of vendor liability in information
+18 technology goods and services contracts. A contractual
+19 limitation of vendor liability must take into consideration the
+20 public interest and the mitigation of risks associated with the
+21 use of information technology goods or services. Any portion
+22 of a contractual limitation of vendor liability that includes
+23 a repudiation of all liability for cybersecurity incidents or
+24 a limitation on the vendor’s liability for intentional torts,
+25 criminal acts, fraudulent conduct, intentional or willful
+26 misconduct, gross negligence, death, bodily injury, damage to
+27 real or personal property, intellectual property violations,
+28 liquidated damages, compliance with applicable laws, violations
+29 of confidential information obligations, or contractual
+30 obligations of the vendor pertaining to indemnification shall
+31 be void as a matter of law as contrary to public policy. A
+32 contractual limit of vendor liability that does not apply
+33 equally to the contracted parties or that limits a vendor’s
+34 liability to less than the contract value inclusive of all
+35 possible extensions is void as a matter of law as contrary to
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-9- sc/ns 9/15
+
+1 public policy.
+2 Sec. 8. NEW SECTION. 8.97 Confidentiality of communications
+3 with chief information security officer.
+4 In the interest of facilitating communication between
+5 the chief information security officer and other entities
+6 concerning security incidents and security breaches, all such
+7 communications and any documents generated based in whole or in
+8 part on such communications are confidential. Notwithstanding
+9 chapter 22 or any other provision of law to the contrary, the
+10 department shall not release such communications pursuant to
+11 state open records laws, and such communications shall not be
+12 received into evidence, subject to discovery, or otherwise
+13 used in a trial, hearing, or other proceeding in or before any
+14 court, regulatory body, or other authority of the state or a
+15 political subdivision of the state, unless the communications
+16 are subject to a protective order that prohibits further
+17 disclosure of such communications and requires any court
+18 filings of such communications to be made under seal. It is
+19 the intent of the general assembly that these prohibitions and
+20 restrictions also apply to federal courts, regulatory bodies,
+21 and other authorities and for purposes of federal open records
+22 laws, to the extent allowed by federal law and court rules.
+23 The chief information security officer shall not release such
+24 communications other than for any of the following purposes:
+25 1. Identifying a cybersecurity threat, including the source
+26 of the cybersecurity threat, or a security vulnerability, and
+27 then only to government officials for purposes of addressing
+28 the threat.
+29 2. Responding to, or otherwise preventing or mitigating,
+30 a specific threat of death, serious bodily harm, or serious
+31 economic harm.
+32 3. Responding to, investigating, prosecuting, or otherwise
+33 preventing or mitigating a serious threat to a minor, including
+34 sexual exploitation and threats to physical safety.
+35 4. Preventing, investigating, disrupting, or prosecuting an
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-10- sc/ns 10/15
+
+1 offense under state or federal law.
+2 5. Providing a confidential cybersecurity briefing to the
+3 governor or a member of the general assembly.
+4 Sec. 9. NEW SECTION. 8.98 Criminal justice information.
+5 1. The department is authorized to maintain an integrated
+6 information system that enables automated data sharing among
+7 the executive branch, judicial branch, and local agencies.
+8 2. The department is designated as the Iowa statistical
+9 analysis center for the purpose of coordinating with data
+10 resource agencies to provide data and analytical information
+11 to federal, state, and local governments. Notwithstanding any
+12 other provision of state law to the contrary, unless prohibited
+13 by federal law or regulation, the department shall be granted
+14 access, for purposes of research and evaluation, to all of
+15 the data listed in this subsection, except that intelligence
+16 data and peace officer investigative reports maintained
+17 by the department of public safety shall not be considered
+18 data for the purposes of this section. The department of
+19 management and any record, data, or information obtained by the
+20 department under this subsection is subject to the federal and
+21 state confidentiality laws and rules, including as described
+22 in chapter 22, applicable to the original record, data, or
+23 information, and to the original custodian of the record,
+24 data, or information. Authorized access under this subsection
+25 includes but is not limited to all of the following:
+26 a. Juvenile court records and all other information
+27 maintained under sections 232.147 through 232.151.
+28 b. Child abuse information under sections 235A.15 through
+29 235A.19.
+30 c. Dependent adult abuse records maintained under chapter
+31 235B.
+32 d. Criminal history data maintained under chapter 692.
+33 e. Sex offender registry information maintained under
+34 chapter 692A.
+35 f. Presentence investigation reports maintained under
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-11- sc/ns 11/15
+
+1 section 901.4.
+2 g. Corrections records maintained under sections 904.601 and
+3 904.602.
+4 h. Community-based correctional program records maintained
+5 under chapter 904.
+6 i. Parole records maintained under chapter 906.
+7 j. Deferred judgment, deferred or suspended sentence, and
+8 probation records maintained under chapter 907.
+9 k. Violation of parole or probation records maintained under
+10 chapter 908.
+11 l. Fine and victim restitution records maintained under
+12 chapters 909 and 910.
+13 m. Child welfare records maintained under chapter 235.
+14 3. The department is authorized to provide data analysis and
+15 reporting on issues that may affect the state’s correctional
+16 population and various subgroups of the population. This
+17 reporting may include the review of filed, public legislative
+18 bills, joint resolutions, and amendments, and compiling
+19 criminal justice data for completion of correctional impact
+20 statements under section 2.56, racial impact statements, and an
+21 annual prison population forecast.
+22 4. The department is authorized to maintain a multiagency
+23 information system to track the progress of juveniles and
+24 adults who have been charged with a criminal offense in
+25 the court system through various state and local agencies
+26 and programs. This system must utilize existing databases,
+27 including the Iowa court information system, the Iowa
+28 corrections offender network, the child welfare information
+29 system of the department of health and human services,
+30 the federally mandated national adoption and foster care
+31 information system, and other state and local databases
+32 pertaining to juveniles and to adults who have been charged
+33 with a criminal offense in the court system, to the extent
+34 practicable.
+35 5. The multiagency information system is authorized to
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-12- sc/ns 12/15
+
+1 count and track decision points for juveniles in the juvenile
+2 justice system and minors in the child welfare system, evaluate
+3 the experiences of the juveniles and minors, and evaluate
+4 the success of the services provided. The system is also
+5 authorized to count and track decision points for adults who
+6 have been charged with a criminal offense in the court system,
+7 including but not limited to dismissed charges, convictions,
+8 deferred judgments, and sentence information.
+9 6. If the department has insufficient moneys or resources
+10 to implement this section, the department is authorized to
+11 determine which portion of this section may be implemented, if
+12 any, and the remainder of this section shall not apply.
+13 Sec. 10. NEW SECTION. 8.99 Confidentiality of data.
+14 1. For purposes of chapter 22, the department shall not be
+15 deemed to be the lawful custodian of records the department
+16 maintains for another department or establishment under this
+17 subchapter, to the extent the records in question are held
+18 by the department as an automated data processing unit of
+19 government or held by the department solely for storage for
+20 another department or establishment. Such records include but
+21 are not limited to all of the following:
+22 a. Electronic messaging system data.
+23 b. Mainframe data.
+24 c. Storage solutions or other electronic information, such
+25 as on-premises server data storage and cloud data storage.
+26 2. If the department receives a request pursuant to chapter
+27 22 for records over which the department has determined it is
+28 not the lawful custodian, the department shall deny the request
+29 and inform the requester to seek the information from the
+30 lawful custodian as provided in chapter 22. The department’s
+31 determination that it is not the lawful custodian of records is
+32 presumed valid. The presumption may be rebutted by clear and
+33 convincing evidence to the contrary.
+34 3. The department shall provide assistance to the lawful
+35 custodian of records held by the department so that the lawful
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-13- sc/ns 13/15
+
+1 custodian can comply with the production obligations of chapter
+2 22.
+3 4. If the department receives a subpoena in an
+4 administrative, civil, or criminal case for records for which
+5 the department is not the lawful custodian, the department
+6 shall notify the lawful custodian and the attorney general’s
+7 office and cooperate in any efforts to resist the subpoena.
+8 Sec. 11. Section 216A.131A, Code 2025, is amended to read
+9 as follows:
+10 216A.131A Criminal and juvenile justice planning.
+11 The department shall fulfill the responsibilities of
+12 this subchapter, including the duties specified in sections
+13 216A.133, 216A.135, 216A.136, 216A.137, 216A.138, and 216A.140.
+14 Sec. 12. Section 216A.133, subsection 1, paragraphs d, e, f,
+15 l, and t, Code 2025, are amended by striking the paragraphs.
+16 Sec. 13. Section 216A.133, subsection 1, paragraph q,
+17 subparagraphs (1) and (6), Code 2025, are amended by striking
+18 the subparagraphs.
+19 Sec. 14. Section 216A.133, subsection 1, paragraph s, Code
+20 2025, is amended to read as follows:
+21 s. Provide expertise and advice to the legislative
+22 services agency, the department of management, the department
+23 of corrections, the judicial branch, and others charged
+24 with formulating fiscal, correctional, or minority impact
+25 statements.
+26 Sec. 15. Section 216A.135, subsection 2, paragraph e, Code
+27 2025, is amended by striking the paragraph.
+28 Sec. 16. Section 232.147, subsection 2, paragraph i, Code
+29 2025, is amended to read as follows:
+30 i. The statistical analysis center for the purposes stated
+31 in section 216A.136 8.98.
+32 Sec. 17. Section 232.147, subsection 3, paragraph n, Code
+33 2025, is amended to read as follows:
+34 n. The statistical analysis center for the purposes stated
+35 in section 216A.136 8.98.
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-14- sc/ns 14/15
+
+1 Sec. 18. Section 232.147, subsection 4, paragraph i, Code
+2 2025, is amended to read as follows:
+3 i. The statistical analysis center for the purposes stated
+4 in section 216A.136 8.98.
+5 Sec. 19. Section 232.149, subsection 5, paragraph f, Code
+6 2025, is amended to read as follows:
+7 f. The statistical analysis center for the purposes stated
+8 in section 216A.136 8.98.
+9 Sec. 20. Section 232.149A, subsection 3, paragraph m, Code
+10 2025, is amended to read as follows:
+11 m. The statistical analysis center for the purposes stated
+12 in section 216A.136 8.98.
+13 Sec. 21. REPEAL. Sections 216A.136, 216A.137, and
+14 216A.138, Code 2025, are repealed.
+15 Sec. 22. APPLICABILITY. The following apply to contracts
+16 entered into or renewed on or after the effective date of this
+17 Act:
+18 1. The section of this Act enacting section 8.94.
+19 2. The section of this Act enacting section 8.95.
+20 3. The section of this Act enacting section 8.96.>
+21 2. Title page, by striking lines 1 through 5 and inserting
+22 <An Act relating to matters under the purview of the
+23 department of management, making appropriations, and including
+24 applicability provisions.>
+______________________________
+MIKE BOUSSELOT
+SF 630.1770 (2) 91
+(amending this SF 630 to CONFORM to HF 1028)
+-15- sc/ns 15/15
+
+[DELETED: eFe6AdSeFe60asf1.Bysgegarteegceai<n1.Sn2,Ce2,isadbyatefgnwsNWS.1.Torwaddiltsddinsn8sn4,ph,asteclmydS.2.Sn8,ss2ad4,Ce2,a0adtordasf12.Ifteanofad,i2orayisittopymttel3esofted,i,ora,t4droftedtofm,whtea5ofteg,mymeaniltrf6ayord,i,orayoftes7hgananinesofisn,ofs8fsmstomtttd.Shtrs9betoananmefmtesefgsea0wntesefly.Teatofatrm1fmananurtssnslbel2tontmetnohofoeptoftetlofa3asmefmtefgseoftet4anfrteflyrinwhtetri5m.Aniltrtoananw6isntanetanisntadw7teglayisinrrsna,ina8tesmofiltsinaflyrtoa9anwhisntanetans0ntedfyptofteatoftea1asedbytegla.Frtepsoft2s,anetani.“ninesofisn3msttt4atadbyteglayfrapei5ddbyted,i,orayrF60()9gtsSF60toCMtoHF1s1]
+[DELETED: teantobemetnteatnytocotttp.Ananfranudda,wrteanisldtobestocyotaprpeorisu,slnbecdananinesofadi,orasn.“tamsaleiantotesepcdrfritdortotedtofhhadhnssfrf0c,sesya,mla,o1frtefyitp24.Prtoaytroffsmsp3tosn1or2oftss,oratrofa4anfmastofadtwhsyh5itbga,tedrofted6ofmtslnytecsoftes7csonasofteseadteheo8rsadtecsofssofs9csoftepdt.Tenefmt0drslieincgteatoft1pdt,ted,i,ora2adbytepdt,adtersfrt3pdt.C.“4Usatrisgdurph5csndslbegnatlttowst6rwadctontepdtrbetet7offsism8()Tsphastoaytrmefr9flyrursn2bnJy1ofttf0yradtestftdyofterrsnoft1glayoginttfly2()Tedrslsttenerdbyt3sntotecsatlttewsbet4pdtrism5()Inantoteinoer,tF60()9gtsSF60toCMtoHF1s2]
+[DELETED: nerdbytssnadsdurtphmtaoiealoftef()Indgttteanfwhtetrwlbemeisinesofteenstgioattedeonwhtetrworwntefly,adternteeswsna()Indgttteantwhtetrwlbemeisittop0mtteleesofteeytgioa1tedeonwhtetrwlorwntef2y,adterntedywsnta3()Indgttstsem4aeaeintesefgseidint5t,adcstotelwurwhale6adbytetrweadmsfmt7fgsefrteaefly8()Prtotedetepdtrwlbem9teleclmymttocrtet.A0tem,teleclmyvetodet1t.Iftelecldstet2tetrslnto3S.3.Sn8,ss2,3,ad4,Ce24aeadtordasf52.Msintefdinaflyrslbeuda6adbyteglayfrtea7ofcrheads,sed8tse,admeadl9asadwhtycsadfrt0peofetidtopeanu1prsyaeadtotedtofm2topeasefgsefrinc3ofseintypstteet4sstyi,iegts5adpeinadecd,iF60()9gtsSF60toCMtoHF1s3]
+[DELETED: btntldtonwintypadiertesofadtoeTedtslpepdpsbonaloftefgc()Wrteptaswhtesssp()Wrteptpsorisntyorsyisanegs0()Wrteptisfeadwrt1dtorethsedrsfrt2pttop,igacratoft3b,admeo4()Wrteptisacrcem5sytosturanadaswhl6eepstomev,mew,a7eecsi8()Wrteptpsaperno9i,cgbhflrsadn0bsshasidpcs,e,orh1c2()Wrteptrsinietti3seastesee4()Wrtedtorethsi5hwtecdptwlbesdbdtei6fgp7()Wrteptisastog8s,pyinrlc9()Wrteptisaniep0asodtomeorsdusofe1t2Tedtslpeapdlto3pdpsfrfgtoteg,woslu4teltindgabyrnfrt5glaypttosn8F60()9gtsSF60toCMtoHF1s4]
+[DELETED: 3.TeisadfmteglfdoftsetotetyrtfdfrteflybgJy1,2,adfrehstflyt,tesmofsnmnfehdtdTeisadfmterdIiefdfrteflyrbgJy1,2adegJe3,2,tesmofenmnthdnytdtohdnydstot0tyrtf,ngsn81sn3,ph2TeisadfmterdI3iefdfrteflyrbgJy1,24adegJe3,2,tesmoftemno5hdtetdethdsed6totetyrtf,ngs78,sn3,ph8Ngsn8,msintef9ttrnudorudatteceof0flyrslntrtbtslrnaef1eefrtepsd.N2sn1,sn2,itoresonmsi3tefdslbecdtotef44.A,onOnorbeJy15ofehy,5seayttrdananfmtsf6tedtofmtslrttotel7ssayadtedtofmtg8aytessofalpsfdurtss9tthebncdsetepsrtw0sdorttaeinp.Tertslm1ieadnoftep,tepsofw2c,tetledctoftep,alto3alressbgudtofdtep,tea4offsmse,teatoffsmso5adtedeteptwscdoraneF60()9gtsSF60toCMtoHF1s5]
+[DELETED: cndeoftep,weaS.4.Sn8,Ce2,isadtordaf8BdcAnatfretwhted,oanatfretwhasdeyfrpnasintys,mybesttobdinbyted.Tebinmyi,wtl,awkh0flr,rtfrclhyd,a1nlclhyckthteflbuo2i.Ina,ac,v,e,o3ayorilpgwkfrted,ora4ilonteintysfofas5e,mybesttoanlclhyc6thteflbuofinatlto7eytnfey,i,wtl,ayt8tedtorsdeyhsrntobea9ilhsbncdofac.Tedtm0rttenlclhycka,ifr1slpeteisfstoted2ofpcsyfrsnthtesec3hyrytoteflbuofi4Teilslaereoftersoft5nlclhycktotedtadt6aesde.Tedtslpyt7alctoftefgadnlclh8c,ifa,usoeadasptofac9bntedtorsdeyadavro0crpgwkfrtedtors1e.Tersofaclhyckc2pttotssnslntbecdap3rdurcr24S.5.NWS4Cs——pdt5PsidinactediopttF60()9gtsSF60toCMtoHF1s6]
+[DELETED: tssrttietsorcspdbtssnaevdascytopcp.Shctslbeidadedasiftecddntietepdtsorc.Ptsadcsiealoftef1.Apnrgtedtoraseytod,i,hdhsarp,ooeaetedtorlyofarpnivnofAeV,sn1,ofteCnoft0SeofI12.Apnttsstoieatmttisu2totedtorsdeyatteteofs3tectorttcnbeuycdbyane4ortntedtorasde53.Apnttvscr13bynta6tedtorasdeytopeiniso7dethrnbyteayg84.Apnttgstoapnortnt9ayglteaytocytoactorl0tesscttoaystofastigt1ctwnshstcdielyont2s35.Apnttsstttectisg4bytelsofafnseorn56.Apnttcsbtcyoft6cst77.Apnttcsttptt,igb8ntldtoctpsororpgi,o9tectaec08.Apnttasorrsavef1lnortnanaeseorflc2sginI39.Apnttrstedtoras4eytopyayf,ctc,ororl5esinteetofacldF60()9gtsSF60toCMtoHF1s7]
+[DELETED: 1.Apnttisontedtorsdeybganorayorbeldernpsinwhtefrnisntddbytes1.Apnttwstedsorasesrttoajyt1.Apnttostedtoraseytopyleptcsntctwhs8,itgrtnadursn84o0orael,oraycnc,ass1cscepsoftessc21.Apnttostedtoras3eytopyat41.Apnttisaprneo5ontedtorasdeyasacnf6teacrlofasel.Ted7orasdeymypeneofisitt8teaseleataytebeter9deedintec01.Apnttostedtoras1eytoatrkoflsbetertofiso2g31.Apnttostedtoras4eytohecli51.Apnttostedtoras6eytogttoanleyflorp7opofilpyddpttot8ctwnteilpyisddinw9orinptugflf01.Apnttlsteteinwhted1orasdeymybgallcmurt2cttoapdsrtnttpdinIal31.Abepnidint4dsrdbytedtorasdeyt5sstoartetsoftectortoienwtF60()9gtsSF60toCMtoHF1s8]
+[DELETED: intecS.6.NWS5Cs——rdtAloftefgpsslbeddtobidinactediobytedtorsdeyurtss1.TectslbegdbgltelsofteseofI,wtggettoacsoflwpsofIalwttmyretanofarjsl02.Aylncdincnwht1ctslbebtadmdinana2seorflctsginI3S.7.NWS6Cs——lnoy——pdt5Ngsn8,sn2,adr6adpttotts,tedrmyi7acllnofvrlyini8tygsadssc.Ac9lnofvrlymtteiocnt0pcitadtemnofrsadwht1ueofintygsors.Ayp2ofacllnofvrlytti3arnofallyfrcyiso4alnontevslyfrilt5cla,ftc,ilorw6m,gsn,d,byi,det7rlorplp,ilpyv8ldd,cewhael,v9ofclino,orc0osoftevrpgtoins1bevdasamroflwascytopcp.2clltofvrlyttdsnta3eytotecdpsorttlsav4lytolstntectveieofa5peesisvdasamroflwascytF60()9gtsSF60toCMtoHF1s9]
+[DELETED: pcpS.8.NWS7CyofchcfinsyoInteitoffgcnbtecfinsyoradorecgsyisadsyb,alscsadaydsgdbdinweoriptonshcsaec.Ncr22orayorpnoflwtotec,t0dtslntreshcsptt1seonrsl,adshcsslntb2rdioe,sttod,oro3udinat,h,ororpginorbea4c,ryb,ororayofteseor5plsnoftes,ustec6aesttoapeorttpsf7deofshcsadrsayc8fsofshcstobemeurs.Iti9teitofteglaytttepsa0rsaoaytoflc,ryb1adorasadfrpsofflonr2l,toteetadbyfllwadctr3Tecfinsyorslntres4csortnfrayoftefgp51.Igacyt,igtes6oftecyt,orasyv,a7tnoytogtosfrpsofa8tet92.Rgt,oroepgorm0ascttofd,ssbyh,ors1ech23.Rgt,i,p,oro3pgormgasstttoam,i4slenadtstopls54.P,i,d,orpgaF60()9gtsSF60toCMtoHF1s1]
+[DELETED: oeurseorfll5.PgaclcybgtotgroramrofteglaS.9.NWS8Cljei1.Tedtisadtomnaniinsmttesaddasgateeeb,jlb,adlla2.TedtisddasteIasascrfrtepeofcgwhd0reastopedaadali1tof,s,adllg.Nga2orpnofselwtotec,usp3byfllworr,tedtslbeg4a,frpsofrhade,toalo5tedaldintss,ettti6daadpeoriersm7bytedtofpcsyslntbec8dafrtepsoftss.Tedto9mtadayr,d,orinodbyt0dturtssnissttotefla1secylsadr,igasd2incr2,aetoteolr,d,o3i,adtoteolcnofter4d,ori.Adasurtss5isbtisntldtoaloftef6Jectrsadalori7mdurss27th28Cdaeinurss25t920Dtataersmdurc122Clhydamdurcr63Sxorryinmdu4cr65PeinrsmduF60()9gtsSF60toCMtoHF1s1]
+[DELETED: sn9Csrsmdurss91a9Cdclpmrsmurcr9Persmdurcr9Ddj,ddorsds,apnrsmdurcr9Vnofpeorpnrsmdu0cr91Feadvmrnrsmdu2cs99ad93Cdwersmdurcr243.Tedtisadtopedaasa5rgonisttmyattessc6pnadvsssoftep.T7rgmyieterwoff,pcl8b,jtr,ada,adc9cljedafrcnofcli0ssursn2,rlits,ada1alpnpnf24.Tedtisadtomnam3insmtotktepsofjsa4aswohebncdwhacloei5tectsmthvsseadlla6adp.Tssmmtueegd7igteIactins,teI8csorn,tecdwei9smoftedtofhhadhns0tefymdnlanadfrc1ins,adorseadlld2pgtojsadtoaswohebnc3whacloeintects,totee4p55.TemyinsmisadtF60()9gtsSF60toCMtoHF1s1]
+[DELETED: ctadtkdnpsfrjsintejjesmadmsintecdwes,eteesoftejsadm,adetessoftessp.Tesmisaadtoctadtkdnpsfraswhebncdwhacloeintectsigbtntldtoddc,cddj,adsei6.Iftedthsitmsorr0toittss,tedtisadt1dewhpnoftssnmybei,i2a,adterroftssnslnta3S.1.NWS9Cyofd41.Frpsofcr2,tedtslntb5ddtobetellcnofrsted6msfrardtoreturt7s,toteettersinqnaeh8bytedtasanaddapguto9gtorhdbytedtsyfrsef0ardtore.Shrsieb1aentldtoaloftef2Ecmgsmd3Med4Sessororeci,s5asossrdaseadcddas62.Iftedtrsartpttoc722frrsorwhtedthsdditi8nttellc,tedtsldyter9adimterrtoskteinfmt0llcnaspdincr2.Ted1dnttitisnttellcnofrsi2pdv.Tepnmyberdbycra3cgeetotec43.Tedtslpeaetotel5cnofrshdbytedtsotttelF60()9gtsSF60toCMtoHF1s1]
+[DELETED: cncncywhtepnosofc24.Iftedtrsasainaa,c,orclcefrrsfrwtedtisnttellc,tedslnytellcnadteaygoeadceinayestorttesS.1.Sn2,Ce2,isadtorasfACladjejep1Tedtslflterso2tss,igtedssdins32,2,2,2,2,ad24S.1.Sn2,sn1,psd,e,f5l,adt,Ce2,aeadbysgtep6S.1.Sn2,sn1,phq7ss()ad(,Ce2,aeadbys8tes9S.1.Sn2,sn1,phs,C02,isadtordasf1Peeeadaetotel2ssa,tedtofm,ted3ofc,tejlb,adosc4whfgf,c,ormyi5s6S.1.Sn2,sn2,phe,C72,isadbysgtep8S.1.Sn2,sn2,phi,C92,isadtordasf0Teslascrfrtepss1insn2682S.1.Sn2,sn3,phn,C32,isadtordasf4Teslascrfrtepss5insn268F60()9gtsSF60toCMtoHF1s1]
+[DELETED: S.1.Sn2,sn4,phi,C2,isadtordasfTeslascrfrtepssinsn268S.1.Sn2,sn5,phf,C2,isadtordasfTeslascrfrtepssinsn268S.2.Sn2,sn3,phm,C02,isadtordasf1Teslascrfrtepss2insn2683S.2.R.Ss2,2,a42,Ce2,aer5S.2.A.Tefgaytoc6edioorrdonorarteeedeoft7A81.TesnoftsAtegsn892.TesnoftsAtegsn803.TesnoftsAtegsn812.Tep,bysgls1th5adi2<nAtrgtomsurtepwoft3dtofm,mga,adi4aypEBF60()9gtsSF60toCMtoHF1s1]

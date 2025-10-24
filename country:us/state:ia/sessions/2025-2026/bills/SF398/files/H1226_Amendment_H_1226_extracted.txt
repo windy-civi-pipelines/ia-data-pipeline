@@ -1,0 +1,61 @@
+Title: 1 Amend Senate File 398, as passed by the Senate, as follows:
+Official Title: 1 Amend Senate File 398, as passed by the Senate, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1226
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 398
+H-1226
+2 1. Page 1, by striking lines 1 through 11.
+3 2. Page 1, after line 19 by inserting:
+4 Sec. ___. <Section 537.2501, Code 2025, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 4. For a consumer loan secured by an
+7 interest in land, if a creditor that is a mortgage banker
+8 licensed under section 535B.5 or registered under section
+9 535B.3 originates such consumer loan in which the annual
+10 percentage rate, points, and fees the consumer is charged
+11 by all lenders in connection with the consumer loan do not
+12 exceed the amounts specified in 12 C.F.R. §1026.43(e)(2)(vi)
+13 and 12 C.F.R. §1026.43(e)(3), the consumer loan shall not be
+14 subject to the limitations on fees specified in section 535.8,
+15 subsection 4, paragraph “a”, or section 535.8, subsection 5.>
+16 3. By renumbering as necessary.
+______________________________
+NORDMAN of Dallas
+SF 398.1490 (3) 91
+-1- nls/ko 1/1
+[DELETED: eFe3AdSeFe3,aspdbyteS,asf1.Pe1,bysgls1th12.Pe1,arle19byiS._.<n5,Ce2,isadbyatefgnwsNWS.4.Fracrlnsdbyaitinl,ifacrttisamebldursn55orrdurs53osshcrlninwhtea0per,p,adfstecrisc1byallsincnwhtecrlndon2edteassdin12C.§3ad12C.§,tecrlnslntb4sttotelsonfssdinsn55sn4,ph,orsn5,sn563.ByrgasnNofDF30()9o1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 398
+H-1226
+1 Amend Senate File 398, as passed by the Senate, as follows:
+2 1. Page 1, by striking lines 1 through 11.
+3 2. Page 1, after line 19 by inserting:
+4 Sec. ___. <Section 537.2501, Code 2025, is amended by adding
+5 the following new subsection:
+6 NEW SUBSECTION. 4. For a consumer loan secured by an
+7 interest in land, if a creditor that is a mortgage banker
+8 licensed under section 535B.5 or registered under section
+9 535B.3 originates such consumer loan in which the annual
+10 percentage rate, points, and fees the consumer is charged
+11 by all lenders in connection with the consumer loan do not
+12 exceed the amounts specified in 12 C.F.R. §1026.43(e)(2)(vi)
+13 and 12 C.F.R. §1026.43(e)(3), the consumer loan shall not be
+14 subject to the limitations on fees specified in section 535.8,
+15 subsection 4, paragraph “a”, or section 535.8, subsection 5.>
+16 3. By renumbering as necessary.
+______________________________
+NORDMAN of Dallas
+SF 398.1490 (3) 91
+-1- nls/ko 1/1
+
+[DELETED: eFe3AdSeFe3,aspdbyteS,asf1.Pe1,bysgls1th12.Pe1,arle19byiS._.<n5,Ce2,isadbyatefgnwsNWS.4.Fracrlnsdbyaitinl,ifacrttisamebldursn55orrdurs53osshcrlninwhtea0per,p,adfstecrisc1byallsincnwhtecrlndon2edteassdin12C.§3ad12C.§,tecrlnslntb4sttotelsonfssdinsn55sn4,ph,orsn5,sn563.ByrgasnNofDF30()9o1]

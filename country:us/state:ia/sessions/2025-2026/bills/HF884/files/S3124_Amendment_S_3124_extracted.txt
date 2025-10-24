@@ -1,0 +1,61 @@
+Title: 1 Amend the amendment, S-3068, to House File 884, as amended,
+Official Title: 1 Amend the amendment, S-3068, to House File 884, as amended,
+Number of Sections: 1
+Source: versions - Amendment S-3124
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 884
+S-3124
+2 passed, and reprinted by the House, as follows:
+3 1. Page 1, by striking lines 11 through 32.
+4 2. Page 1, before line 33 by inserting:
+5 <___. Page 1, after line 17 by inserting:
+6 <___. Notwithstanding subsection 1, a chaplain who is
+7 employed or engaged pursuant to this section shall not provide
+8 support, services, or programs to a student if the student’s
+9 parent or guardian files with the school district a written
+10 request indicating that a chaplain who is employed or engaged
+11 pursuant to this section is not to provide such support,
+12 services, or programs to the student.>>
+13 3. Page 1, by striking line 35 and inserting:
+14 <___. By renumbering, redesignating, and correcting
+15 internal references as necessary.>
+16 4. By renumbering as necessary.
+______________________________
+MIKE PIKE
+S 3068.1720 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe8Adtea,S,toHeFe8,asap,adrdbyteH,asf1.Pe1,bysgls11th32.Pe1,bele33byi<.Pe1,arle17byi<.Ngsn1,acnwoiedoredpttotssnslntps,s,orpstoastiftesptorgnfswhtesldtaw0rtigttacnwoisedore1pttotssnisnttopeshs2s,orpstotes33.Pe1,bysgle35adi4<.Byr,r,adc5ilrsasn64.ByrgasnEP30()9]
+
+
+================================================================================
+
+Raw Text:
+House File 884
+S-3124
+1 Amend the amendment, S-3068, to House File 884, as amended,
+2 passed, and reprinted by the House, as follows:
+3 1. Page 1, by striking lines 11 through 32.
+4 2. Page 1, before line 33 by inserting:
+5 <___. Page 1, after line 17 by inserting:
+6 <___. Notwithstanding subsection 1, a chaplain who is
+7 employed or engaged pursuant to this section shall not provide
+8 support, services, or programs to a student if the student’s
+9 parent or guardian files with the school district a written
+10 request indicating that a chaplain who is employed or engaged
+11 pursuant to this section is not to provide such support,
+12 services, or programs to the student.>>
+13 3. Page 1, by striking line 35 and inserting:
+14 <___. By renumbering, redesignating, and correcting
+15 internal references as necessary.>
+16 4. By renumbering as necessary.
+______________________________
+MIKE PIKE
+S 3068.1720 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe8Adtea,S,toHeFe8,asap,adrdbyteH,asf1.Pe1,bysgls11th32.Pe1,bele33byi<.Pe1,arle17byi<.Ngsn1,acnwoiedoredpttotssnslntps,s,orpstoastiftesptorgnfswhtesldtaw0rtigttacnwoisedore1pttotssnisnttopeshs2s,orpstotes33.Pe1,bysgle35adi4<.Byr,r,adc5ilrsasn64.ByrgasnEP30()9]

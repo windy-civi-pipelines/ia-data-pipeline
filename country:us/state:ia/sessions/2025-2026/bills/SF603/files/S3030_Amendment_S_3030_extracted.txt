@@ -1,0 +1,148 @@
+Title: 1 Amend Senate File 603, as passed by the Senate, as follows:
+Official Title: 1 Amend Senate File 603, as passed by the Senate, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3030
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Amendment to
+Senate File 603
+S-3030
+2 1. Page 5, after line 4 by inserting:
+3 <DIVISION ___
+4 STATE AND LOCAL GOVERNMENT EMPLOYEES AND CONTRACTORS ——
+5 COMPENSATION AND TRAINING
+6 Sec. ___. NEW SECTION. 84D.8 Scope of chapter ——
+7 limitations.
+8 1. The provisions of this chapter shall be applicable and
+9 uniform throughout this state and in all political subdivisions
+10 therein.
+11 2. Unless expressly required by state law, the use of
+12 apprenticeship training shall be voluntary and shall not be
+13 mandated by any state agency or political subdivision.
+14 3. A political subdivision shall not impose additional
+15 restrictions, qualifications, or requirements on developers,
+16 contractors, subcontractors, or apprentices relating to
+17 apprenticeship training beyond those expressly authorized in
+18 this chapter or other provisions of state law. A political
+19 subdivision shall not make receipt of any incentives, or the
+20 eligibility for such incentives, contingent upon compliance
+21 with any such restrictions, qualifications, or requirements.
+22 Sec. ___. Section 274.3, subsection 2, Code 2025, is amended
+23 by adding the following new paragraph:
+24 NEW PARAGRAPH. d. Adopt or enforce a policy that imposes
+25 restrictions, qualifications, or requirements on developers,
+26 contractors, or subcontractors related to a developer’s or
+27 contractor’s employee compensation or training beyond what is
+28 expressly authorized by state law.
+29 Sec. ___. Section 331.301, Code 2025, is amended by adding
+30 the following new subsection:
+31 NEW SUBSECTION. 27. A county shall not adopt or enforce
+32 an ordinance, motion, resolution, or amendment that imposes
+33 restrictions, qualifications, or requirements on developers,
+34 contractors, or subcontractors related to a developer’s
+35 or contractor’s employee compensation or training beyond
+SF 603.1031.H (1) 91
+-1- md 1/2
+1 what is expressly authorized by state law. A county shall
+2 not make receipt of any incentives, or the eligibility for
+3 such incentives, contingent upon compliance with any such
+4 restrictions, qualifications, or requirements.
+5 Sec. ___. Section 364.3, Code 2025, is amended by adding the
+6 following new subsection:
+7 NEW SUBSECTION. 20. A city shall not adopt or enforce
+8 an ordinance, motion, resolution, or amendment that imposes
+9 restrictions, qualifications, or requirements on developers,
+10 contractors, or subcontractors related to a developer’s
+11 or contractor’s employee compensation or training beyond
+12 what is expressly authorized by state law. A city shall
+13 not make receipt of any incentives, or the eligibility for
+14 such incentives, contingent upon compliance with any such
+15 restrictions, qualifications, or requirements.
+16 Sec. ___. EFFECTIVE DATE. This division of this Act, being
+17 deemed of immediate importance, takes effect upon enactment.>
+18 2. Title page, line 1, after <workforce> by inserting
+19 <compensation and>
+20 3. Title page, by striking line 4 and inserting <local
+21 government entities, and including effective date provisions.>
+22 4. By renumbering as necessary.
+SF 603.1031.H (1) 91
+-2- md 2/2
+[DELETED: eAtteFe6AdSeFe6,aspdbyteS,asf1.Pe5,arle4byi<N_SEADLLGTESADCS—CNADTS._.NWS8Seofcr—1.Tepsoftscrslbeaeaumtttsseadinalpls0t12.Useyrdbysel,teueo2aptgslbevyadslntb3mdbyayseayorpls43.Aplsnslntiea5r,q,orrsond6c,s,orasrgt7aptgbdteeyadi8tscrororpsofsel.Ap9snslntmertofayi,ort0eyfrshi,ctunc1whayshr,q,orr2S._.Sn2,sn2,Ce2,isa3byagtefgnwp4NWP.Atoreeapytti5r,q,orrsond6c,orssrdtoadso7cseecnortgbdwti8eyadbysel9S._.Sn3,Ce2,isadbya0tefgnws1NWS.2.Acyslntatore2ano,m,r,orattti3r,q,orrsond4c,orssrdtoad5orcseecnortgbF6H()9]
+[DELETED: wtiseyadbysel.Acysntmertofayi,orteeyfshi,ctuncewhaysr,q,orrS._.Sn3,Ce2,isadbyagtfgnwsNWS.2.Acyslntatoreano,m,r,oratttir,q,orrsond0c,orssrdtoad1orcseecnortgb2wtiseyadbysel.Acys3ntmertofayi,orteeyf4shi,ctuncewhays5r,q,orr6S._.EED.TsdnoftsA,b7ddofiei,tsetune82.Tep,le1,ar<>byi9<na03.Tep,bysgle4adig<1gte,adigeedep24.ByrgasnF6H()9]
+
+
+================================================================================
+
+Raw Text:
+House Amendment to
+Senate File 603
+S-3030
+1 Amend Senate File 603, as passed by the Senate, as follows:
+2 1. Page 5, after line 4 by inserting:
+3 <DIVISION ___
+4 STATE AND LOCAL GOVERNMENT EMPLOYEES AND CONTRACTORS ——
+5 COMPENSATION AND TRAINING
+6 Sec. ___. NEW SECTION. 84D.8 Scope of chapter ——
+7 limitations.
+8 1. The provisions of this chapter shall be applicable and
+9 uniform throughout this state and in all political subdivisions
+10 therein.
+11 2. Unless expressly required by state law, the use of
+12 apprenticeship training shall be voluntary and shall not be
+13 mandated by any state agency or political subdivision.
+14 3. A political subdivision shall not impose additional
+15 restrictions, qualifications, or requirements on developers,
+16 contractors, subcontractors, or apprentices relating to
+17 apprenticeship training beyond those expressly authorized in
+18 this chapter or other provisions of state law. A political
+19 subdivision shall not make receipt of any incentives, or the
+20 eligibility for such incentives, contingent upon compliance
+21 with any such restrictions, qualifications, or requirements.
+22 Sec. ___. Section 274.3, subsection 2, Code 2025, is amended
+23 by adding the following new paragraph:
+24 NEW PARAGRAPH. d. Adopt or enforce a policy that imposes
+25 restrictions, qualifications, or requirements on developers,
+26 contractors, or subcontractors related to a developer’s or
+27 contractor’s employee compensation or training beyond what is
+28 expressly authorized by state law.
+29 Sec. ___. Section 331.301, Code 2025, is amended by adding
+30 the following new subsection:
+31 NEW SUBSECTION. 27. A county shall not adopt or enforce
+32 an ordinance, motion, resolution, or amendment that imposes
+33 restrictions, qualifications, or requirements on developers,
+34 contractors, or subcontractors related to a developer’s
+35 or contractor’s employee compensation or training beyond
+SF 603.1031.H (1) 91
+-1- md 1/2
+
+1 what is expressly authorized by state law. A county shall
+2 not make receipt of any incentives, or the eligibility for
+3 such incentives, contingent upon compliance with any such
+4 restrictions, qualifications, or requirements.
+5 Sec. ___. Section 364.3, Code 2025, is amended by adding the
+6 following new subsection:
+7 NEW SUBSECTION. 20. A city shall not adopt or enforce
+8 an ordinance, motion, resolution, or amendment that imposes
+9 restrictions, qualifications, or requirements on developers,
+10 contractors, or subcontractors related to a developer’s
+11 or contractor’s employee compensation or training beyond
+12 what is expressly authorized by state law. A city shall
+13 not make receipt of any incentives, or the eligibility for
+14 such incentives, contingent upon compliance with any such
+15 restrictions, qualifications, or requirements.
+16 Sec. ___. EFFECTIVE DATE. This division of this Act, being
+17 deemed of immediate importance, takes effect upon enactment.>
+18 2. Title page, line 1, after <workforce> by inserting
+19 <compensation and>
+20 3. Title page, by striking line 4 and inserting <local
+21 government entities, and including effective date provisions.>
+22 4. By renumbering as necessary.
+SF 603.1031.H (1) 91
+-2- md 2/2
+
+[DELETED: eAtteFe6AdSeFe6,aspdbyteS,asf1.Pe5,arle4byi<N_SEADLLGTESADCS—CNADTS._.NWS8Seofcr—1.Tepsoftscrslbeaeaumtttsseadinalpls0t12.Useyrdbysel,teueo2aptgslbevyadslntb3mdbyayseayorpls43.Aplsnslntiea5r,q,orrsond6c,s,orasrgt7aptgbdteeyadi8tscrororpsofsel.Ap9snslntmertofayi,ort0eyfrshi,ctunc1whayshr,q,orr2S._.Sn2,sn2,Ce2,isa3byagtefgnwp4NWP.Atoreeapytti5r,q,orrsond6c,orssrdtoadso7cseecnortgbdwti8eyadbysel9S._.Sn3,Ce2,isadbya0tefgnws1NWS.2.Acyslntatore2ano,m,r,orattti3r,q,orrsond4c,orssrdtoad5orcseecnortgbF6H()9]
+[DELETED: wtiseyadbysel.Acysntmertofayi,orteeyfshi,ctuncewhaysr,q,orrS._.Sn3,Ce2,isadbyagtfgnwsNWS.2.Acyslntatoreano,m,r,oratttir,q,orrsond0c,orssrdtoad1orcseecnortgb2wtiseyadbysel.Acys3ntmertofayi,orteeyf4shi,ctuncewhays5r,q,orr6S._.EED.TsdnoftsA,b7ddofiei,tsetune82.Tep,le1,ar<>byi9<na03.Tep,bysgle4adig<1gte,adigeedep24.ByrgasnF6H()9]

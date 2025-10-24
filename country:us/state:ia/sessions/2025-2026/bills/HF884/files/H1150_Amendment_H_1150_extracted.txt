@@ -1,0 +1,59 @@
+Title: 2 1. Page 1, by striking line 17 and inserting <district, if
+Official Title: 2 1. Page 1, by striking line 17 and inserting <district, if
+Number of Sections: 1
+Source: versions - Amendment H-1150
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 884
+H-1150
+1 Amend House File 884 as follows:
+3 the chaplain satisfies all of the following requirements:>
+4 2. Page 1, before line 18 by inserting:
+5 <a. The chaplain has completed at least one hundred twenty
+6 semester hours of credit at the undergraduate level and holds
+7 a baccalaureate degree.
+8 b. The chaplain has completed at least seventy-two semester
+9 hours of credit at the graduate level or doctoral level and
+10 holds a master’s degree or higher in theological or religious
+11 studies.
+12 c. The chaplain has pastoral ministry leadership
+13 experience.>
+14 3. Page 1, line 19, after <establish> by inserting
+15 <additional>
+______________________________
+WESSEL-KROESCHELL of Story
+HF 884.1107 (2) 91
+-1- jda/jh 1/1
+[DELETED: eFe8AdHeFe84asf1.Pe1,bysgle17adig<,itecnssaloftefgr2.Pe1,bele18byi<TecnhscdatltoehdtsrhsofctatteuelladhabedTecnhscdatltsoshsofctattegellordllla0hsamsdeorhrintlorr1s2Tecnhsplmyl3e43.Pe1,le1,ar<>byi5<LofSF87()9]
+
+
+================================================================================
+
+Raw Text:
+House File 884
+H-1150
+1 Amend House File 884 as follows:
+2 1. Page 1, by striking line 17 and inserting <district, if
+3 the chaplain satisfies all of the following requirements:>
+4 2. Page 1, before line 18 by inserting:
+5 <a. The chaplain has completed at least one hundred twenty
+6 semester hours of credit at the undergraduate level and holds
+7 a baccalaureate degree.
+8 b. The chaplain has completed at least seventy-two semester
+9 hours of credit at the graduate level or doctoral level and
+10 holds a master’s degree or higher in theological or religious
+11 studies.
+12 c. The chaplain has pastoral ministry leadership
+13 experience.>
+14 3. Page 1, line 19, after <establish> by inserting
+15 <additional>
+______________________________
+WESSEL-KROESCHELL of Story
+HF 884.1107 (2) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe8AdHeFe84asf1.Pe1,bysgle17adig<,itecnssaloftefgr2.Pe1,bele18byi<TecnhscdatltoehdtsrhsofctatteuelladhabedTecnhscdatltsoshsofctattegellordllla0hsamsdeorhrintlorr1s2Tecnhsplmyl3e43.Pe1,le1,ar<>byi5<LofSF87()9]

@@ -1,0 +1,49 @@
+Title: 2 1. Page 1, line 5, after <person> by inserting <eighteen
+Official Title: 2 1. Page 1, line 5, after <person> by inserting <eighteen
+Number of Sections: 1
+Source: versions - Amendment H-1040
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 306
+H-1040
+1 Amend House File 306 as follows:
+3 years of age or older>
+4 2. Page 1, after line 19 by inserting:
+5 <Sec. ___. NEW SECTION. 728.2A Minors distributing obscene
+6 material to minors.
+7 Any person under the age of eighteen who knowingly
+8 distributes obscene material to another minor is guilty of a
+9 public offense and shall upon conviction be guilty of a simple
+10 misdemeanor.>
+______________________________
+SRINIVAS of Polk
+HF 306.228 (3) 91
+-1- as/js 1/1
+[DELETED: eFe3AdHeFe36asf1.Pe1,le5,ar<>byig<ysofaeoro2.Pe1,arle19byi<._.NWSAMsdgoltomAypnurteaeofenwokdsoemltoarmrisgyofpcoeadsluncnbegyofas0mSofPF38()9]
+
+
+================================================================================
+
+Raw Text:
+House File 306
+H-1040
+1 Amend House File 306 as follows:
+2 1. Page 1, line 5, after <person> by inserting <eighteen
+3 years of age or older>
+4 2. Page 1, after line 19 by inserting:
+5 <Sec. ___. NEW SECTION. 728.2A Minors distributing obscene
+6 material to minors.
+7 Any person under the age of eighteen who knowingly
+8 distributes obscene material to another minor is guilty of a
+9 public offense and shall upon conviction be guilty of a simple
+10 misdemeanor.>
+______________________________
+SRINIVAS of Polk
+HF 306.228 (3) 91
+-1- as/js 1/1
+
+[DELETED: eFe3AdHeFe36asf1.Pe1,le5,ar<>byig<ysofaeoro2.Pe1,arle19byi<._.NWSAMsdgoltomAypnurteaeofenwokdsoemltoarmrisgyofpcoeadsluncnbegyofas0mSofPF38()9]

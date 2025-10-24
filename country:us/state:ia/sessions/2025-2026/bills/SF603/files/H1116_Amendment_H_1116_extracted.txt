@@ -1,0 +1,57 @@
+Title: 1 Amend the amendment, H-1106, to Senate File 603, as passed by
+Official Title: 1 Amend the amendment, H-1106, to Senate File 603, as passed by
+Number of Sections: 1
+Source: versions - Amendment H-1116
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 603
+H-1116
+2 the Senate, as follows:
+3 1. Page 1, after line 21 by inserting:
+4 <4. This section does not apply to any project funded in
+5 whole or in part by federal funds.>
+6 2. Page 1, line 28, after <law.> by inserting <This
+7 paragraph does not apply to any project funded in whole or in
+8 part by federal funds.>
+9 3. Page 2, line 4, after <requirements.> by inserting <This
+10 subsection does not apply to any project funded in whole or in
+11 part by federal funds.>
+12 4. Page 2, line 15, after <requirements.> by inserting <This
+13 subsection does not apply to any project funded in whole or in
+14 part by federal funds.>
+______________________________
+COOLING of Linn
+H 1106.1017 (1) 91
+-1- je/js 1/1
+[DELETED: eFe6Adtea,H,toSeFe6,aspdbteS,asf1.Pe1,arle21byi<.Tssndsntaytoayptfdiweorinptbyflf2.Pe1,le2,ar<>byig<phdsntaytoayptfdinweoriptbyflf3.Pe2,le4,ar<>byig<0sndsntaytoayptfdinweori1ptbyflf24.Pe2,le1,ar<>byig<3sndsntaytoayptfdinweori4ptbyflfGofL17()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 603
+H-1116
+1 Amend the amendment, H-1106, to Senate File 603, as passed by
+2 the Senate, as follows:
+3 1. Page 1, after line 21 by inserting:
+4 <4. This section does not apply to any project funded in
+5 whole or in part by federal funds.>
+6 2. Page 1, line 28, after <law.> by inserting <This
+7 paragraph does not apply to any project funded in whole or in
+8 part by federal funds.>
+9 3. Page 2, line 4, after <requirements.> by inserting <This
+10 subsection does not apply to any project funded in whole or in
+11 part by federal funds.>
+12 4. Page 2, line 15, after <requirements.> by inserting <This
+13 subsection does not apply to any project funded in whole or in
+14 part by federal funds.>
+______________________________
+COOLING of Linn
+H 1106.1017 (1) 91
+-1- je/js 1/1
+
+[DELETED: eFe6Adtea,H,toSeFe6,aspdbteS,asf1.Pe1,arle21byi<.Tssndsntaytoayptfdiweorinptbyflf2.Pe1,le2,ar<>byig<phdsntaytoayptfdinweoriptbyflf3.Pe2,le4,ar<>byig<0sndsntaytoayptfdinweori1ptbyflf24.Pe2,le1,ar<>byig<3sndsntaytoayptfdinweori4ptbyflfGofL17()9]

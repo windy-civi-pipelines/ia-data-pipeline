@@ -1,0 +1,120 @@
+Title: 2 1. By striking page 2, line 35, through page 3, line 22.
+Official Title: 2 1. By striking page 2, line 35, through page 3, line 22.
+Number of Sections: 1
+Source: versions - Amendment H-1284
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 1032
+H-1284
+1 Amend House File 1032 as follows:
+3 2. Page 3, line 33, by striking <15.414> and inserting
+4 <187.331>
+5 3. Page 4, line 4, by striking <15.414> and inserting
+6 <187.331>
+7 4. Page 4, after line 15 by inserting:
+8 <Sec. ___. NEW SECTION. 187.331 Local produce processing
+9 grant program.
+10 1. As used in this section:
+11 a. “Local produce” means fruits and vegetables grown in this
+12 state.
+13 b. “Local produce processing” means the preparation of local
+14 produce for human consumption.
+15 2. The department shall establish and administer the local
+16 produce processing grant program for the purpose of awarding
+17 grants to Iowa-based entities to increase the availability of
+18 local produce processing. In administering the program, the
+19 department shall prioritize grants to all of the following:
+20 a. Iowa-based entities that will increase any of the
+21 following as it relates to local produce processing:
+22 (1) Availability.
+23 (2) Access.
+24 (3) Efficiency.
+25 (4) Capacity.
+26 b. Iowa-based entities that process local produce from three
+27 or more Iowa farms.
+28 c. A person participating in the choose Iowa promotional
+29 program under section 187.303.
+30 d. Iowa-based entities whose local produce is sold or
+31 distributed to a grocery store eligible for the grocer
+32 reinvestment program under section 15.413.
+33 3. An Iowa-based entity whose local produce processing
+34 includes local produce from three or more Iowa farms shall be
+35 eligible for a grant under the program in an amount that is two
+HF 1032.1754 (1) 91
+-1- nls/ko 1/2
+1 times the maximum grant amount set by the department for the
+2 value-added agricultural grant program under section 187.321.
+3 Sec. ___. CODE EDITOR DIRECTIVE. The Code editor is
+4 directed to designate section 187.331, as enacted in this
+5 division of this Act, as part 4 of subchapter III, chapter 187,
+6 entitled “Local Produce Processing Grant Program”.>
+7 5. By renumbering as necessary.
+______________________________
+INGELS of Fayette
+HF 1032.1754 (1) 91
+-2- nls/ko 2/2
+[DELETED: eFe1AdHeFe12asf1.Bysgpe2,le3,thpe3,le22.Pe3,le3,bysg<>adi<3.Pe4,le4,bysg<>adi<4.Pe4,arle15byi<._.NWS1Llpeptp01.Asudintss.“lp1msfsadvsgnint2s.“lpep3mstepnofl4pefrhnc52.Tedtslehadartel6pepggtpmfrtepeofa7gstoIdestoieteayo8llpep.Inagtep,t9dtslpegstoaloftef0Idesttwlieayoft1fgasitrstollpep2()A3()A4()E5()C6Idesttpsllpefmt7ormeIaf8ApnpginteceIap9pmursn10Ideswellpeissdo1ddtoagyseeefrteg2rtpmursn133.AnIdeywellpep4isllpefmteormeIafsslb5eefragturtepminanatttistF14()9o1]
+[DELETED: tstemmgtatstbytedtfrtvdalgtpmursn1S._.CEERD.TeCeeriddtodesn1,asedintdnoftsA,aspt4ofsrI,cr1ed“lPePgGtP5.ByrgasnSofFF14()9o2]
+
+
+================================================================================
+
+Raw Text:
+House File 1032
+H-1284
+1 Amend House File 1032 as follows:
+2 1. By striking page 2, line 35, through page 3, line 22.
+3 2. Page 3, line 33, by striking <15.414> and inserting
+4 <187.331>
+5 3. Page 4, line 4, by striking <15.414> and inserting
+6 <187.331>
+7 4. Page 4, after line 15 by inserting:
+8 <Sec. ___. NEW SECTION. 187.331 Local produce processing
+9 grant program.
+10 1. As used in this section:
+11 a. “Local produce” means fruits and vegetables grown in this
+12 state.
+13 b. “Local produce processing” means the preparation of local
+14 produce for human consumption.
+15 2. The department shall establish and administer the local
+16 produce processing grant program for the purpose of awarding
+17 grants to Iowa-based entities to increase the availability of
+18 local produce processing. In administering the program, the
+19 department shall prioritize grants to all of the following:
+20 a. Iowa-based entities that will increase any of the
+21 following as it relates to local produce processing:
+22 (1) Availability.
+23 (2) Access.
+24 (3) Efficiency.
+25 (4) Capacity.
+26 b. Iowa-based entities that process local produce from three
+27 or more Iowa farms.
+28 c. A person participating in the choose Iowa promotional
+29 program under section 187.303.
+30 d. Iowa-based entities whose local produce is sold or
+31 distributed to a grocery store eligible for the grocer
+32 reinvestment program under section 15.413.
+33 3. An Iowa-based entity whose local produce processing
+34 includes local produce from three or more Iowa farms shall be
+35 eligible for a grant under the program in an amount that is two
+HF 1032.1754 (1) 91
+-1- nls/ko 1/2
+
+1 times the maximum grant amount set by the department for the
+2 value-added agricultural grant program under section 187.321.
+3 Sec. ___. CODE EDITOR DIRECTIVE. The Code editor is
+4 directed to designate section 187.331, as enacted in this
+5 division of this Act, as part 4 of subchapter III, chapter 187,
+6 entitled “Local Produce Processing Grant Program”.>
+7 5. By renumbering as necessary.
+______________________________
+INGELS of Fayette
+HF 1032.1754 (1) 91
+-2- nls/ko 2/2
+
+[DELETED: eFe1AdHeFe12asf1.Bysgpe2,le3,thpe3,le22.Pe3,le3,bysg<>adi<3.Pe4,le4,bysg<>adi<4.Pe4,arle15byi<._.NWS1Llpeptp01.Asudintss.“lp1msfsadvsgnint2s.“lpep3mstepnofl4pefrhnc52.Tedtslehadartel6pepggtpmfrtepeofa7gstoIdestoieteayo8llpep.Inagtep,t9dtslpegstoaloftef0Idesttwlieayoft1fgasitrstollpep2()A3()A4()E5()C6Idesttpsllpefmt7ormeIaf8ApnpginteceIap9pmursn10Ideswellpeissdo1ddtoagyseeefrteg2rtpmursn133.AnIdeywellpep4isllpefmteormeIafsslb5eefragturtepminanatttistF14()9o1]
+[DELETED: tstemmgtatstbytedtfrtvdalgtpmursn1S._.CEERD.TeCeeriddtodesn1,asedintdnoftsA,aspt4ofsrI,cr1ed“lPePgGtP5.ByrgasnSofFF14()9o2]

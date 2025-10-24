@@ -1,0 +1,33 @@
+Title: 2 1. Page 1, line 9, by striking <three> and inserting <six>
+Official Title: 2 1. Page 1, line 9, by striking <three> and inserting <six>
+Number of Sections: 1
+Source: versions - Amendment H-1061
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 390
+H-1061
+1 Amend House File 390 as follows:
+______________________________
+NORDMAN of Dallas
+HF 390.833 (2) 91
+-1- dg/ko 1/1
+[DELETED: eFe3AdHeFe30asf1.Pe1,le9,bysg<>adig<NofDF33()9]
+
+
+================================================================================
+
+Raw Text:
+House File 390
+H-1061
+1 Amend House File 390 as follows:
+2 1. Page 1, line 9, by striking <three> and inserting <six>
+______________________________
+NORDMAN of Dallas
+HF 390.833 (2) 91
+-1- dg/ko 1/1
+
+[DELETED: eFe3AdHeFe30asf1.Pe1,le9,bysg<>adig<NofDF33()9]

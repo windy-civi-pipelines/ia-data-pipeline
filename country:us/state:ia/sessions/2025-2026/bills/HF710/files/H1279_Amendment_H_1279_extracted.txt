@@ -1,0 +1,89 @@
+Title: 1 Amend House File 710, as passed by the House, as follows:
+Official Title: 1 Amend House File 710, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1279
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate Amendment to
+House File 710
+H-1279
+2 1. Page 1, lines 3 and 4, by striking <dock site permit and
+3 hoist or slip assignment> and inserting <class I or class III
+4 dock permit, as provided in 571 IAC ch. 16,>
+5 2. Page 1, line 4, by striking <an enclosed structure> and
+6 inserting <a roof>
+7 3. Page 1, line 6, by striking <enclosed structure> and
+8 inserting <roof>
+9 4. Page 1, line 8, by striking <enclosed structure> and
+10 inserting <roof>
+11 5. Page 1, line 9, by striking <enclosed structure> and
+12 inserting <roof>
+13 6. Page 1, by striking lines 11 through 17 and inserting:
+14 <d. The roof is built above the boat slip or hoist.>
+15 7. Page 1, line 18, by striking <enclosed structure> and
+16 inserting <roof>
+17 8. Page 1, line 20, by striking <an enclosed structure> and
+18 inserting <a roof>
+19 9. Page 1, line 24, by striking <enclosed structure> and
+20 inserting <roof>
+21 10. Page 1, line 27, by striking <policies> and inserting
+22 <additional restrictions and requirements>
+23 11. Page 1, line 29, by striking <an enclosed structure> and
+24 inserting <a roof>
+25 12. Page 1, lines 29 and 30, by striking <dock otherwise
+26 prohibited by this section.> and inserting <dock. Restrictions
+27 and requirements adopted pursuant to the authority granted to
+28 an association under this subsection shall only apply to the
+29 association’s members and the association’s members’ guests.>
+30 13. Title page, line 1, by striking <enclosed structures>
+31 and inserting <roofs>
+HF 710.1727.S (1) 91
+-1- mb 1/1
+[DELETED: eAtteFe7AdHeFe7,aspdbyteH,asf1.Pe1,ls3ad4,bysg<kseptahtorspa>adig<sIorcsIdkp,aspdin51ICc.12.Pe1,le4,bysg<neds>aig<ar3.Pe1,le6,bysg<ds>aig<4.Pe1,le8,bysg<ds>a0ig<15.Pe1,le9,bysg<ds>a2ig<36.Pe1,bysgls11th17adi4Terfisbtaetebtsporh57.Pe1,le1,bysg<ds>a6ig<78.Pe1,le2,bysg<neds>a8ig<ar99.Pe1,le2,bysg<ds>a0ig<11.Pe1,le2,bysg<>adi2<lrsadr31.Pe1,le2,bysg<neds>a4ig<ar51.Pe1,ls29ad3,bysg<ko6pdbytss>adig<.R7adrsadpttoteaygdt8ananurtssnsloyaytot9asmsadteasm’g01.Tep,le1,bysg<ds1adig<F7S()9]
+
+
+================================================================================
+
+Raw Text:
+Senate Amendment to
+House File 710
+H-1279
+1 Amend House File 710, as passed by the House, as follows:
+2 1. Page 1, lines 3 and 4, by striking <dock site permit and
+3 hoist or slip assignment> and inserting <class I or class III
+4 dock permit, as provided in 571 IAC ch. 16,>
+5 2. Page 1, line 4, by striking <an enclosed structure> and
+6 inserting <a roof>
+7 3. Page 1, line 6, by striking <enclosed structure> and
+8 inserting <roof>
+9 4. Page 1, line 8, by striking <enclosed structure> and
+10 inserting <roof>
+11 5. Page 1, line 9, by striking <enclosed structure> and
+12 inserting <roof>
+13 6. Page 1, by striking lines 11 through 17 and inserting:
+14 <d. The roof is built above the boat slip or hoist.>
+15 7. Page 1, line 18, by striking <enclosed structure> and
+16 inserting <roof>
+17 8. Page 1, line 20, by striking <an enclosed structure> and
+18 inserting <a roof>
+19 9. Page 1, line 24, by striking <enclosed structure> and
+20 inserting <roof>
+21 10. Page 1, line 27, by striking <policies> and inserting
+22 <additional restrictions and requirements>
+23 11. Page 1, line 29, by striking <an enclosed structure> and
+24 inserting <a roof>
+25 12. Page 1, lines 29 and 30, by striking <dock otherwise
+26 prohibited by this section.> and inserting <dock. Restrictions
+27 and requirements adopted pursuant to the authority granted to
+28 an association under this subsection shall only apply to the
+29 association’s members and the association’s members’ guests.>
+30 13. Title page, line 1, by striking <enclosed structures>
+31 and inserting <roofs>
+HF 710.1727.S (1) 91
+-1- mb 1/1
+
+[DELETED: eAtteFe7AdHeFe7,aspdbyteH,asf1.Pe1,ls3ad4,bysg<kseptahtorspa>adig<sIorcsIdkp,aspdin51ICc.12.Pe1,le4,bysg<neds>aig<ar3.Pe1,le6,bysg<ds>aig<4.Pe1,le8,bysg<ds>a0ig<15.Pe1,le9,bysg<ds>a2ig<36.Pe1,bysgls11th17adi4Terfisbtaetebtsporh57.Pe1,le1,bysg<ds>a6ig<78.Pe1,le2,bysg<neds>a8ig<ar99.Pe1,le2,bysg<ds>a0ig<11.Pe1,le2,bysg<>adi2<lrsadr31.Pe1,le2,bysg<neds>a4ig<ar51.Pe1,ls29ad3,bysg<ko6pdbytss>adig<.R7adrsadpttoteaygdt8ananurtssnsloyaytot9asmsadteasm’g01.Tep,le1,bysg<ds1adig<F7S()9]

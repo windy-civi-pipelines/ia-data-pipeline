@@ -1,0 +1,37 @@
+Title: 2 1. Page 3, line 33, after <payor’s> by inserting <good
+Official Title: 2 1. Page 3, line 33, after <payor’s> by inserting <good
+Number of Sections: 1
+Source: versions - Amendment H-1064
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 571
+H-1064
+1 Amend House File 571 as follows:
+3 faith>
+4 2. Page 4, line 1, after <the> by inserting <good faith>
+______________________________
+GUSTOFF of Polk
+HF 571.852 (1) 91
+-1- lh/ko 1/1
+[DELETED: eFe5AdHeFe51asf1.Pe3,le3,ar<>byig<f2.Pe4,le1,ar<>byig<dfFofPF52()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 571
+H-1064
+1 Amend House File 571 as follows:
+2 1. Page 3, line 33, after <payor’s> by inserting <good
+3 faith>
+4 2. Page 4, line 1, after <the> by inserting <good faith>
+______________________________
+GUSTOFF of Polk
+HF 571.852 (1) 91
+-1- lh/ko 1/1
+
+[DELETED: eFe5AdHeFe51asf1.Pe3,le3,ar<>byig<f2.Pe4,le1,ar<>byig<dfFofPF52()9o1]

@@ -1,0 +1,177 @@
+Title: STATE BILL)
+Official Title: STATE BILL)
+Number of Sections: 1
+Source: versions - Prefiled
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE/HOUSE FILE _____
+BY (PROPOSED SECRETARY OF
+A BILL FOR
+1 An Act prohibiting the use of ranked choice and instant runoff
+2 voting in elections in this state.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1412XD (3) 91
+ss/ns
+S.F. _____ H.F. _____
+1 Section 1. Section 43.37, Code 2025, is amended to read as
+2 follows:
+3 43.37 Number of votes permitted per office —— prohibited
+4 methods.
+5 1. The elector shall be permitted to vote for no more
+6 candidates for any office than there are persons to be elected
+7 to the office. If an elector votes for more persons for any
+8 office than the number permitted, the elector’s ballot shall
+9 not be counted for that office.
+10 2. a. An election in this state shall not be conducted
+11 using ranked choice voting or instant runoff voting, including
+12 an election for any statewide, local government, or other
+13 office.
+14 b. For purposes of this subsection:
+15 (1) “Local government” means an incorporated city or town,
+16 an unincorporated city or town, a county, a school, or any
+17 other political subdivision of the state.
+18 (2) “Ranked choice voting” or “instant runoff voting” means
+19 a method of casting and tabulating votes in which a voter
+20 ranks candidates in order of preference, tabulation of ballots
+21 proceeds in rounds such that in each round either a candidate
+22 is elected or the candidate receiving the fewest votes is
+23 defeated, votes are transferred from elected or defeated
+24 candidates to a voter’s next-ranked candidate in order of
+25 preference, and tabulation ends when a candidate receives the
+26 majority of votes cast or the number of candidates elected
+27 equals the number of offices to be filled, as applicable.
+28 Sec. 2. Section 49.93, Code 2025, is amended to read as
+29 follows:
+30 49.93 Number of votes for each office —— prohibited methods.
+31 1. For an office to which one person is to be elected, a
+32 voter shall not vote for more than one candidate. If two or
+33 more persons are to be elected to an office, the voter shall
+34 vote for no more than the number of persons to be elected. If a
+35 person votes for more than the permitted number of candidates,
+LSB 1412XD (3) 91
+-1- ss/ns 1/2
+S.F. _____ H.F. _____
+1 the vote for that office shall not count. Valid votes cast on
+2 the rest of the ballot shall be counted.
+3 2. a. An election in this state shall not be conducted
+4 using ranked choice voting or instant runoff voting, including
+5 an election for any statewide, local government, or other
+6 office.
+7 b. For purposes of this subsection:
+8 (1) “Local government” means an incorporated city or town,
+9 an unincorporated city or town, a county, a school, or any
+10 other political subdivision of the state.
+11 (2) “Ranked choice voting” or “instant runoff voting” means
+12 a method of casting and tabulating votes in which a voter
+13 ranks candidates in order of preference, tabulation of ballots
+14 proceeds in rounds such that in each round either a candidate
+15 is elected or the candidate receiving the fewest votes is
+16 defeated, votes are transferred from elected or defeated
+17 candidates to a voter’s next-ranked candidate in order of
+18 preference, and tabulation ends when a candidate receives the
+19 majority of votes cast or the number of candidates elected
+20 equals the number of offices to be filled, as applicable.
+21 EXPLANATION
+22 The inclusion of this explanation does not constitute agreement with
+23 the explanation’s substance by the members of the general assembly.
+24 This bill prohibits ranked choice and instant runoff voting,
+25 defined in the bill, from being used to cast or tabulate
+26 ballots in any election in this state, including in elections
+27 for local government offices, defined in the bill.
+LSB 1412XD (3) 91
+-2- ss/ns 2/2
+[DELETED: EFE_Y(DSYOEBBLFAnAtpgteueofrdceaditrvginesintssBEITEDBYTEGLAYOFTESEOFIB1D()9]
+[DELETED: .__H._Sn1.Sn4,Ce2,isadtordaf7Nrofvspdproe——p1.Teerslbepdtovefrnomcsfrayoetnteaepstobeetoteo.Ifanervsfrmepsfraoetntenrp,teesbtsntbecdfrtto02.Anenintsseslntbec1ugrdcevgoritrfv,i2anenfrays,llg,oro3o4Frpsoftss5()msanidcyortlg6anudcyort,ac,as,ora7orplsnoftes8()ormdcev”“trfv9amdofcgadtgvsinwhav0rscsinorofp,tnofb1psinrsshttinehrderac2isedortecergteftvsi3d,vsaetdfmedord4cstoavsndceinoro5p,adtneswnacerst6myofvsctortenrofcse7estenrofostobef,asa8S.2.Sn4,Ce2,isadtorda9f3Nrofvsfrehoe——pdm11.Franoetowhoepnistobee,2vrslntvefrmetnoec.Iftoo3mepsaetobeedtoano,tevrs4vefrnometntenrofpstobee.If5pnvsfrmetntepdnrofcB1D()9s1]
+[DELETED: .__H._tevefrttoeslntc.Vdvsctotertoftebtslbec2.Anenintsseslntbecugrdcevgoritrfv,ianenfrays,llg,orooFrpsoftss()msanidcyortlganudcyort,ac,as,ora0orplsnoftes1()ormdcev”“trfv2amdofcgadtgvsinwhav3rscsinorofp,tnofb4psinrsshttinehrderac5isedortecergteftvsi6d,vsaetdfmedord7cstoavsndceinoro8p,adtneswnacerst9myofvsctortenrofcse0estenrofostobef,asa1Eeinoftsendsntceatweessebytemsoftegla4Tsblpsrdceaditrfv5ddinteb,fmbgudtoctort6bsinayenintss,igine7frllgto,ddintebB1D()9s2]
+
+
+================================================================================
+
+Raw Text:
+SENATE/HOUSE FILE _____
+BY (PROPOSED SECRETARY OF
+STATE BILL)
+A BILL FOR
+1 An Act prohibiting the use of ranked choice and instant runoff
+2 voting in elections in this state.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1412XD (3) 91
+ss/ns
+
+S.F. _____ H.F. _____
+1 Section 1. Section 43.37, Code 2025, is amended to read as
+2 follows:
+3 43.37 Number of votes permitted per office —— prohibited
+4 methods.
+5 1. The elector shall be permitted to vote for no more
+6 candidates for any office than there are persons to be elected
+7 to the office. If an elector votes for more persons for any
+8 office than the number permitted, the elector’s ballot shall
+9 not be counted for that office.
+10 2. a. An election in this state shall not be conducted
+11 using ranked choice voting or instant runoff voting, including
+12 an election for any statewide, local government, or other
+13 office.
+14 b. For purposes of this subsection:
+15 (1) “Local government” means an incorporated city or town,
+16 an unincorporated city or town, a county, a school, or any
+17 other political subdivision of the state.
+18 (2) “Ranked choice voting” or “instant runoff voting” means
+19 a method of casting and tabulating votes in which a voter
+20 ranks candidates in order of preference, tabulation of ballots
+21 proceeds in rounds such that in each round either a candidate
+22 is elected or the candidate receiving the fewest votes is
+23 defeated, votes are transferred from elected or defeated
+24 candidates to a voter’s next-ranked candidate in order of
+25 preference, and tabulation ends when a candidate receives the
+26 majority of votes cast or the number of candidates elected
+27 equals the number of offices to be filled, as applicable.
+28 Sec. 2. Section 49.93, Code 2025, is amended to read as
+29 follows:
+30 49.93 Number of votes for each office —— prohibited methods.
+31 1. For an office to which one person is to be elected, a
+32 voter shall not vote for more than one candidate. If two or
+33 more persons are to be elected to an office, the voter shall
+34 vote for no more than the number of persons to be elected. If a
+35 person votes for more than the permitted number of candidates,
+LSB 1412XD (3) 91
+-1- ss/ns 1/2
+
+S.F. _____ H.F. _____
+1 the vote for that office shall not count. Valid votes cast on
+2 the rest of the ballot shall be counted.
+3 2. a. An election in this state shall not be conducted
+4 using ranked choice voting or instant runoff voting, including
+5 an election for any statewide, local government, or other
+6 office.
+7 b. For purposes of this subsection:
+8 (1) “Local government” means an incorporated city or town,
+9 an unincorporated city or town, a county, a school, or any
+10 other political subdivision of the state.
+11 (2) “Ranked choice voting” or “instant runoff voting” means
+12 a method of casting and tabulating votes in which a voter
+13 ranks candidates in order of preference, tabulation of ballots
+14 proceeds in rounds such that in each round either a candidate
+15 is elected or the candidate receiving the fewest votes is
+16 defeated, votes are transferred from elected or defeated
+17 candidates to a voter’s next-ranked candidate in order of
+18 preference, and tabulation ends when a candidate receives the
+19 majority of votes cast or the number of candidates elected
+20 equals the number of offices to be filled, as applicable.
+21 EXPLANATION
+22 The inclusion of this explanation does not constitute agreement with
+23 the explanation’s substance by the members of the general assembly.
+24 This bill prohibits ranked choice and instant runoff voting,
+25 defined in the bill, from being used to cast or tabulate
+26 ballots in any election in this state, including in elections
+27 for local government offices, defined in the bill.
+LSB 1412XD (3) 91
+-2- ss/ns 2/2
+
+[DELETED: EFE_Y(DSYOEBBLFAnAtpgteueofrdceaditrvginesintssBEITEDBYTEGLAYOFTESEOFIB1D()9]
+[DELETED: .__H._Sn1.Sn4,Ce2,isadtordaf7Nrofvspdproe——p1.Teerslbepdtovefrnomcsfrayoetnteaepstobeetoteo.Ifanervsfrmepsfraoetntenrp,teesbtsntbecdfrtto02.Anenintsseslntbec1ugrdcevgoritrfv,i2anenfrays,llg,oro3o4Frpsoftss5()msanidcyortlg6anudcyort,ac,as,ora7orplsnoftes8()ormdcev”“trfv9amdofcgadtgvsinwhav0rscsinorofp,tnofb1psinrsshttinehrderac2isedortecergteftvsi3d,vsaetdfmedord4cstoavsndceinoro5p,adtneswnacerst6myofvsctortenrofcse7estenrofostobef,asa8S.2.Sn4,Ce2,isadtorda9f3Nrofvsfrehoe——pdm11.Franoetowhoepnistobee,2vrslntvefrmetnoec.Iftoo3mepsaetobeedtoano,tevrs4vefrnometntenrofpstobee.If5pnvsfrmetntepdnrofcB1D()9s1]
+[DELETED: .__H._tevefrttoeslntc.Vdvsctotertoftebtslbec2.Anenintsseslntbecugrdcevgoritrfv,ianenfrays,llg,orooFrpsoftss()msanidcyortlganudcyort,ac,as,ora0orplsnoftes1()ormdcev”“trfv2amdofcgadtgvsinwhav3rscsinorofp,tnofb4psinrsshttinehrderac5isedortecergteftvsi6d,vsaetdfmedord7cstoavsndceinoro8p,adtneswnacerst9myofvsctortenrofcse0estenrofostobef,asa1Eeinoftsendsntceatweessebytemsoftegla4Tsblpsrdceaditrfv5ddinteb,fmbgudtoctort6bsinayenintss,igine7frllgto,ddintebB1D()9s2]

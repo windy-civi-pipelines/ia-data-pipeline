@@ -1,0 +1,63 @@
+Title: 1 Amend the House amendment, S-3030, to Senate File 603, as
+Official Title: 1 Amend the House amendment, S-3030, to Senate File 603, as
+Number of Sections: 1
+Source: versions - Amendment S-3034
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 603
+S-3034
+2 passed by the Senate, as follows:
+3 1. Page 1, by striking lines 11 through 13.
+4 2. Page 1, line 14, by striking <3.> and inserting <2.>
+5 3. Page 1, line 14, by striking <shall not> and inserting
+6 <may>
+7 4. Page 1, line 19, by striking <shall not> and inserting
+8 <may>
+9 5. Page 1, by striking lines 22 through 28.
+10 6. Page 1, line 31, by striking <shall not> and inserting
+11 <may>
+12 7. Page 2, lines 1 and 2, by striking <shall not> and
+13 inserting <may>
+14 8. Page 2, line 7, by striking <shall not> and inserting
+15 <may>
+16 9. Page 2, lines 12 and 13, by striking <shall not> and
+17 inserting <may>
+______________________________
+MATT BLAKE
+S 3030.1087 (2) 91
+-1- je/js 1/1
+[DELETED: eFe6AdteHea,S,toSeFe6,apdbyteS,asf1.Pe1,bysgls11th12.Pe1,le1,bysg<>adig<3.Pe1,le1,bysg<ln>adi<4.Pe1,le1,bysg<ln>adi<5.Pe1,bysgls22th206.Pe1,le3,bysg<ln>adi1<27.Pe2,ls1ad2,bysg<ln>a3ig<48.Pe2,le7,bysg<ln>adi5<69.Pe2,ls12ad1,bysg<ln>a7ig<TB37()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 603
+S-3034
+1 Amend the House amendment, S-3030, to Senate File 603, as
+2 passed by the Senate, as follows:
+3 1. Page 1, by striking lines 11 through 13.
+4 2. Page 1, line 14, by striking <3.> and inserting <2.>
+5 3. Page 1, line 14, by striking <shall not> and inserting
+6 <may>
+7 4. Page 1, line 19, by striking <shall not> and inserting
+8 <may>
+9 5. Page 1, by striking lines 22 through 28.
+10 6. Page 1, line 31, by striking <shall not> and inserting
+11 <may>
+12 7. Page 2, lines 1 and 2, by striking <shall not> and
+13 inserting <may>
+14 8. Page 2, line 7, by striking <shall not> and inserting
+15 <may>
+16 9. Page 2, lines 12 and 13, by striking <shall not> and
+17 inserting <may>
+______________________________
+MATT BLAKE
+S 3030.1087 (2) 91
+-1- je/js 1/1
+
+[DELETED: eFe6AdteHea,S,toSeFe6,apdbyteS,asf1.Pe1,bysgls11th12.Pe1,le1,bysg<>adig<3.Pe1,le1,bysg<ln>adi<4.Pe1,le1,bysg<ln>adi<5.Pe1,bysgls22th206.Pe1,le3,bysg<ln>adi1<27.Pe2,ls1ad2,bysg<ln>a3ig<48.Pe2,le7,bysg<ln>adi5<69.Pe2,ls12ad1,bysg<ln>a7ig<TB37()9]

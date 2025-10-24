@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, lines 15 and 16, by striking <section, without
+Official Title: 2 1. Page 1, lines 15 and 16, by striking <section, without
+Number of Sections: 1
+Source: versions - Amendment H-1058
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 317
+H-1058
+1 Amend House File 317 as follows:
+3 the consent of the attorney,> and inserting <section>
+______________________________
+LOHSE of Polk
+HF 317.829 (1) 91
+-1- as/js 1/1
+[DELETED: eFe3AdHeFe37asf1.Pe1,ls15ad1,bysg<,wtectoftea>adig<EofPF39()9]
+
+
+================================================================================
+
+Raw Text:
+House File 317
+H-1058
+1 Amend House File 317 as follows:
+2 1. Page 1, lines 15 and 16, by striking <section, without
+3 the consent of the attorney,> and inserting <section>
+______________________________
+LOHSE of Polk
+HF 317.829 (1) 91
+-1- as/js 1/1
+
+[DELETED: eFe3AdHeFe37asf1.Pe1,ls15ad1,bysg<,wtectoftea>adig<EofPF39()9]

@@ -1,0 +1,335 @@
+Title: 3 <b. “Consumer” means either a new consumer or an existing
+Official Title: 3 <b. “Consumer” means either a new consumer or an existing
+Number of Sections: 1
+Source: versions - Amendment S-3057
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Senate File 449
+S-3057
+1 Amend Senate File 449 as follows:
+2 1. Page 1, after line 10 by inserting:
+4 consumer.>
+5 2. Page 1, line 11, by striking <b.> and inserting <c.>
+6 3. Page 1, by striking lines 14 through 17 and inserting:
+7 <d. “Digital financial asset transaction kiosk” means
+8 an electronic terminal acting as a mechanical agent of an
+9 operator to enable the operator to facilitate the exchange of
+10 a digital financial asset for money, bank credit, or other
+11 digital financial asset, including but not limited to any of
+12 the following:
+13 (1) By connecting directly to a separate licensed digital
+14 financial asset exchange that performs the digital financial
+15 asset transaction.
+16 (2) By drawing upon a digital financial asset in the
+17 possession of the operator.>
+18 4. Page 1, after line 17 by inserting:
+19 <e. “Existing consumer” means an individual who is not a new
+20 consumer.>
+21 5. Page 1, line 18, by striking <d.> and inserting <f.>
+22 6. Page 1, after line 21 by inserting:
+23 <g. “New consumer” means an individual who has not
+24 previously engaged in a digital financial asset transaction
+25 with a particular operator. An individual shall continue to be
+26 considered a new consumer for a period of thirty calendar days
+27 after the individual makes their first digital financial asset
+28 transaction with a particular operator.>
+29 7. Page 1, line 22, by striking <e.> and inserting <h.>
+30 8. Page 1, line 24, by striking <f.> and inserting <i.>
+31 9. Page 1, by striking line 28 and inserting:
+32 <2. Daily transactions.
+33 a. An operator shall not, via a digital>
+34 10. Page 1, after line 31 by inserting:
+35 <b. In the thirty calendar days following a new consumer’s
+SF 449.978 (2) 91
+-1- nls/ko 1/5
+1 first financial asset transaction with a particular operator,
+2 the operator shall not, via a digital financial asset
+3 transaction kiosk, accept from the new consumer or dispense to
+4 the new consumer more than ten thousand dollars.>
+5 11. Page 3, after line 12 by inserting:
+6 <c. Prior to entering into a digital financial asset
+7 transaction with a consumer, an operator shall require the
+8 consumer to attest to receiving the disclosure required under
+9 paragraph “a”.>
+10 12. Page 4, line 34, after <operator> by inserting <, or an
+11 established third party acting on behalf of the operator and
+12 that specializes in performing blockchain analytics,>
+13 13. Page 5, line 6, after <operator> by inserting <, or of
+14 an established third party acting on behalf of the operator and
+15 that specializes in performing blockchain analytics>
+16 14. Page 5, after line 11 by inserting:
+17 <8. Refunds —— new consumers. Upon the request of a new
+18 consumer, an operator shall issue to the consumer a refund for
+19 the full amount of all digital financial asset transactions
+20 that the consumer made during the thirty-calendar-day period
+21 that the consumer was a new consumer if all of the following
+22 circumstances exist:
+23 a. The new consumer was fraudulently induced to engage in
+24 the digital financial asset transaction for which the consumer
+25 is requesting a refund.
+26 b. The consumer has contacted the operator and a government
+27 or law enforcement agency to report the fraudulent nature of
+28 the digital financial asset transaction within ninety calendar
+29 days of the last digital financial asset transaction to occur
+30 while the consumer was a new consumer.
+31 c. The consumer has submitted proof of the fraud to the
+32 operator, including but not limited to a police report or sworn
+33 declaration detailing the fraudulent nature of the digital
+34 financial asset transaction.
+35 9. Refunds —— existing consumers. Upon the request of an
+SF 449.978 (2) 91
+-2- nls/ko 2/5
+1 existing consumer, an operator shall issue to the existing
+2 consumer a refund for the full amount of all digital financial
+3 asset transactions that the existing consumer made if all of
+4 the following circumstances exist:
+5 a. The existing consumer was fraudulently induced to engage
+6 in the digital financial asset transaction for which the
+7 consumer is requesting a refund.
+8 b. The existing consumer has contacted the operator and a
+9 government or law enforcement agency to report the fraudulent
+10 nature of the digital financial asset transaction within ninety
+11 calendar days of the digital financial asset transaction for
+12 which the consumer is requesting a refund.
+13 c. The existing consumer has submitted proof of the fraud
+14 to the operator, including but not limited to a police report
+15 or sworn declaration detailing the fraudulent nature of the
+16 digital financial asset transaction.
+17 10. Enforcement —— penalties.
+18 a. If the attorney general has reasonable belief that an
+19 operator is in violation of this section, the attorney general
+20 has the sole authority to bring civil action to provide for all
+21 of the following:
+22 (1) Enjoin further violations by the operator.
+23 (2) Enforce compliance with this section.
+24 (3) Civil penalties in an amount not more than ten thousand
+25 dollars for each violation of this section.
+26 (4) Other remedies permitted under law.
+27 b. If the attorney general has reasonable belief that a
+28 person is in violation of an injunction issued under this
+29 subsection, the attorney general has the sole authority to
+30 bring civil action to provide for civil penalties in an amount
+31 not more than one hundred thousand dollars.
+32 c. An individual that has knowledge of a violation of this
+33 section may report the violation to the attorney general.
+34 d. The attorney general shall establish an electronic
+35 reporting system for the submission of reports pursuant to this
+SF 449.978 (2) 91
+-3- nls/ko 3/5
+1 subsection.
+2 11. Compliance policies. An operator shall implement,
+3 maintain, and enforce written policies and procedures for
+4 compliance with this section. The policies and procedures
+5 shall be reviewed and approved by the operator’s board of
+6 directors or an equivalent governing body of the operator.
+7 12. Fraud policy. An operator shall take reasonable
+8 steps to detect and prevent fraud, including establishing and
+9 maintaining a written antifraud policy. The antifraud policy
+10 shall, at a minimum, include all of the following:
+11 a. The identification and assessment of fraud-related risk
+12 areas.
+13 b. Procedures and controls to protect against identified
+14 risks.
+15 c. Allocation of responsibility for monitoring risks.
+16 d. Procedures for the periodic evaluation and revision of
+17 the antifraud procedures, controls, and monitoring mechanisms.
+18 13. Compliance officer. An operator shall designate and
+19 employ a compliance officer who meets all of the following
+20 requirements:
+21 a. The individual is qualified to coordinate and monitor
+22 compliance with this section and all applicable state and
+23 federal laws and rules.
+24 b. The individual is a full-time employee of the operator.
+25 c. The individual does not own more than twenty percent of
+26 the operator that employs the individual.
+27 Sec. ___. EFFECTIVE DATE. This Act, being deemed of
+28 immediate importance, takes effect upon enactment.
+29 Sec. ___. APPLICABILITY. This Act applies on or after July
+30 1, 2025, to operators.>
+31 15. Title page, line 1, after <kiosks> by inserting <and
+32 including penalties, and effective date and applicability
+33 provisions.>
+34 16. By renumbering as necessary.
+SF 449.978 (2) 91
+-4- nls/ko 4/5
+______________________________
+CHARLIE McCLINTOCK
+SF 449.978 (2) 91
+-5- nls/ko 5/5
+[DELETED: eFe4AdSeFe49asf1.Pe1,arle10byi.“mseranwcroranec2.Pe1,le1,bysg<>adig<.c3.Pe1,bysgls14th17adi.“lflattnkmanectlagasamlatofaortoeeteortofeteeeo0adlflatfrm,bkc,oro1dlfla,igbtntldtoayo2tef3()Bycgdytoaseldd4flateettpstedlf5att6()Bydgunadlflatint7pnofteo84.Pe1,arle17byi.“gc9msanilwoisntan0c15.Pe1,le1,bysg<>adig<.f26.Pe1,arle21byi.“wc3msanilwohsn4pyedinadlflatt5whapro.Anilslcetob6cdanwcrfrapdoftycrd7arteilmstrftdlfla8tnwhapro97.Pe1,le2,bysg<>adig<.h08.Pe1,le2,bysg<>adig<.i19.Pe1,bysgle28adi2<yt3Anorsln,vaad41.Pe1,arle31byi5IntetycrdsfganwcF48()9o1]
+[DELETED: ftflattnwhaproteorsln,vaadlflatnk,atfmtenwcrordettenwcrmetntntdd1.Pe3,arle12byiPrtoegioadlflatnwhac,anorslretcrtoattorgtederduph.01.Pe4,le3,ar<>byig<,ora1edtdpyagonbfofteora2ttssinpgbna31.Pe5,le6,ar<>byig<,oro4anedtdpyagonbfofteora5ttssinpgbna61.Pe5,arle11byi7<.Untertofans——nwc8c,anorslietotecrardf9teflatofaldlflatt0tttecrmedgtetyp1tttecrwsanwcrifaloftef2cse3Tenwcrwsfyidtoeei4tedlflattnfrwhtec5isrgar6Tecrhscdteoradag7orlwetaytortteftneo8tedlflattnwnnyc9dsofteltdlflattntoo0wetecrwsanwc1Tecrhssdpfoftefdtot2o,igbtntldtoapertors3dndgteftneofted4flatt59.Untertofas——egcF48()9o2]
+[DELETED: egc,anorslietoteecrardfrteflatofaldlfattsttteegcrmeifalotefgcseTeegcrwsfyidtoeintedlflattnfrwhtcrisrgarTeegcrhscdteoradgtorlwetaytorttef0neoftedlflattnwnn1crdsoftedlflattnf2whtecrisrgar3Teegcrhssdpfoftef4toteo,igbtntldtoaper5orsndndgteftneoft6dlflatt71t——p8Ifteayglhsrebftta9orisinvnoftss,teayg0hsteseaytobgclantopefra1oftef2()Enfrvsbyteo3()Eecewhtss4()Clpsinanatntmetntnt5dsfrehvnoftss6()Orrspdurl7Ifteayglhsrebftt8pnisinvnofaninidurt9s,teayglhsteseayt0bgclantopefrclpsinana1ntmetnoehdtdd2Aniltthskeofavnoft3snmyrttevntoteayg4Teayglslehane5rgsmfrtesnofrspttotF48()9o3]
+[DELETED: s1.Anorsliepm,adeewnpsadpsfcewhtss.Tepsadpslberdadadbyteosbdodsoranetggbyofteo1.Anorslterdpsstodtadptf,igegamgawnadp.Teadp0s,atam,iealoftef1Teinadatoffdr2a3Psadcstoptati4r5Anofryfrmgr6Psfrtepcenadrno7teadp,c,admgm81.Anorsldeaeo9eyaceorwomsaloftef0r1Teilisqdtoceadm2cewhtssnadalaesea3fllsadr4Teilisafeeeofteo5Teildsntonmetntypto6teorttestei7S._.EED.TsA,bgddo8iei,tsetune9S._.A.TsAtasonorarJ01,2,too11.Tep,le1,ar<>byig<2igp,adeedeada3p41.ByrgasnF48()9o4]
+[DELETED: EMF48()9o5]
+
+
+================================================================================
+
+Raw Text:
+Senate File 449
+S-3057
+1 Amend Senate File 449 as follows:
+2 1. Page 1, after line 10 by inserting:
+3 <b. “Consumer” means either a new consumer or an existing
+4 consumer.>
+5 2. Page 1, line 11, by striking <b.> and inserting <c.>
+6 3. Page 1, by striking lines 14 through 17 and inserting:
+7 <d. “Digital financial asset transaction kiosk” means
+8 an electronic terminal acting as a mechanical agent of an
+9 operator to enable the operator to facilitate the exchange of
+10 a digital financial asset for money, bank credit, or other
+11 digital financial asset, including but not limited to any of
+12 the following:
+13 (1) By connecting directly to a separate licensed digital
+14 financial asset exchange that performs the digital financial
+15 asset transaction.
+16 (2) By drawing upon a digital financial asset in the
+17 possession of the operator.>
+18 4. Page 1, after line 17 by inserting:
+19 <e. “Existing consumer” means an individual who is not a new
+20 consumer.>
+21 5. Page 1, line 18, by striking <d.> and inserting <f.>
+22 6. Page 1, after line 21 by inserting:
+23 <g. “New consumer” means an individual who has not
+24 previously engaged in a digital financial asset transaction
+25 with a particular operator. An individual shall continue to be
+26 considered a new consumer for a period of thirty calendar days
+27 after the individual makes their first digital financial asset
+28 transaction with a particular operator.>
+29 7. Page 1, line 22, by striking <e.> and inserting <h.>
+30 8. Page 1, line 24, by striking <f.> and inserting <i.>
+31 9. Page 1, by striking line 28 and inserting:
+32 <2. Daily transactions.
+33 a. An operator shall not, via a digital>
+34 10. Page 1, after line 31 by inserting:
+35 <b. In the thirty calendar days following a new consumer’s
+SF 449.978 (2) 91
+-1- nls/ko 1/5
+
+1 first financial asset transaction with a particular operator,
+2 the operator shall not, via a digital financial asset
+3 transaction kiosk, accept from the new consumer or dispense to
+4 the new consumer more than ten thousand dollars.>
+5 11. Page 3, after line 12 by inserting:
+6 <c. Prior to entering into a digital financial asset
+7 transaction with a consumer, an operator shall require the
+8 consumer to attest to receiving the disclosure required under
+9 paragraph “a”.>
+10 12. Page 4, line 34, after <operator> by inserting <, or an
+11 established third party acting on behalf of the operator and
+12 that specializes in performing blockchain analytics,>
+13 13. Page 5, line 6, after <operator> by inserting <, or of
+14 an established third party acting on behalf of the operator and
+15 that specializes in performing blockchain analytics>
+16 14. Page 5, after line 11 by inserting:
+17 <8. Refunds —— new consumers. Upon the request of a new
+18 consumer, an operator shall issue to the consumer a refund for
+19 the full amount of all digital financial asset transactions
+20 that the consumer made during the thirty-calendar-day period
+21 that the consumer was a new consumer if all of the following
+22 circumstances exist:
+23 a. The new consumer was fraudulently induced to engage in
+24 the digital financial asset transaction for which the consumer
+25 is requesting a refund.
+26 b. The consumer has contacted the operator and a government
+27 or law enforcement agency to report the fraudulent nature of
+28 the digital financial asset transaction within ninety calendar
+29 days of the last digital financial asset transaction to occur
+30 while the consumer was a new consumer.
+31 c. The consumer has submitted proof of the fraud to the
+32 operator, including but not limited to a police report or sworn
+33 declaration detailing the fraudulent nature of the digital
+34 financial asset transaction.
+35 9. Refunds —— existing consumers. Upon the request of an
+SF 449.978 (2) 91
+-2- nls/ko 2/5
+
+1 existing consumer, an operator shall issue to the existing
+2 consumer a refund for the full amount of all digital financial
+3 asset transactions that the existing consumer made if all of
+4 the following circumstances exist:
+5 a. The existing consumer was fraudulently induced to engage
+6 in the digital financial asset transaction for which the
+7 consumer is requesting a refund.
+8 b. The existing consumer has contacted the operator and a
+9 government or law enforcement agency to report the fraudulent
+10 nature of the digital financial asset transaction within ninety
+11 calendar days of the digital financial asset transaction for
+12 which the consumer is requesting a refund.
+13 c. The existing consumer has submitted proof of the fraud
+14 to the operator, including but not limited to a police report
+15 or sworn declaration detailing the fraudulent nature of the
+16 digital financial asset transaction.
+17 10. Enforcement —— penalties.
+18 a. If the attorney general has reasonable belief that an
+19 operator is in violation of this section, the attorney general
+20 has the sole authority to bring civil action to provide for all
+21 of the following:
+22 (1) Enjoin further violations by the operator.
+23 (2) Enforce compliance with this section.
+24 (3) Civil penalties in an amount not more than ten thousand
+25 dollars for each violation of this section.
+26 (4) Other remedies permitted under law.
+27 b. If the attorney general has reasonable belief that a
+28 person is in violation of an injunction issued under this
+29 subsection, the attorney general has the sole authority to
+30 bring civil action to provide for civil penalties in an amount
+31 not more than one hundred thousand dollars.
+32 c. An individual that has knowledge of a violation of this
+33 section may report the violation to the attorney general.
+34 d. The attorney general shall establish an electronic
+35 reporting system for the submission of reports pursuant to this
+SF 449.978 (2) 91
+-3- nls/ko 3/5
+
+1 subsection.
+2 11. Compliance policies. An operator shall implement,
+3 maintain, and enforce written policies and procedures for
+4 compliance with this section. The policies and procedures
+5 shall be reviewed and approved by the operator’s board of
+6 directors or an equivalent governing body of the operator.
+7 12. Fraud policy. An operator shall take reasonable
+8 steps to detect and prevent fraud, including establishing and
+9 maintaining a written antifraud policy. The antifraud policy
+10 shall, at a minimum, include all of the following:
+11 a. The identification and assessment of fraud-related risk
+12 areas.
+13 b. Procedures and controls to protect against identified
+14 risks.
+15 c. Allocation of responsibility for monitoring risks.
+16 d. Procedures for the periodic evaluation and revision of
+17 the antifraud procedures, controls, and monitoring mechanisms.
+18 13. Compliance officer. An operator shall designate and
+19 employ a compliance officer who meets all of the following
+20 requirements:
+21 a. The individual is qualified to coordinate and monitor
+22 compliance with this section and all applicable state and
+23 federal laws and rules.
+24 b. The individual is a full-time employee of the operator.
+25 c. The individual does not own more than twenty percent of
+26 the operator that employs the individual.
+27 Sec. ___. EFFECTIVE DATE. This Act, being deemed of
+28 immediate importance, takes effect upon enactment.
+29 Sec. ___. APPLICABILITY. This Act applies on or after July
+30 1, 2025, to operators.>
+31 15. Title page, line 1, after <kiosks> by inserting <and
+32 including penalties, and effective date and applicability
+33 provisions.>
+34 16. By renumbering as necessary.
+SF 449.978 (2) 91
+-4- nls/ko 4/5
+
+______________________________
+CHARLIE McCLINTOCK
+SF 449.978 (2) 91
+-5- nls/ko 5/5
+
+[DELETED: eFe4AdSeFe49asf1.Pe1,arle10byi.“mseranwcroranec2.Pe1,le1,bysg<>adig<.c3.Pe1,bysgls14th17adi.“lflattnkmanectlagasamlatofaortoeeteortofeteeeo0adlflatfrm,bkc,oro1dlfla,igbtntldtoayo2tef3()Bycgdytoaseldd4flateettpstedlf5att6()Bydgunadlflatint7pnofteo84.Pe1,arle17byi.“gc9msanilwoisntan0c15.Pe1,le1,bysg<>adig<.f26.Pe1,arle21byi.“wc3msanilwohsn4pyedinadlflatt5whapro.Anilslcetob6cdanwcrfrapdoftycrd7arteilmstrftdlfla8tnwhapro97.Pe1,le2,bysg<>adig<.h08.Pe1,le2,bysg<>adig<.i19.Pe1,bysgle28adi2<yt3Anorsln,vaad41.Pe1,arle31byi5IntetycrdsfganwcF48()9o1]
+[DELETED: ftflattnwhaproteorsln,vaadlflatnk,atfmtenwcrordettenwcrmetntntdd1.Pe3,arle12byiPrtoegioadlflatnwhac,anorslretcrtoattorgtederduph.01.Pe4,le3,ar<>byig<,ora1edtdpyagonbfofteora2ttssinpgbna31.Pe5,le6,ar<>byig<,oro4anedtdpyagonbfofteora5ttssinpgbna61.Pe5,arle11byi7<.Untertofans——nwc8c,anorslietotecrardf9teflatofaldlflatt0tttecrmedgtetyp1tttecrwsanwcrifaloftef2cse3Tenwcrwsfyidtoeei4tedlflattnfrwhtec5isrgar6Tecrhscdteoradag7orlwetaytortteftneo8tedlflattnwnnyc9dsofteltdlflattntoo0wetecrwsanwc1Tecrhssdpfoftefdtot2o,igbtntldtoapertors3dndgteftneofted4flatt59.Untertofas——egcF48()9o2]
+[DELETED: egc,anorslietoteecrardfrteflatofaldlfattsttteegcrmeifalotefgcseTeegcrwsfyidtoeintedlflattnfrwhtcrisrgarTeegcrhscdteoradgtorlwetaytorttef0neoftedlflattnwnn1crdsoftedlflattnf2whtecrisrgar3Teegcrhssdpfoftef4toteo,igbtntldtoaper5orsndndgteftneoft6dlflatt71t——p8Ifteayglhsrebftta9orisinvnoftss,teayg0hsteseaytobgclantopefra1oftef2()Enfrvsbyteo3()Eecewhtss4()Clpsinanatntmetntnt5dsfrehvnoftss6()Orrspdurl7Ifteayglhsrebftt8pnisinvnofaninidurt9s,teayglhsteseayt0bgclantopefrclpsinana1ntmetnoehdtdd2Aniltthskeofavnoft3snmyrttevntoteayg4Teayglslehane5rgsmfrtesnofrspttotF48()9o3]
+[DELETED: s1.Anorsliepm,adeewnpsadpsfcewhtss.Tepsadpslberdadadbyteosbdodsoranetggbyofteo1.Anorslterdpsstodtadptf,igegamgawnadp.Teadp0s,atam,iealoftef1Teinadatoffdr2a3Psadcstoptati4r5Anofryfrmgr6Psfrtepcenadrno7teadp,c,admgm81.Anorsldeaeo9eyaceorwomsaloftef0r1Teilisqdtoceadm2cewhtssnadalaesea3fllsadr4Teilisafeeeofteo5Teildsntonmetntypto6teorttestei7S._.EED.TsA,bgddo8iei,tsetune9S._.A.TsAtasonorarJ01,2,too11.Tep,le1,ar<>byig<2igp,adeedeada3p41.ByrgasnF48()9o4]
+[DELETED: EMF48()9o5]

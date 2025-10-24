@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, line 10, after <banks> by inserting <, credit
+Official Title: 2 1. Page 1, line 10, after <banks> by inserting <, credit
+Number of Sections: 1
+Source: versions - Amendment H-1121
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 844
+H-1121
+1 Amend House File 844 as follows:
+3 unions,>
+______________________________
+LUNDGREN of Dubuque
+HF 844.938 (1) 91
+-1- sc/ns 1/1
+[DELETED: eFe8AdHeFe84asf1.Pe1,le1,ar<>byig<,cuNofDF88()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 844
+H-1121
+1 Amend House File 844 as follows:
+2 1. Page 1, line 10, after <banks> by inserting <, credit
+3 unions,>
+______________________________
+LUNDGREN of Dubuque
+HF 844.938 (1) 91
+-1- sc/ns 1/1
+
+[DELETED: eFe8AdHeFe84asf1.Pe1,le1,ar<>byig<,cuNofDF88()9s1]

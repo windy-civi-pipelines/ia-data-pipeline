@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, line 13, by striking <education and the
+Official Title: 2 1. Page 1, line 13, by striking <education and the
+Number of Sections: 1
+Source: versions - Amendment H-1024
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 420
+H-1024
+1 Amend House File 420 as follows:
+3 department of>
+______________________________
+COLLINS of Des Moines
+HF 420.299 (1) 91
+-1- je/jh 1/1
+[DELETED: eFe4AdHeFe40asf1.Pe1,le1,bysg<nadtdtoSofDsMF49()9]
+
+
+================================================================================
+
+Raw Text:
+House File 420
+H-1024
+1 Amend House File 420 as follows:
+2 1. Page 1, line 13, by striking <education and the
+3 department of>
+______________________________
+COLLINS of Des Moines
+HF 420.299 (1) 91
+-1- je/jh 1/1
+
+[DELETED: eFe4AdHeFe40asf1.Pe1,le1,bysg<nadtdtoSofDsMF49()9]

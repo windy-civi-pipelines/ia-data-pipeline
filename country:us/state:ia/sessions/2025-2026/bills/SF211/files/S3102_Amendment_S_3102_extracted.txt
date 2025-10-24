@@ -1,0 +1,138 @@
+Title: 2 1. By striking everything after the enacting clause and
+Official Title: 2 1. By striking everything after the enacting clause and
+Number of Sections: 1
+Source: versions - Amendment S-3102
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Senate File 211
+S-3102
+1 Amend Senate File 211 as follows:
+3 inserting:
+4 <Section 1. Section 256.7, subsection 21, paragraph b,
+5 subparagraph (2), unnumbered paragraph 1, Code 2025, is amended
+6 to read as follows:
+7 For the school year beginning July 1, 2018, and each
+8 succeeding school year, the The rules shall also require all
+9 of the following:
+10 Sec. 2. Section 256.7, subsection 21, paragraph b,
+11 subparagraph (2), Code 2025, is amended by adding the following
+12 new subparagraph division:
+13 NEW SUBPARAGRAPH DIVISION. (e) That any school district,
+14 accredited nonpublic school, or charter school providing
+15 instruction delivered primarily over the internet pursuant to
+16 subsection 32 may administer any state assessment required
+17 pursuant to this subsection in an online setting that is
+18 similar to the student’s regular academic instruction, if all
+19 of the following conditions are satisfied:
+20 (i) The student takes the assessment at a date and time that
+21 are assigned by personnel designated by the school district,
+22 accredited nonpublic school, or charter school.
+23 (ii) The student participates in a synchronous assessment
+24 session that is initiated and managed by personnel designated
+25 by the school district, accredited nonpublic school, or charter
+26 school.
+27 (iii) (A) The student takes the assessment using a device
+28 and an assessment platform that allow an assessment proctor to
+29 monitor the student for the duration of the assessment through
+30 a video feed that allows the assessment proctor to view the
+31 student taking the assessment and the student’s background.
+32 (B) If the device or assessment platform does not allow
+33 an assessment proctor to monitor the student for the duration
+34 of the assessment through a video feed in accordance with
+35 subparagraph part (A), the requirements of this subparagraph
+SF 211.1512 (1) 91
+(amending this SF 211 to CONFORM to HF 190)
+-1- jda/jh 1/2
+1 subdivision shall be satisfied if an assessment proctor is able
+2 to, through the use of a second device, monitor the student
+3 for the duration of the assessment through a video feed that
+4 allows the assessment proctor to view the student taking the
+5 assessment and the student’s background.
+6 (iv) The school district, accredited nonpublic school,
+7 or charter school maintains a ratio of students taking the
+8 assessment to assessment proctors of not greater than ten to
+9 one.
+10 (v) The student does not exit the assessment session until
+11 instructed to do so by the assessment proctor.
+12 (vi) An assessment administrator employed or designated by
+13 the school district, accredited nonpublic school, or charter
+14 school verifies student submission of the assessment.>
+______________________________
+LYNN EVANS
+SF 211.1512 (1) 91
+(amending this SF 211 to CONFORM to HF 190)
+-2- jda/jh 2/2
+[DELETED: eFe2AdSeFe21asf1.Bysgegarteegceai<n1.Sn2,sn2,phbsh(,udph1,Ce2,isatordasfFrteslyrbgJy1,2,adesgsly,teTersslaoreaoftef0S.2.Sn2,sn2,phb1sh(,Ce2,isadbyagtef2nwshd3NWSHD.()Ttaysld4adncs,orcrslp5inddpyorteitptt6sn32myarayseatr7pttotssninanoesgtti8srtotessrraci,ifa9oftefgcsaes0()Testtsteatatadeadtet1aeadbyplddbytesld2adncs,orcrs3()Testpsinassa4snttisidadmdbypld5bytesld,adncs,orc6s7()()Testtsteatugad8adanatpmttawanatprt9mrtestfrtednofteatt0avofdttasteatprtovwt1sttgteatadtessb2()Iftedeoratpmdsnta3anatprtomrtestfrted4ofteatthavofdinaew5shpt(,tersoftssF22()9gtsSF21toCMtoHF1]
+[DELETED: snslbesdifanatprisat,thteueofasdd,mrtesfrtednofteatthavofdtasteatprtovwtesttgtatadtessb()Tesld,adncsorcrslmsaroofsstgtattoatpsofntgrtntnto0()Testdsntetteatsnu1idtodosobyteatp2()Anataredorddb3tesld,adncs,orc4slvsstsnofteaNEF22()9gtsSF21toCMtoHF1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 211
+S-3102
+1 Amend Senate File 211 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 256.7, subsection 21, paragraph b,
+5 subparagraph (2), unnumbered paragraph 1, Code 2025, is amended
+6 to read as follows:
+7 For the school year beginning July 1, 2018, and each
+8 succeeding school year, the The rules shall also require all
+9 of the following:
+10 Sec. 2. Section 256.7, subsection 21, paragraph b,
+11 subparagraph (2), Code 2025, is amended by adding the following
+12 new subparagraph division:
+13 NEW SUBPARAGRAPH DIVISION. (e) That any school district,
+14 accredited nonpublic school, or charter school providing
+15 instruction delivered primarily over the internet pursuant to
+16 subsection 32 may administer any state assessment required
+17 pursuant to this subsection in an online setting that is
+18 similar to the student’s regular academic instruction, if all
+19 of the following conditions are satisfied:
+20 (i) The student takes the assessment at a date and time that
+21 are assigned by personnel designated by the school district,
+22 accredited nonpublic school, or charter school.
+23 (ii) The student participates in a synchronous assessment
+24 session that is initiated and managed by personnel designated
+25 by the school district, accredited nonpublic school, or charter
+26 school.
+27 (iii) (A) The student takes the assessment using a device
+28 and an assessment platform that allow an assessment proctor to
+29 monitor the student for the duration of the assessment through
+30 a video feed that allows the assessment proctor to view the
+31 student taking the assessment and the student’s background.
+32 (B) If the device or assessment platform does not allow
+33 an assessment proctor to monitor the student for the duration
+34 of the assessment through a video feed in accordance with
+35 subparagraph part (A), the requirements of this subparagraph
+SF 211.1512 (1) 91
+(amending this SF 211 to CONFORM to HF 190)
+-1- jda/jh 1/2
+
+1 subdivision shall be satisfied if an assessment proctor is able
+2 to, through the use of a second device, monitor the student
+3 for the duration of the assessment through a video feed that
+4 allows the assessment proctor to view the student taking the
+5 assessment and the student’s background.
+6 (iv) The school district, accredited nonpublic school,
+7 or charter school maintains a ratio of students taking the
+8 assessment to assessment proctors of not greater than ten to
+9 one.
+10 (v) The student does not exit the assessment session until
+11 instructed to do so by the assessment proctor.
+12 (vi) An assessment administrator employed or designated by
+13 the school district, accredited nonpublic school, or charter
+14 school verifies student submission of the assessment.>
+______________________________
+LYNN EVANS
+SF 211.1512 (1) 91
+(amending this SF 211 to CONFORM to HF 190)
+-2- jda/jh 2/2
+
+[DELETED: eFe2AdSeFe21asf1.Bysgegarteegceai<n1.Sn2,sn2,phbsh(,udph1,Ce2,isatordasfFrteslyrbgJy1,2,adesgsly,teTersslaoreaoftef0S.2.Sn2,sn2,phb1sh(,Ce2,isadbyagtef2nwshd3NWSHD.()Ttaysld4adncs,orcrslp5inddpyorteitptt6sn32myarayseatr7pttotssninanoesgtti8srtotessrraci,ifa9oftefgcsaes0()Testtsteatatadeadtet1aeadbyplddbytesld2adncs,orcrs3()Testpsinassa4snttisidadmdbypld5bytesld,adncs,orc6s7()()Testtsteatugad8adanatpmttawanatprt9mrtestfrtednofteatt0avofdttasteatprtovwt1sttgteatadtessb2()Iftedeoratpmdsnta3anatprtomrtestfrted4ofteatthavofdinaew5shpt(,tersoftssF22()9gtsSF21toCMtoHF1]
+[DELETED: snslbesdifanatprisat,thteueofasdd,mrtesfrtednofteatthavofdtasteatprtovwtesttgtatadtessb()Tesld,adncsorcrslmsaroofsstgtattoatpsofntgrtntnto0()Testdsntetteatsnu1idtodosobyteatp2()Anataredorddb3tesld,adncs,orc4slvsstsnofteaNEF22()9gtsSF21toCMtoHF1]
