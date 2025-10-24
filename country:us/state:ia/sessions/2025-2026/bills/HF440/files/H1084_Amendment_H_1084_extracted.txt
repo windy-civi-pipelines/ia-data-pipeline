@@ -1,0 +1,114 @@
+Title: 2 1. Page 1, line 23, by striking <December 31> and inserting
+Official Title: 2 1. Page 1, line 23, by striking <December 31> and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1084
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 440
+H-1084
+1 Amend House File 440 as follows:
+3 <April 30>
+4 2. Page 1, by striking lines 25 through 30.
+5 3. By striking page 1, line 33, through page 2, line 14.
+6 4. Page 2, line 15, by striking <40.> and inserting <39.>
+7 5. Page 2, line 16, before <offer> by inserting <begin
+8 efforts to>
+9 6. Page 2, line 18, by striking <by the academic year
+10 beginning in 2027>
+11 7. Page 2, line 19, by striking <41.> and inserting <40.>
+12 8. Page 2, line 19, by striking <a.>
+13 9. By striking page 2, line 20, through page 3, line
+14 9, and inserting <education governed by the board to begin
+15 implementation of at least one work study program whereby
+16 a student engages in part-time employment while pursuing a
+17 degree with the employer being financially responsible for the
+18 student’s tuition and mandatory fees during semesters in which
+19 the student is employed by the employer.>
+20 10. Page 3, after line 9 by inserting:
+21 <Sec. ___. INSTITUTIONS OF HIGHER EDUCATION GOVERNED BY THE
+22 STATE BOARD OF REGENTS —— UNDERGRADUATE TUITION —— STUDY.
+23 1. The state board of regents shall conduct a study on
+24 establishing a policy whereby the tuition amount charged
+25 to students classified as residents that is charged to an
+26 undergraduate student in the student’s first academic year
+27 of enrollment will not increase in the student’s subsequent
+28 academic years of undergraduate enrollment for three
+29 consecutive academic years.
+30 2. The study shall include projections of how much such a
+31 policy would increase enrollment at each of the institutions
+32 of higher education governed by the board, the technical
+33 feasibility of such a policy, the cost of implementation of
+34 such a policy, and the results of implementation of similar
+35 policies in other states.
+HF 440.924 (1) 91
+-1- je/jh 1/2
+1 3. The board shall submit a report on the results of the
+2 study to the governor and the general assembly no later than
+3 November 30, 2025.>
+4 11. By renumbering as necessary.
+______________________________
+COLLINS of Des Moines
+HF 440.924 (1) 91
+-2- je/jh 2/2
+[DELETED: eFe4AdHeFe40asf1.Pe1,le2,bysg<r3>adi<l32.Pe1,bysgls25th33.Bysgpe1,le3,thpe2,le14.Pe2,le1,bysg<>adig<5.Pe2,le1,be<>byig<est6.Pe2,le1,bysg<yteacy0bgin217.Pe2,le1,bysg<>adig<28.Pe2,le1,bysg<39.Bysgpe2,le2,thpe3,l49,adig<ngdbytebdtob5inofatltoewksypmw6astesinpeetwepg7dewhteerbgfyrefrt8sstnadmyfsdgssinw9testisedbytee01.Pe3,arle9byi1<._.ISOFHRENGDBYT2SEBDOFRS——UETN——S31.Tesebdofrsslctasyo4egapywytetnatc5tosscdasrsttiscdtoa6uestintessftacy7ofetwlntieintesss8acysofueetfrt9ceacy02.Tesysliepsofhwmhsh1pywdieetatehoftei2ofhrengdbyteb,tet3fyofshap,tectofino4shap,adtersofinofs5psinorsF44()9]
+[DELETED: 3.TebdslstartontersoftsytotegradteglaynolrtNr3,21.ByrgasnSofDsMF44()9]
+
+
+================================================================================
+
+Raw Text:
+House File 440
+H-1084
+1 Amend House File 440 as follows:
+2 1. Page 1, line 23, by striking <December 31> and inserting
+3 <April 30>
+4 2. Page 1, by striking lines 25 through 30.
+5 3. By striking page 1, line 33, through page 2, line 14.
+6 4. Page 2, line 15, by striking <40.> and inserting <39.>
+7 5. Page 2, line 16, before <offer> by inserting <begin
+8 efforts to>
+9 6. Page 2, line 18, by striking <by the academic year
+10 beginning in 2027>
+11 7. Page 2, line 19, by striking <41.> and inserting <40.>
+12 8. Page 2, line 19, by striking <a.>
+13 9. By striking page 2, line 20, through page 3, line
+14 9, and inserting <education governed by the board to begin
+15 implementation of at least one work study program whereby
+16 a student engages in part-time employment while pursuing a
+17 degree with the employer being financially responsible for the
+18 student’s tuition and mandatory fees during semesters in which
+19 the student is employed by the employer.>
+20 10. Page 3, after line 9 by inserting:
+21 <Sec. ___. INSTITUTIONS OF HIGHER EDUCATION GOVERNED BY THE
+22 STATE BOARD OF REGENTS —— UNDERGRADUATE TUITION —— STUDY.
+23 1. The state board of regents shall conduct a study on
+24 establishing a policy whereby the tuition amount charged
+25 to students classified as residents that is charged to an
+26 undergraduate student in the student’s first academic year
+27 of enrollment will not increase in the student’s subsequent
+28 academic years of undergraduate enrollment for three
+29 consecutive academic years.
+30 2. The study shall include projections of how much such a
+31 policy would increase enrollment at each of the institutions
+32 of higher education governed by the board, the technical
+33 feasibility of such a policy, the cost of implementation of
+34 such a policy, and the results of implementation of similar
+35 policies in other states.
+HF 440.924 (1) 91
+-1- je/jh 1/2
+
+1 3. The board shall submit a report on the results of the
+2 study to the governor and the general assembly no later than
+3 November 30, 2025.>
+4 11. By renumbering as necessary.
+______________________________
+COLLINS of Des Moines
+HF 440.924 (1) 91
+-2- je/jh 2/2
+
+[DELETED: eFe4AdHeFe40asf1.Pe1,le2,bysg<r3>adi<l32.Pe1,bysgls25th33.Bysgpe1,le3,thpe2,le14.Pe2,le1,bysg<>adig<5.Pe2,le1,be<>byig<est6.Pe2,le1,bysg<yteacy0bgin217.Pe2,le1,bysg<>adig<28.Pe2,le1,bysg<39.Bysgpe2,le2,thpe3,l49,adig<ngdbytebdtob5inofatltoewksypmw6astesinpeetwepg7dewhteerbgfyrefrt8sstnadmyfsdgssinw9testisedbytee01.Pe3,arle9byi1<._.ISOFHRENGDBYT2SEBDOFRS——UETN——S31.Tesebdofrsslctasyo4egapywytetnatc5tosscdasrsttiscdtoa6uestintessftacy7ofetwlntieintesss8acysofueetfrt9ceacy02.Tesysliepsofhwmhsh1pywdieetatehoftei2ofhrengdbyteb,tet3fyofshap,tectofino4shap,adtersofinofs5psinorsF44()9]
+[DELETED: 3.TebdslstartontersoftsytotegradteglaynolrtNr3,21.ByrgasnSofDsMF44()9]

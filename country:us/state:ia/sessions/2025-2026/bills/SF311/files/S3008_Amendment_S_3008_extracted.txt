@@ -1,0 +1,39 @@
+Title: 2 1. Page 7, by striking lines 13 and 14 and inserting:
+Official Title: 2 1. Page 7, by striking lines 13 and 14 and inserting:
+Number of Sections: 1
+Source: versions - Amendment S-3008
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 311
+S-3008
+1 Amend Senate File 311 as follows:
+3 <Sec. ___. EFFECTIVE DATE. This Act takes effect August 16,
+4 2025.>
+5 2. By renumbering as necessary.
+______________________________
+SCOTT WEBSTER
+SF 311.327 (1) 91
+-1- ll/js 1/1
+[DELETED: eFe3AdSeFe31asf1.Pe7,bysgls13ad14adi<._.EED.TsAttsetAt122.ByrgasnTWF37()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 311
+S-3008
+1 Amend Senate File 311 as follows:
+2 1. Page 7, by striking lines 13 and 14 and inserting:
+3 <Sec. ___. EFFECTIVE DATE. This Act takes effect August 16,
+4 2025.>
+5 2. By renumbering as necessary.
+______________________________
+SCOTT WEBSTER
+SF 311.327 (1) 91
+-1- ll/js 1/1
+
+[DELETED: eFe3AdSeFe31asf1.Pe7,bysgls13ad14adi<._.EED.TsAttsetAt122.ByrgasnTWF37()9]

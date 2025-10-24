@@ -1,0 +1,51 @@
+Title: 1 Amend Senate File 423, as passed by the Senate, as follows:
+Official Title: 1 Amend Senate File 423, as passed by the Senate, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1214
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 423
+H-1214
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 481C.2, subsection 2, Code 2025, is
+4 amended to read as follows:
+5 2. The department shall issue depredation permits and
+6 deer shooting permits to any landowner who incurs crop,
+7 horticultural product, tree, or nursery damage of one thousand
+8 dollars or more due to wild animals.>
+9 2. Title page, line 1, after <relating to> by inserting
+10 <deer hunting, including deer depredation and>
+11 3. By renumbering as necessary.
+______________________________
+COLLINS of Des Moines
+SF 423.1351 (1) 91
+-1- sb/js 1/1
+[DELETED: eFe4AdSeFe4,aspdbyteS,asf1.Pe1,bele1byi<n1.Sn4,sn2,Ce2,iadtordasf2.Tedtsliednpsadrsgpstoaylrwoischlp,t,ornydeofoetdsormedetowda2.Tep,le1,ar<gt>byi0<rh,igdrdna13.ByrgasnSofDsMF41()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 423
+H-1214
+1 Amend Senate File 423, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 481C.2, subsection 2, Code 2025, is
+4 amended to read as follows:
+5 2. The department shall issue depredation permits and
+6 deer shooting permits to any landowner who incurs crop,
+7 horticultural product, tree, or nursery damage of one thousand
+8 dollars or more due to wild animals.>
+9 2. Title page, line 1, after <relating to> by inserting
+10 <deer hunting, including deer depredation and>
+11 3. By renumbering as necessary.
+______________________________
+COLLINS of Des Moines
+SF 423.1351 (1) 91
+-1- sb/js 1/1
+
+[DELETED: eFe4AdSeFe4,aspdbyteS,asf1.Pe1,bele1byi<n1.Sn4,sn2,Ce2,iadtordasf2.Tedtsliednpsadrsgpstoaylrwoischlp,t,ornydeofoetdsormedetowda2.Tep,le1,ar<gt>byi0<rh,igdrdna13.ByrgasnSofDsMF41()9]

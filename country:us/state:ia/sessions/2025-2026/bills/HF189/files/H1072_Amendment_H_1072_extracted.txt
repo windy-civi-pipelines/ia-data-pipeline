@@ -1,0 +1,65 @@
+Title: 1 Amend the amendment, H-1013, to House File 189, as follows:
+Official Title: 1 Amend the amendment, H-1013, to House File 189, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1072
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 189
+H-1072
+2 1. Page 1, after line 29 by inserting:
+3 <(3) The corporation, association, or organization, when
+4 calculating a public school’s or nonpublic school’s enrollment
+5 to determine the classification of an extracurricular
+6 interscholastic athletic contest or competition provided by
+7 the public school or nonpublic school, counts a student who
+8 participates in an extracurricular interscholastic athletic
+9 contest or competition that is provided by the public school
+10 or nonpublic school pursuant to section 280.13A or 280.13D as
+11 one-fourth of one student.>
+12 2. Page 2, after line 7 by inserting:
+13 <___. By striking page 1, line 33, through page 2, line 2.>
+14 3. Page 2, by striking line 8 and inserting:
+15 <___. Page 2, before line 3 by inserting:>
+16 4. Page 2, line 9, by striking <3.> and inserting <2.>
+17 5. Page 2, by striking line 15.
+18 6. By renumbering as necessary.
+______________________________
+STONE of Winnebago
+H 1013.870 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe1,arle29byi<)Tec,a,oro,wcgapcssorncssetodetecnofaneicacctorcnpdbtepcslorncs,csastwpsinanericactorcnttispdbytepcs0orncslpttosn2Aor2Da1ohofoes22.Pe2,arle7byi3<.Bysgpe1,le3,thpe2,le243.Pe2,bysgle8adi5<.Pe2,bele3byi64.Pe2,le9,bysg<>adig<75.Pe2,bysgle186.ByrgasnEofW10()9]
+
+
+================================================================================
+
+Raw Text:
+House File 189
+H-1072
+1 Amend the amendment, H-1013, to House File 189, as follows:
+2 1. Page 1, after line 29 by inserting:
+3 <(3) The corporation, association, or organization, when
+4 calculating a public school’s or nonpublic school’s enrollment
+5 to determine the classification of an extracurricular
+6 interscholastic athletic contest or competition provided by
+7 the public school or nonpublic school, counts a student who
+8 participates in an extracurricular interscholastic athletic
+9 contest or competition that is provided by the public school
+10 or nonpublic school pursuant to section 280.13A or 280.13D as
+11 one-fourth of one student.>
+12 2. Page 2, after line 7 by inserting:
+13 <___. By striking page 1, line 33, through page 2, line 2.>
+14 3. Page 2, by striking line 8 and inserting:
+15 <___. Page 2, before line 3 by inserting:>
+16 4. Page 2, line 9, by striking <3.> and inserting <2.>
+17 5. Page 2, by striking line 15.
+18 6. By renumbering as necessary.
+______________________________
+STONE of Winnebago
+H 1013.870 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe1,arle29byi<)Tec,a,oro,wcgapcssorncssetodetecnofaneicacctorcnpdbtepcslorncs,csastwpsinanericactorcnttispdbytepcs0orncslpttosn2Aor2Da1ohofoes22.Pe2,arle7byi3<.Bysgpe1,le3,thpe2,le243.Pe2,bysgle8adi5<.Pe2,bele3byi64.Pe2,le9,bysg<>adig<75.Pe2,bysgle186.ByrgasnEofW10()9]

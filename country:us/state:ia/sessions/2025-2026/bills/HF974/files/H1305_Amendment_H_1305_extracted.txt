@@ -1,0 +1,41 @@
+Title: 2 1. By striking page 1, line 1, through page 2, line 22.
+Official Title: 2 1. By striking page 1, line 1, through page 2, line 22.
+Number of Sections: 1
+Source: versions - Amendment H-1305
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 974
+H-1305
+1 Amend House File 974 as follows:
+3 2. By striking page 2, line 30, through page 3, line 20.
+4 3. Title page, by striking lines 1 through 4 and inserting
+5 <An Act relating to vehicle registration plate frames.>
+6 4. By renumbering as necessary.
+______________________________
+COOLING of Linn
+HF 974.1620 (1) 91
+-1- th/ns 1/1
+[DELETED: eFe9AdHeFe94asf1.Bysgpe1,le1,thpe2,le22.Bysgpe2,le3,thpe3,le23.Tep,bysgls1th4adi<nAtrgtovernpef4.ByrgasnGofLF90()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 974
+H-1305
+1 Amend House File 974 as follows:
+2 1. By striking page 1, line 1, through page 2, line 22.
+3 2. By striking page 2, line 30, through page 3, line 20.
+4 3. Title page, by striking lines 1 through 4 and inserting
+5 <An Act relating to vehicle registration plate frames.>
+6 4. By renumbering as necessary.
+______________________________
+COOLING of Linn
+HF 974.1620 (1) 91
+-1- th/ns 1/1
+
+[DELETED: eFe9AdHeFe94asf1.Bysgpe1,le1,thpe2,le22.Bysgpe2,le3,thpe3,le23.Tep,bysgls1th4adi<nAtrgtovernpef4.ByrgasnGofLF90()9s1]

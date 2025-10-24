@@ -1,0 +1,51 @@
+Title: 2 1. Page 1, lines 29 and 30, by striking <general fund of the
+Official Title: 2 1. Page 1, lines 29 and 30, by striking <general fund of the
+Number of Sections: 1
+Source: versions - Amendment H-1316
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 974
+H-1316
+1 Amend House File 974 as follows:
+3 state> and inserting <veterans trust fund created in section
+4 35A.13>
+5 2. By striking page 1, line 33, through page 2, line 5,
+6 and inserting <moneys are appropriated to the commission of
+7 veterans affairs to be used for the purposes described in
+8 section 35A.13, subsection 8, paragraph “n”, to prevent veteran
+9 homelessness and to assist veterans experiencing homelessness.>
+10 3. Page 2, line 7, by striking <to the general fund of the
+11 state>
+______________________________
+COOLING of Linn
+HF 974.1954 (1) 91
+-1- th/ns 1/1
+[DELETED: eFe9AdHeFe94asf1.Pe1,ls29ad3,bysg<lfdofts>adig<sttfdcdins32.Bysgpe1,le3,thpe2,le5adig<saeadtotecnovsastobeudfrtepsddisn3,sn8,ph,toptvhsadtoatvsegh03.Pe2,le7,bysg<oteglfdoft1sGofLF94()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 974
+H-1316
+1 Amend House File 974 as follows:
+2 1. Page 1, lines 29 and 30, by striking <general fund of the
+3 state> and inserting <veterans trust fund created in section
+4 35A.13>
+5 2. By striking page 1, line 33, through page 2, line 5,
+6 and inserting <moneys are appropriated to the commission of
+7 veterans affairs to be used for the purposes described in
+8 section 35A.13, subsection 8, paragraph “n”, to prevent veteran
+9 homelessness and to assist veterans experiencing homelessness.>
+10 3. Page 2, line 7, by striking <to the general fund of the
+11 state>
+______________________________
+COOLING of Linn
+HF 974.1954 (1) 91
+-1- th/ns 1/1
+
+[DELETED: eFe9AdHeFe94asf1.Pe1,ls29ad3,bysg<lfdofts>adig<sttfdcdins32.Bysgpe1,le3,thpe2,le5adig<saeadtotecnovsastobeudfrtepsddisn3,sn8,ph,toptvhsadtoatvsegh03.Pe2,le7,bysg<oteglfdoft1sGofLF94()9s1]

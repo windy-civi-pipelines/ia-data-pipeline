@@ -1,0 +1,138 @@
+Title: 1 Amend the amendment, H-1357, to House File 1039, as follows:
+Official Title: 1 Amend the amendment, H-1357, to House File 1039, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1358
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 1039
+H-1358
+2 1. Page 1, line 13, before <For> by inserting <a.>
+3 2. Page 1, after line 15 by inserting:
+4 <b. For marking historical sites in Iowa that were used to
+5 provide shelter or aid as part of the underground railroad,
+6 notwithstanding section 8.57, subsection 3, paragraph “c”:
+7 FY 2025-2026:
+8 ................................................. $ 40,000>
+9 3. Page 5, by striking lines 9 through 13.
+10 4. Page 10, by striking lines 10 and 11 and inserting:
+11 <a. For technology projects and upgrades:
+12 .................................................. $ 3,013,466
+13 b. Of the moneys appropriated to the department of
+14 corrections under paragraph “a”, the department shall use not
+15 more than the following amounts for the following purposes:
+16 (1) For camera system upgrades:
+17 .................................................. $ 1,000,000
+18 (2) For Anamosa state penitentiary security fence upgrades:
+19 .................................................. $ 546,700
+20 (3) For the Anamosa state penitentiary computer backup
+21 system:
+22 .................................................. $ 25,000
+23 (4) For Fort Dodge correctional facility sodium hydroxide
+24 skid and pH analyzer system replacement:
+25 .................................................. $ 45,777
+26 (5) For Fort Dodge correctional facility battery backup
+27 system replacement:
+28 .................................................. $ 45,000
+29 (6) For replacement and expansion of personal data
+30 assistants used at the Iowa correctional institution for women:
+31 .................................................. $ 46,725
+32 (7) For Iowa correctional institution for women door
+33 control replacements:
+34 .................................................. $ 60,602
+35 (8) For staff tracking and identification systems at
+H 1357.2143 (1) 91
+-1- th/ns 1/2
+1 corrections institutions:
+2 .................................................. $ 244,129
+3 (9) For building automation system upgrades at corrections
+4 institutions:
+5 .................................................. $ 832,033
+6 (10) For north central correctional facility at Rockwell
+7 City phone system upgrades:
+8 .................................................. $ 17,500
+9 (11) For body cameras at corrections institutions:
+10 ................................................. $ 150,000>
+11 5. Page 12, by striking lines 1 through 5 and inserting:
+12 <a. For the ongoing costs associated with software used for
+13 investment tracking:
+14 .................................................. $ 192,000
+15 b. For the ongoing costs associated with software used for
+16 banking reconciliations:>
+______________________________
+BOSSMAN of Woodbury
+H 1357.2143 (1) 91
+-2- th/ns 2/2
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe1,le1,be<>byig<2.Pe1,arle15byi<.FrmghlssinIattweudtpesroradasptofteudrngsn8,sn3,ph“FY2..$43.Pe5,bysgls9th104.Pe1,bysgls10ad11adi1<.Frtypsadu2..$33b.Oftemsadtotedto4csurph“,tedtsluen5metntefgasfrtefgp6()Frcasmu7..$18()FrAasepysyfeu9..$50()FrteAasepycrb1s2..$23()FrFtDeclfysmh4sdadpHarsmr5..$46()FrFtDeclfybyb7smr8..$49()Frrtadenofpld0asudatteIaclinfrw1..$42()FrIaclinfrwnd3clr4..$65()Frsftgadinssa13()9s1]
+[DELETED: csi..$2()Frbgansmusatci..$8()FrnhclclfyatRCypesmu..$1()Frbycsatcsi0..$115.Pe1,bysgls1th5adi2<.Frteogcsadwhseudf3itt4..$15b.Frteogcsadwhseudf6bgrNofW13()9s2]
+
+
+================================================================================
+
+Raw Text:
+House File 1039
+H-1358
+1 Amend the amendment, H-1357, to House File 1039, as follows:
+2 1. Page 1, line 13, before <For> by inserting <a.>
+3 2. Page 1, after line 15 by inserting:
+4 <b. For marking historical sites in Iowa that were used to
+5 provide shelter or aid as part of the underground railroad,
+6 notwithstanding section 8.57, subsection 3, paragraph “c”:
+7 FY 2025-2026:
+8 ................................................. $ 40,000>
+9 3. Page 5, by striking lines 9 through 13.
+10 4. Page 10, by striking lines 10 and 11 and inserting:
+11 <a. For technology projects and upgrades:
+12 .................................................. $ 3,013,466
+13 b. Of the moneys appropriated to the department of
+14 corrections under paragraph “a”, the department shall use not
+15 more than the following amounts for the following purposes:
+16 (1) For camera system upgrades:
+17 .................................................. $ 1,000,000
+18 (2) For Anamosa state penitentiary security fence upgrades:
+19 .................................................. $ 546,700
+20 (3) For the Anamosa state penitentiary computer backup
+21 system:
+22 .................................................. $ 25,000
+23 (4) For Fort Dodge correctional facility sodium hydroxide
+24 skid and pH analyzer system replacement:
+25 .................................................. $ 45,777
+26 (5) For Fort Dodge correctional facility battery backup
+27 system replacement:
+28 .................................................. $ 45,000
+29 (6) For replacement and expansion of personal data
+30 assistants used at the Iowa correctional institution for women:
+31 .................................................. $ 46,725
+32 (7) For Iowa correctional institution for women door
+33 control replacements:
+34 .................................................. $ 60,602
+35 (8) For staff tracking and identification systems at
+H 1357.2143 (1) 91
+-1- th/ns 1/2
+
+1 corrections institutions:
+2 .................................................. $ 244,129
+3 (9) For building automation system upgrades at corrections
+4 institutions:
+5 .................................................. $ 832,033
+6 (10) For north central correctional facility at Rockwell
+7 City phone system upgrades:
+8 .................................................. $ 17,500
+9 (11) For body cameras at corrections institutions:
+10 ................................................. $ 150,000>
+11 5. Page 12, by striking lines 1 through 5 and inserting:
+12 <a. For the ongoing costs associated with software used for
+13 investment tracking:
+14 .................................................. $ 192,000
+15 b. For the ongoing costs associated with software used for
+16 banking reconciliations:>
+______________________________
+BOSSMAN of Woodbury
+H 1357.2143 (1) 91
+-2- th/ns 2/2
+
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe1,le1,be<>byig<2.Pe1,arle15byi<.FrmghlssinIattweudtpesroradasptofteudrngsn8,sn3,ph“FY2..$43.Pe5,bysgls9th104.Pe1,bysgls10ad11adi1<.Frtypsadu2..$33b.Oftemsadtotedto4csurph“,tedtsluen5metntefgasfrtefgp6()Frcasmu7..$18()FrAasepysyfeu9..$50()FrteAasepycrb1s2..$23()FrFtDeclfysmh4sdadpHarsmr5..$46()FrFtDeclfybyb7smr8..$49()Frrtadenofpld0asudatteIaclinfrw1..$42()FrIaclinfrwnd3clr4..$65()Frsftgadinssa13()9s1]
+[DELETED: csi..$2()Frbgansmusatci..$8()FrnhclclfyatRCypesmu..$1()Frbycsatcsi0..$115.Pe1,bysgls1th5adi2<.Frteogcsadwhseudf3itt4..$15b.Frteogcsadwhseudf6bgrNofW13()9s2]

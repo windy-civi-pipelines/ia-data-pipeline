@@ -1,0 +1,43 @@
+Title: 2 1. Page 1, by striking lines 18 through 22 and inserting
+Official Title: 2 1. Page 1, by striking lines 18 through 22 and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1001
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 118
+H-1001
+1 Amend House File 118 as follows:
+3 <guard member, whichever is lower. Neither eligibility nor
+4 scholarship award determinations shall be based upon a national
+5 guard member’s unit, the location at which drills are attended,
+6 or whether the eligible individual is a member of the Iowa army
+7 or air national guard.>
+______________________________
+LEVIN of Johnson
+HF 118.91 (2) 91
+-1- jda/jh 1/1
+[DELETED: eFe1AdHeFe18asf1.Pe1,bysgls18th22adi<dm,wrisl.Nreynspaddsslbebdunangdmsu,telnatwhdsaeaorwrteeeilisamrofteIaaorarnlgNofJF11()9]
+
+
+================================================================================
+
+Raw Text:
+House File 118
+H-1001
+1 Amend House File 118 as follows:
+2 1. Page 1, by striking lines 18 through 22 and inserting
+3 <guard member, whichever is lower. Neither eligibility nor
+4 scholarship award determinations shall be based upon a national
+5 guard member’s unit, the location at which drills are attended,
+6 or whether the eligible individual is a member of the Iowa army
+7 or air national guard.>
+______________________________
+LEVIN of Johnson
+HF 118.91 (2) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe1AdHeFe18asf1.Pe1,bysgls18th22adi<dm,wrisl.Nreynspaddsslbebdunangdmsu,telnatwhdsaeaorwrteeeilisamrofteIaaorarnlgNofJF11()9]

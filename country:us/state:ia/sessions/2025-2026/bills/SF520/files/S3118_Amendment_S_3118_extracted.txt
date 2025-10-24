@@ -1,0 +1,312 @@
+Title: 2 1. By striking everything after the enacting clause and
+Official Title: 2 1. By striking everything after the enacting clause and
+Number of Sections: 1
+Source: versions - Amendment S-3118
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate File 520
+S-3118
+1 Amend Senate File 520 as follows:
+3 inserting:
+4 <DIVISION I
+5 REPORTING REQUIREMENTS
+6 Section 1. Section 256.7, subsection 23, Code 2025, is
+7 amended to read as follows:
+8 23. Adopt rules directing the community colleges to
+9 annually and uniformly submit data, including individual-level
+10 data, from the most recent fiscal year to the community
+11 colleges bureau department, using criteria determined and
+12 prescribed by the bureau department via the management
+13 information system.
+14 a. Financial data submitted to the division department by a
+15 community college shall be broken down by fund.
+16 b. Community colleges shall provide data to the community
+17 colleges bureau department by a deadline set by the bureau
+18 department. The deadline shall be set for a date that permits
+19 the bureau department to include the data in a report submitted
+20 for to the state board approval and the general assembly for
+21 review by December March 15 of each year by the house and
+22 senate standing education committees and the joint subcommittee
+23 on education appropriations.
+24 c. The department shall include a statewide summary of the
+25 financial data submitted in accordance with paragraph “a” in
+26 the submit an annual condition of community colleges report,
+27 which upon approval of to the state board, shall be submitted
+28 to and the general assembly on or before February 1 for review
+29 by March 15 of each year. The report must include community
+30 college program level educational and employment outcomes
+31 reports upon availability of all underlying data.
+32 Sec. 2. Section 260C.14, subsection 21, paragraph c, Code
+33 2025, is amended to read as follows:
+34 c. The department shall submit a report to the general
+35 assembly summarizing incorporate the data submitted in
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-1- jda/jh 1/4
+1 paragraph “a” by January 15 annually into the annual condition
+2 of community colleges report described in section 256.7,
+3 subsection 23, paragraph “c”.
+4 Sec. 3. Section 261E.3, subsection 3, paragraph j, Code
+5 2025, is amended to read as follows:
+6 j. All eligible postsecondary institutions providing
+7 programming under this chapter shall include the unique student
+8 identifier assigned to students while in the kindergarten
+9 through grade twelve system as a part of the institution’s
+10 student data management system. Eligible postsecondary
+11 institutions providing programming under this chapter shall
+12 cooperate with the department on data requests related to
+13 the programming. All eligible postsecondary institutions
+14 providing programming under this chapter shall collect data
+15 and report to the department on the proportion of females and
+16 minorities enrolled in science, technology, engineering, and
+17 mathematics-oriented educational opportunities provided in
+18 accordance with this chapter. The department shall submit
+19 incorporate the programming data and the department’s findings
+20 and recommendations in a report to the general assembly
+21 annually by January 15 into the annual condition of community
+22 colleges report described in section 256.7, subsection 23,
+23 paragraph “c”.
+24 DIVISION II
+25 NATIONAL BOARD CERTIFICATION PROGRAM AND STIPENDS
+26 Sec. 4. Section 256.44, subsection 1, unnumbered paragraph
+27 1, Code 2025, is amended to read as follows:
+28 A national board certification pilot project program is
+29 established to be administered by the department of education.
+30 A teacher, as defined in section 256.145, who registers for or
+31 achieves national board for professional teaching standards
+32 certification, and who is employed by a school district in Iowa
+33 and receiving a salary as a classroom teacher, may be eligible
+34 for the following:
+35 Sec. 5. Section 284.13, subsection 1, paragraph a, Code
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-2- jda/jh 2/4
+1 2025, is amended to read as follows:
+2 a. (1) For the fiscal year beginning July 1, 2024, and
+3 ending June 30, 2025, to the department, the amount of five
+4 hundred eight thousand two hundred fifty dollars for the
+5 issuance of national board certification awards in accordance
+6 with section 256.44. Of the amount allocated under this
+7 paragraph, not less than eighty-five thousand dollars shall
+8 be used to administer the ambassador to education position in
+9 accordance with section 256.45.
+10 (2) Notwithstanding section 8.33, funds appropriated
+11 for purposes of this paragraph which remain unencumbered or
+12 unobligated at the close of the fiscal year for which the funds
+13 were appropriated shall not revert but shall be available
+14 for expenditure by the department for purposes of providing
+15 stipends to individuals who receive an advanced dyslexia
+16 specialist endorsement from the board of educational examiners.
+17 The department shall consider the amount of funds available
+18 under this subparagraph when determining the amount of such
+19 stipend.
+20 Sec. 6. EFFECTIVE DATE. The following, being deemed of
+21 immediate importance, takes effect upon enactment:
+22 The section of this division of this Act amending section
+23 284.13.
+24 DIVISION III
+25 IOWA EDUCATIONAL SERVICES FOR THE BLIND AND VISUALLY IMPAIRED
+26 PROGRAM AND THE IOWA SCHOOL FOR THE DEAF
+27 Sec. 7. Section 256.103, Code 2025, is amended to read as
+28 follows:
+29 256.103 Employees —— contracts —— termination and discharge
+30 procedures.
+31 1. Sections 279.12 through 279.19B and section 279.27
+32 apply to employees of the Iowa educational services for the
+33 blind and visually impaired program and employees of the Iowa
+34 school for the deaf, who are licensed pursuant to subchapter
+35 VII, part 3. Section 279.27 applies to employees of the Iowa
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-3- jda/jh 3/4
+1 educational services for the blind and visually impaired
+2 program and employees of the Iowa school for the deaf, whether
+3 or not licensed pursuant to subchapter VII, part 3, who are
+4 responsible for the care, instruction, or supervision of
+5 children. In following those sections in chapter 279, the
+6 references to boards of directors of school districts shall be
+7 interpreted to apply to the department.
+8 2. Notwithstanding chapter 8A, subchapter IV, the
+9 department of administrative services shall, in consultation
+10 with the department of education, establish an annual
+11 compensation schedule applicable to all employees of the Iowa
+12 educational services for the blind and visually impaired
+13 program and all employees of the Iowa school for the deaf and
+14 shall set the employee benefits for such employees.>
+15 2. Title page, by striking lines 1 through 6 and inserting
+16 <An Act relating to education, including by modifying
+17 provisions related to community college and department
+18 of education reporting requirements, the national board
+19 certification pilot project, and employees of the Iowa
+20 educational services for the blind and visually impaired
+21 program or the Iowa school for the deaf, and including
+22 effective date provisions.>
+______________________________
+JEFF TAYLOR
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-4- jda/jh 4/4
+[DELETED: eFe5AdSeFe50asf1.Bysgegarteegceai<NRGRSn1.Sn2,sn2,Ce2,iadtordasf2.Atrsdgtecycstayaduystd,igi0d,fmtemtrtflyrtotec1csbud,ugcadda2pdbytebudtvatem3ins4Fldasdtotedndtby5cyceslbebndnbyf6Cycsslpedatotec7csbudtbyadestbyteb8d.Tedeslbestfradettp9tebudttoietedainarts0frtotesebdaladteglayf1rwbyDrMh15ofehyrbytehea2sesgencsadtejts3onena4Tedtslieasesyoft5fldasdinaewhphi6testanalcnofcycsr7whunaloftoteseb,slbes8toadteglayonorbeFy1frr9byMh15ofehy.Tertmtiec0cepmlleladeto1rsunayofalugd2S.2.Sn2,sn2,phc,C32,isadtordasf4Tedtslstarttoteg5aysgietedasdiF56()9gtsSF50toCMtoHF8]
+[DELETED: phbyJy15ayiotealcofcycsrtddinsn2sn2,phS.3.Sn2,sn3,phj,C2,isadtordasfAleepyisppgurtscrslieteuesiradtossweintekthgetesmasaptoftei0stdamts.Eep1ispgpgurtscrs2cewhtedtondarsrdt3tep.Aleepyi4pgpgurtscrslctd5adrttotedtontepnoffsa6msedins,t,e,a7mdelospdi8aewhtsc.Tedtsls9ietepgdaadtedsf0adrsinarttotegla1aybyJy15iotealcnofc2csrtddinsn2,sn23ph4DNI5NLBDCNPMADS6S.4.Sn2,sn1,udp71,Ce2,isadtordasf8Anlbdcnptptpmi9edtobeadbytedtofe0At,asddinsn2,worsfro1asnlbdfrpltgs2c,adwoisedbyasldtinI3adrgasyasacmt,mybee4frtef5S.5.Sn2,sn1,pha,CF56()9gtsSF50toCMtoHF8]
+[DELETED: 2,isadtordasf()FrteflyrbgJy1,2,aegJe3,2,toted,teatoffhdettdtohdfydsfrtieofnlbdcnasinawhsn2.Ofteatadurtp,ntlstneetddssbeudtoarteartoenpniaewhsn20()Ngsn8,fsa1frpsoftsphwhrnudo2udatteceofteflyrfrwhtef3weadslntrtbtslbea4freebytedtfrpsofp5sstoisworeanadd6stetfmtebdofele7Tedtslcrteatoffsa8urtsshwndgteatofs9s0S.6.EED.Tef,bgddo1iei,tsetune2TesnoftsdnoftsAtags324DNI5IAELSSFRTEBDADVYI6PMADTEIASLFRTED7S.7.Sn2,Ce2,isadtorda8f3Es——cs——tnadd11.Ss22th2Badsn22aytoesofteIaelssfrt3bdadvyidpmadesofteI4slfrted,woaeldpttos5V,pt3.Sn27astoesofteIF56()9gtsSF50toCMtoHF8]
+[DELETED: elssfrtebdadvyipmadesofteIaslfrted,worntldpttosrV,pt3,woarefrtec,i,orsnoc.Infgtessincr2,trstobsofdsofsldsslbidtoaytoted2.Ngcr8,srI,tdtofaesss,inc0whtedtofe,ehana1cnseaetoalesofteI2elssfrtebdadvyi3pmadalesofteIaslfrtedfa4slstteeebsfrshe52.Tep,bysgls1th6adi6<nAtrgtoe,igbym7psrdtocyceadd8ofenrgr,tenlb9cnptp,adesofteI0elssfrtebdadvyi1pmorteIaslfrted,adi2eedepFTF56()9gtsSF50toCMtoHF8]
+
+
+================================================================================
+
+Raw Text:
+Senate File 520
+S-3118
+1 Amend Senate File 520 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 REPORTING REQUIREMENTS
+6 Section 1. Section 256.7, subsection 23, Code 2025, is
+7 amended to read as follows:
+8 23. Adopt rules directing the community colleges to
+9 annually and uniformly submit data, including individual-level
+10 data, from the most recent fiscal year to the community
+11 colleges bureau department, using criteria determined and
+12 prescribed by the bureau department via the management
+13 information system.
+14 a. Financial data submitted to the division department by a
+15 community college shall be broken down by fund.
+16 b. Community colleges shall provide data to the community
+17 colleges bureau department by a deadline set by the bureau
+18 department. The deadline shall be set for a date that permits
+19 the bureau department to include the data in a report submitted
+20 for to the state board approval and the general assembly for
+21 review by December March 15 of each year by the house and
+22 senate standing education committees and the joint subcommittee
+23 on education appropriations.
+24 c. The department shall include a statewide summary of the
+25 financial data submitted in accordance with paragraph “a” in
+26 the submit an annual condition of community colleges report,
+27 which upon approval of to the state board, shall be submitted
+28 to and the general assembly on or before February 1 for review
+29 by March 15 of each year. The report must include community
+30 college program level educational and employment outcomes
+31 reports upon availability of all underlying data.
+32 Sec. 2. Section 260C.14, subsection 21, paragraph c, Code
+33 2025, is amended to read as follows:
+34 c. The department shall submit a report to the general
+35 assembly summarizing incorporate the data submitted in
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-1- jda/jh 1/4
+
+1 paragraph “a” by January 15 annually into the annual condition
+2 of community colleges report described in section 256.7,
+3 subsection 23, paragraph “c”.
+4 Sec. 3. Section 261E.3, subsection 3, paragraph j, Code
+5 2025, is amended to read as follows:
+6 j. All eligible postsecondary institutions providing
+7 programming under this chapter shall include the unique student
+8 identifier assigned to students while in the kindergarten
+9 through grade twelve system as a part of the institution’s
+10 student data management system. Eligible postsecondary
+11 institutions providing programming under this chapter shall
+12 cooperate with the department on data requests related to
+13 the programming. All eligible postsecondary institutions
+14 providing programming under this chapter shall collect data
+15 and report to the department on the proportion of females and
+16 minorities enrolled in science, technology, engineering, and
+17 mathematics-oriented educational opportunities provided in
+18 accordance with this chapter. The department shall submit
+19 incorporate the programming data and the department’s findings
+20 and recommendations in a report to the general assembly
+21 annually by January 15 into the annual condition of community
+22 colleges report described in section 256.7, subsection 23,
+23 paragraph “c”.
+24 DIVISION II
+25 NATIONAL BOARD CERTIFICATION PROGRAM AND STIPENDS
+26 Sec. 4. Section 256.44, subsection 1, unnumbered paragraph
+27 1, Code 2025, is amended to read as follows:
+28 A national board certification pilot project program is
+29 established to be administered by the department of education.
+30 A teacher, as defined in section 256.145, who registers for or
+31 achieves national board for professional teaching standards
+32 certification, and who is employed by a school district in Iowa
+33 and receiving a salary as a classroom teacher, may be eligible
+34 for the following:
+35 Sec. 5. Section 284.13, subsection 1, paragraph a, Code
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-2- jda/jh 2/4
+
+1 2025, is amended to read as follows:
+2 a. (1) For the fiscal year beginning July 1, 2024, and
+3 ending June 30, 2025, to the department, the amount of five
+4 hundred eight thousand two hundred fifty dollars for the
+5 issuance of national board certification awards in accordance
+6 with section 256.44. Of the amount allocated under this
+7 paragraph, not less than eighty-five thousand dollars shall
+8 be used to administer the ambassador to education position in
+9 accordance with section 256.45.
+10 (2) Notwithstanding section 8.33, funds appropriated
+11 for purposes of this paragraph which remain unencumbered or
+12 unobligated at the close of the fiscal year for which the funds
+13 were appropriated shall not revert but shall be available
+14 for expenditure by the department for purposes of providing
+15 stipends to individuals who receive an advanced dyslexia
+16 specialist endorsement from the board of educational examiners.
+17 The department shall consider the amount of funds available
+18 under this subparagraph when determining the amount of such
+19 stipend.
+20 Sec. 6. EFFECTIVE DATE. The following, being deemed of
+21 immediate importance, takes effect upon enactment:
+22 The section of this division of this Act amending section
+23 284.13.
+24 DIVISION III
+25 IOWA EDUCATIONAL SERVICES FOR THE BLIND AND VISUALLY IMPAIRED
+26 PROGRAM AND THE IOWA SCHOOL FOR THE DEAF
+27 Sec. 7. Section 256.103, Code 2025, is amended to read as
+28 follows:
+29 256.103 Employees —— contracts —— termination and discharge
+30 procedures.
+31 1. Sections 279.12 through 279.19B and section 279.27
+32 apply to employees of the Iowa educational services for the
+33 blind and visually impaired program and employees of the Iowa
+34 school for the deaf, who are licensed pursuant to subchapter
+35 VII, part 3. Section 279.27 applies to employees of the Iowa
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-3- jda/jh 3/4
+
+1 educational services for the blind and visually impaired
+2 program and employees of the Iowa school for the deaf, whether
+3 or not licensed pursuant to subchapter VII, part 3, who are
+4 responsible for the care, instruction, or supervision of
+5 children. In following those sections in chapter 279, the
+6 references to boards of directors of school districts shall be
+7 interpreted to apply to the department.
+8 2. Notwithstanding chapter 8A, subchapter IV, the
+9 department of administrative services shall, in consultation
+10 with the department of education, establish an annual
+11 compensation schedule applicable to all employees of the Iowa
+12 educational services for the blind and visually impaired
+13 program and all employees of the Iowa school for the deaf and
+14 shall set the employee benefits for such employees.>
+15 2. Title page, by striking lines 1 through 6 and inserting
+16 <An Act relating to education, including by modifying
+17 provisions related to community college and department
+18 of education reporting requirements, the national board
+19 certification pilot project, and employees of the Iowa
+20 educational services for the blind and visually impaired
+21 program or the Iowa school for the deaf, and including
+22 effective date provisions.>
+______________________________
+JEFF TAYLOR
+SF 520.1466 (1) 91
+(amending this SF 520 to CONFORM to HF 890)
+-4- jda/jh 4/4
+
+[DELETED: eFe5AdSeFe50asf1.Bysgegarteegceai<NRGRSn1.Sn2,sn2,Ce2,iadtordasf2.Atrsdgtecycstayaduystd,igi0d,fmtemtrtflyrtotec1csbud,ugcadda2pdbytebudtvatem3ins4Fldasdtotedndtby5cyceslbebndnbyf6Cycsslpedatotec7csbudtbyadestbyteb8d.Tedeslbestfradettp9tebudttoietedainarts0frtotesebdaladteglayf1rwbyDrMh15ofehyrbytehea2sesgencsadtejts3onena4Tedtslieasesyoft5fldasdinaewhphi6testanalcnofcycsr7whunaloftoteseb,slbes8toadteglayonorbeFy1frr9byMh15ofehy.Tertmtiec0cepmlleladeto1rsunayofalugd2S.2.Sn2,sn2,phc,C32,isadtordasf4Tedtslstarttoteg5aysgietedasdiF56()9gtsSF50toCMtoHF8]
+[DELETED: phbyJy15ayiotealcofcycsrtddinsn2sn2,phS.3.Sn2,sn3,phj,C2,isadtordasfAleepyisppgurtscrslieteuesiradtossweintekthgetesmasaptoftei0stdamts.Eep1ispgpgurtscrs2cewhtedtondarsrdt3tep.Aleepyi4pgpgurtscrslctd5adrttotedtontepnoffsa6msedins,t,e,a7mdelospdi8aewhtsc.Tedtsls9ietepgdaadtedsf0adrsinarttotegla1aybyJy15iotealcnofc2csrtddinsn2,sn23ph4DNI5NLBDCNPMADS6S.4.Sn2,sn1,udp71,Ce2,isadtordasf8Anlbdcnptptpmi9edtobeadbytedtofe0At,asddinsn2,worsfro1asnlbdfrpltgs2c,adwoisedbyasldtinI3adrgasyasacmt,mybee4frtef5S.5.Sn2,sn1,pha,CF56()9gtsSF50toCMtoHF8]
+[DELETED: 2,isadtordasf()FrteflyrbgJy1,2,aegJe3,2,toted,teatoffhdettdtohdfydsfrtieofnlbdcnasinawhsn2.Ofteatadurtp,ntlstneetddssbeudtoarteartoenpniaewhsn20()Ngsn8,fsa1frpsoftsphwhrnudo2udatteceofteflyrfrwhtef3weadslntrtbtslbea4freebytedtfrpsofp5sstoisworeanadd6stetfmtebdofele7Tedtslcrteatoffsa8urtsshwndgteatofs9s0S.6.EED.Tef,bgddo1iei,tsetune2TesnoftsdnoftsAtags324DNI5IAELSSFRTEBDADVYI6PMADTEIASLFRTED7S.7.Sn2,Ce2,isadtorda8f3Es——cs——tnadd11.Ss22th2Badsn22aytoesofteIaelssfrt3bdadvyidpmadesofteI4slfrted,woaeldpttos5V,pt3.Sn27astoesofteIF56()9gtsSF50toCMtoHF8]
+[DELETED: elssfrtebdadvyipmadesofteIaslfrted,worntldpttosrV,pt3,woarefrtec,i,orsnoc.Infgtessincr2,trstobsofdsofsldsslbidtoaytoted2.Ngcr8,srI,tdtofaesss,inc0whtedtofe,ehana1cnseaetoalesofteI2elssfrtebdadvyi3pmadalesofteIaslfrtedfa4slstteeebsfrshe52.Tep,bysgls1th6adi6<nAtrgtoe,igbym7psrdtocyceadd8ofenrgr,tenlb9cnptp,adesofteI0elssfrtebdadvyi1pmorteIaslfrted,adi2eedepFTF56()9gtsSF50toCMtoHF8]

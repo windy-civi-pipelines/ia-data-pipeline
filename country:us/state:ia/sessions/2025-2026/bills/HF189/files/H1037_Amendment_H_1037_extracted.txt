@@ -1,0 +1,156 @@
+Title: 3 <Section 1. Section 257.11B, subsection 1, paragraph b,
+Official Title: 3 <Section 1. Section 257.11B, subsection 1, paragraph b,
+Number of Sections: 1
+Source: versions - Amendment H-1037
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 189
+H-1037
+1 Amend House File 189 as follows:
+2 1. Page 1, before line 1 by inserting:
+4 subparagraph (1), Code 2025, is amended to read as follows:
+5 (1) “Qualified educational expenses” includes tuition and
+6 fees at a nonpublic school, textbooks, fees or payments for
+7 educational therapies, including tutoring or cognitive skills
+8 training, curriculum fees, software, and materials for a course
+9 of study for a specific subject matter or grade level, tuition
+10 or fees for nonpublic online education programs, tuition for
+11 vocational and life skills education approved by the department
+12 of education, education materials and services for pupils
+13 with disabilities from an accredited provider, including the
+14 cost of paraprofessionals and assistants who are trained in
+15 accordance with state law, standardized test fees, and advanced
+16 placement examinations or examinations related to postsecondary
+17 education admission or credentialing, and fees associated with
+18 the cost of the pupil participating in an extracurricular
+19 interscholastic athletic contest or competition provided by a
+20 school district pursuant to section 280.13D.
+21 Sec. ___. Section 257.11B, subsection 2, paragraph b, Code
+22 2025, is amended to read as follows:
+23 b. Education savings account payments shall be made
+24 available to parents and guardians in the manner authorized
+25 under subsection 5 for the payment of qualified educational
+26 expenses as provided in this section. Parents and guardians
+27 shall first use education savings account payments for all
+28 qualified educational expenses that are fees associated with
+29 the costs of the pupil participating in an extracurricular
+30 interscholastic athletic contest or competition provided by
+31 a school district pursuant to section 280.13D. Parents and
+32 guardians shall first next use education savings account
+33 payments for all qualified educational expenses that
+34 are tuition and fees for which the parent or guardian is
+35 responsible for payment at the pupil’s nonpublic school prior
+HF 189.205 (1) 91
+-1- jda/jh 1/2
+1 to using the education savings account for other qualified
+2 educational expenses.>
+3 2. Page 1, by striking lines 23 through 32 and inserting:
+4 <c. If the board of directors of a school district has
+5 established a fee for the cost of a student’s participation
+6 in an extracurricular interscholastic athletic contest or
+7 competition, the nonpublic school in which a student who
+8 is participating in a contest or competition at a public
+9 school pursuant to paragraph “a” or “b” is enrolled shall be
+10 responsible for the payment of such fee. If the student has an
+11 account under the education savings account program established
+12 under section 257.11B, and the nonpublic school accepts payment
+13 from the pupil’s parent or guardian using moneys from the
+14 pupil’s individual account in the education savings account
+15 fund, the nonpublic school shall use not more than five hundred
+16 dollars from the moneys received in the payment to pay the
+17 fee.>
+18 3. Title page, by striking lines 1 through 4 and inserting
+19 <An Act relating to students enrolled in nonpublic schools,
+20 including by modifying provisions related to the eligibility
+21 of such students to compete in extracurricular interscholastic
+22 athletic contests or competitions provided by public schools
+23 and provisions related to the education savings account
+24 program, and including effective date provisions.>
+25 4. By renumbering as necessary.
+______________________________
+JACOBY of Johnson
+HF 189.205 (1) 91
+-2- jda/jh 2/2
+[DELETED: eFe1AdHeFe19asf1.Pe1,bele1byi<n1.Sn2,sn1,phbsh(,Ce2,isadtordasf()istnadelefsatancs,t,fsorpsfelt,igtgorcest,cmf,s,admsfracofsyfrascstmrorgel,t0orfsfrncoeenp,tnf1vladlessenadbyted2ofe,enmsadssfrp3whdsfmanadp,igt4ctofpsadaswoaetdi5aewhsel,sdttf,ada6ptesoresrdtop7enanorc,adfsadw8tectofteplpginane9icacctorcnpdby0sldtpttosn21S._.Sn2,sn2,phb,C22,isadtordasf3Enssatpsslbem4aetopsadgsintemra5ursn5frteptofqde6esaspdintss.Psadg7slftueenssatpsfra8qdelesttaefsadw9tecsofteplpginane0icacctorcnpdb1asldtpttosn2.Psa2gsslftntueenssa3psfralqdelest4aetnadfsfrwhteptorgni5refrptattepsncslpF15()9]
+[DELETED: tougteenssatfrorqele2.Pe1,bysgls23th32adiIftebdofdsofasldthedafefrtectofasspinanericacctoc,tencslinwhastwispginactorcnatapslpttophorisedslb”“0refrteptofshf.Iftesthsa1aturteenssatpme2ursn2,adtencslasp3fmtepsptorgnugmsfmt4psilatinteenssa5f,tencslsluentmetnfeh6dsfmtemsrdintepttopyt7f83.Tep,bysgls1th4adi9<nAtrgtossedinncs0igbymgpsrdtotee1ofshsstoceineri2accsorcspdbypcs3adpsrdtoteenssa4p,adigeedep54.ByrgasnYofJF15()9]
+
+
+================================================================================
+
+Raw Text:
+House File 189
+H-1037
+1 Amend House File 189 as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 257.11B, subsection 1, paragraph b,
+4 subparagraph (1), Code 2025, is amended to read as follows:
+5 (1) “Qualified educational expenses” includes tuition and
+6 fees at a nonpublic school, textbooks, fees or payments for
+7 educational therapies, including tutoring or cognitive skills
+8 training, curriculum fees, software, and materials for a course
+9 of study for a specific subject matter or grade level, tuition
+10 or fees for nonpublic online education programs, tuition for
+11 vocational and life skills education approved by the department
+12 of education, education materials and services for pupils
+13 with disabilities from an accredited provider, including the
+14 cost of paraprofessionals and assistants who are trained in
+15 accordance with state law, standardized test fees, and advanced
+16 placement examinations or examinations related to postsecondary
+17 education admission or credentialing, and fees associated with
+18 the cost of the pupil participating in an extracurricular
+19 interscholastic athletic contest or competition provided by a
+20 school district pursuant to section 280.13D.
+21 Sec. ___. Section 257.11B, subsection 2, paragraph b, Code
+22 2025, is amended to read as follows:
+23 b. Education savings account payments shall be made
+24 available to parents and guardians in the manner authorized
+25 under subsection 5 for the payment of qualified educational
+26 expenses as provided in this section. Parents and guardians
+27 shall first use education savings account payments for all
+28 qualified educational expenses that are fees associated with
+29 the costs of the pupil participating in an extracurricular
+30 interscholastic athletic contest or competition provided by
+31 a school district pursuant to section 280.13D. Parents and
+32 guardians shall first next use education savings account
+33 payments for all qualified educational expenses that
+34 are tuition and fees for which the parent or guardian is
+35 responsible for payment at the pupil’s nonpublic school prior
+HF 189.205 (1) 91
+-1- jda/jh 1/2
+
+1 to using the education savings account for other qualified
+2 educational expenses.>
+3 2. Page 1, by striking lines 23 through 32 and inserting:
+4 <c. If the board of directors of a school district has
+5 established a fee for the cost of a student’s participation
+6 in an extracurricular interscholastic athletic contest or
+7 competition, the nonpublic school in which a student who
+8 is participating in a contest or competition at a public
+9 school pursuant to paragraph “a” or “b” is enrolled shall be
+10 responsible for the payment of such fee. If the student has an
+11 account under the education savings account program established
+12 under section 257.11B, and the nonpublic school accepts payment
+13 from the pupil’s parent or guardian using moneys from the
+14 pupil’s individual account in the education savings account
+15 fund, the nonpublic school shall use not more than five hundred
+16 dollars from the moneys received in the payment to pay the
+17 fee.>
+18 3. Title page, by striking lines 1 through 4 and inserting
+19 <An Act relating to students enrolled in nonpublic schools,
+20 including by modifying provisions related to the eligibility
+21 of such students to compete in extracurricular interscholastic
+22 athletic contests or competitions provided by public schools
+23 and provisions related to the education savings account
+24 program, and including effective date provisions.>
+25 4. By renumbering as necessary.
+______________________________
+JACOBY of Johnson
+HF 189.205 (1) 91
+-2- jda/jh 2/2
+
+[DELETED: eFe1AdHeFe19asf1.Pe1,bele1byi<n1.Sn2,sn1,phbsh(,Ce2,isadtordasf()istnadelefsatancs,t,fsorpsfelt,igtgorcest,cmf,s,admsfracofsyfrascstmrorgel,t0orfsfrncoeenp,tnf1vladlessenadbyted2ofe,enmsadssfrp3whdsfmanadp,igt4ctofpsadaswoaetdi5aewhsel,sdttf,ada6ptesoresrdtop7enanorc,adfsadw8tectofteplpginane9icacctorcnpdby0sldtpttosn21S._.Sn2,sn2,phb,C22,isadtordasf3Enssatpsslbem4aetopsadgsintemra5ursn5frteptofqde6esaspdintss.Psadg7slftueenssatpsfra8qdelesttaefsadw9tecsofteplpginane0icacctorcnpdb1asldtpttosn2.Psa2gsslftntueenssa3psfralqdelest4aetnadfsfrwhteptorgni5refrptattepsncslpF15()9]
+[DELETED: tougteenssatfrorqele2.Pe1,bysgls23th32adiIftebdofdsofasldthedafefrtectofasspinanericacctoc,tencslinwhastwispginactorcnatapslpttophorisedslb”“0refrteptofshf.Iftesthsa1aturteenssatpme2ursn2,adtencslasp3fmtepsptorgnugmsfmt4psilatinteenssa5f,tencslsluentmetnfeh6dsfmtemsrdintepttopyt7f83.Tep,bysgls1th4adi9<nAtrgtossedinncs0igbymgpsrdtotee1ofshsstoceineri2accsorcspdbypcs3adpsrdtoteenssa4p,adigeedep54.ByrgasnYofJF15()9]

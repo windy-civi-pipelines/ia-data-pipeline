@@ -1,0 +1,235 @@
+Title: 2 1. Page 1, line 1, by striking <subsection 3, Code 2025, is>
+Official Title: 2 1. Page 1, line 1, by striking <subsection 3, Code 2025, is>
+Number of Sections: 1
+Source: versions - Amendment H-1271
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House File 1031
+H-1271
+1 Amend House File 1031 as follows:
+3 and inserting <subsections 3 and 7, Code 2025, are>
+4 2. Page 1, after line 12 by inserting:
+5 <7. “Page” means a writing, printing, or drawing, other
+6 than a plat or survey or a drawing related to a plat or survey,
+7 occurring on one side only and covering all or part of such
+8 side, and not larger than eight and one-half inches in width
+9 and fourteen inches in length. “Page” also includes a plat
+10 of survey, as defined in section 355.1, subsection 9, or a
+11 drawing related to a plat of survey occurring on one side only
+12 and covering all or part of such side, with a width of not
+13 larger than twenty-four inches and a length of not larger than
+14 thirty-six inches.>
+15 3. Page 1, after line 14 by inserting:
+16 <NEW SUBSECTION. 01. “Additional parcel identifier” means a
+17 parcel letter or number designation approved by the auditor in
+18 accordance with section 354.4, subsection 1, paragraph “a”, and
+19 section 558.63.>
+20 4. Page 1, line 24, by striking <county recorders> and
+21 inserting <counties and other public agencies>
+22 5. Page 1, line 28, by striking <“Statewide search website
+23 vendor”> and inserting <“Statewide search website platform or
+24 provider”>
+25 6. Page 1, line 29, by striking <vendor approved by the
+26 Iowa county recorders association> and inserting <platform or
+27 provider approved by the electronic services system>
+28 7. Page 1, by striking lines 34 and 35 and inserting:
+29 <a. The governing board of the county land record
+30 information electronic services system statewide land record
+31 search website platform or provider shall not enter into an>
+32 8. Page 2, by striking lines 11 and 12 and inserting <or
+33 the county land record information electronic services system
+34 statewide land record search website platform or provider.>
+35 9. Page 2, line 15, by striking <Iowa county recorders
+HF 1031.1702 (2) 91
+-1- js/jh 1/3
+1 association> and inserting <electronic services system>
+2 10. Page 2, lines 17 and 18, by striking <choosing the
+3 statewide search website vendor> and inserting <exploring
+4 alternative platforms and service providers for the statewide
+5 land record search website>
+6 11. Page 2, line 20, by striking <county recorders> and
+7 inserting <percent of the counties participating in the chapter
+8 28E agreement with the electronic services system>
+9 12. Page 2, line 22, by striking <vendor> and inserting
+10 <platform or provider>
+11 13. Page 2, line 23, by striking <county recorders> and
+12 inserting <percent of the counties participating in the chapter
+13 28E agreement with the electronic services system>
+14 14. Page 2, by striking lines 26 and 27 and inserting:
+15 <c. Upon the affirmative vote of at least eighty percent of
+16 the counties participating in the chapter 28E agreement with
+17 the electronic services system, the electronic services system
+18 shall issue a>
+19 15. Page 4, after line 15 by inserting:
+20 <c. The recorder shall make available any information
+21 required by the county or state auditor concerning the
+22 fees collected under this subsection 2 for the purposes of
+23 determining the amount of fees collected and the uses for which
+24 such fees are expended.>
+25 16. Page 5, line 3, by striking <vendor> and inserting
+26 <platform or provider>
+27 17. Page 8, line 13, by striking <redaction or>
+28 18. Page 9, by striking lines 1 and 2 and inserting
+29 <electronic document submitted directly through the electronic
+30 services system electronic submission service system.>
+31 19. Page 9, by striking lines 6 through 15 and inserting:
+32 <6. The electronic services system shall maintain an
+33 alternative application programming interface that shall
+34 enable a county to access an electronic document through the
+35 electronic services system electronic submission service
+HF 1031.1702 (2) 91
+-2- js/jh 2/3
+1 system in a manner that will permit the county recorder to
+2 review, decline, accept, and record a document through the
+3 county land record management system. The county recorder
+4 shall return any required recording data and document images,
+5 or information about the reason for declining a document
+6 or changing a recording fee or exemption to the submission
+7 service, through the electronic services system application
+8 programming interface. Use of the interface will be at no cost
+9 to the county, the county land record management system, or the
+10 electronic services system.
+11 7. Any county is authorized to withdraw from the chapter 28E
+12 agreement with the electronic services system unconditionally
+13 at any time, subject to the approval of the county board of
+14 supervisors. A county that withdraws from the chapter 28E
+15 agreement shall allow for the flow of electronic documents from
+16 the electronic services system as described in subsection 6.>
+17 20. Page 12, line 13, by striking <Redaction of names or
+18 information> and inserting <Information>
+19 21. Page 12, lines 16 and 17, by striking <a name redaction
+20 process or>
+21 22. Page 12, line 23, by striking <Redaction and
+22 information> and inserting <Information>
+23 23. Page 12, line 25, by striking <redacted or>
+24 24. Page 12, lines 28 and 29, by striking <or redacted>
+25 25. Page 12, line 31, by striking <or redacted>
+26 26. Page 12, line 33, by striking <or redacted>
+______________________________
+NORDMAN of Dallas
+HF 1031.1702 (2) 91
+-3- js/jh 3/3
+[DELETED: eFe1AdHeFe11asf1.Pe1,le1,bysg<n3,Ce2,iadig<s3ad7,Ce2,a2.Pe1,arle12byi<.msaw,p,ord,otnaptorsyoradgrdtoaptorsogonoeseoyadcgalorptofss,adntlrtnetadofisinwadfnisinl.aoisap0ofs,asddinsn3,sn9,or1dgrdtoaptofsyogonoeseo2adcgalorptofshs,whawhofn3lrtntrisadalhofntlrt4txi53.Pe1,arle14byi6<WS.0.mslpli7pllrornrdnadbyteari8aewhsn3,sn1,ph,a9sn504.Pe1,le2,bysg<yr>a1ig<sadorpca25.Pe1,le2,bysgeshw”“eshwepmo3>adig456.Pe1,le2,bysg<radbyt6Iacyrsa>adig<mo7pradbyteecsss87.Pe1,bysgls34ad35adieggbdoftecyldr0inecsssmseldr1shwepmorprslnterioa28.Pe2,bysgls11ad12adig<3tecyldrdinecsss4seldrdshwepmorp59.Pe2,le1,bysg<acyrF12()9]
+[DELETED: a>adig<csss1.Pe2,ls17ad1,bysg<gtseshwev>adig<aepsadsepsfrtesldrdshw1.Pe2,le2,bysg<yr>aig<toftecspgintec2Eatwhteecsss1.Pe2,le2,bysg<>adi0<morp11.Pe2,le2,bysg<yr>a2ig<toftecspgintec32Eatwhteecsss41.Pe2,bysgls26ad27adi5Unteaeveofatlteypto6tecspgintecr2Eatw7teecsss,teecsss8sliea91.Pe4,arle15byi0Terrslmeaeayi1rdbytecyorsearcgt2fscdurtssn2frtepso3dgteatoffscdadteusfrw4shfsaee51.Pe5,le3,bysg<>adi6<morp71.Pe8,le1,bysg<no81.Pe9,bysgls1ad2adi9<cdtsddythtee0sssmecsnses11.Pe9,bysgls6th15adi2<.Teecsssmslmna3aeanpgietts4eeacytoasanecdttht5ecsssmecsnsF12()9]
+[DELETED: sminamrttwlpttecyrrtr,d,a,adrdadtthtcyldrdmts.Tecyrslrnayrdrgdaaddtiorinatternfrdgadorcgargfeorentotess,thteecsssmapgi.Ueofteiewlbeatnoctotec,tecyldrdmts,ort0ecsss17.Aycyisadtowwfmtecr22atwhteecsssmu3atayt,sttotealoftecybdo4s.Acyttwsfmtecr25atslawfrtefwofecdsf6teecsssmasddinsn672.Pe1,le1,bysgnofnsonI8>adig<92.Pe1,ls16ad1,bysg<aner0pso12.Pe1,le2,bysg<na2i>adig<32.Pe1,le2,bysg<do42.Pe1,ls28ad2,bysg<rr52.Pe1,le3,bysg<rr62.Pe1,le3,bysg<rrNofDF12()9]
+
+
+================================================================================
+
+Raw Text:
+House File 1031
+H-1271
+1 Amend House File 1031 as follows:
+2 1. Page 1, line 1, by striking <subsection 3, Code 2025, is>
+3 and inserting <subsections 3 and 7, Code 2025, are>
+4 2. Page 1, after line 12 by inserting:
+5 <7. “Page” means a writing, printing, or drawing, other
+6 than a plat or survey or a drawing related to a plat or survey,
+7 occurring on one side only and covering all or part of such
+8 side, and not larger than eight and one-half inches in width
+9 and fourteen inches in length. “Page” also includes a plat
+10 of survey, as defined in section 355.1, subsection 9, or a
+11 drawing related to a plat of survey occurring on one side only
+12 and covering all or part of such side, with a width of not
+13 larger than twenty-four inches and a length of not larger than
+14 thirty-six inches.>
+15 3. Page 1, after line 14 by inserting:
+16 <NEW SUBSECTION. 01. “Additional parcel identifier” means a
+17 parcel letter or number designation approved by the auditor in
+18 accordance with section 354.4, subsection 1, paragraph “a”, and
+19 section 558.63.>
+20 4. Page 1, line 24, by striking <county recorders> and
+21 inserting <counties and other public agencies>
+22 5. Page 1, line 28, by striking <“Statewide search website
+23 vendor”> and inserting <“Statewide search website platform or
+24 provider”>
+25 6. Page 1, line 29, by striking <vendor approved by the
+26 Iowa county recorders association> and inserting <platform or
+27 provider approved by the electronic services system>
+28 7. Page 1, by striking lines 34 and 35 and inserting:
+29 <a. The governing board of the county land record
+30 information electronic services system statewide land record
+31 search website platform or provider shall not enter into an>
+32 8. Page 2, by striking lines 11 and 12 and inserting <or
+33 the county land record information electronic services system
+34 statewide land record search website platform or provider.>
+35 9. Page 2, line 15, by striking <Iowa county recorders
+HF 1031.1702 (2) 91
+-1- js/jh 1/3
+
+1 association> and inserting <electronic services system>
+2 10. Page 2, lines 17 and 18, by striking <choosing the
+3 statewide search website vendor> and inserting <exploring
+4 alternative platforms and service providers for the statewide
+5 land record search website>
+6 11. Page 2, line 20, by striking <county recorders> and
+7 inserting <percent of the counties participating in the chapter
+8 28E agreement with the electronic services system>
+9 12. Page 2, line 22, by striking <vendor> and inserting
+10 <platform or provider>
+11 13. Page 2, line 23, by striking <county recorders> and
+12 inserting <percent of the counties participating in the chapter
+13 28E agreement with the electronic services system>
+14 14. Page 2, by striking lines 26 and 27 and inserting:
+15 <c. Upon the affirmative vote of at least eighty percent of
+16 the counties participating in the chapter 28E agreement with
+17 the electronic services system, the electronic services system
+18 shall issue a>
+19 15. Page 4, after line 15 by inserting:
+20 <c. The recorder shall make available any information
+21 required by the county or state auditor concerning the
+22 fees collected under this subsection 2 for the purposes of
+23 determining the amount of fees collected and the uses for which
+24 such fees are expended.>
+25 16. Page 5, line 3, by striking <vendor> and inserting
+26 <platform or provider>
+27 17. Page 8, line 13, by striking <redaction or>
+28 18. Page 9, by striking lines 1 and 2 and inserting
+29 <electronic document submitted directly through the electronic
+30 services system electronic submission service system.>
+31 19. Page 9, by striking lines 6 through 15 and inserting:
+32 <6. The electronic services system shall maintain an
+33 alternative application programming interface that shall
+34 enable a county to access an electronic document through the
+35 electronic services system electronic submission service
+HF 1031.1702 (2) 91
+-2- js/jh 2/3
+
+1 system in a manner that will permit the county recorder to
+2 review, decline, accept, and record a document through the
+3 county land record management system. The county recorder
+4 shall return any required recording data and document images,
+5 or information about the reason for declining a document
+6 or changing a recording fee or exemption to the submission
+7 service, through the electronic services system application
+8 programming interface. Use of the interface will be at no cost
+9 to the county, the county land record management system, or the
+10 electronic services system.
+11 7. Any county is authorized to withdraw from the chapter 28E
+12 agreement with the electronic services system unconditionally
+13 at any time, subject to the approval of the county board of
+14 supervisors. A county that withdraws from the chapter 28E
+15 agreement shall allow for the flow of electronic documents from
+16 the electronic services system as described in subsection 6.>
+17 20. Page 12, line 13, by striking <Redaction of names or
+18 information> and inserting <Information>
+19 21. Page 12, lines 16 and 17, by striking <a name redaction
+20 process or>
+21 22. Page 12, line 23, by striking <Redaction and
+22 information> and inserting <Information>
+23 23. Page 12, line 25, by striking <redacted or>
+24 24. Page 12, lines 28 and 29, by striking <or redacted>
+25 25. Page 12, line 31, by striking <or redacted>
+26 26. Page 12, line 33, by striking <or redacted>
+______________________________
+NORDMAN of Dallas
+HF 1031.1702 (2) 91
+-3- js/jh 3/3
+
+[DELETED: eFe1AdHeFe11asf1.Pe1,le1,bysg<n3,Ce2,iadig<s3ad7,Ce2,a2.Pe1,arle12byi<.msaw,p,ord,otnaptorsyoradgrdtoaptorsogonoeseoyadcgalorptofss,adntlrtnetadofisinwadfnisinl.aoisap0ofs,asddinsn3,sn9,or1dgrdtoaptofsyogonoeseo2adcgalorptofshs,whawhofn3lrtntrisadalhofntlrt4txi53.Pe1,arle14byi6<WS.0.mslpli7pllrornrdnadbyteari8aewhsn3,sn1,ph,a9sn504.Pe1,le2,bysg<yr>a1ig<sadorpca25.Pe1,le2,bysgeshw”“eshwepmo3>adig456.Pe1,le2,bysg<radbyt6Iacyrsa>adig<mo7pradbyteecsss87.Pe1,bysgls34ad35adieggbdoftecyldr0inecsssmseldr1shwepmorprslnterioa28.Pe2,bysgls11ad12adig<3tecyldrdinecsss4seldrdshwepmorp59.Pe2,le1,bysg<acyrF12()9]
+[DELETED: a>adig<csss1.Pe2,ls17ad1,bysg<gtseshwev>adig<aepsadsepsfrtesldrdshw1.Pe2,le2,bysg<yr>aig<toftecspgintec2Eatwhteecsss1.Pe2,le2,bysg<>adi0<morp11.Pe2,le2,bysg<yr>a2ig<toftecspgintec32Eatwhteecsss41.Pe2,bysgls26ad27adi5Unteaeveofatlteypto6tecspgintecr2Eatw7teecsss,teecsss8sliea91.Pe4,arle15byi0Terrslmeaeayi1rdbytecyorsearcgt2fscdurtssn2frtepso3dgteatoffscdadteusfrw4shfsaee51.Pe5,le3,bysg<>adi6<morp71.Pe8,le1,bysg<no81.Pe9,bysgls1ad2adi9<cdtsddythtee0sssmecsnses11.Pe9,bysgls6th15adi2<.Teecsssmslmna3aeanpgietts4eeacytoasanecdttht5ecsssmecsnsF12()9]
+[DELETED: sminamrttwlpttecyrrtr,d,a,adrdadtthtcyldrdmts.Tecyrslrnayrdrgdaaddtiorinatternfrdgadorcgargfeorentotess,thteecsssmapgi.Ueofteiewlbeatnoctotec,tecyldrdmts,ort0ecsss17.Aycyisadtowwfmtecr22atwhteecsssmu3atayt,sttotealoftecybdo4s.Acyttwsfmtecr25atslawfrtefwofecdsf6teecsssmasddinsn672.Pe1,le1,bysgnofnsonI8>adig<92.Pe1,ls16ad1,bysg<aner0pso12.Pe1,le2,bysg<na2i>adig<32.Pe1,le2,bysg<do42.Pe1,ls28ad2,bysg<rr52.Pe1,le3,bysg<rr62.Pe1,le3,bysg<rrNofDF12()9]

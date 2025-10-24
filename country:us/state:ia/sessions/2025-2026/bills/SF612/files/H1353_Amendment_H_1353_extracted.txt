@@ -1,0 +1,83 @@
+Title: 1 Amend the amendment, H-1329, to Senate File 612, as passed by
+Official Title: 1 Amend the amendment, H-1329, to Senate File 612, as passed by
+Number of Sections: 1
+Source: versions - Amendment H-1353
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 612
+H-1353
+2 the Senate, as follows:
+3 1. By striking page 15, line 24, through page 17, line 23.
+4 2. Page 18, after line 14 by inserting:
+5 <DIVISION ___
+6 HISTORIC PRESERVATION TAX CREDIT
+7 Sec. ___. Section 404A.2, subsection 4, paragraph a, Code
+8 2025, is amended to read as follows:
+9 a. For a tax credit claimed by an eligible taxpayer or
+10 a transferee for qualified rehabilitation projects with
+11 agreements entered into on or after July 1, 2014, the following
+12 percentage of any credit in excess of the taxpayer’s tax
+13 liability for the tax year may be refunded:
+14 (1) For the tax year beginning on or after January 1, 2023,
+15 but before January 1, 2024, ninety-five percent.
+16 (2) For the tax year beginning on or after January 1, 2024,
+17 but before January 1, 2025, ninety percent.
+18 (3) For the tax year beginning on or after January 1, 2025,
+19 but before January 1, 2026, eighty-five percent.
+20 (4) For the tax year beginning on or after January 1, 2026,
+21 but before January 1, 2027, eighty percent.
+22 (5) (3) For tax years beginning on or after January 1, 2027
+23 2025, seventy-five one hundred percent.
+24 Sec. ___. RETROACTIVE APPLICABILITY. This division of this
+25 Act applies retroactively to January 1, 2025, for tax years
+26 beginning on or after that date.>
+27 3. By renumbering as necessary.
+______________________________
+KAUFMANN of Cedar
+H 1329.2104 (2) 91
+-1- jm/jh 1/1
+[DELETED: eFe6Adtea,H,toSeFe6,aspdbteS,asf1.Bysgpe1,le2,thpe1,le22.Pe1,arle14byi<N_HCPNTXCS._.Sn4,sn4,pha,C2,isadtordasfFratxctcdbyaneetro0atefrqdrnpsw1asedioonorarJy1,2,tef2peofayctinesoftetst3lyfrtetxyrmyber4()FrtetxyrbgonorarJy1,25btbeJy1,2,nep6()FrtetxyrbgonorarJy1,27btbeJy1,2,nyp8()FrtetxyrbgonorarJy1,29btbeJy1,2,eep0()FrtetxyrbgonorarJy1,21btbeJy1,2,eyp2()()FrtxysbgonorarJy1,232,seoehdp4S._.REA.Tsdnoft5AtasrytoJy1,2,frtxy6bgonorarttd73.ByrgasnNofC14()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 612
+H-1353
+1 Amend the amendment, H-1329, to Senate File 612, as passed by
+2 the Senate, as follows:
+3 1. By striking page 15, line 24, through page 17, line 23.
+4 2. Page 18, after line 14 by inserting:
+5 <DIVISION ___
+6 HISTORIC PRESERVATION TAX CREDIT
+7 Sec. ___. Section 404A.2, subsection 4, paragraph a, Code
+8 2025, is amended to read as follows:
+9 a. For a tax credit claimed by an eligible taxpayer or
+10 a transferee for qualified rehabilitation projects with
+11 agreements entered into on or after July 1, 2014, the following
+12 percentage of any credit in excess of the taxpayer’s tax
+13 liability for the tax year may be refunded:
+14 (1) For the tax year beginning on or after January 1, 2023,
+15 but before January 1, 2024, ninety-five percent.
+16 (2) For the tax year beginning on or after January 1, 2024,
+17 but before January 1, 2025, ninety percent.
+18 (3) For the tax year beginning on or after January 1, 2025,
+19 but before January 1, 2026, eighty-five percent.
+20 (4) For the tax year beginning on or after January 1, 2026,
+21 but before January 1, 2027, eighty percent.
+22 (5) (3) For tax years beginning on or after January 1, 2027
+23 2025, seventy-five one hundred percent.
+24 Sec. ___. RETROACTIVE APPLICABILITY. This division of this
+25 Act applies retroactively to January 1, 2025, for tax years
+26 beginning on or after that date.>
+27 3. By renumbering as necessary.
+______________________________
+KAUFMANN of Cedar
+H 1329.2104 (2) 91
+-1- jm/jh 1/1
+
+[DELETED: eFe6Adtea,H,toSeFe6,aspdbteS,asf1.Bysgpe1,le2,thpe1,le22.Pe1,arle14byi<N_HCPNTXCS._.Sn4,sn4,pha,C2,isadtordasfFratxctcdbyaneetro0atefrqdrnpsw1asedioonorarJy1,2,tef2peofayctinesoftetst3lyfrtetxyrmyber4()FrtetxyrbgonorarJy1,25btbeJy1,2,nep6()FrtetxyrbgonorarJy1,27btbeJy1,2,nyp8()FrtetxyrbgonorarJy1,29btbeJy1,2,eep0()FrtetxyrbgonorarJy1,21btbeJy1,2,eyp2()()FrtxysbgonorarJy1,232,seoehdp4S._.REA.Tsdnoft5AtasrytoJy1,2,frtxy6bgonorarttd73.ByrgasnNofC14()9]

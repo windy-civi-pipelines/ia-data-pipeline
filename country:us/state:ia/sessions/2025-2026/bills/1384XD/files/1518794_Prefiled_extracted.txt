@@ -1,0 +1,155 @@
+Title: REVENUE BILL)
+Official Title: REVENUE BILL)
+Number of Sections: 1
+Source: versions - Prefiled
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+A BILL FOR
+1 An Act relating to electronic filing of sales and use tax
+2 returns, and including effective date provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1384XD (6) 91
+jm/jh
+S.F. _____ H.F. _____
+1 Section 1. Section 423.31, subsection 1, paragraph a, Code
+2 2025, is amended to read as follows:
+3 a. (1) Except as provided in paragraph “b”, each person
+4 subject to this section and section 423.36 and in accordance
+5 with the provisions of this section and section 423.36 shall,
+6 on or before the last day of the month following the close of
+7 each calendar month during which such person is or has become
+8 or ceased being subject to the provisions of this section and
+9 section 423.36, make, sign, and file electronically a return
+10 for the calendar month in the form as may be required.
+11 (2) Returns shall show information relating to sales
+12 prices including tangible personal property, specified digital
+13 products, and services converted to the use of such person, the
+14 amounts of sales prices excluded and exempt from the tax, the
+15 amounts of sales prices subject to tax, a calculation of tax
+16 due, and any other information for the period covered by the
+17 return as may be required.
+18 (3) Returns shall be signed by the retailer or the
+19 retailer’s authorized agent and must be certified by the
+20 retailer to be correct in accordance with forms and rules
+21 prescribed by the director.
+22 (4) A person required to file a sales or use tax return
+23 electronically who is unable to do so may request permission
+24 from the director to file a return by another method.
+25 Sec. 2. Section 423.31, subsection 1, Code 2025, is amended
+26 by adding the following new paragraph:
+27 NEW PARAGRAPH. c. A return subject to the electronic filing
+28 requirement under paragraph “a” that is filed in a manner other
+29 than in an electronic format specified by the department shall
+30 not be considered a valid return unless the department provides
+31 an exception as provided in paragraph “a”, subparagraph (4).
+32 Sec. 3. Section 423.31, Code 2025, is amended by adding the
+33 following new subsection:
+34 NEW SUBSECTION. 8. The department may adopt rules pursuant
+35 to chapter 17A to administer this section.
+LSB 1384XD (6) 91
+-1- jm/jh 1/2
+S.F. _____ H.F. _____
+1 Sec. 4. EFFECTIVE DATE. This Act, being deemed of immediate
+2 importance, takes effect upon enactment.
+3 EXPLANATION
+4 The inclusion of this explanation does not constitute agreement with
+5 the explanation’s substance by the members of the general assembly.
+6 This bill relates to electronic filing of sales and use tax
+7 returns.
+8 If a sales and use tax return subject to an electronic
+9 filing requirement is filed in a manner other than in an
+10 electronic format specified by the department of revenue, the
+11 bill specifies the return is not considered filed with the
+12 department, but the taxpayer may request permission from the
+13 director of the department of revenue to file a return using
+14 another method. The bill specifies the department may adopt
+15 rules to administer Code section 423.31.
+16 The bill takes effect upon enactment.
+LSB 1384XD (6) 91
+-2- jm/jh 2/2
+[DELETED: EFE_Y(DDTOEBBLFAnAtrgtoecfgofssaduetr,adigeedepBEITEDBYTEGLAYOFTESEOFIB1D()9]
+[DELETED: .__H._Sn1.Sn4,sn1,pha,C2,isadtordasf.“()Etaspdinph,ehpsttotssnadsn46adinawhtepsoftssnadsn46sonorbeteltdyoftemhfgteceoehcrmhdgwhshpnisorhsborcdbgsttotepsoftssnasn4,m,s,adfeeyar0frtecrmhintefmasmyber1()Rsslswinrgtos2psigteplp,sdd3p,adsscdtoteueofshp,t4asofsspsedadetfmtet,t5asofsspssttot,acnoft6d,adayorinfrtepdcdbyt7rnasmyber8()Rsslbesdbyterrort9rsadatadmtbecdbyt0rrtobectinaewhfsadr1pdbyted2()Apnrdtofeassoruetxr3eywoisuetodosomyrtp4fmtedrtofearnbyarm5S.2.Sn4,sn1,Ce2,isa6byagtefgnwp7NWP.Arnsttoteecf8rturphttisfdinamro9tninanecftsdbytedts0ntbecdavdrnustedtp1anenaspdinph,sh(2S.3.Sn4,Ce2,isadbyagt3fgnws4NWS.8.Tedtmyatrsp5tocr1AtoartssB1D()9]
+[DELETED: .__H._S.4.EED.TsA,bgddofii,tsetuneEeinoftsendsntceatweessebytemsofteglaTsblrstoecfgofssaduetrIfassaduetxrnsttoanefgrtisfdinamrortnina0ecftsdbytedtofr,t1blssternisntcdfdwht2d,bttetrmyrtpnfmt3droftedtofretofearnu4arm.Teblsstedtmya5rstoarCesn46TebltsetuneB1D()9]
+
+
+================================================================================
+
+Raw Text:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+REVENUE BILL)
+A BILL FOR
+1 An Act relating to electronic filing of sales and use tax
+2 returns, and including effective date provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1384XD (6) 91
+jm/jh
+
+S.F. _____ H.F. _____
+1 Section 1. Section 423.31, subsection 1, paragraph a, Code
+2 2025, is amended to read as follows:
+3 a. (1) Except as provided in paragraph “b”, each person
+4 subject to this section and section 423.36 and in accordance
+5 with the provisions of this section and section 423.36 shall,
+6 on or before the last day of the month following the close of
+7 each calendar month during which such person is or has become
+8 or ceased being subject to the provisions of this section and
+9 section 423.36, make, sign, and file electronically a return
+10 for the calendar month in the form as may be required.
+11 (2) Returns shall show information relating to sales
+12 prices including tangible personal property, specified digital
+13 products, and services converted to the use of such person, the
+14 amounts of sales prices excluded and exempt from the tax, the
+15 amounts of sales prices subject to tax, a calculation of tax
+16 due, and any other information for the period covered by the
+17 return as may be required.
+18 (3) Returns shall be signed by the retailer or the
+19 retailer’s authorized agent and must be certified by the
+20 retailer to be correct in accordance with forms and rules
+21 prescribed by the director.
+22 (4) A person required to file a sales or use tax return
+23 electronically who is unable to do so may request permission
+24 from the director to file a return by another method.
+25 Sec. 2. Section 423.31, subsection 1, Code 2025, is amended
+26 by adding the following new paragraph:
+27 NEW PARAGRAPH. c. A return subject to the electronic filing
+28 requirement under paragraph “a” that is filed in a manner other
+29 than in an electronic format specified by the department shall
+30 not be considered a valid return unless the department provides
+31 an exception as provided in paragraph “a”, subparagraph (4).
+32 Sec. 3. Section 423.31, Code 2025, is amended by adding the
+33 following new subsection:
+34 NEW SUBSECTION. 8. The department may adopt rules pursuant
+35 to chapter 17A to administer this section.
+LSB 1384XD (6) 91
+-1- jm/jh 1/2
+
+S.F. _____ H.F. _____
+1 Sec. 4. EFFECTIVE DATE. This Act, being deemed of immediate
+2 importance, takes effect upon enactment.
+3 EXPLANATION
+4 The inclusion of this explanation does not constitute agreement with
+5 the explanation’s substance by the members of the general assembly.
+6 This bill relates to electronic filing of sales and use tax
+7 returns.
+8 If a sales and use tax return subject to an electronic
+9 filing requirement is filed in a manner other than in an
+10 electronic format specified by the department of revenue, the
+11 bill specifies the return is not considered filed with the
+12 department, but the taxpayer may request permission from the
+13 director of the department of revenue to file a return using
+14 another method. The bill specifies the department may adopt
+15 rules to administer Code section 423.31.
+16 The bill takes effect upon enactment.
+LSB 1384XD (6) 91
+-2- jm/jh 2/2
+
+[DELETED: EFE_Y(DDTOEBBLFAnAtrgtoecfgofssaduetr,adigeedepBEITEDBYTEGLAYOFTESEOFIB1D()9]
+[DELETED: .__H._Sn1.Sn4,sn1,pha,C2,isadtordasf.“()Etaspdinph,ehpsttotssnadsn46adinawhtepsoftssnadsn46sonorbeteltdyoftemhfgteceoehcrmhdgwhshpnisorhsborcdbgsttotepsoftssnasn4,m,s,adfeeyar0frtecrmhintefmasmyber1()Rsslswinrgtos2psigteplp,sdd3p,adsscdtoteueofshp,t4asofsspsedadetfmtet,t5asofsspssttot,acnoft6d,adayorinfrtepdcdbyt7rnasmyber8()Rsslbesdbyterrort9rsadatadmtbecdbyt0rrtobectinaewhfsadr1pdbyted2()Apnrdtofeassoruetxr3eywoisuetodosomyrtp4fmtedrtofearnbyarm5S.2.Sn4,sn1,Ce2,isa6byagtefgnwp7NWP.Arnsttoteecf8rturphttisfdinamro9tninanecftsdbytedts0ntbecdavdrnustedtp1anenaspdinph,sh(2S.3.Sn4,Ce2,isadbyagt3fgnws4NWS.8.Tedtmyatrsp5tocr1AtoartssB1D()9]
+[DELETED: .__H._S.4.EED.TsA,bgddofii,tsetuneEeinoftsendsntceatweessebytemsofteglaTsblrstoecfgofssaduetrIfassaduetxrnsttoanefgrtisfdinamrortnina0ecftsdbytedtofr,t1blssternisntcdfdwht2d,bttetrmyrtpnfmt3droftedtofretofearnu4arm.Teblsstedtmya5rstoarCesn46TebltsetuneB1D()9]

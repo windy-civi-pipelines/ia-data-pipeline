@@ -1,0 +1,35 @@
+Title: 2 1. Page 2, by striking lines 2 through 5 and inserting <the
+Official Title: 2 1. Page 2, by striking lines 2 through 5 and inserting <the
+Number of Sections: 1
+Source: versions - Amendment H-1304
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 974
+H-1304
+1 Amend House File 974 as follows:
+3 State of Iowa, and training on firearm safety.>
+______________________________
+COOLING of Linn
+HF 974.1621 (1) 91
+-1- th/ns 1/1
+[DELETED: eFe9AdHeFe94asf1.Pe2,bysgls2th5adig<SeofI,adtgonfmsGofLF91()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 974
+H-1304
+1 Amend House File 974 as follows:
+2 1. Page 2, by striking lines 2 through 5 and inserting <the
+3 State of Iowa, and training on firearm safety.>
+______________________________
+COOLING of Linn
+HF 974.1621 (1) 91
+-1- th/ns 1/1
+
+[DELETED: eFe9AdHeFe94asf1.Pe2,bysgls2th5adig<SeofI,adtgonfmsGofLF91()9s1]

@@ -1,0 +1,41 @@
+Title: 2 1. Page 1, line 5, by striking <five ten> and inserting
+Official Title: 2 1. Page 1, line 5, by striking <five ten> and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1247
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 990
+H-1247
+1 Amend House File 990 as follows:
+3 <five>
+4 2. Page 1, line 5, after <dispensaries> by inserting <,
+5 and may select and license up to ten medical cannabidiol
+6 dispensaries,>
+______________________________
+YOUNG of Dallas
+HF 990.1593 (2) 91
+-1- ss/ko 1/1
+[DELETED: eFe9AdHeFe90asf1.Pe1,le5,bysg<et>adi<2.Pe1,le5,ar<>byig<admystadleuptotnmlcdGofDF93()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 990
+H-1247
+1 Amend House File 990 as follows:
+2 1. Page 1, line 5, by striking <five ten> and inserting
+3 <five>
+4 2. Page 1, line 5, after <dispensaries> by inserting <,
+5 and may select and license up to ten medical cannabidiol
+6 dispensaries,>
+______________________________
+YOUNG of Dallas
+HF 990.1593 (2) 91
+-1- ss/ko 1/1
+
+[DELETED: eFe9AdHeFe90asf1.Pe1,le5,bysg<et>adi<2.Pe1,le5,ar<>byig<admystadleuptotnmlcdGofDF93()9o1]
