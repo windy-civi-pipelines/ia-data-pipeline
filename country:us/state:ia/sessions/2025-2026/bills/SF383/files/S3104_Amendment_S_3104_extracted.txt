@@ -1,0 +1,280 @@
+Title: 2 1. Page 2, by striking lines 12 and 13 and inserting
+Official Title: 2 1. Page 2, by striking lines 12 and 13 and inserting
+Number of Sections: 1
+Source: versions - Amendment S-3104
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate File 383
+S-3104
+1 Amend Senate File 383 as follows:
+3 <reduction in reimbursement for services, a promotion of
+4 one participating pharmacy over another, or comparing the
+5 reimbursement rates of a pharmacy against mail order pharmacy
+6 reimbursement rates.>
+7 2. Page 2, line 19, after <payor> by inserting <for
+8 similarly classified pharmacies>
+9 3. Page 4, by striking lines 19 through 31 and inserting:
+10 <NEW SUBSECTION. 4. For the purpose of reducing premiums,
+11 one hundred percent of all rebates received by a pharmacy
+12 benefits manager shall be passed through to the health carrier,
+13 or to the employee plan sponsor as permitted by the federal
+14 Employee Retirement Income Security Act of 1974, 29 U.S.C.
+15 §1001, et seq.>
+16 4. Page 5, after line 5 by inserting:
+17 <NEW SUBSECTION. 7. If a covered person’s policy, contract,
+18 or plan providing for third-party payment or prepayment of
+19 health or medical expenses qualifies as a high-deductible
+20 health plan under section 223 of the Internal Revenue Code,
+21 and a copayment, coinsurance, or deductible paid by the
+22 covered person as a cost-sharing requirement under this chapter
+23 would result in the covered person becoming ineligible for a
+24 health savings account associated with the covered person’s
+25 high-deductible health plan, subsection 5 shall apply only
+26 after the covered person satisfies the covered person’s minimum
+27 deductible, except for items or services determined to be
+28 preventive care under section 223(c)(2)(C) of the Internal
+29 Revenue Code.>
+30 5. By striking page 5, line 34, through page 6, line 1, and
+31 inserting <report to the commissioner, in a form approved by
+32 the commissioner, of all drugs reimbursed below the national
+33 average drug acquisition cost, and all drugs reimbursed ten
+34 percent or more above the national>
+35 6. Page 6, after line 21 by inserting:
+SF 383.1489 (1) 91
+-1- nls/ko 1/4
+1 <e. Upon the request of the commissioner, a pharmacy
+2 benefits manager shall provide the commissioner with any
+3 additional information pursuant to paragraph “b” in a form and
+4 manner prescribed by the commissioner in a manner that does not
+5 publicly disclose the information, and that complies with the
+6 federal Health Insurance Portability and Accountability Act of
+7 1996, Pub. L. No. 104-191. Requested information may include
+8 but is not limited to health benefit plan, manufacturer, or
+9 market specific information.>
+10 7. By striking page 6, line 31, through page 7, line 4, and
+11 inserting <pricing.>
+12 8. Page 7, line 5, by striking <c.> and inserting <b.>
+13 9. Page 7, by striking lines 19 through 21 and inserting
+14 <process to allow a pharmacy to appeal any matter.>
+15 10. Page 8, line 1, after <appeal> by inserting <related to
+16 a reimbursement rate>
+17 11. Page 8, by striking lines 16 through 18 and inserting:
+18 <b. If the pharmacy benefits manager denies a pharmacy’s
+19 appeal, the pharmacy benefits manager shall do all of the
+20 following:
+21 (1) Provide the appealing pharmacy the national drug
+22 code number and the name of a wholesale distributor licensed
+23 pursuant to section 155A.17 from which the pharmacy can obtain
+24 the prescription drug at or below the reimbursement rate.
+25 (2) If the prescription drug identified by the national
+26 drug code number provided by the pharmacy benefits manager
+27 pursuant to subparagraph (1) is not available below the
+28 pharmacy acquisition cost from the wholesale distributor from
+29 whom the pharmacy purchases the majority of its prescription
+30 drugs for resale, the pharmacy benefits manager shall adjust
+31 the reimbursement rate above the appealing pharmacy’s pharmacy
+32 acquisition cost, and reverse and resubmit each claim affected
+33 by the pharmacy’s inability to procure the prescription drug
+34 at a cost that is equal to or less than the previously appealed
+35 reimbursement rate.
+SF 383.1489 (1) 91
+-2- nls/ko 2/4
+1 Sec. ___. PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS
+2 AND WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS —— REPORT.
+3 1. Before January 1, 2026, the commissioner of insurance, or
+4 the commissioner of insurance’s designee, shall review pharmacy
+5 services administrative organizations and the wholesale
+6 distribution of prescription drugs, and submit a report to the
+7 general assembly containing the commissioner’s findings and
+8 recommendations. The report shall include, at a minimum, all
+9 of the following:
+10 a. A description and analysis of the prescription drug
+11 wholesale distribution supply chain, including the market
+12 concentration for the wholesale distribution of prescription
+13 drugs, margins in the wholesale distribution of prescription
+14 drugs, and the competition in the wholesale distribution of
+15 prescription drugs.
+16 b. A description of the role that pharmacy services
+17 administrative organizations serve in the prescription drug
+18 supply chain.
+19 c. A description and analysis of the relationships between
+20 pharmacy services administrative organizations, prescription
+21 drug wholesalers, and retail pharmacies, including but
+22 not limited to standard contracting terms, fees charged to
+23 pharmacies, and contractual restrictions and limitations
+24 applicable to retail pharmacies.
+25 2. a. The commissioner of insurance shall provide the
+26 information pursuant to subsection 1 to the general assembly in
+27 a format that does not publicly disclose any of the following:
+28 (1) The identity of a specific pharmacy services
+29 administrative organization or prescription drug wholesaler.
+30 (2) The price charged to a specific pharmacy for a specific
+31 prescription drug.
+32 b. Information provided under this section by the
+33 commissioner to the general assembly that may reveal the
+34 identity of a specific pharmacy services administrative
+35 organization or prescription drug wholesaler, or the price
+SF 383.1489 (1) 91
+-3- nls/ko 3/4
+1 charged to a specific pharmacy for a specific prescription
+2 drug, shall be considered a confidential record.>
+3 12. Page 8, line 20, by striking <managers> and inserting
+4 <managers, health carriers, third-party payors, and health
+5 benefit plans>
+6 13. Title page, by striking lines 1 and 2 and inserting
+7 <An Act relating to pharmacy benefits managers, pharmacies,
+8 prescription drugs, and pharmacy services administrative
+9 organizations, and including applicability provisions.>
+10 14. By renumbering as necessary.
+______________________________
+MIKE KLIMESH
+SF 383.1489 (1) 91
+-4- nls/ko 4/4
+[DELETED: eFe3AdSeFe33asf1.Pe2,bysgls12ad13adi<ninrtfrs,apnooepgpyora,orcgtrtrsofapyatmlorprtr2.Pe2,le1,ar<>byig<sycdp3.Pe4,bysgls19th31adi0<WS.4.Frtepeofrgp1oehdptofalrsrdbyap2bsmrslbepdthtotehhc3ortoteeepnsraspdbytef4EeRtIeSyAtof1,29U5§,ets64.Pe5,arle5byi7<WS.7.Ifacdpsp,c8orpnpgfrtyptorpto9hhormlesqsasah0hhpnursn23ofteIlReC1adac,c,ordepdbyt2cdpnasacgrturtsc3wdrtintecdpnbgiefr4hhssatadwhtecdp5hehhp,sn5slayo6artecdpnsstecdpsm7d,etfrisorssddtob8peceursn2)ofteI9ReC05.Bysgpe5,le3,thpe6,le1,a1ig<ttotec,inafmadb2tec,ofaldsrdbwten3aedganc,adaldsrdt4ptormeaeten56.Pe6,arle21byiF39()9o1]
+[DELETED: Untertoftec,apbsmrslpetecrwhaalinpttophinafmamrpdbytecrinamrttdsnpydetei,adttcswhtflHhIePyadAyAto1,P.L.N.1.Rdinmyibtisntldtohhbtp,m,omtsci07.Bysgpe6,le3,thpe7,le4,a1ig<28.Pe7,le5,bysg<>adig<.b39.Pe7,bysgls19th21adi4<stoawapytoalaym51.Pe8,le1,ar<>byig<dt6artr71.Pe8,bysgls16th18adi8Iftepybsmrdsap9a,tepybsmrsldoaloft0f1()Peteagpytenld2cenradteneofawedrl3pttosn17fmwhtepycno4tepndgatorbwtertr5()Iftepndgidbyten6dgcenrpdbytepybsm7pttosh()isntaebwt8pyanctfmtewedrf9wmtepypstemyofisp0dsfrr,tepybsmrsla1tertreaeteagpsp2anc,adreadrtehcma3bytepsiytopetepnd4atactttiseltoorlstntepya5rtrF39()9o2]
+[DELETED: S._.PYSSAEOADWEDNOFPNDS——R1.BeJy1,2,tecrofi,otecrofisd,slrwpssaeosadtewdnofpnd,adstarttotglaycgtecsfsar.Tertsli,atam,aoftef0a.Adnadasoftepnd1wednsyc,igtem2cnfrtewednofp3d,msintewednofp4d,adtecnintewedno5pnd6b.Adnofterettpys7aeosseintepnd8syc9c.Adnadasoftersb0pyssaeo,p1dgw,adrlp,igb2ntldtosdcgt,fscdt3p,adclrsadl4aetorlp52.a.Tecrofieslpet6inpttosn1toteglayi7aftttdsntpydeayoftef8()Teiyofascpys9aeonorpndgw0()Tepecdtoascpyfras1pnd2b.Inpdurtssnbyt3crtoteglayttmyrlt4iyofascpyssa5onorpndgw,ortepF39()9o3]
+[DELETED: cdtoascpyfrascpd,slbecdaclr1.Pe8,le2,bysg<>adi<,hhc,typ,adhbtp1.Tep,bysgls1ad2adi<nAtrgtopybsm,ppnd,adpyssao,adigayp01.ByrgasnEKF39()9o4]
+
+
+================================================================================
+
+Raw Text:
+Senate File 383
+S-3104
+1 Amend Senate File 383 as follows:
+2 1. Page 2, by striking lines 12 and 13 and inserting
+3 <reduction in reimbursement for services, a promotion of
+4 one participating pharmacy over another, or comparing the
+5 reimbursement rates of a pharmacy against mail order pharmacy
+6 reimbursement rates.>
+7 2. Page 2, line 19, after <payor> by inserting <for
+8 similarly classified pharmacies>
+9 3. Page 4, by striking lines 19 through 31 and inserting:
+10 <NEW SUBSECTION. 4. For the purpose of reducing premiums,
+11 one hundred percent of all rebates received by a pharmacy
+12 benefits manager shall be passed through to the health carrier,
+13 or to the employee plan sponsor as permitted by the federal
+14 Employee Retirement Income Security Act of 1974, 29 U.S.C.
+15 §1001, et seq.>
+16 4. Page 5, after line 5 by inserting:
+17 <NEW SUBSECTION. 7. If a covered person’s policy, contract,
+18 or plan providing for third-party payment or prepayment of
+19 health or medical expenses qualifies as a high-deductible
+20 health plan under section 223 of the Internal Revenue Code,
+21 and a copayment, coinsurance, or deductible paid by the
+22 covered person as a cost-sharing requirement under this chapter
+23 would result in the covered person becoming ineligible for a
+24 health savings account associated with the covered person’s
+25 high-deductible health plan, subsection 5 shall apply only
+26 after the covered person satisfies the covered person’s minimum
+27 deductible, except for items or services determined to be
+28 preventive care under section 223(c)(2)(C) of the Internal
+29 Revenue Code.>
+30 5. By striking page 5, line 34, through page 6, line 1, and
+31 inserting <report to the commissioner, in a form approved by
+32 the commissioner, of all drugs reimbursed below the national
+33 average drug acquisition cost, and all drugs reimbursed ten
+34 percent or more above the national>
+35 6. Page 6, after line 21 by inserting:
+SF 383.1489 (1) 91
+-1- nls/ko 1/4
+
+1 <e. Upon the request of the commissioner, a pharmacy
+2 benefits manager shall provide the commissioner with any
+3 additional information pursuant to paragraph “b” in a form and
+4 manner prescribed by the commissioner in a manner that does not
+5 publicly disclose the information, and that complies with the
+6 federal Health Insurance Portability and Accountability Act of
+7 1996, Pub. L. No. 104-191. Requested information may include
+8 but is not limited to health benefit plan, manufacturer, or
+9 market specific information.>
+10 7. By striking page 6, line 31, through page 7, line 4, and
+11 inserting <pricing.>
+12 8. Page 7, line 5, by striking <c.> and inserting <b.>
+13 9. Page 7, by striking lines 19 through 21 and inserting
+14 <process to allow a pharmacy to appeal any matter.>
+15 10. Page 8, line 1, after <appeal> by inserting <related to
+16 a reimbursement rate>
+17 11. Page 8, by striking lines 16 through 18 and inserting:
+18 <b. If the pharmacy benefits manager denies a pharmacy’s
+19 appeal, the pharmacy benefits manager shall do all of the
+20 following:
+21 (1) Provide the appealing pharmacy the national drug
+22 code number and the name of a wholesale distributor licensed
+23 pursuant to section 155A.17 from which the pharmacy can obtain
+24 the prescription drug at or below the reimbursement rate.
+25 (2) If the prescription drug identified by the national
+26 drug code number provided by the pharmacy benefits manager
+27 pursuant to subparagraph (1) is not available below the
+28 pharmacy acquisition cost from the wholesale distributor from
+29 whom the pharmacy purchases the majority of its prescription
+30 drugs for resale, the pharmacy benefits manager shall adjust
+31 the reimbursement rate above the appealing pharmacy’s pharmacy
+32 acquisition cost, and reverse and resubmit each claim affected
+33 by the pharmacy’s inability to procure the prescription drug
+34 at a cost that is equal to or less than the previously appealed
+35 reimbursement rate.
+SF 383.1489 (1) 91
+-2- nls/ko 2/4
+
+1 Sec. ___. PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS
+2 AND WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS —— REPORT.
+3 1. Before January 1, 2026, the commissioner of insurance, or
+4 the commissioner of insurance’s designee, shall review pharmacy
+5 services administrative organizations and the wholesale
+6 distribution of prescription drugs, and submit a report to the
+7 general assembly containing the commissioner’s findings and
+8 recommendations. The report shall include, at a minimum, all
+9 of the following:
+10 a. A description and analysis of the prescription drug
+11 wholesale distribution supply chain, including the market
+12 concentration for the wholesale distribution of prescription
+13 drugs, margins in the wholesale distribution of prescription
+14 drugs, and the competition in the wholesale distribution of
+15 prescription drugs.
+16 b. A description of the role that pharmacy services
+17 administrative organizations serve in the prescription drug
+18 supply chain.
+19 c. A description and analysis of the relationships between
+20 pharmacy services administrative organizations, prescription
+21 drug wholesalers, and retail pharmacies, including but
+22 not limited to standard contracting terms, fees charged to
+23 pharmacies, and contractual restrictions and limitations
+24 applicable to retail pharmacies.
+25 2. a. The commissioner of insurance shall provide the
+26 information pursuant to subsection 1 to the general assembly in
+27 a format that does not publicly disclose any of the following:
+28 (1) The identity of a specific pharmacy services
+29 administrative organization or prescription drug wholesaler.
+30 (2) The price charged to a specific pharmacy for a specific
+31 prescription drug.
+32 b. Information provided under this section by the
+33 commissioner to the general assembly that may reveal the
+34 identity of a specific pharmacy services administrative
+35 organization or prescription drug wholesaler, or the price
+SF 383.1489 (1) 91
+-3- nls/ko 3/4
+
+1 charged to a specific pharmacy for a specific prescription
+2 drug, shall be considered a confidential record.>
+3 12. Page 8, line 20, by striking <managers> and inserting
+4 <managers, health carriers, third-party payors, and health
+5 benefit plans>
+6 13. Title page, by striking lines 1 and 2 and inserting
+7 <An Act relating to pharmacy benefits managers, pharmacies,
+8 prescription drugs, and pharmacy services administrative
+9 organizations, and including applicability provisions.>
+10 14. By renumbering as necessary.
+______________________________
+MIKE KLIMESH
+SF 383.1489 (1) 91
+-4- nls/ko 4/4
+
+[DELETED: eFe3AdSeFe33asf1.Pe2,bysgls12ad13adi<ninrtfrs,apnooepgpyora,orcgtrtrsofapyatmlorprtr2.Pe2,le1,ar<>byig<sycdp3.Pe4,bysgls19th31adi0<WS.4.Frtepeofrgp1oehdptofalrsrdbyap2bsmrslbepdthtotehhc3ortoteeepnsraspdbytef4EeRtIeSyAtof1,29U5§,ets64.Pe5,arle5byi7<WS.7.Ifacdpsp,c8orpnpgfrtyptorpto9hhormlesqsasah0hhpnursn23ofteIlReC1adac,c,ordepdbyt2cdpnasacgrturtsc3wdrtintecdpnbgiefr4hhssatadwhtecdp5hehhp,sn5slayo6artecdpnsstecdpsm7d,etfrisorssddtob8peceursn2)ofteI9ReC05.Bysgpe5,le3,thpe6,le1,a1ig<ttotec,inafmadb2tec,ofaldsrdbwten3aedganc,adaldsrdt4ptormeaeten56.Pe6,arle21byiF39()9o1]
+[DELETED: Untertoftec,apbsmrslpetecrwhaalinpttophinafmamrpdbytecrinamrttdsnpydetei,adttcswhtflHhIePyadAyAto1,P.L.N.1.Rdinmyibtisntldtohhbtp,m,omtsci07.Bysgpe6,le3,thpe7,le4,a1ig<28.Pe7,le5,bysg<>adig<.b39.Pe7,bysgls19th21adi4<stoawapytoalaym51.Pe8,le1,ar<>byig<dt6artr71.Pe8,bysgls16th18adi8Iftepybsmrdsap9a,tepybsmrsldoaloft0f1()Peteagpytenld2cenradteneofawedrl3pttosn17fmwhtepycno4tepndgatorbwtertr5()Iftepndgidbyten6dgcenrpdbytepybsm7pttosh()isntaebwt8pyanctfmtewedrf9wmtepypstemyofisp0dsfrr,tepybsmrsla1tertreaeteagpsp2anc,adreadrtehcma3bytepsiytopetepnd4atactttiseltoorlstntepya5rtrF39()9o2]
+[DELETED: S._.PYSSAEOADWEDNOFPNDS——R1.BeJy1,2,tecrofi,otecrofisd,slrwpssaeosadtewdnofpnd,adstarttotglaycgtecsfsar.Tertsli,atam,aoftef0a.Adnadasoftepnd1wednsyc,igtem2cnfrtewednofp3d,msintewednofp4d,adtecnintewedno5pnd6b.Adnofterettpys7aeosseintepnd8syc9c.Adnadasoftersb0pyssaeo,p1dgw,adrlp,igb2ntldtosdcgt,fscdt3p,adclrsadl4aetorlp52.a.Tecrofieslpet6inpttosn1toteglayi7aftttdsntpydeayoftef8()Teiyofascpys9aeonorpndgw0()Tepecdtoascpyfras1pnd2b.Inpdurtssnbyt3crtoteglayttmyrlt4iyofascpyssa5onorpndgw,ortepF39()9o3]
+[DELETED: cdtoascpyfrascpd,slbecdaclr1.Pe8,le2,bysg<>adi<,hhc,typ,adhbtp1.Tep,bysgls1ad2adi<nAtrgtopybsm,ppnd,adpyssao,adigayp01.ByrgasnEKF39()9o4]

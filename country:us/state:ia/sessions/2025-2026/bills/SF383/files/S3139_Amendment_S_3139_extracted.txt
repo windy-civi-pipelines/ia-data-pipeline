@@ -1,0 +1,363 @@
+Title: 1 Amend the amendment, S-3138, to Senate File 383, as follows:
+Official Title: 1 Amend the amendment, S-3138, to Senate File 383, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3139
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+Senate File 383
+S-3139
+2 1. By striking page 1, line 2, through page 10, line 10, and
+3 inserting:
+4 <1. By striking everything after the enacting clause and
+5 inserting:
+6 <Section 1. Section 510B.1, Code 2025, is amended by adding
+7 the following new subsections:
+8 NEW SUBSECTION. 16A. “Pharmacy desert” means a geographic
+9 area with a single pharmacy located at least thirty miles from
+10 the nearest pharmacy.
+11 NEW SUBSECTION. 21A. “Specialty drug” means a drug used
+12 to treat chronic and complex or rare medical conditions and
+13 that requires special handling or administration, provider care
+14 coordination, or patient education that cannot be provided by a
+15 nonspecialty pharmacy or pharmacist.
+16 NEW SUBSECTION. 21B. “Spread pricing” means a pharmacy
+17 benefits manager charges a third-party payor more for
+18 prescription drugs dispensed to a covered person than the
+19 amount the pharmacy benefits manager reimburses the pharmacy
+20 for dispensing the prescription drugs to a covered person.
+21 Sec. 2. NEW SECTION. 510B.4B Prohibited conduct.
+22 1. a. A pharmacy benefits manager shall not do any of the
+23 following:
+24 (1) Where a pharmacy or pharmacist has agreed to participate
+25 in a covered person’s health benefit plan, prohibit or limit
+26 the covered person from selecting a pharmacy or pharmacist of
+27 the covered person’s choice.
+28 (2) Deny a pharmacy or pharmacist the right to participate
+29 as a contract provider under a health benefit plan if the
+30 pharmacy or pharmacist agrees to provide pharmacy services that
+31 meet the terms and requirements of the health benefit plan and
+32 the pharmacy or pharmacist agrees to the terms of reimbursement
+33 set forth by the third-party payor.
+34 (3) Impose upon a pharmacy or pharmacist, as a condition
+35 of participation in a third-party payor network, any course
+S 3138.1787 (3) 91
+-1- nls/ko 1/5
+1 of study, accreditation, certification, or credentialing that
+2 is inconsistent with, more stringent than, or in addition to
+3 state requirements for licensure or certification, and the
+4 administrative rules adopted by the board of pharmacy.
+5 (4) Require a covered person, as a condition of payment
+6 or reimbursement, to purchase pharmacy services, including
+7 prescription drugs, exclusively through a mail order pharmacy.
+8 b. This subsection shall not apply to a specialty drug.
+9 2. a. If a third-party payor providing reimbursement to
+10 covered persons for prescription drugs restricts pharmacy
+11 participation, the third-party payor shall notify, in writing,
+12 all pharmacies within the geographical coverage area of the
+13 health benefit plan restriction, and offer the pharmacies
+14 the opportunity to participate in the health benefit plan at
+15 least sixty days prior to the effective date of the health
+16 benefit plan restriction. All pharmacies in the geographical
+17 coverage area of the health benefit plan shall be eligible to
+18 participate under identical reimbursement terms for providing
+19 pharmacy services and prescription drugs. This paragraph shall
+20 not apply to a specialty drug.
+21 b. The third-party payor shall inform covered persons of
+22 the names and locations of all pharmacies participating in
+23 the health benefit plan as providers of pharmacy services and
+24 prescription drugs.
+25 c. A participating pharmacy shall be entitled to announce
+26 the pharmacy’s participation in the health benefit plan to the
+27 pharmacy’s customers.
+28 3. The commissioner shall not certify a pharmacy benefits
+29 manager or license an insurance producer that is not in
+30 compliance with this section.
+31 4. A covered person or pharmacy injured by a violation
+32 of this section may maintain a cause of action to enjoin the
+33 continuation of the violation.
+34 5. This section shall not apply to an entity that owns
+35 and operates the entity’s own facility, employs or contracts
+S 3138.1787 (3) 91
+-2- nls/ko 2/5
+1 with physicians, pharmacists, nurses, or other health care
+2 personnel, and that dispenses prescription drugs from the
+3 entity’s pharmacy to the entity’s employees and dependents
+4 enrolled in the entity’s health benefit plan, except that
+5 this section shall apply to an entity otherwise excluded that
+6 contracts with an outside pharmacy or group of pharmacies
+7 to provide prescription drugs and services to the entity’s
+8 employees and dependents enrolled in the entity’s health
+9 benefit plan.
+10 Sec. 3. Section 510B.8, Code 2025, is amended by adding the
+11 following new subsection:
+12 NEW SUBSECTION. 3. One hundred percent of all rebates
+13 received by a pharmacy benefits manager shall be passed through
+14 to the health carrier or employer plan sponsor for the purpose
+15 of reducing premiums.
+16 Sec. 4. Section 510B.8B, Code 2025, is amended to read as
+17 follows:
+18 510B.8B Pharmacy benefits manager affiliates managers ——
+19 reimbursement.
+20 1. A pharmacy benefits manager shall not reimburse any
+21 pharmacy located in the state in an amount less than the amount
+22 that the pharmacy benefits manager reimburses a pharmacy
+23 benefits manager affiliate for dispensing the same prescription
+24 drug as dispensed by the pharmacy. The reimbursement amount
+25 shall be calculated on a per unit basis based on the same
+26 generic product identifier or generic code number.
+27 2. For a prescription filled at a pharmacy with five or
+28 less locations, a pharmacy benefits manager shall reimburse the
+29 pharmacy or pharmacist a professional dispensing fee in the
+30 amount of ten dollars and sixty-eight cents.
+31 3. For a prescription filled at a pharmacy with six or more
+32 locations, and that has any location located in a pharmacy
+33 desert, a pharmacy benefits manager shall reimburse the
+34 pharmacy located in a pharmacy desert a professional dispensing
+35 fee in the amount of ten dollars and sixty-eight cents.
+S 3138.1787 (3) 91
+-3- nls/ko 3/5
+1 Sec. 5. NEW SECTION. 510B.8D Pharmacy benefits manager
+2 contracts —— spread pricing.
+3 All contracts executed, amended, adjusted, or renewed on or
+4 after July 1, 2025, that apply to prescription drug benefits on
+5 or after January 1, 2026, between a pharmacy benefits manager
+6 and a third-party payor, or between a person and a third-party
+7 payor, shall prohibit the practice of spread pricing.
+8 Sec. 6. PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND
+9 WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS —— REPORT.
+10 1. Before January 1, 2026, the commissioner of insurance, or
+11 the commissioner of insurance’s designee, shall review pharmacy
+12 services administrative organizations and the wholesale
+13 distribution of prescription drugs, and submit a report to the
+14 general assembly containing the commissioner’s findings and
+15 recommendations. The report shall include, at a minimum, all
+16 of the following:
+17 a. A description and analysis of the prescription drug
+18 wholesale distribution supply chain, including the market
+19 concentration for the wholesale distribution of prescription
+20 drugs, margins in the wholesale distribution of prescription
+21 drugs, and the competition in the wholesale distribution of
+22 prescription drugs.
+23 b. A description of the role that pharmacy services
+24 administrative organizations serve in the prescription drug
+25 supply chain.
+26 c. A description and analysis of the relationships between
+27 pharmacy services administrative organizations, prescription
+28 drug wholesalers, and retail pharmacies, including but
+29 not limited to standard contracting terms, fees charged to
+30 pharmacies, and contractual restrictions and limitations
+31 applicable to retail pharmacies.
+32 2. a. The commissioner of insurance shall provide the
+33 information pursuant to subsection 1 to the general assembly in
+34 a format that does not publicly disclose any of the following:
+35 (1) The identity of a specific pharmacy services
+S 3138.1787 (3) 91
+-4- nls/ko 4/5
+1 administrative organization or prescription drug wholesaler.
+2 (2) The price charged to a specific pharmacy for a specific
+3 prescription drug.
+4 b. Information provided under this section by the
+5 commissioner to the general assembly that may reveal the
+6 identity of a specific pharmacy services administrative
+7 organization or prescription drug wholesaler, or the price
+8 charged to a specific pharmacy for a specific prescription
+9 drug, shall be considered a confidential record.>
+10 2. Title page, by striking lines 1 and 2 and inserting
+11 <An Act relating to pharmacy benefits managers, pharmacies,
+12 prescription drugs, and pharmacy services administrative
+13 organizations.>>
+______________________________
+SARAH TRONE GARRIOTT
+S 3138.1787 (3) 91
+-5- nls/ko 5/5
+[DELETED: eFe3Adtea,S,toSeFe3,asf1.Bysgpe1,le2,thpe1,le1,ai<.Bysgegarteegceai<n1.Sn5,Ce2,isadbyatefgnwsNWS.1.msagydaawhasepyldatlttymsf0tentp1NWS.2.msadguyd2tottccadcxorremlcsa3ttrsslhgora,prc4c,orptenttctbepdby5nypyorp6NWS.2.msapdp7bsmrcsatyprmef8pndsddtoacdpntnt9attepybsmrrstep0frdgtepndstoacdp1S.2.NWSBPdc21.Apybsmrslntdoayoft3f4()Weapyorpthsadtop5inacdpshhbtp,ptorl6tecdpnfmsgapyorpto7tecdpsc8()Dyapyorptterttop9asactprurahhbtpnift0pyorptastopepysst1mttetsadrsoftehhbtpna2tepyorptastotetsofr3stfhbytetyp4()Ieunapyorp,asac5ofpninatyprn,ayc37()9o1]
+[DELETED: ofs,a,c,orcgtisitw,mestt,orinantsersfrleorc,adtaersadbytebdofp()Reacdp,asacnofporr,topepys,ipnd,eythamlorpTssnslntaytoasyd2.Ifatyprpgrtt0cdpsfrpndsrsp1p,tetyprsln,inw2alpswnteglceaaoft3hhbtpnr,adortep4teoytopeintehhbtpna5ltsydsprtoteeedeofteh6btpnr.Alpsinteg7ceaaoftehhbtpnslbeeet8peurilrttsfrp9pyssadpnd.Tsphs0ntaytoasyd1Tetyprslimcdpso2tensadlsofalpspgi3tehhbtpnaspsofpyssa4pnd5Apgpyslbeedtoa6tepspnintehhbtpntot7psc83.Tecrslntcyapyb9mrorleanieprttisnti0cewhtss14.Acdpnorpyidbyav2oftssnmymnaceofantoent3cnoftev45.Tssnslntaytoaneytto5adosteesonf,esorc37()9o2]
+[DELETED: whp,p,n,ororhhcp,adttdspndsfmtespytoteesesaddedinteeshhbtp,etttssnslaytoaneyoeedtcswhanoepyorgpofptopepndsadsstoteeesaddsedinteeshbtp0S.3.Sn5,Ce2,isadbyagt1fgnws2NWS.3.Oehdptofalr3rdbyapybsmrslbepdt4totehhcrorerpnsrfrtep5ofrgp6S.4.Sn5,Ce2,isadtorda7fBPybsmrasms—01.Apybsmrslntrea1pyldinteseinanatlstntea2tttepybsmrrsap3bsmraefrdgtesep4dgasddbytep.Terta5slbecdonaprutbsbdontes6gcptirorgccen72.Frapnfdatapywhfeo8lsl,apybsmrslret9pyorptapldgfeint0atoftndsadstc13.Frapnfdatapywhsxorm2l,adtthsaylnldinap3d,apybsmrslret4pyldinapydtapld5feinteatoftndsadstc37()9o3]
+[DELETED: S.5.NWSDPybsms——sdpAlcse,a,a,orrdonoarJy1,2,ttaytopndgbsoorarJy1,2,bnapybsmadatyp,orbnapnadatp,slpttepeofsdpS.6.PYSSAEOSAWEDNOFPNDS——R01.BeJy1,2,tecrofi,o1tecrofisd,slrwp2ssaeosadtew3dnofpnd,adstarttot4glaycgtecsfsa5r.Tertsli,atam,a6oftef7a.Adnadasoftepnd8wednsyc,igtem9cnfrtewednofp0d,msintewednofp1d,adtecnintewedno2pnd3b.Adnofterettpys4aeosseintepnd5syc6c.Adnadasoftersb7pyssaeo,p8dgw,adrlp,igb9ntldtosdcgt,fscdt0p,adclrsadl1aetorlp22.a.Tecrofieslpet3inpttosn1toteglayi4aftttdsntpydeayoftef5()Teiyofascpys37()9o4]
+[DELETED: aeonorpndgw()Tepecdtoascpyfraspndb.Inpdurtssnbytcrtoteglayttmyrltiyofascpyssaonorpndgw,ortepcdtoascpyfrascpd,slbecdaclr02.Tep,bysgls1ad2adi1<nAtrgtopybsm,p2pnd,adpyssa3oHTEG37()9o5]
+
+
+================================================================================
+
+Raw Text:
+Senate File 383
+S-3139
+1 Amend the amendment, S-3138, to Senate File 383, as follows:
+2 1. By striking page 1, line 2, through page 10, line 10, and
+3 inserting:
+4 <1. By striking everything after the enacting clause and
+5 inserting:
+6 <Section 1. Section 510B.1, Code 2025, is amended by adding
+7 the following new subsections:
+8 NEW SUBSECTION. 16A. “Pharmacy desert” means a geographic
+9 area with a single pharmacy located at least thirty miles from
+10 the nearest pharmacy.
+11 NEW SUBSECTION. 21A. “Specialty drug” means a drug used
+12 to treat chronic and complex or rare medical conditions and
+13 that requires special handling or administration, provider care
+14 coordination, or patient education that cannot be provided by a
+15 nonspecialty pharmacy or pharmacist.
+16 NEW SUBSECTION. 21B. “Spread pricing” means a pharmacy
+17 benefits manager charges a third-party payor more for
+18 prescription drugs dispensed to a covered person than the
+19 amount the pharmacy benefits manager reimburses the pharmacy
+20 for dispensing the prescription drugs to a covered person.
+21 Sec. 2. NEW SECTION. 510B.4B Prohibited conduct.
+22 1. a. A pharmacy benefits manager shall not do any of the
+23 following:
+24 (1) Where a pharmacy or pharmacist has agreed to participate
+25 in a covered person’s health benefit plan, prohibit or limit
+26 the covered person from selecting a pharmacy or pharmacist of
+27 the covered person’s choice.
+28 (2) Deny a pharmacy or pharmacist the right to participate
+29 as a contract provider under a health benefit plan if the
+30 pharmacy or pharmacist agrees to provide pharmacy services that
+31 meet the terms and requirements of the health benefit plan and
+32 the pharmacy or pharmacist agrees to the terms of reimbursement
+33 set forth by the third-party payor.
+34 (3) Impose upon a pharmacy or pharmacist, as a condition
+35 of participation in a third-party payor network, any course
+S 3138.1787 (3) 91
+-1- nls/ko 1/5
+
+1 of study, accreditation, certification, or credentialing that
+2 is inconsistent with, more stringent than, or in addition to
+3 state requirements for licensure or certification, and the
+4 administrative rules adopted by the board of pharmacy.
+5 (4) Require a covered person, as a condition of payment
+6 or reimbursement, to purchase pharmacy services, including
+7 prescription drugs, exclusively through a mail order pharmacy.
+8 b. This subsection shall not apply to a specialty drug.
+9 2. a. If a third-party payor providing reimbursement to
+10 covered persons for prescription drugs restricts pharmacy
+11 participation, the third-party payor shall notify, in writing,
+12 all pharmacies within the geographical coverage area of the
+13 health benefit plan restriction, and offer the pharmacies
+14 the opportunity to participate in the health benefit plan at
+15 least sixty days prior to the effective date of the health
+16 benefit plan restriction. All pharmacies in the geographical
+17 coverage area of the health benefit plan shall be eligible to
+18 participate under identical reimbursement terms for providing
+19 pharmacy services and prescription drugs. This paragraph shall
+20 not apply to a specialty drug.
+21 b. The third-party payor shall inform covered persons of
+22 the names and locations of all pharmacies participating in
+23 the health benefit plan as providers of pharmacy services and
+24 prescription drugs.
+25 c. A participating pharmacy shall be entitled to announce
+26 the pharmacy’s participation in the health benefit plan to the
+27 pharmacy’s customers.
+28 3. The commissioner shall not certify a pharmacy benefits
+29 manager or license an insurance producer that is not in
+30 compliance with this section.
+31 4. A covered person or pharmacy injured by a violation
+32 of this section may maintain a cause of action to enjoin the
+33 continuation of the violation.
+34 5. This section shall not apply to an entity that owns
+35 and operates the entity’s own facility, employs or contracts
+S 3138.1787 (3) 91
+-2- nls/ko 2/5
+
+1 with physicians, pharmacists, nurses, or other health care
+2 personnel, and that dispenses prescription drugs from the
+3 entity’s pharmacy to the entity’s employees and dependents
+4 enrolled in the entity’s health benefit plan, except that
+5 this section shall apply to an entity otherwise excluded that
+6 contracts with an outside pharmacy or group of pharmacies
+7 to provide prescription drugs and services to the entity’s
+8 employees and dependents enrolled in the entity’s health
+9 benefit plan.
+10 Sec. 3. Section 510B.8, Code 2025, is amended by adding the
+11 following new subsection:
+12 NEW SUBSECTION. 3. One hundred percent of all rebates
+13 received by a pharmacy benefits manager shall be passed through
+14 to the health carrier or employer plan sponsor for the purpose
+15 of reducing premiums.
+16 Sec. 4. Section 510B.8B, Code 2025, is amended to read as
+17 follows:
+18 510B.8B Pharmacy benefits manager affiliates managers ——
+19 reimbursement.
+20 1. A pharmacy benefits manager shall not reimburse any
+21 pharmacy located in the state in an amount less than the amount
+22 that the pharmacy benefits manager reimburses a pharmacy
+23 benefits manager affiliate for dispensing the same prescription
+24 drug as dispensed by the pharmacy. The reimbursement amount
+25 shall be calculated on a per unit basis based on the same
+26 generic product identifier or generic code number.
+27 2. For a prescription filled at a pharmacy with five or
+28 less locations, a pharmacy benefits manager shall reimburse the
+29 pharmacy or pharmacist a professional dispensing fee in the
+30 amount of ten dollars and sixty-eight cents.
+31 3. For a prescription filled at a pharmacy with six or more
+32 locations, and that has any location located in a pharmacy
+33 desert, a pharmacy benefits manager shall reimburse the
+34 pharmacy located in a pharmacy desert a professional dispensing
+35 fee in the amount of ten dollars and sixty-eight cents.
+S 3138.1787 (3) 91
+-3- nls/ko 3/5
+
+1 Sec. 5. NEW SECTION. 510B.8D Pharmacy benefits manager
+2 contracts —— spread pricing.
+3 All contracts executed, amended, adjusted, or renewed on or
+4 after July 1, 2025, that apply to prescription drug benefits on
+5 or after January 1, 2026, between a pharmacy benefits manager
+6 and a third-party payor, or between a person and a third-party
+7 payor, shall prohibit the practice of spread pricing.
+8 Sec. 6. PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND
+9 WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS —— REPORT.
+10 1. Before January 1, 2026, the commissioner of insurance, or
+11 the commissioner of insurance’s designee, shall review pharmacy
+12 services administrative organizations and the wholesale
+13 distribution of prescription drugs, and submit a report to the
+14 general assembly containing the commissioner’s findings and
+15 recommendations. The report shall include, at a minimum, all
+16 of the following:
+17 a. A description and analysis of the prescription drug
+18 wholesale distribution supply chain, including the market
+19 concentration for the wholesale distribution of prescription
+20 drugs, margins in the wholesale distribution of prescription
+21 drugs, and the competition in the wholesale distribution of
+22 prescription drugs.
+23 b. A description of the role that pharmacy services
+24 administrative organizations serve in the prescription drug
+25 supply chain.
+26 c. A description and analysis of the relationships between
+27 pharmacy services administrative organizations, prescription
+28 drug wholesalers, and retail pharmacies, including but
+29 not limited to standard contracting terms, fees charged to
+30 pharmacies, and contractual restrictions and limitations
+31 applicable to retail pharmacies.
+32 2. a. The commissioner of insurance shall provide the
+33 information pursuant to subsection 1 to the general assembly in
+34 a format that does not publicly disclose any of the following:
+35 (1) The identity of a specific pharmacy services
+S 3138.1787 (3) 91
+-4- nls/ko 4/5
+
+1 administrative organization or prescription drug wholesaler.
+2 (2) The price charged to a specific pharmacy for a specific
+3 prescription drug.
+4 b. Information provided under this section by the
+5 commissioner to the general assembly that may reveal the
+6 identity of a specific pharmacy services administrative
+7 organization or prescription drug wholesaler, or the price
+8 charged to a specific pharmacy for a specific prescription
+9 drug, shall be considered a confidential record.>
+10 2. Title page, by striking lines 1 and 2 and inserting
+11 <An Act relating to pharmacy benefits managers, pharmacies,
+12 prescription drugs, and pharmacy services administrative
+13 organizations.>>
+______________________________
+SARAH TRONE GARRIOTT
+S 3138.1787 (3) 91
+-5- nls/ko 5/5
+
+[DELETED: eFe3Adtea,S,toSeFe3,asf1.Bysgpe1,le2,thpe1,le1,ai<.Bysgegarteegceai<n1.Sn5,Ce2,isadbyatefgnwsNWS.1.msagydaawhasepyldatlttymsf0tentp1NWS.2.msadguyd2tottccadcxorremlcsa3ttrsslhgora,prc4c,orptenttctbepdby5nypyorp6NWS.2.msapdp7bsmrcsatyprmef8pndsddtoacdpntnt9attepybsmrrstep0frdgtepndstoacdp1S.2.NWSBPdc21.Apybsmrslntdoayoft3f4()Weapyorpthsadtop5inacdpshhbtp,ptorl6tecdpnfmsgapyorpto7tecdpsc8()Dyapyorptterttop9asactprurahhbtpnift0pyorptastopepysst1mttetsadrsoftehhbtpna2tepyorptastotetsofr3stfhbytetyp4()Ieunapyorp,asac5ofpninatyprn,ayc37()9o1]
+[DELETED: ofs,a,c,orcgtisitw,mestt,orinantsersfrleorc,adtaersadbytebdofp()Reacdp,asacnofporr,topepys,ipnd,eythamlorpTssnslntaytoasyd2.Ifatyprpgrtt0cdpsfrpndsrsp1p,tetyprsln,inw2alpswnteglceaaoft3hhbtpnr,adortep4teoytopeintehhbtpna5ltsydsprtoteeedeofteh6btpnr.Alpsinteg7ceaaoftehhbtpnslbeeet8peurilrttsfrp9pyssadpnd.Tsphs0ntaytoasyd1Tetyprslimcdpso2tensadlsofalpspgi3tehhbtpnaspsofpyssa4pnd5Apgpyslbeedtoa6tepspnintehhbtpntot7psc83.Tecrslntcyapyb9mrorleanieprttisnti0cewhtss14.Acdpnorpyidbyav2oftssnmymnaceofantoent3cnoftev45.Tssnslntaytoaneytto5adosteesonf,esorc37()9o2]
+[DELETED: whp,p,n,ororhhcp,adttdspndsfmtespytoteesesaddedinteeshhbtp,etttssnslaytoaneyoeedtcswhanoepyorgpofptopepndsadsstoteeesaddsedinteeshbtp0S.3.Sn5,Ce2,isadbyagt1fgnws2NWS.3.Oehdptofalr3rdbyapybsmrslbepdt4totehhcrorerpnsrfrtep5ofrgp6S.4.Sn5,Ce2,isadtorda7fBPybsmrasms—01.Apybsmrslntrea1pyldinteseinanatlstntea2tttepybsmrrsap3bsmraefrdgtesep4dgasddbytep.Terta5slbecdonaprutbsbdontes6gcptirorgccen72.Frapnfdatapywhfeo8lsl,apybsmrslret9pyorptapldgfeint0atoftndsadstc13.Frapnfdatapywhsxorm2l,adtthsaylnldinap3d,apybsmrslret4pyldinapydtapld5feinteatoftndsadstc37()9o3]
+[DELETED: S.5.NWSDPybsms——sdpAlcse,a,a,orrdonoarJy1,2,ttaytopndgbsoorarJy1,2,bnapybsmadatyp,orbnapnadatp,slpttepeofsdpS.6.PYSSAEOSAWEDNOFPNDS——R01.BeJy1,2,tecrofi,o1tecrofisd,slrwp2ssaeosadtew3dnofpnd,adstarttot4glaycgtecsfsa5r.Tertsli,atam,a6oftef7a.Adnadasoftepnd8wednsyc,igtem9cnfrtewednofp0d,msintewednofp1d,adtecnintewedno2pnd3b.Adnofterettpys4aeosseintepnd5syc6c.Adnadasoftersb7pyssaeo,p8dgw,adrlp,igb9ntldtosdcgt,fscdt0p,adclrsadl1aetorlp22.a.Tecrofieslpet3inpttosn1toteglayi4aftttdsntpydeayoftef5()Teiyofascpys37()9o4]
+[DELETED: aeonorpndgw()Tepecdtoascpyfraspndb.Inpdurtssnbytcrtoteglayttmyrltiyofascpyssaonorpndgw,ortepcdtoascpyfrascpd,slbecdaclr02.Tep,bysgls1ad2adi1<nAtrgtopybsm,p2pnd,adpyssa3oHTEG37()9o5]

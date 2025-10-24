@@ -1,0 +1,51 @@
+Title: 2 1. Page 1, line 16, by striking <Develop> and inserting <On
+Official Title: 2 1. Page 1, line 16, by striking <Develop> and inserting <On
+Number of Sections: 1
+Source: versions - Amendment H-1093
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 784
+H-1093
+1 Amend House File 784 as follows:
+3 or before July 1, 2025, develop>
+4 2. Page 3, after line 21 by inserting:
+5 <Sec. ___. EFFECTIVE DATE. The following, being deemed of
+6 immediate importance, takes effect upon enactment:
+7 The portion of the section of this Act enacting section
+8 256.9, subsection 71.>
+9 3. Title page, line 4, after <education> by inserting <, and
+10 including effective date provisions>
+11 4. By renumbering as necessary.
+______________________________
+GEHLBACH of Dallas
+HF 784.855 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe7AdHeFe74asf1.Pe1,le1,bysg<>adig<orbeJy1,2,d2.Pe3,arle21byi<._.EED.Tef,bgddoiei,tsetuneTepnoftesnoftsAtegs2,sn73.Tep,le4,ar<>byig<,a0igeedep14.ByrgasnHofDF75()9]
+
+
+================================================================================
+
+Raw Text:
+House File 784
+H-1093
+1 Amend House File 784 as follows:
+2 1. Page 1, line 16, by striking <Develop> and inserting <On
+3 or before July 1, 2025, develop>
+4 2. Page 3, after line 21 by inserting:
+5 <Sec. ___. EFFECTIVE DATE. The following, being deemed of
+6 immediate importance, takes effect upon enactment:
+7 The portion of the section of this Act enacting section
+8 256.9, subsection 71.>
+9 3. Title page, line 4, after <education> by inserting <, and
+10 including effective date provisions>
+11 4. By renumbering as necessary.
+______________________________
+GEHLBACH of Dallas
+HF 784.855 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe7AdHeFe74asf1.Pe1,le1,bysg<>adig<orbeJy1,2,d2.Pe3,arle21byi<._.EED.Tef,bgddoiei,tsetuneTepnoftesnoftsAtegs2,sn73.Tep,le4,ar<>byig<,a0igeedep14.ByrgasnHofDF75()9]

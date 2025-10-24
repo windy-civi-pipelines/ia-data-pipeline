@@ -1,0 +1,863 @@
+Title: I hereby transmit Senate File 383, an act relating to pharmacy benefits managers, pharmacies,
+Official Title: I hereby transmit Senate File 383, an act relating to pharmacy benefits managers, pharmacies,
+Number of Sections: 19
+Source: versions - Signed Enrolled Bill (PDF)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+STATE OF IOWA
+KIM REYNOLDS
+GOVERNOR
+June 11, 2025
+The Honorable Paul Pate
+Secretary of State ofI owa
+State Capitol Building
+LOCAL
+Dear Mr. Secretary,
+prescription drugs, and pharmacy services administrative organizations, and including
+applicability provisions.
+As Governor of this great state, I have worked tirelessly to transform legacy systems of taxation,
+regulation, education, healthcare, workforce, and economic development in an effort to provide
+lowans with the best possible return on their investment and continue to move this state forward.
+After extensive research and thoughtful conversations with employers and stakeholders on all
+sides of this complex issue, I made the decision to sign SF 383 in an effort to continue improving
+our healthcare system by bringing greater accountability to the role of Pharmacy Benefit
+Managers( PBMs). In enacting this bill into law, Iowa joins Texas, Georgia, Indiana and Montana
+that this year passed similar legislation to address this important issue along with several other
+states that have done so previously, bringing the total to 32 states.
+PBMs play a central role in the pharmaceutical supply chain, negotiating drug prices and access
+for millions of Americans. Over time, consolidation has led to three major PBMs controlling
+80% of the market and a close affiliation with both insurers and pharmacies. This vertical
+integration gives them outsized power over which medications patients receive and what they
+pay—often resulting in unaffordable drug costs, difficult choices for families, and reimbursement
+below pharmacy acquisition cost.
+The new bill takes steps toward addressing these challenges by targeting PBM practices that
+harm both patients and independent pharmacies. Local pharmacies, especially in rural areas, are
+vital to community health and local hospitals but are being driven out by opaque, one-sided
+contracts—evidenced by the closure of 34 rural pharmacies in Iowa last year. Additionally, this
+legislation amplifies the rural healthcare bill we passed this session and is a meaningful step
+toward a fairer, more transparent, and accessible healthcare system for all.
+STATE CAPITOL DES MOINES,I OWA 50319 515.281.5211 WWW.GOVERNOR.IOWA.GOV
+But this bill does not signify an end. The complexity and lack of verifiable data made signing
+this bill a difficult decision, and my administration will closely monitor implementation to
+mitigate and ensure that any unintended consequences for private employers are addressed. We
+will also be launching a reverse auction to ensure Iowa's state health plan continues to keep costs
+as low as possible for the state and its employees.
+Sincerely,
+Kim Reynolds
+Governor ofI owa
+cc: Secretary of the Senate
+Clerk oft he House
+fi!GHT
+MMNTAJ
+G EN ER AL ASSE M BI
+Senate Pile 383
+AN ACT
+RELATING TO PHARMACY BENEFITS MANAGERS, PHARMACIES,
+PRESCRIPTION DRUGS, AND PHARMACY SERVICES ADMINISTRATIVE
+ORGANIZATIONS, AND INCLUDING APPLICABILITY PROVISIONS,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+DIVISION I
+PHARMACY BENEFITS MANAGERS
+
+Section 2:
+Section 1, Section 510B.1, Code 2025, is amended by adding
+the following new subsections:
+NEW SUBSECTION. IIA. ^National average drug acquisition
+cost" means the monthly survey of retail pharmacies conducted
+by the federal centers for Medicare and Medicaid services
+to determine average acquisition cost for Medicaid covered
+outpatient drugs.
+NEW SUBSECTION. IIB. '^Pass-through pricing" means a
+model of prescription drug pricing in which payments made
+by a third-party payor to a pharmacy benefits manager for
+prescription drugs are equivalent to the payments the pharmacy
+benefits manager makes to the dispensing pharmacy or dispensing
+health care provider for the prescription drugs, including any
+professional dispensing fee.
+NEW SUBSECTION. 16A. '^Pharmacy chain" means an entity that
+has twenty or more pharmacies under common ownership or control
+located in at least twenty or more states.
+NEW SUBSECTION. 21A, ""Retail pharmacy" means a pharmacy
+that is not a pharmacy chain or a publicly traded entity, and
+Senate File 383, p. 2
+that does not exclusively provide mail order dispensing of
+prescription drugs.
+NEW SUBSECTION. 21B, ^Specialty drug" means a drug used
+to treat chronic and complex, or rare medical conditions and
+that requires special handling or administration, provider care
+coordination, or patient education that cannot be provided by a
+nonspecialty pharmacy or pharmacist.
+NEW SUBSECTION. 22A. "^Wholesale acquisition cost" means the
+same as defined in 42 U.S.C, §1395w-3a(c)(6)(B).
+Sec. 2. Section 510B.4, Code 2025, is amended by adding the
+following new subsection:
+NEW SUBSECTION, 4. A pharmacy benefits manager, health
+carrier, health benefit plan, or third-party payor shall not
+discriminate against a pharmacy or a pharmacist with respect to
+participation, referral, reimbursement of a covered service, or
+indemnification if a pharmacist is acting within the scope of
+the pharmacist's license, as permitted under state law, and the
+pharmacy is operating in compliance with all applicable laws
+and rules.
+Sec. 3. NEW SECTION. 510B.4B Prohibited conduct — pharmacy
+rights.
+
+Section 3:
+1. A pharmacy benefits manager shall not do any of the
+following:
+a. If a pharmacy or pharmacist has agreed to participate
+in a covered person's health benefit plan, prohibit or limit
+the covered person from selecting a pharmacy or pharmacist of
+the covered person's choice, or impose a monetary advantage
+or penalty that would affect a covered person's choice.
+A monetary advantage or penalty includes a copayment or
+coinsurance variation, a reduction in reimbursement for
+services, a promotion of one participating pharmacy over
+another, or comparing the reimbursement rates of a pharmacy
+against mail order pharmacy reimbursement rates.
+b. Deny a pharmacy or pharmacist the right to participate as
+a contract provider under a health benefit plan if the pharmacy
+or pharmacist agrees to provide pharmacy services that meet
+the terms and requirements of the health benefit plan and the
+pharmacy or pharmacist agrees to the terms of reimbursement
+set forth by the third-party payor for similarly classified
+Senate File 383, p. 3
+pharmacies•
+c. Impose upon a pharmacy or pharmacist, as a condition
+of participation in a third-party payor network, any course
+of study, accreditation, certification, or credentialing that
+is inconsistent with, more stringent than, or in addition to
+state requirements for licensure or certification, and the
+administrative rules adopted by the board of pharmacy.
+d. Unreasonably designate a prescription drug as a
+specialty drug to prevent a covered person from accessing
+the prescription drug, or limiting a covered person's access
+to the prescription drug, from a pharmacy or pharmacist that
+is within the health carrier's network, A covered person or
+pharmacy harmed by an alleged violation of this paragraph may
+file a complaint with the commissioner, and the commissioner
+shall, in consultation with the board of pharmacy, make a
+determination as to whether the covered prescription drug meets
+the definition of a specialty drug.
+e. Require a covered person, as a condition of payment
+or reimbursement, to purchase pharmacy services, including
+prescription drugs, exclusively through a mail order pharmacy.
+f. Impose upon a covered person a copayment, reimbursement
+amount, number of days of a prescription drug supply for
+which reimbursement will be allowed, or any other payment
+or condition relating to purchasing pharmacy services from
+a pharmacy that is more costly or restrictive than would be
+imposed upon the covered person if such pharmacy services were
+purchased from a mail order pharmacy, or any other pharmacy
+that can provide the same pharmacy services for the same cost
+and copayment as a mail order service.
+
+Section 4:
+2. a. If a third-party payor providing reimbursement to
+covered persons for prescription drugs restricts pharmacy
+participation, the third-party payor shall notify, in writing,
+all pharmacies within the geographical coverage area of the
+health benefit plan restriction, and offer the pharmacies
+the opportunity to participate in the health benefit plan at
+least sixty days prior to the effective date of the health
+benefit plan restriction. All pharmacies in the geographical
+coverage area of the health benefit plan shall be eligible to
+participate under identical reimbursement terms for providing
+Senate File 383, p. 4
+pharmacy services and prescription drugs.
+b» The third-party payor shall inform covered persons of
+the names and locations of all pharmacies participating in
+the health benefit plan as providers of pharmacy services and
+prescription drugs.
+c, A participating pharmacy shall be entitled to announce to
+the pharmacy's customers that the pharmacy participates in the
+health benefit plan.
+
+Section 5:
+3. The commissioner shall not certify a pharmacy benefits
+manager or license an insurance producer that is not in
+compliance with this section.
+
+Section 6:
+4. A covered person or pharmacy injured by a violation
+of this section may maintain a cause of action to enjoin the
+continuation of the violation.
+Sec. 4. Section 510B.8, Code 2025, is amended by adding the
+following new subsections:
+NEW SUBSECTION. 3. A pharmacy benefits manager shall not
+impose different cost-sharing or additional fees on a covered
+person based on the pharmacy at which the covered person fills
+a prescription drug order.
+NEW SUBSECTION. 4. For the purpose of reducing premiums,
+one hundred percent of all rebates received by a pharmacy
+benefits manager shall be passed through to the health carrier,
+or to the employee plan sponsor as permitted by the federal
+Employee Retirement Income Security Act of 1974, 29 U.S.C.
+
+Section 7:
+§1001, et seq.
+NEW SUBSECTION. 5, A pharmacy benefits manager shall
+include any amount paid by a covered person, or on behalf of
+a covered person, when calculating the covered person's total
+contribution toward the covered person's cost-sharing.
+NEW SUBSECTION. 6. Any amount paid by a covered person for
+a prescription drug shall be applied to any deductible imposed
+on the covered person by the covered person's health benefit
+plan in accordance with the health benefit plan's coverage
+documents.
+NEW SUBSECTION. 7. If a covered person's policy, contract,
+or plan providing for third-party payment or prepayment of
+health or medical expenses qualifies as a high-deductible
+health plan under section 223 of the Internal Revenue Code,
+Senate File 383, p. 5
+and a copayment, coinsurance, or deductible paid by the
+covered person as a cost-sharing requirement under this chapter
+would result in the covered person becoming ineligible for a
+health savings account associated with the covered person's
+high-deductible health plan, subsection 5 shall apply only
+after the covered person satisfies the covered person's minimum
+deductible, except for items or services determined to be
+preventive care under section 223(c)(2)(C) of the Internal
+Revenue Code.
+Sec. 5. Section 510B.8B, Code 2025, is amended to read as
+follows:
+510B.8B Pharmacy benefits manager affiliates managers —
+roimburaemGnt reimbursements.
+
+Section 8:
+1. A pharmacy benefits manager shall not reimburse any
+pharmacy located in the state in an amount less than the amount
+that the pharmacy benefits manager reimburses a pharmacy
+benefits manager affiliate for dispensing the same prescription
+drug as dispensed by the pharmacy. The reimburaemont amount
+shall be calculated on a per unit basis based on the same
+generic product identifier or generic code number.
+
+Section 9:
+2. A pharmacy benefits manager shall not reimburse any
+retail pharmacy located in the state in an amount less than the
+most recently published national average drug acquisition cost
+for a prescription drug on the date that the prescription drug
+is administered or dispensed. If the most recently published
+national average drug acquisition cost for the prescription
+drug is unavailable on the date that the prescription drug is
+administered or dispensed, a pharmacy benefits manager shall
+not reimburse any retail pharmacy located in the state in
+an amount less than the wholesale acquisition cost for the
+prescription drug on the date that the prescription drug is
+administered or dispensed.
+
+Section 10:
+3. In addition to the reimbursement required under
+subsection 2, a pharmacy benefits manager shall reimburse the
+retail pharmacy or pharmacist a professional dispensing fee in
+the amount of ten dollars and sixty-eight cents.
+
+Section 11:
+4. a, A pharmacy benefits manager shall submit a quarterly
+report to the commissioner of all drugs reimbursed at ten
+percent or more below the national average drug acquisition
+Senate File 383, p. 6
+cost, and all drugs reimbursed at ten percent or more above the
+national average drug acquisition cost, for each prescription
+drug appearing on the national average drug acquisition cost
+list on the day the prescription drug was dispensed.
+b. For each prescription drug included in the report, a
+pharmacy benefits manager shall include all of the following
+information;
+(1) The month the prescription drug was dispensed.
+(2) The quantity of the prescription drug dispensed.
+(3) The amount the pharmacy was reimbursed.
+(4) If the dispensing pharmacy was an affiliate of the
+pharmacy benefits manager,
+(5) If the prescription drug was dispensed pursuant to a
+government health plan.
+(6) The average national drug acquisition cost for the month
+the prescription drug was dispensed.
+c. The report shall exclude drugs dispensed pursuant to 42
+U.S.C. §256b.
+d. A copy of the report shall be published on the pharmacy
+benefits manager^s public internet site for twenty-four months
+after the date the report is submitted to the commission.
+
+Section 12:
+5. This section shall not apply to a pharmacy that operates
+in a state-owned facility.
+Sec. 6. NEW SECTION. 510B.8D Pharmacy benefits manager
+contracts.
+
+Section 13:
+1. All contracts executed, amended, adjusted, or renewed
+on or after July 1, 2025, that apply to prescription drug
+benefits on or after January 1, 2026, between a pharmacy
+benefits manager and a third-party payor, or between a person
+and a third-party payor, shall include all of the following
+requirements!
+a. The pharmacy benefits manager shall use pass-through
+pricing.
+b. Payments received by a pharmacy benefits manager for
+services provided by the pharmacy benefits manager to a
+third-party payor or to a pharmacy shall be used or distributed
+pursuant to the pharmacy benefits manager's contract with
+the third-party payor or with the pharmacy, or as otherwise
+required by law.
+Senate File 383, p. 7
+
+Section 14:
+2. Unless otherwise prohibited by law, subsection 1 shall
+supersede any contractual terms to the contrary in any contract
+executed, amended, adjusted, or renewed on or after July 1,
+2025, that applies to prescription drug benefits on or after
+January 1, 2026, between a pharmacy benefits manager and a
+third-party payor, or between a person and a third-party payor.
+Sec. 7. NEW SECTION. 510B.8E Appeals and disputes.
+
+Section 15:
+1. A pharmacy benefits manager shall provide a reasonable
+process to allow a pharmacy to appeal any matter.
+
+Section 16:
+2. The appeals process must include all of the following:
+a, A dedicated telephone number at which a pharmacy may
+contact the pharmacy benefits manager and speak directly with
+an individual who is involved with the appeals process.
+b, A dedicated electronic mail address or internet site for
+the purpose of submitting an appeal directly to the pharmacy
+benefits manager.
+c, A period of no less than thirty business days after the
+date of a pharmacy's initial submission of a clean claim during
+which the pharmacy may initiate an appeal.
+
+Section 17:
+3. The pharmacy benefits manger shall respond to an appeal
+within seven business days after the date on which the pharmacy
+benefits manager receives the appeal.
+a. If the pharmacy benefits manager grants a pharmacy's
+appeal related to a reimbursement rate, the pharmacy benefits
+manager shall do all of the following:
+(1) Adjust the reimbursement rate of the prescription drug
+that is the subject of the appeal and provide the national drug
+code number that the adjustment is based on to the appealing
+pharmacy.
+(2) Reverse and resubmit the claim that is the subject of
+the appeal.
+(3) Make the adjustment pursuant to subparagraph (1)
+applicable to all of the following:
+(a) Each pharmacy that is under common ownership with the
+pharmacy that submitted the appeal.
+(b) Each pharmacy in the state that demonstrates the
+inability to purchase the prescription drug for less than the
+established reimbursement rate.
+b. If the pharmacy benefits manager denies a pharmacy's
+Senate File 383, p. 8
+appeal, the pharmacy benefits manager shall do all of the
+following:
+(1) Provide the appealing pharmacy the national drug
+code number and the name of a wholesale distributor licensed
+pursuant to section 155A.17 from which the pharmacy can obtain
+the prescription drug at or below the reimbursement rate.
+(2) If the prescription drug identified by the national
+drug code number provided by the pharmacy benefits manager
+pursuant to subparagraph (1) is not available below the
+pharmacy acquisition cost from the wholesale distributor from
+whom the pharmacy purchases the majority of its prescription
+drugs for resale, the pharmacy benefits manager shall adjust
+the reimbursement rate above the appealing pharmacy's pharmacy
+acquisition cost, and reverse and resubmit each claim affected
+by the pharmacy's inability to procure the prescription drug
+at a cost that is equal to or less than the previously appealed
+reimbursement rate.
+Sec. 8. SEVERABILITY, The provisions of this division of
+this Act are severable pursuant to section 4.12.
+Sec. 9, APPLICABILITY, This division of this Act applies
+to pharmacy benefits managers, health carriers, third-party
+payers, and health benefit plans that manage a prescription
+drug benefit in the state on or after July 1, 2025.
+DIVISION II
+PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND WHOLESALE
+DISTRIBUTION OF PRESCRIPTION DRUGS
+Sec. 10, PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND
+WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS — REPORT,
+1, By January 1, 2026, the commissioner of insurance, or
+the commissioner of insurance's designee, shall review pharmacy
+services administrative organizations and the wholesale
+distribution of prescription drugs, and submit a report to the
+general assembly containing the commissioner's findings and
+recommendations. The report shall include, at a minimum, all
+of the following:
+a. A description and analysis of the prescription drug
+wholesale distribution supply chain, including the market
+concentration for the wholesale distribution of prescription
+drugs, margins in the wholesale distribution of prescription
+Senate Pile 383, p. 9
+drugs, and the competition in the wholesale distribution of
+prescription drugs.
+b. A description of the role that pharmacy services
+administrative organizations serve in the prescription drug
+supply chain.
+c. A description and analysis of the relationships between
+pharmacy services administrative organizations, prescription
+drug wholesalers, and retail pharmacies, including but
+not limited to standard contracting terms, fees charged to
+pharmacies, and contractual restrictions and limitations
+applicable to retail pharmacies.
+
+Section 18:
+2. a. The commissioner of insurance shall submit the report
+under subsection 1 in a manner that does not publicly disclose
+any of the following:
+(1) The identity of a specific pharmacy services
+administrative organization or prescription drug wholesaler.
+(2) The price charged to a specific pharmacy for a specific
+prescription drug.
+b. Information provided by the commissioner under this
+
+Section 19:
+section that may reveal the identity of a specific pharmacy
+services administrative organization or prescription drug
+wholesaler, or the price charged to a specific pharmacy for a
+specific prescription drug, shall be considered a confidential
+record.
+Jyyiuj
+AMY SINCL^^R PAT GRASSLEY.
+President of the Senate Speaker of The House
+I hereby certify that this bill originated in the Senate and
+is known as Senate File 383, Ninety-first General Assembly.
+W. CHARLES SMITHSON
+Secr£tj^y of
+ll*^.
+Approved1 , 2025
+Kltt^E^OLDS
+Governor
+[DELETED:  D 5 W]
+[DELETED:  S]
+[DELETED:  M S I ^ I ' 1 ' 2 "]
+[DELETED:  2 ^ 2 " S 4 A N 5 P A I D]
+[DELETED:  I U A R I a I A]
+[DELETED:  T A T A S 3 A 4 F 5 A 6 A 7 I]
+[DELETED:  S P A T A I I a A]
+[DELETED:  F T T T I I T T A T N 5 P A T P]
+[DELETED:  U N 5 A A T A A A T I A R M E E I]
+[DELETED:  P I S T A T P B T A]
+[DELETED:  A A a T T T I P S ,]
+
+
+================================================================================
+
+Raw Text:
+STATE OF IOWA
+KIM REYNOLDS
+GOVERNOR
+June 11, 2025
+The Honorable Paul Pate
+Secretary of State ofI owa
+State Capitol Building
+LOCAL
+Dear Mr. Secretary,
+I hereby transmit Senate File 383, an act relating to pharmacy benefits managers, pharmacies,
+prescription drugs, and pharmacy services administrative organizations, and including
+applicability provisions.
+As Governor of this great state, I have worked tirelessly to transform legacy systems of taxation,
+regulation, education, healthcare, workforce, and economic development in an effort to provide
+lowans with the best possible return on their investment and continue to move this state forward.
+After extensive research and thoughtful conversations with employers and stakeholders on all
+sides of this complex issue, I made the decision to sign SF 383 in an effort to continue improving
+our healthcare system by bringing greater accountability to the role of Pharmacy Benefit
+Managers( PBMs). In enacting this bill into law, Iowa joins Texas, Georgia, Indiana and Montana
+that this year passed similar legislation to address this important issue along with several other
+states that have done so previously, bringing the total to 32 states.
+PBMs play a central role in the pharmaceutical supply chain, negotiating drug prices and access
+for millions of Americans. Over time, consolidation has led to three major PBMs controlling
+80% of the market and a close affiliation with both insurers and pharmacies. This vertical
+integration gives them outsized power over which medications patients receive and what they
+pay—often resulting in unaffordable drug costs, difficult choices for families, and reimbursement
+below pharmacy acquisition cost.
+The new bill takes steps toward addressing these challenges by targeting PBM practices that
+harm both patients and independent pharmacies. Local pharmacies, especially in rural areas, are
+vital to community health and local hospitals but are being driven out by opaque, one-sided
+contracts—evidenced by the closure of 34 rural pharmacies in Iowa last year. Additionally, this
+legislation amplifies the rural healthcare bill we passed this session and is a meaningful step
+toward a fairer, more transparent, and accessible healthcare system for all.
+STATE CAPITOL DES MOINES,I OWA 50319 515.281.5211 WWW.GOVERNOR.IOWA.GOV
+
+But this bill does not signify an end. The complexity and lack of verifiable data made signing
+this bill a difficult decision, and my administration will closely monitor implementation to
+mitigate and ensure that any unintended consequences for private employers are addressed. We
+will also be launching a reverse auction to ensure Iowa's state health plan continues to keep costs
+as low as possible for the state and its employees.
+Sincerely,
+Kim Reynolds
+Governor ofI owa
+cc: Secretary of the Senate
+Clerk oft he House
+
+fi!GHT
+MMNTAJ
+G EN ER AL ASSE M BI
+Senate Pile 383
+AN ACT
+RELATING TO PHARMACY BENEFITS MANAGERS, PHARMACIES,
+PRESCRIPTION DRUGS, AND PHARMACY SERVICES ADMINISTRATIVE
+ORGANIZATIONS, AND INCLUDING APPLICABILITY PROVISIONS,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+DIVISION I
+PHARMACY BENEFITS MANAGERS
+Section 1, Section 510B.1, Code 2025, is amended by adding
+the following new subsections:
+NEW SUBSECTION. IIA. ^National average drug acquisition
+cost" means the monthly survey of retail pharmacies conducted
+by the federal centers for Medicare and Medicaid services
+to determine average acquisition cost for Medicaid covered
+outpatient drugs.
+NEW SUBSECTION. IIB. '^Pass-through pricing" means a
+model of prescription drug pricing in which payments made
+by a third-party payor to a pharmacy benefits manager for
+prescription drugs are equivalent to the payments the pharmacy
+benefits manager makes to the dispensing pharmacy or dispensing
+health care provider for the prescription drugs, including any
+professional dispensing fee.
+NEW SUBSECTION. 16A. '^Pharmacy chain" means an entity that
+has twenty or more pharmacies under common ownership or control
+located in at least twenty or more states.
+NEW SUBSECTION. 21A, ""Retail pharmacy" means a pharmacy
+that is not a pharmacy chain or a publicly traded entity, and
+
+Senate File 383, p. 2
+that does not exclusively provide mail order dispensing of
+prescription drugs.
+NEW SUBSECTION. 21B, ^Specialty drug" means a drug used
+to treat chronic and complex, or rare medical conditions and
+that requires special handling or administration, provider care
+coordination, or patient education that cannot be provided by a
+nonspecialty pharmacy or pharmacist.
+NEW SUBSECTION. 22A. "^Wholesale acquisition cost" means the
+same as defined in 42 U.S.C, §1395w-3a(c)(6)(B).
+Sec. 2. Section 510B.4, Code 2025, is amended by adding the
+following new subsection:
+NEW SUBSECTION, 4. A pharmacy benefits manager, health
+carrier, health benefit plan, or third-party payor shall not
+discriminate against a pharmacy or a pharmacist with respect to
+participation, referral, reimbursement of a covered service, or
+indemnification if a pharmacist is acting within the scope of
+the pharmacist's license, as permitted under state law, and the
+pharmacy is operating in compliance with all applicable laws
+and rules.
+Sec. 3. NEW SECTION. 510B.4B Prohibited conduct — pharmacy
+rights.
+1. A pharmacy benefits manager shall not do any of the
+following:
+a. If a pharmacy or pharmacist has agreed to participate
+in a covered person's health benefit plan, prohibit or limit
+the covered person from selecting a pharmacy or pharmacist of
+the covered person's choice, or impose a monetary advantage
+or penalty that would affect a covered person's choice.
+A monetary advantage or penalty includes a copayment or
+coinsurance variation, a reduction in reimbursement for
+services, a promotion of one participating pharmacy over
+another, or comparing the reimbursement rates of a pharmacy
+against mail order pharmacy reimbursement rates.
+b. Deny a pharmacy or pharmacist the right to participate as
+a contract provider under a health benefit plan if the pharmacy
+or pharmacist agrees to provide pharmacy services that meet
+the terms and requirements of the health benefit plan and the
+pharmacy or pharmacist agrees to the terms of reimbursement
+set forth by the third-party payor for similarly classified
+
+Senate File 383, p. 3
+pharmacies•
+c. Impose upon a pharmacy or pharmacist, as a condition
+of participation in a third-party payor network, any course
+of study, accreditation, certification, or credentialing that
+is inconsistent with, more stringent than, or in addition to
+state requirements for licensure or certification, and the
+administrative rules adopted by the board of pharmacy.
+d. Unreasonably designate a prescription drug as a
+specialty drug to prevent a covered person from accessing
+the prescription drug, or limiting a covered person's access
+to the prescription drug, from a pharmacy or pharmacist that
+is within the health carrier's network, A covered person or
+pharmacy harmed by an alleged violation of this paragraph may
+file a complaint with the commissioner, and the commissioner
+shall, in consultation with the board of pharmacy, make a
+determination as to whether the covered prescription drug meets
+the definition of a specialty drug.
+e. Require a covered person, as a condition of payment
+or reimbursement, to purchase pharmacy services, including
+prescription drugs, exclusively through a mail order pharmacy.
+f. Impose upon a covered person a copayment, reimbursement
+amount, number of days of a prescription drug supply for
+which reimbursement will be allowed, or any other payment
+or condition relating to purchasing pharmacy services from
+a pharmacy that is more costly or restrictive than would be
+imposed upon the covered person if such pharmacy services were
+purchased from a mail order pharmacy, or any other pharmacy
+that can provide the same pharmacy services for the same cost
+and copayment as a mail order service.
+2. a. If a third-party payor providing reimbursement to
+covered persons for prescription drugs restricts pharmacy
+participation, the third-party payor shall notify, in writing,
+all pharmacies within the geographical coverage area of the
+health benefit plan restriction, and offer the pharmacies
+the opportunity to participate in the health benefit plan at
+least sixty days prior to the effective date of the health
+benefit plan restriction. All pharmacies in the geographical
+coverage area of the health benefit plan shall be eligible to
+participate under identical reimbursement terms for providing
+
+Senate File 383, p. 4
+pharmacy services and prescription drugs.
+b» The third-party payor shall inform covered persons of
+the names and locations of all pharmacies participating in
+the health benefit plan as providers of pharmacy services and
+prescription drugs.
+c, A participating pharmacy shall be entitled to announce to
+the pharmacy's customers that the pharmacy participates in the
+health benefit plan.
+3. The commissioner shall not certify a pharmacy benefits
+manager or license an insurance producer that is not in
+compliance with this section.
+4. A covered person or pharmacy injured by a violation
+of this section may maintain a cause of action to enjoin the
+continuation of the violation.
+Sec. 4. Section 510B.8, Code 2025, is amended by adding the
+following new subsections:
+NEW SUBSECTION. 3. A pharmacy benefits manager shall not
+impose different cost-sharing or additional fees on a covered
+person based on the pharmacy at which the covered person fills
+a prescription drug order.
+NEW SUBSECTION. 4. For the purpose of reducing premiums,
+one hundred percent of all rebates received by a pharmacy
+benefits manager shall be passed through to the health carrier,
+or to the employee plan sponsor as permitted by the federal
+Employee Retirement Income Security Act of 1974, 29 U.S.C.
+§1001, et seq.
+NEW SUBSECTION. 5, A pharmacy benefits manager shall
+include any amount paid by a covered person, or on behalf of
+a covered person, when calculating the covered person's total
+contribution toward the covered person's cost-sharing.
+NEW SUBSECTION. 6. Any amount paid by a covered person for
+a prescription drug shall be applied to any deductible imposed
+on the covered person by the covered person's health benefit
+plan in accordance with the health benefit plan's coverage
+documents.
+NEW SUBSECTION. 7. If a covered person's policy, contract,
+or plan providing for third-party payment or prepayment of
+health or medical expenses qualifies as a high-deductible
+health plan under section 223 of the Internal Revenue Code,
+
+Senate File 383, p. 5
+and a copayment, coinsurance, or deductible paid by the
+covered person as a cost-sharing requirement under this chapter
+would result in the covered person becoming ineligible for a
+health savings account associated with the covered person's
+high-deductible health plan, subsection 5 shall apply only
+after the covered person satisfies the covered person's minimum
+deductible, except for items or services determined to be
+preventive care under section 223(c)(2)(C) of the Internal
+Revenue Code.
+Sec. 5. Section 510B.8B, Code 2025, is amended to read as
+follows:
+510B.8B Pharmacy benefits manager affiliates managers —
+roimburaemGnt reimbursements.
+1. A pharmacy benefits manager shall not reimburse any
+pharmacy located in the state in an amount less than the amount
+that the pharmacy benefits manager reimburses a pharmacy
+benefits manager affiliate for dispensing the same prescription
+drug as dispensed by the pharmacy. The reimburaemont amount
+shall be calculated on a per unit basis based on the same
+generic product identifier or generic code number.
+2. A pharmacy benefits manager shall not reimburse any
+retail pharmacy located in the state in an amount less than the
+most recently published national average drug acquisition cost
+for a prescription drug on the date that the prescription drug
+is administered or dispensed. If the most recently published
+national average drug acquisition cost for the prescription
+drug is unavailable on the date that the prescription drug is
+administered or dispensed, a pharmacy benefits manager shall
+not reimburse any retail pharmacy located in the state in
+an amount less than the wholesale acquisition cost for the
+prescription drug on the date that the prescription drug is
+administered or dispensed.
+3. In addition to the reimbursement required under
+subsection 2, a pharmacy benefits manager shall reimburse the
+retail pharmacy or pharmacist a professional dispensing fee in
+the amount of ten dollars and sixty-eight cents.
+4. a, A pharmacy benefits manager shall submit a quarterly
+report to the commissioner of all drugs reimbursed at ten
+percent or more below the national average drug acquisition
+
+Senate File 383, p. 6
+cost, and all drugs reimbursed at ten percent or more above the
+national average drug acquisition cost, for each prescription
+drug appearing on the national average drug acquisition cost
+list on the day the prescription drug was dispensed.
+b. For each prescription drug included in the report, a
+pharmacy benefits manager shall include all of the following
+information;
+(1) The month the prescription drug was dispensed.
+(2) The quantity of the prescription drug dispensed.
+(3) The amount the pharmacy was reimbursed.
+(4) If the dispensing pharmacy was an affiliate of the
+pharmacy benefits manager,
+(5) If the prescription drug was dispensed pursuant to a
+government health plan.
+(6) The average national drug acquisition cost for the month
+the prescription drug was dispensed.
+c. The report shall exclude drugs dispensed pursuant to 42
+U.S.C. §256b.
+d. A copy of the report shall be published on the pharmacy
+benefits manager^s public internet site for twenty-four months
+after the date the report is submitted to the commission.
+5. This section shall not apply to a pharmacy that operates
+in a state-owned facility.
+Sec. 6. NEW SECTION. 510B.8D Pharmacy benefits manager
+contracts.
+1. All contracts executed, amended, adjusted, or renewed
+on or after July 1, 2025, that apply to prescription drug
+benefits on or after January 1, 2026, between a pharmacy
+benefits manager and a third-party payor, or between a person
+and a third-party payor, shall include all of the following
+requirements!
+a. The pharmacy benefits manager shall use pass-through
+pricing.
+b. Payments received by a pharmacy benefits manager for
+services provided by the pharmacy benefits manager to a
+third-party payor or to a pharmacy shall be used or distributed
+pursuant to the pharmacy benefits manager's contract with
+the third-party payor or with the pharmacy, or as otherwise
+required by law.
+
+Senate File 383, p. 7
+2. Unless otherwise prohibited by law, subsection 1 shall
+supersede any contractual terms to the contrary in any contract
+executed, amended, adjusted, or renewed on or after July 1,
+2025, that applies to prescription drug benefits on or after
+January 1, 2026, between a pharmacy benefits manager and a
+third-party payor, or between a person and a third-party payor.
+Sec. 7. NEW SECTION. 510B.8E Appeals and disputes.
+1. A pharmacy benefits manager shall provide a reasonable
+process to allow a pharmacy to appeal any matter.
+2. The appeals process must include all of the following:
+a, A dedicated telephone number at which a pharmacy may
+contact the pharmacy benefits manager and speak directly with
+an individual who is involved with the appeals process.
+b, A dedicated electronic mail address or internet site for
+the purpose of submitting an appeal directly to the pharmacy
+benefits manager.
+c, A period of no less than thirty business days after the
+date of a pharmacy's initial submission of a clean claim during
+which the pharmacy may initiate an appeal.
+3. The pharmacy benefits manger shall respond to an appeal
+within seven business days after the date on which the pharmacy
+benefits manager receives the appeal.
+a. If the pharmacy benefits manager grants a pharmacy's
+appeal related to a reimbursement rate, the pharmacy benefits
+manager shall do all of the following:
+(1) Adjust the reimbursement rate of the prescription drug
+that is the subject of the appeal and provide the national drug
+code number that the adjustment is based on to the appealing
+pharmacy.
+(2) Reverse and resubmit the claim that is the subject of
+the appeal.
+(3) Make the adjustment pursuant to subparagraph (1)
+applicable to all of the following:
+(a) Each pharmacy that is under common ownership with the
+pharmacy that submitted the appeal.
+(b) Each pharmacy in the state that demonstrates the
+inability to purchase the prescription drug for less than the
+established reimbursement rate.
+b. If the pharmacy benefits manager denies a pharmacy's
+
+Senate File 383, p. 8
+appeal, the pharmacy benefits manager shall do all of the
+following:
+(1) Provide the appealing pharmacy the national drug
+code number and the name of a wholesale distributor licensed
+pursuant to section 155A.17 from which the pharmacy can obtain
+the prescription drug at or below the reimbursement rate.
+(2) If the prescription drug identified by the national
+drug code number provided by the pharmacy benefits manager
+pursuant to subparagraph (1) is not available below the
+pharmacy acquisition cost from the wholesale distributor from
+whom the pharmacy purchases the majority of its prescription
+drugs for resale, the pharmacy benefits manager shall adjust
+the reimbursement rate above the appealing pharmacy's pharmacy
+acquisition cost, and reverse and resubmit each claim affected
+by the pharmacy's inability to procure the prescription drug
+at a cost that is equal to or less than the previously appealed
+reimbursement rate.
+Sec. 8. SEVERABILITY, The provisions of this division of
+this Act are severable pursuant to section 4.12.
+Sec. 9, APPLICABILITY, This division of this Act applies
+to pharmacy benefits managers, health carriers, third-party
+payers, and health benefit plans that manage a prescription
+drug benefit in the state on or after July 1, 2025.
+DIVISION II
+PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND WHOLESALE
+DISTRIBUTION OF PRESCRIPTION DRUGS
+Sec. 10, PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND
+WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS — REPORT,
+1, By January 1, 2026, the commissioner of insurance, or
+the commissioner of insurance's designee, shall review pharmacy
+services administrative organizations and the wholesale
+distribution of prescription drugs, and submit a report to the
+general assembly containing the commissioner's findings and
+recommendations. The report shall include, at a minimum, all
+of the following:
+a. A description and analysis of the prescription drug
+wholesale distribution supply chain, including the market
+concentration for the wholesale distribution of prescription
+drugs, margins in the wholesale distribution of prescription
+
+Senate Pile 383, p. 9
+drugs, and the competition in the wholesale distribution of
+prescription drugs.
+b. A description of the role that pharmacy services
+administrative organizations serve in the prescription drug
+supply chain.
+c. A description and analysis of the relationships between
+pharmacy services administrative organizations, prescription
+drug wholesalers, and retail pharmacies, including but
+not limited to standard contracting terms, fees charged to
+pharmacies, and contractual restrictions and limitations
+applicable to retail pharmacies.
+2. a. The commissioner of insurance shall submit the report
+under subsection 1 in a manner that does not publicly disclose
+any of the following:
+(1) The identity of a specific pharmacy services
+administrative organization or prescription drug wholesaler.
+(2) The price charged to a specific pharmacy for a specific
+prescription drug.
+b. Information provided by the commissioner under this
+section that may reveal the identity of a specific pharmacy
+services administrative organization or prescription drug
+wholesaler, or the price charged to a specific pharmacy for a
+specific prescription drug, shall be considered a confidential
+record.
+Jyyiuj
+AMY SINCL^^R PAT GRASSLEY.
+President of the Senate Speaker of The House
+I hereby certify that this bill originated in the Senate and
+is known as Senate File 383, Ninety-first General Assembly.
+W. CHARLES SMITHSON
+Secr£tj^y of
+ll*^.
+Approved1 , 2025
+Kltt^E^OLDS
+Governor
+
+[DELETED:  D 5 W]
+[DELETED:  S]
+[DELETED:  M S I ^ I ' 1 ' 2 "]
+[DELETED:  2 ^ 2 " S 4 A N 5 P A I D]
+[DELETED:  I U A R I a I A]
+[DELETED:  T A T A S 3 A 4 F 5 A 6 A 7 I]
+[DELETED:  S P A T A I I a A]
+[DELETED:  F T T T I I T T A T N 5 P A T P]
+[DELETED:  U N 5 A A T A A A T I A R M E E I]
+[DELETED:  P I S T A T P B T A]
+[DELETED:  A A a T T T I P S ,]

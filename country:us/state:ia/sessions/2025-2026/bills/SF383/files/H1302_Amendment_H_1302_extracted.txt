@@ -1,0 +1,505 @@
+Title: 1 Amend Senate File 383, as amended, passed, and reprinted by
+Official Title: 1 Amend Senate File 383, as amended, passed, and reprinted by
+Number of Sections: 1
+Source: versions - Amendment H-1302
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+Senate File 383
+H-1302
+2 the Senate, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <DIVISION I
+6 PHARMACY BENEFITS MANAGERS
+7 Section 1. Section 510B.1, Code 2025, is amended by adding
+8 the following new subsections:
+9 NEW SUBSECTION. 11A. “National average drug acquisition
+10 cost” means the monthly survey of retail pharmacies conducted
+11 by the federal centers for Medicare and Medicaid services
+12 to determine average acquisition cost for Medicaid covered
+13 outpatient drugs.
+14 NEW SUBSECTION. 11B. “Pass-through pricing” means a
+15 model of prescription drug pricing in which payments made
+16 by a third-party payor to a pharmacy benefits manager for
+17 prescription drugs are equivalent to the payments the pharmacy
+18 benefits manager makes to the dispensing pharmacy or dispensing
+19 health care provider for the prescription drugs, including any
+20 professional dispensing fee.
+21 NEW SUBSECTION. 21A. “Specialty drug” means a drug used
+22 to treat chronic and complex, or rare medical conditions and
+23 that requires special handling or administration, provider care
+24 coordination, or patient education that cannot be provided by a
+25 nonspecialty pharmacy or pharmacist.
+26 NEW SUBSECTION. 21B. “Spread pricing” means a pharmacy
+27 benefits manager charges a third-party payor more for
+28 prescription drugs dispensed to a covered person than the
+29 amount the pharmacy benefits manager reimburses the pharmacy
+30 for dispensing the prescription drugs to a covered person.
+31 NEW SUBSECTION. 22A. “Wholesale acquisition cost” means the
+32 same as defined in 42 U.S.C. §1395w-3a(c)(6)(B).
+33 Sec. 2. NEW SECTION. 510B.4B Prohibited conduct.
+34 1. A pharmacy benefits manager shall not require a covered
+35 person, as a condition of payment or reimbursement, to purchase
+SF 383.1863 (1) 91
+-1- nls/ko 1/7
+1 pharmacy services, including prescription drugs, exclusively
+2 through a mail order pharmacy. This subsection shall not apply
+3 to a specialty drug.
+4 2. A pharmacy benefits manager shall not unreasonably
+5 designate a prescription drug as a specialty drug to prevent
+6 a covered person from accessing the prescription drug, or
+7 limiting a covered person’s access to the prescription drug,
+8 from a pharmacy or pharmacist that is within the health
+9 carrier’s network. A covered person or pharmacy harmed by an
+10 alleged violation of this subsection may file a complaint with
+11 the commissioner and the commissioner shall, in consultation
+12 with the board of pharmacy, make a determination if the covered
+13 prescription drug meets the definition of specialty drug.
+14 Sec. 3. Section 510B.8, Code 2025, is amended by adding the
+15 following new subsection:
+16 NEW SUBSECTION. 3. For the purpose of reducing premiums,
+17 one hundred percent of all rebates received by a pharmacy
+18 benefits manager shall be passed through to the health carrier,
+19 or to the employee plan sponsor as permitted by the federal
+20 Employee Retirement Income Security Act of 1974, 29 U.S.C.
+21 §1001, et seq.
+22 Sec. 4. Section 510B.8B, Code 2025, is amended to read as
+23 follows:
+24 510B.8B Pharmacy benefits manager affiliates managers ——
+25 reimbursement reimbursements.
+26 1. A pharmacy benefits manager shall not reimburse any
+27 pharmacy located in the state in an amount less than the amount
+28 that the pharmacy benefits manager reimburses a pharmacy
+29 benefits manager affiliate for dispensing the same prescription
+30 drug as dispensed by the pharmacy. The reimbursement amount
+31 shall be calculated on a per unit basis based on the same
+32 generic product identifier or generic code number.
+33 2. a. A pharmacy benefits manager shall not reimburse any
+34 pharmacy located in the state in an amount less than the most
+35 recently published national average drug acquisition cost for
+SF 383.1863 (1) 91
+-2- nls/ko 2/7
+1 a prescription drug on the date that the prescription drug is
+2 administered or dispensed. If the most recently published
+3 national average drug acquisition cost for the prescription
+4 drug is unavailable on the date that the prescription drug is
+5 administered or dispensed, a pharmacy benefits manager shall
+6 not reimburse any pharmacy located in the state in an amount
+7 less than the wholesale acquisition cost for the prescription
+8 drug on the date that the prescription drug is administered or
+9 dispensed.
+10 b. In addition to the reimbursement under paragraph “a”,
+11 an agreement executed by a pharmacy benefits manager and a
+12 pharmacy may, at the discretion of the pharmacy, require
+13 the pharmacy benefits manager to reimburse the pharmacy
+14 a professional dispensing fee for all prescription drugs
+15 dispensed by the pharmacy in an amount not to exceed ten
+16 dollars and sixty-eight cents if any of the following apply:
+17 (1) The pharmacy has gross annual revenue of less than two
+18 hundred fifty million dollars. For purposes of determining a
+19 pharmacy’s gross annual revenue under this subparagraph, the
+20 gross revenue of all pharmacies under common ownership shall
+21 be aggregated.
+22 (2) The pharmacy has gross annual revenue of two hundred
+23 fifty million dollars or greater and is located at least
+24 ten miles away from the nearest pharmacy. For purposes of
+25 determining a pharmacy’s gross annual revenue under this
+26 subparagraph, the gross revenue of all pharmacies under common
+27 ownership shall be aggregated.
+28 c. Paragraphs “a” and “b” do not apply to either of the
+29 following:
+30 (1) A specialty drug dispensed by a pharmacy located in this
+31 state.
+32 (2) A pharmacy located in this state that is a covered
+33 entity as defined under 42 U.S.C. §256b.
+34 3. Each pharmacy located in the state shall participate
+35 in the national average drug acquisition cost survey for all
+SF 383.1863 (1) 91
+-3- nls/ko 3/7
+1 prescription drugs dispensed by the pharmacy.
+2 Sec. 5. NEW SECTION. 510B.8D Pharmacy benefits manager
+3 contracts.
+4 1. All contracts executed, amended, adjusted, or renewed
+5 on or after July 1, 2025, that apply to prescription drug
+6 benefits on or after January 1, 2026, between a pharmacy
+7 benefits manager and a third-party payor, or between a person
+8 and a third-party payor, shall include all of the following
+9 requirements:
+10 a. The pharmacy benefits manager shall use pass-through
+11 pricing unless paragraph “b” applies.
+12 b. The pharmacy benefits manager may use direct or indirect
+13 spread pricing only if the difference between the amount the
+14 third-party payor pays the pharmacy benefits manager for a
+15 prescription drug and the amount the pharmacy benefits manager
+16 reimburses the dispensing pharmacy or dispensing health care
+17 provider for the prescription drug is passed through by the
+18 pharmacy benefits manager to the person contracted to receive
+19 third-party payor services.
+20 c. Payments received by a pharmacy benefits manager for
+21 services provided by the pharmacy benefits manager to a
+22 third-party payor or to a pharmacy shall be used or distributed
+23 pursuant to the pharmacy benefits manager’s contract with
+24 the third-party payor or with the pharmacy, or as otherwise
+25 required by law.
+26 2. Unless otherwise prohibited by law, subsection 1 shall
+27 supersede any contractual terms to the contrary in any contract
+28 executed, amended, adjusted, or renewed on or after July 1,
+29 2025, that applies to prescription drug benefits on or after
+30 January 1, 2026, between a pharmacy benefits manager and a
+31 third-party payor, or between a person and a third-party payor.
+32 Sec. 6. NEW SECTION. 510B.8E Appeals and disputes.
+33 1. A pharmacy benefits manager shall provide a reasonable
+34 process to allow a pharmacy to appeal a reimbursement rate for
+35 a specific prescription drug if the pharmacy benefits manager
+SF 383.1863 (1) 91
+-4- nls/ko 4/7
+1 violates section 510B.8A or 510B.8B.
+2 2. The appeals process must include all of the following:
+3 a. A dedicated telephone number at which a pharmacy may
+4 contact the pharmacy benefits manager and speak directly with
+5 an individual who is involved with the appeals process.
+6 b. A dedicated electronic mail address or internet site for
+7 the purpose of submitting an appeal directly to the pharmacy
+8 benefits manager.
+9 c. A period of no less than thirty business days after the
+10 date of a pharmacy’s initial submission of a clean claim during
+11 which the pharmacy may initiate an appeal.
+12 3. The pharmacy benefits manager shall respond to an appeal
+13 within seven business days after the date on which the pharmacy
+14 benefits manager receives the appeal.
+15 a. If the pharmacy benefits manager grants a pharmacy’s
+16 appeal, the pharmacy benefits manager shall do all of the
+17 following:
+18 (1) Adjust the reimbursement rate of the prescription drug
+19 that is the subject of the appeal and provide the national drug
+20 code number that the adjustment is based on to the appealing
+21 pharmacy.
+22 (2) Reverse and resubmit the claim that is the subject of
+23 the appeal.
+24 b. If the pharmacy benefits manager denies a pharmacy’s
+25 appeal, the pharmacy may submit the denial to the commissioner
+26 for examination.
+27 Sec. 7. EFFECTIVE DATE. This division of this Act takes
+28 effect January 1, 2026.
+29 Sec. 8. APPLICABILITY. This division of this Act applies
+30 to pharmacy benefits managers, health carriers, third-party
+31 payors, and health benefit plans that manage a prescription
+32 drug benefit in the state on or after July 1, 2025.
+33 DIVISION II
+34 PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND WHOLESALE
+35 DISTRIBUTION
+SF 383.1863 (1) 91
+-5- nls/ko 5/7
+1 Sec. 9. PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND
+2 WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS —— REPORT.
+3 1. By January 1, 2026, the commissioner of insurance, or
+4 the commissioner of insurance’s designee, shall review pharmacy
+5 services administrative organizations and the wholesale
+6 distribution of prescription drugs, and submit a report to the
+7 general assembly containing the commissioner’s findings and
+8 recommendations. The report shall include, at a minimum, all
+9 of the following:
+10 a. A description and analysis of the prescription drug
+11 wholesale distribution supply chain, including the market
+12 concentration for the wholesale distribution of prescription
+13 drugs, margins in the wholesale distribution of prescription
+14 drugs, and the competition in the wholesale distribution of
+15 prescription drugs.
+16 b. A description of the role that pharmacy services
+17 administrative organizations serve in the prescription drug
+18 supply chain.
+19 c. A description and analysis of the relationships between
+20 pharmacy services administrative organizations, prescription
+21 drug wholesalers, and retail pharmacies, including but
+22 not limited to standard contracting terms, fees charged to
+23 pharmacies, and contractual restrictions and limitations
+24 applicable to retail pharmacies.
+25 2. a. The commissioner of insurance shall submit the report
+26 under subsection 1 in a manner that does not publicly disclose
+27 any of the following:
+28 (1) The identity of a specific pharmacy services
+29 administrative organization or prescription drug wholesaler.
+30 (2) The price charged to a specific pharmacy for a specific
+31 prescription drug.
+32 b. Information provided by the commissioner under this
+33 section that may reveal the identity of a specific pharmacy
+34 services administrative organization or prescription drug
+35 wholesaler, or the price charged to a specific pharmacy for a
+SF 383.1863 (1) 91
+-6- nls/ko 6/7
+1 specific prescription drug, shall be considered a confidential
+2 record.
+3 Sec. 10. EFFECTIVE DATE. This division of this Act takes
+4 effect January 1, 2026.>
+5 2. Title page, by striking line 3 and inserting
+6 <organizations, and including effective date and applicability
+7 provisions.>
+______________________________
+GUSTOFF of Polk
+SF 383.1863 (1) 91
+-7- nls/ko 7/7
+[DELETED: eFe3AdSeFe3,asa,p,adrdbteS,asf1.Bysgegarteegceai<NPYBSMSn1.Sn5,Ce2,isadbyatefgnwsNWS.1laedga0mstemysyofrlpsc1byteflcsfrMeadMds2todeaeanctfrMdc3otd4NWS.1.mshp5mlofpndgpginwhpsm6byatyprtoapybsmrf7pndsaeettotepstep8bsmrmstotedgpyord9hhceprfrtepnd,iga0pldgf1NWS.2.msadguyd2tottccadc,orremlcsa3ttrsslhgora,prc4c,orptenttctbepdby5nypyorp6NWS.2.msapdp7bsmrcsatyprmef8pndsddtoacdpntnt9attepybsmrrstep0frdgtepndstoacdp1NWS.2.msteanc2seasddin42U.§3S.2.NWSBPdc41.Apybsmrslntreac5p,asacnofptorr,topF33()9o1]
+[DELETED: pys,igpnd,ethamlorp.Tssnslntatoasyd2.Apybsmrslntudeapndgasasydgtopacdpnfmagtepnd,olgacdpsastotepndfmapyorptttiswntehcsn.Acdpnorpyhdbya0advnoftssnmyfeactw1tecradtecrs,inc2whtebdofp,meadniftec3pndgmstednofsyd4S.3.Sn5,Ce2,isadbyagt5fgnws6NWS.3.Frtepeofrgp7oehdptofalrsrdbyap8bsmrslbepdthtotehhc9ortoteeepnsraspdbytef0EeRtIeSyAtof1,29U1§,ets2S.4.Sn5,Ce2,isadtorda3fBPybsmrasms—tr61.Apybsmrslntrea7pyldinteseinanatlstntea8tttepybsmrrsap9bsmraefrdgtesep0dgasddbytep.Terta1slbecdonaprutbsbdontes2gcptirorgccen32.Apybsmrslntrea4pyldinteseinanatlstntem5rypdnlaedganctfF33()9o2]
+[DELETED: apndgontedetttepndgiadord.Iftemtrypnlaedganctfrtepdgisueontedetttepndgiadord,apybsmrsntreaypyldinteseinanalstnteweanctfrtepdgontedetttepndgisadod.“0Inantoterturph1anatedbyapybsmrad2pym,attednoftep,r3tepybsmrtoretep4apldgfefralpnd5ddbytepyinanatnttoedt6dsadstcsifayoftefga7()Tepyhsgsalreoflstnt8hdfymnd.Frpsofdg9psgsalreurtss,t0gsreofalpsurcnops1bea2()Tepyhsgsalreoftoh3fymndsorgradisldatl4tnmsayfmtentp.Frpso5dgapsgsalreurt6s,tegsreofalpsurc7opslbea.“”“8Psaddontaytoeroft9f0()Asydgddbyapyldint1s2()Apyldintssettisac3eyasddur42U.§43.Ehpyldinteseslp5intenlaedganctsyfraF33()9o3]
+[DELETED: pndsddbytepS.5.NWSDPybsm1.Alcse,a,a,orronorarJy1,2,ttaytopndbsonorarJy1,2,bnapbsmradatyp,orbnapadatyp,sliealoftefr0Tepybsmrsluep1pguspha2Tepybsmrmyuedtori3sdpgoyiftedebnteatt4typrpstepybsmrfr5pndgadteattepybsm6rstedgpyordghhc7prfrtepndgispdthbyt8pybsmrtotepncdtor9typrs0Psrdbyapybsmrf1sspdbytepybsmrto2typrortoapyslbeudord3pttotepybsmsctw4tetyprorwhtep,oraso5rdbyl62.Usoepdbyl,sn1s7seaycltstotecyinayc8e,a,a,orrdonorarJy192,ttastopndgbsonora0Jy1,2,bnapybsmrad1typ,orbnapnadatyp2S.6.NWSEAsadd31.Apybsmrslpear4pstoawapytoalartref5ascpndgiftepybsmF33()9o4]
+[DELETED: vssn5Aor52.TeaspsmtiealoftefAddtenratwhapymcttepybsmradskdywanilwoisidwhteaspAddecmlasoritseftepeofsganaldytotepbsmApdofnolstntybsdsart0deofapsilsnofacncmd1whtepymyieana23.Tepybsmrslrdtoana3wnsnbsdsartedeonwhtep4bsmrrstea5Iftepybsmrgsap6a,tepybsmrsldoaloft7f8()Attertreoftepnd9ttistestoftealadpetenld0cenrttteatisbdontotea1p2()Readrttecmttistesto3tea4Iftepybsmrdsap5a,tepymysttedltotec6fre7S.7.EED.TsdnoftsAtt8etJy1,29S.8.A.TsdnoftsAta0topybsm,hhc,t1p,adhhbtpsttmeap2dgbtinteseonorarJy1,23DNI4PYSSAEOSADW5DF33()9o5]
+[DELETED: S.9.PYSSAEOSAWEDNOFPNDS——R1.ByJy1,2,tecrofi,otecrofisd,slrwpssaeosadtewdnofpnd,adstarttotglaycgtecsfsar.Tertsli,atam,aoftef0a.Adnadasoftepnd1wednsyc,igtem2cnfrtewednofp3d,msintewednofp4d,adtecnintewedno5pnd6b.Adnofterettpys7aeosseintepnd8syc9c.Adnadasoftersb0pyssaeo,p1dgw,adrlp,igb2ntldtosdcgt,fscdt3p,adclrsadl4aetorlp52.a.Tecrofieslstter6ursn1inamrttdsntpyd7ayoftef8()Teiyofascpys9aeonorpndgw0()Tepecdtoascpyfras1pnd2b.Inpdbytecrurt3snttmyrlteiyofascp4ssaeonorpnd5w,ortepecdtoascpyfrF33()9o6]
+[DELETED: scpnd,slbecdacrS.1.EED.TsdnoftsAttetJy1,22.Tep,bysgle3adi<,adigeedeadapFofPF33()9o7]
+
+
+================================================================================
+
+Raw Text:
+Senate File 383
+H-1302
+1 Amend Senate File 383, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <DIVISION I
+6 PHARMACY BENEFITS MANAGERS
+7 Section 1. Section 510B.1, Code 2025, is amended by adding
+8 the following new subsections:
+9 NEW SUBSECTION. 11A. “National average drug acquisition
+10 cost” means the monthly survey of retail pharmacies conducted
+11 by the federal centers for Medicare and Medicaid services
+12 to determine average acquisition cost for Medicaid covered
+13 outpatient drugs.
+14 NEW SUBSECTION. 11B. “Pass-through pricing” means a
+15 model of prescription drug pricing in which payments made
+16 by a third-party payor to a pharmacy benefits manager for
+17 prescription drugs are equivalent to the payments the pharmacy
+18 benefits manager makes to the dispensing pharmacy or dispensing
+19 health care provider for the prescription drugs, including any
+20 professional dispensing fee.
+21 NEW SUBSECTION. 21A. “Specialty drug” means a drug used
+22 to treat chronic and complex, or rare medical conditions and
+23 that requires special handling or administration, provider care
+24 coordination, or patient education that cannot be provided by a
+25 nonspecialty pharmacy or pharmacist.
+26 NEW SUBSECTION. 21B. “Spread pricing” means a pharmacy
+27 benefits manager charges a third-party payor more for
+28 prescription drugs dispensed to a covered person than the
+29 amount the pharmacy benefits manager reimburses the pharmacy
+30 for dispensing the prescription drugs to a covered person.
+31 NEW SUBSECTION. 22A. “Wholesale acquisition cost” means the
+32 same as defined in 42 U.S.C. §1395w-3a(c)(6)(B).
+33 Sec. 2. NEW SECTION. 510B.4B Prohibited conduct.
+34 1. A pharmacy benefits manager shall not require a covered
+35 person, as a condition of payment or reimbursement, to purchase
+SF 383.1863 (1) 91
+-1- nls/ko 1/7
+
+1 pharmacy services, including prescription drugs, exclusively
+2 through a mail order pharmacy. This subsection shall not apply
+3 to a specialty drug.
+4 2. A pharmacy benefits manager shall not unreasonably
+5 designate a prescription drug as a specialty drug to prevent
+6 a covered person from accessing the prescription drug, or
+7 limiting a covered person’s access to the prescription drug,
+8 from a pharmacy or pharmacist that is within the health
+9 carrier’s network. A covered person or pharmacy harmed by an
+10 alleged violation of this subsection may file a complaint with
+11 the commissioner and the commissioner shall, in consultation
+12 with the board of pharmacy, make a determination if the covered
+13 prescription drug meets the definition of specialty drug.
+14 Sec. 3. Section 510B.8, Code 2025, is amended by adding the
+15 following new subsection:
+16 NEW SUBSECTION. 3. For the purpose of reducing premiums,
+17 one hundred percent of all rebates received by a pharmacy
+18 benefits manager shall be passed through to the health carrier,
+19 or to the employee plan sponsor as permitted by the federal
+20 Employee Retirement Income Security Act of 1974, 29 U.S.C.
+21 §1001, et seq.
+22 Sec. 4. Section 510B.8B, Code 2025, is amended to read as
+23 follows:
+24 510B.8B Pharmacy benefits manager affiliates managers ——
+25 reimbursement reimbursements.
+26 1. A pharmacy benefits manager shall not reimburse any
+27 pharmacy located in the state in an amount less than the amount
+28 that the pharmacy benefits manager reimburses a pharmacy
+29 benefits manager affiliate for dispensing the same prescription
+30 drug as dispensed by the pharmacy. The reimbursement amount
+31 shall be calculated on a per unit basis based on the same
+32 generic product identifier or generic code number.
+33 2. a. A pharmacy benefits manager shall not reimburse any
+34 pharmacy located in the state in an amount less than the most
+35 recently published national average drug acquisition cost for
+SF 383.1863 (1) 91
+-2- nls/ko 2/7
+
+1 a prescription drug on the date that the prescription drug is
+2 administered or dispensed. If the most recently published
+3 national average drug acquisition cost for the prescription
+4 drug is unavailable on the date that the prescription drug is
+5 administered or dispensed, a pharmacy benefits manager shall
+6 not reimburse any pharmacy located in the state in an amount
+7 less than the wholesale acquisition cost for the prescription
+8 drug on the date that the prescription drug is administered or
+9 dispensed.
+10 b. In addition to the reimbursement under paragraph “a”,
+11 an agreement executed by a pharmacy benefits manager and a
+12 pharmacy may, at the discretion of the pharmacy, require
+13 the pharmacy benefits manager to reimburse the pharmacy
+14 a professional dispensing fee for all prescription drugs
+15 dispensed by the pharmacy in an amount not to exceed ten
+16 dollars and sixty-eight cents if any of the following apply:
+17 (1) The pharmacy has gross annual revenue of less than two
+18 hundred fifty million dollars. For purposes of determining a
+19 pharmacy’s gross annual revenue under this subparagraph, the
+20 gross revenue of all pharmacies under common ownership shall
+21 be aggregated.
+22 (2) The pharmacy has gross annual revenue of two hundred
+23 fifty million dollars or greater and is located at least
+24 ten miles away from the nearest pharmacy. For purposes of
+25 determining a pharmacy’s gross annual revenue under this
+26 subparagraph, the gross revenue of all pharmacies under common
+27 ownership shall be aggregated.
+28 c. Paragraphs “a” and “b” do not apply to either of the
+29 following:
+30 (1) A specialty drug dispensed by a pharmacy located in this
+31 state.
+32 (2) A pharmacy located in this state that is a covered
+33 entity as defined under 42 U.S.C. §256b.
+34 3. Each pharmacy located in the state shall participate
+35 in the national average drug acquisition cost survey for all
+SF 383.1863 (1) 91
+-3- nls/ko 3/7
+
+1 prescription drugs dispensed by the pharmacy.
+2 Sec. 5. NEW SECTION. 510B.8D Pharmacy benefits manager
+3 contracts.
+4 1. All contracts executed, amended, adjusted, or renewed
+5 on or after July 1, 2025, that apply to prescription drug
+6 benefits on or after January 1, 2026, between a pharmacy
+7 benefits manager and a third-party payor, or between a person
+8 and a third-party payor, shall include all of the following
+9 requirements:
+10 a. The pharmacy benefits manager shall use pass-through
+11 pricing unless paragraph “b” applies.
+12 b. The pharmacy benefits manager may use direct or indirect
+13 spread pricing only if the difference between the amount the
+14 third-party payor pays the pharmacy benefits manager for a
+15 prescription drug and the amount the pharmacy benefits manager
+16 reimburses the dispensing pharmacy or dispensing health care
+17 provider for the prescription drug is passed through by the
+18 pharmacy benefits manager to the person contracted to receive
+19 third-party payor services.
+20 c. Payments received by a pharmacy benefits manager for
+21 services provided by the pharmacy benefits manager to a
+22 third-party payor or to a pharmacy shall be used or distributed
+23 pursuant to the pharmacy benefits manager’s contract with
+24 the third-party payor or with the pharmacy, or as otherwise
+25 required by law.
+26 2. Unless otherwise prohibited by law, subsection 1 shall
+27 supersede any contractual terms to the contrary in any contract
+28 executed, amended, adjusted, or renewed on or after July 1,
+29 2025, that applies to prescription drug benefits on or after
+30 January 1, 2026, between a pharmacy benefits manager and a
+31 third-party payor, or between a person and a third-party payor.
+32 Sec. 6. NEW SECTION. 510B.8E Appeals and disputes.
+33 1. A pharmacy benefits manager shall provide a reasonable
+34 process to allow a pharmacy to appeal a reimbursement rate for
+35 a specific prescription drug if the pharmacy benefits manager
+SF 383.1863 (1) 91
+-4- nls/ko 4/7
+
+1 violates section 510B.8A or 510B.8B.
+2 2. The appeals process must include all of the following:
+3 a. A dedicated telephone number at which a pharmacy may
+4 contact the pharmacy benefits manager and speak directly with
+5 an individual who is involved with the appeals process.
+6 b. A dedicated electronic mail address or internet site for
+7 the purpose of submitting an appeal directly to the pharmacy
+8 benefits manager.
+9 c. A period of no less than thirty business days after the
+10 date of a pharmacy’s initial submission of a clean claim during
+11 which the pharmacy may initiate an appeal.
+12 3. The pharmacy benefits manager shall respond to an appeal
+13 within seven business days after the date on which the pharmacy
+14 benefits manager receives the appeal.
+15 a. If the pharmacy benefits manager grants a pharmacy’s
+16 appeal, the pharmacy benefits manager shall do all of the
+17 following:
+18 (1) Adjust the reimbursement rate of the prescription drug
+19 that is the subject of the appeal and provide the national drug
+20 code number that the adjustment is based on to the appealing
+21 pharmacy.
+22 (2) Reverse and resubmit the claim that is the subject of
+23 the appeal.
+24 b. If the pharmacy benefits manager denies a pharmacy’s
+25 appeal, the pharmacy may submit the denial to the commissioner
+26 for examination.
+27 Sec. 7. EFFECTIVE DATE. This division of this Act takes
+28 effect January 1, 2026.
+29 Sec. 8. APPLICABILITY. This division of this Act applies
+30 to pharmacy benefits managers, health carriers, third-party
+31 payors, and health benefit plans that manage a prescription
+32 drug benefit in the state on or after July 1, 2025.
+33 DIVISION II
+34 PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND WHOLESALE
+35 DISTRIBUTION
+SF 383.1863 (1) 91
+-5- nls/ko 5/7
+
+1 Sec. 9. PHARMACY SERVICES ADMINISTRATIVE ORGANIZATIONS AND
+2 WHOLESALE DISTRIBUTION OF PRESCRIPTION DRUGS —— REPORT.
+3 1. By January 1, 2026, the commissioner of insurance, or
+4 the commissioner of insurance’s designee, shall review pharmacy
+5 services administrative organizations and the wholesale
+6 distribution of prescription drugs, and submit a report to the
+7 general assembly containing the commissioner’s findings and
+8 recommendations. The report shall include, at a minimum, all
+9 of the following:
+10 a. A description and analysis of the prescription drug
+11 wholesale distribution supply chain, including the market
+12 concentration for the wholesale distribution of prescription
+13 drugs, margins in the wholesale distribution of prescription
+14 drugs, and the competition in the wholesale distribution of
+15 prescription drugs.
+16 b. A description of the role that pharmacy services
+17 administrative organizations serve in the prescription drug
+18 supply chain.
+19 c. A description and analysis of the relationships between
+20 pharmacy services administrative organizations, prescription
+21 drug wholesalers, and retail pharmacies, including but
+22 not limited to standard contracting terms, fees charged to
+23 pharmacies, and contractual restrictions and limitations
+24 applicable to retail pharmacies.
+25 2. a. The commissioner of insurance shall submit the report
+26 under subsection 1 in a manner that does not publicly disclose
+27 any of the following:
+28 (1) The identity of a specific pharmacy services
+29 administrative organization or prescription drug wholesaler.
+30 (2) The price charged to a specific pharmacy for a specific
+31 prescription drug.
+32 b. Information provided by the commissioner under this
+33 section that may reveal the identity of a specific pharmacy
+34 services administrative organization or prescription drug
+35 wholesaler, or the price charged to a specific pharmacy for a
+SF 383.1863 (1) 91
+-6- nls/ko 6/7
+
+1 specific prescription drug, shall be considered a confidential
+2 record.
+3 Sec. 10. EFFECTIVE DATE. This division of this Act takes
+4 effect January 1, 2026.>
+5 2. Title page, by striking line 3 and inserting
+6 <organizations, and including effective date and applicability
+7 provisions.>
+______________________________
+GUSTOFF of Polk
+SF 383.1863 (1) 91
+-7- nls/ko 7/7
+
+[DELETED: eFe3AdSeFe3,asa,p,adrdbteS,asf1.Bysgegarteegceai<NPYBSMSn1.Sn5,Ce2,isadbyatefgnwsNWS.1laedga0mstemysyofrlpsc1byteflcsfrMeadMds2todeaeanctfrMdc3otd4NWS.1.mshp5mlofpndgpginwhpsm6byatyprtoapybsmrf7pndsaeettotepstep8bsmrmstotedgpyord9hhceprfrtepnd,iga0pldgf1NWS.2.msadguyd2tottccadc,orremlcsa3ttrsslhgora,prc4c,orptenttctbepdby5nypyorp6NWS.2.msapdp7bsmrcsatyprmef8pndsddtoacdpntnt9attepybsmrrstep0frdgtepndstoacdp1NWS.2.msteanc2seasddin42U.§3S.2.NWSBPdc41.Apybsmrslntreac5p,asacnofptorr,topF33()9o1]
+[DELETED: pys,igpnd,ethamlorp.Tssnslntatoasyd2.Apybsmrslntudeapndgasasydgtopacdpnfmagtepnd,olgacdpsastotepndfmapyorptttiswntehcsn.Acdpnorpyhdbya0advnoftssnmyfeactw1tecradtecrs,inc2whtebdofp,meadniftec3pndgmstednofsyd4S.3.Sn5,Ce2,isadbyagt5fgnws6NWS.3.Frtepeofrgp7oehdptofalrsrdbyap8bsmrslbepdthtotehhc9ortoteeepnsraspdbytef0EeRtIeSyAtof1,29U1§,ets2S.4.Sn5,Ce2,isadtorda3fBPybsmrasms—tr61.Apybsmrslntrea7pyldinteseinanatlstntea8tttepybsmrrsap9bsmraefrdgtesep0dgasddbytep.Terta1slbecdonaprutbsbdontes2gcptirorgccen32.Apybsmrslntrea4pyldinteseinanatlstntem5rypdnlaedganctfF33()9o2]
+[DELETED: apndgontedetttepndgiadord.Iftemtrypnlaedganctfrtepdgisueontedetttepndgiadord,apybsmrsntreaypyldinteseinanalstnteweanctfrtepdgontedetttepndgisadod.“0Inantoterturph1anatedbyapybsmrad2pym,attednoftep,r3tepybsmrtoretep4apldgfefralpnd5ddbytepyinanatnttoedt6dsadstcsifayoftefga7()Tepyhsgsalreoflstnt8hdfymnd.Frpsofdg9psgsalreurtss,t0gsreofalpsurcnops1bea2()Tepyhsgsalreoftoh3fymndsorgradisldatl4tnmsayfmtentp.Frpso5dgapsgsalreurt6s,tegsreofalpsurc7opslbea.“”“8Psaddontaytoeroft9f0()Asydgddbyapyldint1s2()Apyldintssettisac3eyasddur42U.§43.Ehpyldinteseslp5intenlaedganctsyfraF33()9o3]
+[DELETED: pndsddbytepS.5.NWSDPybsm1.Alcse,a,a,orronorarJy1,2,ttaytopndbsonorarJy1,2,bnapbsmradatyp,orbnapadatyp,sliealoftefr0Tepybsmrsluep1pguspha2Tepybsmrmyuedtori3sdpgoyiftedebnteatt4typrpstepybsmrfr5pndgadteattepybsm6rstedgpyordghhc7prfrtepndgispdthbyt8pybsmrtotepncdtor9typrs0Psrdbyapybsmrf1sspdbytepybsmrto2typrortoapyslbeudord3pttotepybsmsctw4tetyprorwhtep,oraso5rdbyl62.Usoepdbyl,sn1s7seaycltstotecyinayc8e,a,a,orrdonorarJy192,ttastopndgbsonora0Jy1,2,bnapybsmrad1typ,orbnapnadatyp2S.6.NWSEAsadd31.Apybsmrslpear4pstoawapytoalartref5ascpndgiftepybsmF33()9o4]
+[DELETED: vssn5Aor52.TeaspsmtiealoftefAddtenratwhapymcttepybsmradskdywanilwoisidwhteaspAddecmlasoritseftepeofsganaldytotepbsmApdofnolstntybsdsart0deofapsilsnofacncmd1whtepymyieana23.Tepybsmrslrdtoana3wnsnbsdsartedeonwhtep4bsmrrstea5Iftepybsmrgsap6a,tepybsmrsldoaloft7f8()Attertreoftepnd9ttistestoftealadpetenld0cenrttteatisbdontotea1p2()Readrttecmttistesto3tea4Iftepybsmrdsap5a,tepymysttedltotec6fre7S.7.EED.TsdnoftsAtt8etJy1,29S.8.A.TsdnoftsAta0topybsm,hhc,t1p,adhhbtpsttmeap2dgbtinteseonorarJy1,23DNI4PYSSAEOSADW5DF33()9o5]
+[DELETED: S.9.PYSSAEOSAWEDNOFPNDS——R1.ByJy1,2,tecrofi,otecrofisd,slrwpssaeosadtewdnofpnd,adstarttotglaycgtecsfsar.Tertsli,atam,aoftef0a.Adnadasoftepnd1wednsyc,igtem2cnfrtewednofp3d,msintewednofp4d,adtecnintewedno5pnd6b.Adnofterettpys7aeosseintepnd8syc9c.Adnadasoftersb0pyssaeo,p1dgw,adrlp,igb2ntldtosdcgt,fscdt3p,adclrsadl4aetorlp52.a.Tecrofieslstter6ursn1inamrttdsntpyd7ayoftef8()Teiyofascpys9aeonorpndgw0()Tepecdtoascpyfras1pnd2b.Inpdbytecrurt3snttmyrlteiyofascp4ssaeonorpnd5w,ortepecdtoascpyfrF33()9o6]
+[DELETED: scpnd,slbecdacrS.1.EED.TsdnoftsAttetJy1,22.Tep,bysgle3adi<,adigeedeadapFofPF33()9o7]

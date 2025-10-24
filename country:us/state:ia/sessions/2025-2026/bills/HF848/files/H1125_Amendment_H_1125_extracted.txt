@@ -1,0 +1,120 @@
+Title: 2 1. Page 1, line 4, by striking <seven members, not more than
+Official Title: 2 1. Page 1, line 4, by striking <seven members, not more than
+Number of Sections: 1
+Source: versions - Amendment H-1125
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 848
+H-1125
+1 Amend House File 848 as follows:
+3 four> and inserting <seven nine members, not more than four
+4 five>
+5 2. Page 1, line 13, after <region.> by inserting <In
+6 addition, the governor shall appoint two at-large members who
+7 shall reside in this state.>
+8 3. Page 2, line 7, before <A> by inserting <1.>
+9 4. Page 2, after line 11 by inserting:
+10 <2. An at-large member of the commission who no longer
+11 resides in this state shall be deemed to have resigned from
+12 the commission and the vacancy shall be filled as described in
+13 section 307A.4.>
+14 5. Page 2, by striking lines 14 through 29 and inserting:
+15 <Sec. ___. APPLICABILITY AND TRANSITION. This Act applies
+16 to members of the state transportation commission appointed and
+17 confirmed on or after the effective date of this Act.
+18 1. The first regular term appointment made on or after the
+19 effective date of this Act shall be an at-large member.
+20 2. The second regular term appointment made on or after the
+21 effective date of this Act shall be an at-large member.
+22 3. The third regular term appointment made on or after the
+23 effective date of this Act shall represent region 1.
+24 4. The fourth regular term appointment made on or after the
+25 effective date of this Act shall represent region 2.
+26 5. The fifth regular term appointment made on or after the
+27 effective date of this Act shall represent region 3.
+28 6. The sixth regular term appointment made on or after the
+29 effective date of this Act shall represent region 4.
+30 7. The seventh regular term appointment made on or after the
+31 effective date of this Act shall represent region 5.
+32 8. The eighth regular term appointment made on or after the
+33 effective date of this Act shall represent region 6.
+34 9. The ninth regular term appointment made on or after the
+35 effective date of this Act shall represent region 7.>
+HF 848.1053 (2) 91
+-1- th/ns 1/2
+1 6. Title page, by striking lines 1 through 4 and inserting
+2 <An Act relating to the state transportation commission,
+3 including by expanding the number of members and requiring
+4 certain members to represent and reside within specific regions
+5 of the state, and including effective date and applicability
+6 provisions.>
+7 7. By renumbering as necessary.
+______________________________
+YOUNG of Dallas
+HF 848.1053 (2) 91
+-2- th/ns 2/2
+[DELETED: eFe8AdHeFe88asf1.Pe1,le4,bysg<nm,ntmetf>adig<nnem,ntmetnff2.Pe1,le1,ar<>byig<a,tegrslattoaemswslreintss3.Pe2,le7,be<>byig<4.Pe2,arle11byi0<.Anaemroftecnwonol1rsintsseslbeddtoherdf2tecnadtevyslbefdasddi3sn345.Pe2,bysgls14th29adi5<._.AYADT.TsAta6tomsoftesetncnada7cdonorarteeedeoftsA81.Teftrrtmatmeonorart9eedeoftsAtslbeanaem02.Tesdrrtmatmeonorart1eedeoftsAtslbeanaem23.Tetdrrtmatmeonorart3eedeoftsAtslrtrn144.Tefhrrtmatmeonorart5eedeoftsAtslrtrn265.Tefhrrtmatmeonorart7eedeoftsAtslrtrn386.Teshrrtmatmeonorart9eedeoftsAtslrtrn407.Teshrrtmatmeonorart1eedeoftsAtslrtrn528.Teehrrtmatmeonorart3eedeoftsAtslrtrn649.Tenhrrtmatmeonorart5eedeoftsAtslrtrn7F83()9s1]
+[DELETED: 6.Tep,bysgls1th4adi<nAtrgtotesetncigbyegtenrofmsadrcnmstortadrewnscroftes,adigeedeadap7.ByrgasnGofDF83()9s2]
+
+
+================================================================================
+
+Raw Text:
+House File 848
+H-1125
+1 Amend House File 848 as follows:
+2 1. Page 1, line 4, by striking <seven members, not more than
+3 four> and inserting <seven nine members, not more than four
+4 five>
+5 2. Page 1, line 13, after <region.> by inserting <In
+6 addition, the governor shall appoint two at-large members who
+7 shall reside in this state.>
+8 3. Page 2, line 7, before <A> by inserting <1.>
+9 4. Page 2, after line 11 by inserting:
+10 <2. An at-large member of the commission who no longer
+11 resides in this state shall be deemed to have resigned from
+12 the commission and the vacancy shall be filled as described in
+13 section 307A.4.>
+14 5. Page 2, by striking lines 14 through 29 and inserting:
+15 <Sec. ___. APPLICABILITY AND TRANSITION. This Act applies
+16 to members of the state transportation commission appointed and
+17 confirmed on or after the effective date of this Act.
+18 1. The first regular term appointment made on or after the
+19 effective date of this Act shall be an at-large member.
+20 2. The second regular term appointment made on or after the
+21 effective date of this Act shall be an at-large member.
+22 3. The third regular term appointment made on or after the
+23 effective date of this Act shall represent region 1.
+24 4. The fourth regular term appointment made on or after the
+25 effective date of this Act shall represent region 2.
+26 5. The fifth regular term appointment made on or after the
+27 effective date of this Act shall represent region 3.
+28 6. The sixth regular term appointment made on or after the
+29 effective date of this Act shall represent region 4.
+30 7. The seventh regular term appointment made on or after the
+31 effective date of this Act shall represent region 5.
+32 8. The eighth regular term appointment made on or after the
+33 effective date of this Act shall represent region 6.
+34 9. The ninth regular term appointment made on or after the
+35 effective date of this Act shall represent region 7.>
+HF 848.1053 (2) 91
+-1- th/ns 1/2
+
+1 6. Title page, by striking lines 1 through 4 and inserting
+2 <An Act relating to the state transportation commission,
+3 including by expanding the number of members and requiring
+4 certain members to represent and reside within specific regions
+5 of the state, and including effective date and applicability
+6 provisions.>
+7 7. By renumbering as necessary.
+______________________________
+YOUNG of Dallas
+HF 848.1053 (2) 91
+-2- th/ns 2/2
+
+[DELETED: eFe8AdHeFe88asf1.Pe1,le4,bysg<nm,ntmetf>adig<nnem,ntmetnff2.Pe1,le1,ar<>byig<a,tegrslattoaemswslreintss3.Pe2,le7,be<>byig<4.Pe2,arle11byi0<.Anaemroftecnwonol1rsintsseslbeddtoherdf2tecnadtevyslbefdasddi3sn345.Pe2,bysgls14th29adi5<._.AYADT.TsAta6tomsoftesetncnada7cdonorarteeedeoftsA81.Teftrrtmatmeonorart9eedeoftsAtslbeanaem02.Tesdrrtmatmeonorart1eedeoftsAtslbeanaem23.Tetdrrtmatmeonorart3eedeoftsAtslrtrn144.Tefhrrtmatmeonorart5eedeoftsAtslrtrn265.Tefhrrtmatmeonorart7eedeoftsAtslrtrn386.Teshrrtmatmeonorart9eedeoftsAtslrtrn407.Teshrrtmatmeonorart1eedeoftsAtslrtrn528.Teehrrtmatmeonorart3eedeoftsAtslrtrn649.Tenhrrtmatmeonorart5eedeoftsAtslrtrn7F83()9s1]
+[DELETED: 6.Tep,bysgls1th4adi<nAtrgtotesetncigbyegtenrofmsadrcnmstortadrewnscroftes,adigeedeadap7.ByrgasnGofDF83()9s2]
