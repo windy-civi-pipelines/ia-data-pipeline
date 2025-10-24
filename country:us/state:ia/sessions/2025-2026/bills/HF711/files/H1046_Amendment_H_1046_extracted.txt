@@ -1,0 +1,37 @@
+Title: 2 1. Page 2, line 20, by striking <The board shall not
+Official Title: 2 1. Page 2, line 20, by striking <The board shall not
+Number of Sections: 1
+Source: versions - Amendment H-1046
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 711
+H-1046
+1 Amend House File 711 as follows:
+3 approve>
+4 2. Page 2, by striking lines 21 and 22.
+______________________________
+WULF of Black Hawk
+HF 711.758 (1) 91
+-1- ss/ko 1/1
+[DELETED: eFe7AdHeFe71asf1.Pe2,le2,bysg<ebdslna2.Pe2,bysgls21ad2FofBkHF78()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 711
+H-1046
+1 Amend House File 711 as follows:
+2 1. Page 2, line 20, by striking <The board shall not
+3 approve>
+4 2. Page 2, by striking lines 21 and 22.
+______________________________
+WULF of Black Hawk
+HF 711.758 (1) 91
+-1- ss/ko 1/1
+
+[DELETED: eFe7AdHeFe71asf1.Pe2,le2,bysg<ebdslna2.Pe2,bysgls21ad2FofBkHF78()9o1]

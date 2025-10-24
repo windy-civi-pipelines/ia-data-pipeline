@@ -1,0 +1,643 @@
+Title: 1 Amend Senate File 167, as passed by the Senate, as follows:
+Official Title: 1 Amend Senate File 167, as passed by the Senate, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1010
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+Senate File 167
+H-1010
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 STATE AND CATEGORICAL PERCENT OF GROWTH AND PROPERTY TAX
+6 REPLACEMENT PAYMENTS
+7 Section 1. Section 257.8, subsections 1 and 2, Code 2025,
+8 are amended to read as follows:
+9 1. State percent of growth. The state percent of growth for
+10 the budget year beginning July 1, 2022, is two and one-half
+11 percent. The state percent of growth for the budget year
+12 beginning July 1, 2023, is three percent. The state percent
+13 of growth for the budget year beginning July 1, 2024, is two
+14 and one-half percent. The state percent of growth for the
+15 budget year beginning July 1, 2025, is two and twenty-five
+16 hundredths percent. The state percent of growth for each
+17 subsequent budget year shall be established by statute which
+18 shall be enacted within thirty days of the transmission of the
+19 governor’s budget required by February 1 under section 8.21
+20 during the regular legislative session beginning in the base
+21 year.
+22 2. Categorical state percent of growth. The categorical
+23 state percent of growth for the budget year beginning July
+24 1, 2022, is two and one-half percent. The categorical state
+25 percent of growth for the budget year beginning July 1, 2023,
+26 is three percent. The categorical state percent of growth for
+27 the budget year beginning July 1, 2024, is two and one-half
+28 percent. The categorical state percent of growth for the
+29 budget year beginning July 1, 2025, is two and twenty-five
+30 hundredths percent. The categorical state percent of growth
+31 for each budget year shall be established by statute which
+32 shall be enacted within thirty days of the transmission of the
+33 governor’s budget required by February 1 under section 8.21
+34 during the regular legislative session beginning in the base
+35 year. The categorical state percent of growth may include
+SF 167.262 (1) 91
+-1- jm/md 1/9
+1 state percents of growth for the teacher salary supplement, the
+2 professional development supplement, the early intervention
+3 supplement, the teacher leadership supplement, and for budget
+4 years beginning on or after July 1, 2020, transportation equity
+5 aid payments under section 257.16C.
+6 Sec. 2. Section 257.16B, subsections 1 and 2, Code 2025, are
+7 amended to read as follows:
+8 1. For each fiscal year beginning on or after July 1, 2022
+9 2023, there is appropriated from the general fund of the state
+10 to the department of education an amount necessary to make all
+11 school district property tax replacement payments under this
+12 section, as calculated in subsection 2.
+13 2. a. (1) For the budget year beginning July 1, 2022,
+14 the amount of each school district’s property tax replacement
+15 payment shall be the product of the school district’s weighted
+16 enrollment for the budget year multiplied by the per pupil
+17 property tax replacement amount for the budget year calculated
+18 under subparagraph (2).
+19 (2) The per pupil property tax replacement amount for the
+20 budget year beginning July 1, 2022, is equal to the sum of one
+21 hundred fifty-three dollars plus the difference between the
+22 following:
+23 (a) The regular program state cost per pupil for the budget
+24 year beginning July 1, 2022, multiplied by one hundred percent
+25 less the regular program foundation base per pupil percentage
+26 pursuant to section 257.1 for the budget year beginning July
+27 1, 2022.
+28 (b) The regular program state cost per pupil for the budget
+29 year beginning July 1, 2021, multiplied by one hundred percent
+30 less the regular program foundation base per pupil percentage
+31 pursuant to section 257.1 for the budget year beginning July
+32 1, 2022.
+33 b. a. (1) For the budget year beginning July 1, 2023,
+34 the amount of each school district’s property tax replacement
+35 payment shall be the product of the school district’s weighted
+SF 167.262 (1) 91
+-2- jm/md 2/9
+1 enrollment for the budget year multiplied by the per pupil
+2 property tax replacement amount for the budget year calculated
+3 under subparagraph (2).
+4 (2) The per pupil property tax replacement amount for the
+5 budget year beginning July 1, 2023, is equal to the sum of one
+6 hundred fifty-three dollars plus the difference between the
+7 following:
+8 (a) The regular program state cost per pupil for the budget
+9 year beginning July 1, 2023, multiplied by one hundred percent
+10 less the regular program foundation base per pupil percentage
+11 pursuant to section 257.1 for the budget year beginning July
+12 1, 2023.
+13 (b) The regular program state cost per pupil for the budget
+14 year beginning July 1, 2021, multiplied by one hundred percent
+15 less the regular program foundation base per pupil percentage
+16 pursuant to section 257.1 for the budget year beginning July
+17 1, 2023.
+18 c. b. (1) For each the budget year beginning on or after
+19 July 1, 2024, the amount of each school district’s property
+20 tax replacement payment shall be the product of the school
+21 district’s weighted enrollment for the budget year multiplied
+22 by the per pupil property tax replacement amount for the budget
+23 year calculated under subparagraph (2).
+24 (2) The per pupil property tax replacement amount for
+25 the budget years year beginning on or after July 1, 2024, is
+26 equal to the sum of one hundred fifty-three dollars plus the
+27 difference between the following:
+28 (a) The regular program state cost per pupil for the budget
+29 year beginning July 1, 2024, multiplied by one hundred percent
+30 less the regular program foundation base per pupil percentage
+31 pursuant to section 257.1 for the applicable budget year under
+32 this paragraph beginning July 1, 2024.
+33 (b) The regular program state cost per pupil for the budget
+34 year beginning July 1, 2021, multiplied by one hundred percent
+35 less the regular program foundation base per pupil percentage
+SF 167.262 (1) 91
+-3- jm/md 3/9
+1 pursuant to section 257.1 for the applicable budget year under
+2 this paragraph beginning July 1, 2024.
+3 c. (1) For each budget year beginning on or after July
+4 1, 2025, the amount of each school district’s property
+5 tax replacement payment shall be the product of the school
+6 district’s weighted enrollment for the budget year multiplied
+7 by the per pupil property tax replacement amount for the budget
+8 year calculated under subparagraph (2).
+9 (2) The per pupil property tax replacement amount for budget
+10 years beginning on or after July 1, 2025, is equal to the sum
+11 of one hundred fifty-three dollars plus the difference between
+12 the following:
+13 (a) The regular program state cost per pupil for the budget
+14 year beginning July 1, 2025, multiplied by one hundred percent
+15 less the regular program foundation base per pupil percentage
+16 pursuant to section 257.1 for the applicable budget year under
+17 this paragraph.
+18 (b) The regular program state cost per pupil for the budget
+19 year beginning July 1, 2021, multiplied by one hundred percent
+20 less the regular program foundation base per pupil percentage
+21 pursuant to section 257.1 for the applicable budget year under
+22 this paragraph.
+23 Sec. 3. EFFECTIVE DATE. This division of this Act, being
+24 deemed of immediate importance, takes effect upon enactment.
+25 DIVISION II
+26 STATE COST PER PUPIL
+27 Sec. 4. Section 257.9, subsection 2, Code 2025, is amended
+28 to read as follows:
+29 2. Regular program state cost per pupil for 1992-1993 and
+30 succeeding years.
+31 a. For the budget year beginning July 1, 1992, and
+32 succeeding budget years beginning before July 1, 2018, the
+33 regular program state cost per pupil for a budget year is the
+34 regular program state cost per pupil for the base year plus the
+35 regular program supplemental state aid for the budget year.
+SF 167.262 (1) 91
+-4- jm/md 4/9
+1 b. For the budget year beginning July 1, 2018, the regular
+2 program state cost per pupil is the regular program state
+3 cost per pupil for the base year plus the regular program
+4 supplemental state aid for the budget year, plus five dollars.
+5 c. For the budget year beginning July 1, 2019, the regular
+6 program state cost per pupil is the regular program state
+7 cost per pupil for the base year plus the regular program
+8 supplemental state aid for the budget year, plus five dollars.
+9 d. For the budget year beginning July 1, 2020, the regular
+10 program state cost per pupil is the regular program state
+11 cost per pupil for the base year plus the regular program
+12 supplemental state aid for the budget year, plus ten dollars.
+13 e. For the budget year beginning July 1, 2021, the regular
+14 program state cost per pupil is the regular program state
+15 cost per pupil for the base year plus the regular program
+16 supplemental state aid for the budget year, plus ten dollars.
+17 f. For the budget year beginning July 1, 2022, the regular
+18 program state cost per pupil is the regular program state
+19 cost per pupil for the base year plus the regular program
+20 supplemental state aid for the budget year, plus five dollars.
+21 g. For the budget year years beginning July 1, 2023, and
+22 succeeding budget years July 1, 2024, the regular program state
+23 cost per pupil for a budget year is the regular program state
+24 cost per pupil for the base year plus the regular program
+25 supplemental state aid for the budget year.
+26 h. For the budget year beginning July 1, 2025, the regular
+27 program state cost per pupil is the regular program state
+28 cost per pupil for the base year plus the regular program
+29 supplemental state aid for the budget year, plus ten dollars.
+30 i. For the budget year beginning July 1, 2026, and
+31 succeeding budget years, the regular program state cost per
+32 pupil for a budget year is the regular program state cost per
+33 pupil for the base year plus the regular program supplemental
+34 state aid for the budget year.
+35 Sec. 5. EFFECTIVE DATE. This division of this Act, being
+SF 167.262 (1) 91
+-5- jm/md 5/9
+1 deemed of immediate importance, takes effect upon enactment.
+2 DIVISION III
+3 SUPPLEMENTARY WEIGHTING FOR SHARED OPERATIONAL FUNCTIONS
+4 Sec. 6. Section 257.11, subsection 5, paragraph d, Code
+5 2025, is amended to read as follows:
+6 d. Supplementary weighting pursuant to this subsection shall
+7 be available to a school district during the period commencing
+8 with the budget year beginning July 1, 2014, through the budget
+9 year beginning July 1, 2034. The For budget years beginning
+10 prior to July 1, 2025, the maximum amount of additional
+11 weighting for which a school district shall be eligible in a
+12 budget year is twenty-one additional pupils; and for budget
+13 years beginning on or after July 1, 2025, the maximum amount
+14 of additional weighting for which a school district shall be
+15 eligible in a budget year is twenty-five pupils; provided,
+16 however, that for budget years beginning on or after July
+17 1, 2024, the supplementary weighting assigned for a shared
+18 operational function in the area of a college and career
+19 transition counselor or coordinator shall not count toward this
+20 maximum amount. Criteria for determining the qualification
+21 of operational functions for supplementary weighting shall be
+22 determined by the department by rule, through consideration of
+23 increased student opportunities.
+24 Sec. 7. EFFECTIVE DATE. This division of this Act, being
+25 deemed of immediate importance, takes effect upon enactment.
+26 DIVISION IV
+27 TRANSPORTATION EQUITY PAYMENTS
+28 Sec. 8. Section 257.16C, subsection 3, paragraph d,
+29 subparagraph (4), unnumbered paragraph 1, Code 2025, is amended
+30 to read as follows:
+31 For each the fiscal year beginning on or after July 1,
+32 2023, and the fiscal year beginning July 1, 2024, there
+33 is appropriated from the general fund of the state to the
+34 department of management for deposit in the transportation
+35 equity fund the sum of the following, or so much thereof as is
+SF 167.262 (1) 91
+-6- jm/md 6/9
+1 necessary, to be used for the purposes of this section:
+2 Sec. 9. Section 257.16C, subsection 3, paragraph d, Code
+3 2025, is amended by adding the following new subparagraphs:
+4 NEW SUBPARAGRAPH. (5) For the fiscal year beginning
+5 July 1, 2025, there is appropriated from the general fund of
+6 the state to the department of management for deposit in the
+7 transportation equity fund an amount necessary to make all
+8 transportation equity aid payments under subsection 2, to be
+9 used for the purposes of this section.
+10 NEW SUBPARAGRAPH. (6) For each fiscal year beginning on
+11 or after July 1, 2026, there is appropriated from the general
+12 fund of the state to the department of management for deposit
+13 in the transportation equity fund the sum of the following, or
+14 so much thereof as is necessary, to be used for the purposes of
+15 this section:
+16 (a) The amount appropriated to the transportation equity
+17 fund under this paragraph for the immediately preceding fiscal
+18 year.
+19 (b) The product of the amount determined under subparagraph
+20 division (a) multiplied by the categorical percent of growth
+21 under section 257.8, subsection 2, for the budget year
+22 beginning on the same date of the fiscal year for which the
+23 appropriation is made.
+24 Sec. 10. EFFECTIVE DATE. This division of this Act, being
+25 deemed of immediate importance, takes effect upon enactment.
+26 DIVISION V
+27 SCHOOL FUNDING SUPPLEMENT
+28 Sec. 11. SCHOOL DISTRICT FUNDING SUPPLEMENT —— FISCAL YEAR
+29 2025-2026.
+30 1. There is appropriated from the general fund of the state
+31 to the department of education for the fiscal year beginning
+32 July 1, 2025, and ending June 30, 2026, twenty-two million five
+33 hundred ninety-one thousand two hundred seventy-four dollars to
+34 make all payments to school districts required under subsection
+35 2.
+SF 167.262 (1) 91
+-7- jm/md 7/9
+1 2. a. Moneys appropriated to the department of education
+2 under this section shall be used to provide a funding
+3 supplement to each school district during the fiscal year
+4 beginning July 1, 2025, and ending June 30, 2026.
+5 b. Each school district’s funding supplement amount shall
+6 be equal to the amount of the appropriation under subsection
+7 1 multiplied by the quotient of the school district’s budget
+8 enrollment for the budget year beginning July 1, 2025, and
+9 ending June 30, 2026, divided by the statewide total budget
+10 enrollment for the budget year beginning July 1, 2025, and
+11 ending June 30, 2026.
+12 c. Moneys received by a school district under this section
+13 may be used for any school general fund purpose, shall be
+14 miscellaneous income for purposes of chapter 257, and shall not
+15 be included in district cost.
+16 3. The payment of funding supplement amounts under this
+17 section shall be paid by the department of education at the
+18 same time and in the same manner as foundation aid is paid
+19 under section 257.16 for the fiscal year beginning July 1,
+20 2025, and ending June 30, 2026, and may be included in the
+21 monthly payment of state aid under section 257.16, subsection
+22 2.
+23 Sec. 12. EFFECTIVE DATE. This division of this Act, being
+24 deemed of immediate importance, takes effect upon enactment.>
+25 2. Title page, by striking lines 1 through 5 and inserting
+26 <An Act relating to public school funding by establishing the
+27 state percent of growth and the categorical state percent of
+28 growth for the budget year beginning July 1, 2025, modifying
+29 provisions relating to the property tax replacement payments
+30 and transportation equity payments, modifying provisions
+31 relating to the regular program state cost per pupil and
+32 funding for shared operational functions, establishing a
+33 school district funding supplement, making appropriations, and
+34 including effective date provisions.>
+SF 167.262 (1) 91
+-8- jm/md 8/9
+______________________________
+GEHLBACH of Dallas
+SF 167.262 (1) 91
+-9- jm/md 9/9
+[DELETED: eFe1AdSeFe1,aspdbyteS,asf1.Bysgegarteegceai<NSEADCLPTOFGHADPYTRTPSn1.Sn2,ss1ad2,Ce2aeadtordasf1.Teseptofghfeptofg0tebtyrbgJy1,2,istoado1p.Teseptofghfrtebty2bgJy1,2,istep.Tesep3ofghfrtebtyrbgJy1,2,ist4adofp.Teseptofghfrt5btyrbgJy1,2,istoadt6hsp.Teseptofghfre7stbtyrslbeedbysew8slbeedwntydsoftetnoft9gsbtrdbyFy1ursn80dgterrlesnbginteb1y22.Teclseptofg3septofghfrtebtyrbgJ41,2,istoadofp.Tecls5ptofghfrtebtyrbgJy1,26istep.Teclseptofghf7tebtyrbgJy1,2,istoado8p.Teclseptofghfrt9btyrbgJy1,2,istoadt0hsp.Teclseptofg1frehbtyrslbeedbysew2slbeedwntydsoftetnoft3gsbtrdbyFy1ursn84dgterrlesnbginteb5y.TeclseptofghmyiF12()9]
+[DELETED: sepsofghfrtetrsys,tpldts,teeyis,tetrlps,adfrbysbgonorarJy1,2,tneadpsursn2S.2.Sn2,ss1ad2,Ce2,aadtordasf1.FrehflyrbgonorarJy1,22,teisadfmteglfdoftes0totedtofenanatnytomea1sldtpytxrtpsurt2s,ascdinsn232.()FrtebtyrbgJy1,24teatofehsldspytxr5ptslbeteptoftesldsw6etfrtebtyrmdbyteprp7pytxrtatfrtebtyrc8ursh(9()Teprplpytxrtatfrt0btyrbgJy1,2,iseltotesmofo1hdfedspstedebnt2f3()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplp6pttosn21frtebtyrbgJ71,28()Terrpmsectprplfrteb9yrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frtebtyrbgJ21,2.a3()FrtebtyrbgJy1,24teatofehsldspytxr5ptslbeteptoftesldswF12()9]
+[DELETED: etfrtebtyrmdbyteprppytxrtatfrtebtyrcursh(()TeprplpytxrtatfrtbtyrbgJy1,2,iseltotesmofohdfedspstedebntf()TerrpmsectprplfrtebyrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frtebtyrbgJ21,23()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplp6pttosn21frtebtyrbgJ71,2.b8()Frehtebtyrbgonora9Jy1,2,teatofehsldsp0txrtptslbeteptoftes1dswdetfrtebtyrm2byteprplpytxrtatfrteb3yrcdursh(4()Teprplpytxrtatf5tebtysyrbgonorarJy1,2,i6eltotesmofoehdfedspst7debntef8()Terrpmsectprplfrteb9yrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frteaebtyru2tsphbgJy1,23()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplpF12()9]
+[DELETED: pttosn21frteaebtyrutsphbgJy1,2()FrehbtyrbgonorarJ1,2,teatofehsldsptxrtptslbeteptoftesdswdetfrtebtyrmbyteprplpytxrtatfrtebyrcdursh(()Teprplpytxrtatfrb0ysbgonorarJy1,2,iseltotes1ofoehdfedspstedeb2tef3()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplp6pttosn21frteaebtyru7tsp8()Terrpmsectprplfrteb9yrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frteaebtyru2tsp3S.3.EED.TsdnoftsA,b4ddofiei,tsetune5DNI6SECTPRP7S.4.Sn2,sn2,Ce2,isa8tordasf92rpmsectprplfr13agy1FrtebtyrbgJy1,1,a2sgbtysbgbeJy1,2,t3rrpmsectprplfrabtyrist4rrpmsectprplfrtebeyrpst5rrpmslseadfrtebtyF12()9]
+[DELETED: FrtebtyrbgJy1,2,terpmsectprplisterrpmsctprplfrtebeyrpsterrpslseadfrtebty,psfedFrtebtyrbgJy1,2,terpmsectprplisterrpmsctprplfrtebeyrpsterrpslseadfrtebty,psfedFrtebtyrbgJy1,2,ter0pmsectprplisterrpms1ctprplfrtebeyrpsterrp2slseadfrtebty,pstnd3FrtebtyrbgJy1,2,ter4pmsectprplisterrpms5ctprplfrtebeyrpsterrp6slseadfrtebty,pstnd7FrtebtyrbgJy1,2,ter8pmsectprplisterrpms9ctprplfrtebeyrpsterrp0slseadfrtebty,psfed1FrtebtyrysbgJy1,2,a2sgbtysJy1,2,terrpms3ctprplfrabtyristerrpms4ctprplfrtebeyrpsterrp5slseadfrtebty6FrtebtyrbgJy1,2,ter7pmsectprplisterrpms8ctprplfrtebeyrpsterrp9slseadfrtebty,pstnd0FrtebtyrbgJy1,2,a1sgbty,terrpmsectp2plfrabtyristerrpmsectp3plfrtebeyrpsterrpms4seadfrtebty5S.5.EED.TsdnoftsA,bF12()9]
+[DELETED: ddofiei,tsetuneDNISYWGFRSDOLFS.6.Sn2,sn5,phd,C2,isadtordasfSywgpttotssnsbeaetoasldtdgtepdcwhtebtyrbgJy1,2,thtebyrbgJy1,2.TeFrbtysb0prtoJy1,2,temmatofa1wgfrwhasldtslbeeein2btyristealp;adfrb3ysbgonorarJy1,2,temma4ofalwgfrwhasldtslb5eeinabtyristep;p6h,ttfrbtysbgonorarJ71,2,tesywgadfras8olfninteaaofaceadc9tncrorcrslntcttdt0mma.Cafrdgteq1ofolfsfrsywgslb2ddbytedtbyr,thcno3idsto4S.7.EED.TsdnoftsA,b5ddofiei,tsetune6DNI7TNEYP8S.8.Sn2,sn3,phd9sh(,udph1,Ce2,isa0tordasf1FrehteflyrbgonorarJy122,adteflyrbgJy1,2,t3isadfmteglfdoftesetot4dtofmtfrdtintet5eyfdtesmoftef,orsomhtfasiF12()9]
+[DELETED: n,tobeudfrtepsoftssS.9.Sn2,sn3,phd,C2,isadbyagtefgnwsNWS.()FrteflyrbJy1,2,teisadfmteglfdotesetotedtofmtfrdtinttneyfdanatnytomeatneyadpsursn2,tobudfrtepsoftss0NWS.()Frehflyrbgo1orarJy1,2,teisadfmteg2fdoftesetotedtofmtfrd3intetneyfdtesmoftef,o4somhtfasisn,tobeudfrtepso5tss6()Teatadtotetne7fdurtsphfrteiypgf8y9()Teptofteatddurs0dn()mdbyteclptofg1ursn2,sn2,frtebty2bgontesedeofteflyrfrwht3anism4S.1.EED.TsdnoftsA,b5ddofiei,tsetune6DN7SLFGS8S.1.SLDTFGST——FLY9201.Teisadfmteglfdoftes1totedtofenfrteflyrb2Jy1,2,adegJe3,2,tomnf3hdnetdtohdsrdst4mealpstosldsrdurs52F12()9]
+[DELETED: 2.a.MsadtotedtofeurtssnslbeudtopeafsttoehsldtdgteflybgJy1,2,adegJe3,2b.Ehsldsfgstatsbeeltoteatofteanurs1mdbyteqtoftesldsbetfrtebtyrbgJy1,2,aegJe3,2,ddbytesetlb0etfrtebtyrbgJy1,2,a1egJe3,22c.Msrdbyasldturtss3mybeudfrayslglfdp,slb4msiefrpsofcr2,adsln5beidindtc63.Teptoffgstasurt7snslbepdbytedtofenatt8seteadintesemrasfnadisp9ursn26frteflyrbgJy102,adegJe3,2,admybeidint1myptofseadursn2,s223S.1.EED.TsdnoftsA,b4ddofiei,tsetune52.Tep,bysgls1th5adi6<nAtrgtopcslfgbyegt7septofghadteclsepto8ghfrtebtyrbgJy1,2,m9psrgtotepytxrtp0adtneyp,mgp1rgtoterrpmsectprpla2fgfrsdolf,eg3sldtfgs,mga,a4igeedepF12()9]
+[DELETED: HofDF12()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 167
+H-1010
+1 Amend Senate File 167, as passed by the Senate, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 STATE AND CATEGORICAL PERCENT OF GROWTH AND PROPERTY TAX
+6 REPLACEMENT PAYMENTS
+7 Section 1. Section 257.8, subsections 1 and 2, Code 2025,
+8 are amended to read as follows:
+9 1. State percent of growth. The state percent of growth for
+10 the budget year beginning July 1, 2022, is two and one-half
+11 percent. The state percent of growth for the budget year
+12 beginning July 1, 2023, is three percent. The state percent
+13 of growth for the budget year beginning July 1, 2024, is two
+14 and one-half percent. The state percent of growth for the
+15 budget year beginning July 1, 2025, is two and twenty-five
+16 hundredths percent. The state percent of growth for each
+17 subsequent budget year shall be established by statute which
+18 shall be enacted within thirty days of the transmission of the
+19 governor’s budget required by February 1 under section 8.21
+20 during the regular legislative session beginning in the base
+21 year.
+22 2. Categorical state percent of growth. The categorical
+23 state percent of growth for the budget year beginning July
+24 1, 2022, is two and one-half percent. The categorical state
+25 percent of growth for the budget year beginning July 1, 2023,
+26 is three percent. The categorical state percent of growth for
+27 the budget year beginning July 1, 2024, is two and one-half
+28 percent. The categorical state percent of growth for the
+29 budget year beginning July 1, 2025, is two and twenty-five
+30 hundredths percent. The categorical state percent of growth
+31 for each budget year shall be established by statute which
+32 shall be enacted within thirty days of the transmission of the
+33 governor’s budget required by February 1 under section 8.21
+34 during the regular legislative session beginning in the base
+35 year. The categorical state percent of growth may include
+SF 167.262 (1) 91
+-1- jm/md 1/9
+
+1 state percents of growth for the teacher salary supplement, the
+2 professional development supplement, the early intervention
+3 supplement, the teacher leadership supplement, and for budget
+4 years beginning on or after July 1, 2020, transportation equity
+5 aid payments under section 257.16C.
+6 Sec. 2. Section 257.16B, subsections 1 and 2, Code 2025, are
+7 amended to read as follows:
+8 1. For each fiscal year beginning on or after July 1, 2022
+9 2023, there is appropriated from the general fund of the state
+10 to the department of education an amount necessary to make all
+11 school district property tax replacement payments under this
+12 section, as calculated in subsection 2.
+13 2. a. (1) For the budget year beginning July 1, 2022,
+14 the amount of each school district’s property tax replacement
+15 payment shall be the product of the school district’s weighted
+16 enrollment for the budget year multiplied by the per pupil
+17 property tax replacement amount for the budget year calculated
+18 under subparagraph (2).
+19 (2) The per pupil property tax replacement amount for the
+20 budget year beginning July 1, 2022, is equal to the sum of one
+21 hundred fifty-three dollars plus the difference between the
+22 following:
+23 (a) The regular program state cost per pupil for the budget
+24 year beginning July 1, 2022, multiplied by one hundred percent
+25 less the regular program foundation base per pupil percentage
+26 pursuant to section 257.1 for the budget year beginning July
+27 1, 2022.
+28 (b) The regular program state cost per pupil for the budget
+29 year beginning July 1, 2021, multiplied by one hundred percent
+30 less the regular program foundation base per pupil percentage
+31 pursuant to section 257.1 for the budget year beginning July
+32 1, 2022.
+33 b. a. (1) For the budget year beginning July 1, 2023,
+34 the amount of each school district’s property tax replacement
+35 payment shall be the product of the school district’s weighted
+SF 167.262 (1) 91
+-2- jm/md 2/9
+
+1 enrollment for the budget year multiplied by the per pupil
+2 property tax replacement amount for the budget year calculated
+3 under subparagraph (2).
+4 (2) The per pupil property tax replacement amount for the
+5 budget year beginning July 1, 2023, is equal to the sum of one
+6 hundred fifty-three dollars plus the difference between the
+7 following:
+8 (a) The regular program state cost per pupil for the budget
+9 year beginning July 1, 2023, multiplied by one hundred percent
+10 less the regular program foundation base per pupil percentage
+11 pursuant to section 257.1 for the budget year beginning July
+12 1, 2023.
+13 (b) The regular program state cost per pupil for the budget
+14 year beginning July 1, 2021, multiplied by one hundred percent
+15 less the regular program foundation base per pupil percentage
+16 pursuant to section 257.1 for the budget year beginning July
+17 1, 2023.
+18 c. b. (1) For each the budget year beginning on or after
+19 July 1, 2024, the amount of each school district’s property
+20 tax replacement payment shall be the product of the school
+21 district’s weighted enrollment for the budget year multiplied
+22 by the per pupil property tax replacement amount for the budget
+23 year calculated under subparagraph (2).
+24 (2) The per pupil property tax replacement amount for
+25 the budget years year beginning on or after July 1, 2024, is
+26 equal to the sum of one hundred fifty-three dollars plus the
+27 difference between the following:
+28 (a) The regular program state cost per pupil for the budget
+29 year beginning July 1, 2024, multiplied by one hundred percent
+30 less the regular program foundation base per pupil percentage
+31 pursuant to section 257.1 for the applicable budget year under
+32 this paragraph beginning July 1, 2024.
+33 (b) The regular program state cost per pupil for the budget
+34 year beginning July 1, 2021, multiplied by one hundred percent
+35 less the regular program foundation base per pupil percentage
+SF 167.262 (1) 91
+-3- jm/md 3/9
+
+1 pursuant to section 257.1 for the applicable budget year under
+2 this paragraph beginning July 1, 2024.
+3 c. (1) For each budget year beginning on or after July
+4 1, 2025, the amount of each school district’s property
+5 tax replacement payment shall be the product of the school
+6 district’s weighted enrollment for the budget year multiplied
+7 by the per pupil property tax replacement amount for the budget
+8 year calculated under subparagraph (2).
+9 (2) The per pupil property tax replacement amount for budget
+10 years beginning on or after July 1, 2025, is equal to the sum
+11 of one hundred fifty-three dollars plus the difference between
+12 the following:
+13 (a) The regular program state cost per pupil for the budget
+14 year beginning July 1, 2025, multiplied by one hundred percent
+15 less the regular program foundation base per pupil percentage
+16 pursuant to section 257.1 for the applicable budget year under
+17 this paragraph.
+18 (b) The regular program state cost per pupil for the budget
+19 year beginning July 1, 2021, multiplied by one hundred percent
+20 less the regular program foundation base per pupil percentage
+21 pursuant to section 257.1 for the applicable budget year under
+22 this paragraph.
+23 Sec. 3. EFFECTIVE DATE. This division of this Act, being
+24 deemed of immediate importance, takes effect upon enactment.
+25 DIVISION II
+26 STATE COST PER PUPIL
+27 Sec. 4. Section 257.9, subsection 2, Code 2025, is amended
+28 to read as follows:
+29 2. Regular program state cost per pupil for 1992-1993 and
+30 succeeding years.
+31 a. For the budget year beginning July 1, 1992, and
+32 succeeding budget years beginning before July 1, 2018, the
+33 regular program state cost per pupil for a budget year is the
+34 regular program state cost per pupil for the base year plus the
+35 regular program supplemental state aid for the budget year.
+SF 167.262 (1) 91
+-4- jm/md 4/9
+
+1 b. For the budget year beginning July 1, 2018, the regular
+2 program state cost per pupil is the regular program state
+3 cost per pupil for the base year plus the regular program
+4 supplemental state aid for the budget year, plus five dollars.
+5 c. For the budget year beginning July 1, 2019, the regular
+6 program state cost per pupil is the regular program state
+7 cost per pupil for the base year plus the regular program
+8 supplemental state aid for the budget year, plus five dollars.
+9 d. For the budget year beginning July 1, 2020, the regular
+10 program state cost per pupil is the regular program state
+11 cost per pupil for the base year plus the regular program
+12 supplemental state aid for the budget year, plus ten dollars.
+13 e. For the budget year beginning July 1, 2021, the regular
+14 program state cost per pupil is the regular program state
+15 cost per pupil for the base year plus the regular program
+16 supplemental state aid for the budget year, plus ten dollars.
+17 f. For the budget year beginning July 1, 2022, the regular
+18 program state cost per pupil is the regular program state
+19 cost per pupil for the base year plus the regular program
+20 supplemental state aid for the budget year, plus five dollars.
+21 g. For the budget year years beginning July 1, 2023, and
+22 succeeding budget years July 1, 2024, the regular program state
+23 cost per pupil for a budget year is the regular program state
+24 cost per pupil for the base year plus the regular program
+25 supplemental state aid for the budget year.
+26 h. For the budget year beginning July 1, 2025, the regular
+27 program state cost per pupil is the regular program state
+28 cost per pupil for the base year plus the regular program
+29 supplemental state aid for the budget year, plus ten dollars.
+30 i. For the budget year beginning July 1, 2026, and
+31 succeeding budget years, the regular program state cost per
+32 pupil for a budget year is the regular program state cost per
+33 pupil for the base year plus the regular program supplemental
+34 state aid for the budget year.
+35 Sec. 5. EFFECTIVE DATE. This division of this Act, being
+SF 167.262 (1) 91
+-5- jm/md 5/9
+
+1 deemed of immediate importance, takes effect upon enactment.
+2 DIVISION III
+3 SUPPLEMENTARY WEIGHTING FOR SHARED OPERATIONAL FUNCTIONS
+4 Sec. 6. Section 257.11, subsection 5, paragraph d, Code
+5 2025, is amended to read as follows:
+6 d. Supplementary weighting pursuant to this subsection shall
+7 be available to a school district during the period commencing
+8 with the budget year beginning July 1, 2014, through the budget
+9 year beginning July 1, 2034. The For budget years beginning
+10 prior to July 1, 2025, the maximum amount of additional
+11 weighting for which a school district shall be eligible in a
+12 budget year is twenty-one additional pupils; and for budget
+13 years beginning on or after July 1, 2025, the maximum amount
+14 of additional weighting for which a school district shall be
+15 eligible in a budget year is twenty-five pupils; provided,
+16 however, that for budget years beginning on or after July
+17 1, 2024, the supplementary weighting assigned for a shared
+18 operational function in the area of a college and career
+19 transition counselor or coordinator shall not count toward this
+20 maximum amount. Criteria for determining the qualification
+21 of operational functions for supplementary weighting shall be
+22 determined by the department by rule, through consideration of
+23 increased student opportunities.
+24 Sec. 7. EFFECTIVE DATE. This division of this Act, being
+25 deemed of immediate importance, takes effect upon enactment.
+26 DIVISION IV
+27 TRANSPORTATION EQUITY PAYMENTS
+28 Sec. 8. Section 257.16C, subsection 3, paragraph d,
+29 subparagraph (4), unnumbered paragraph 1, Code 2025, is amended
+30 to read as follows:
+31 For each the fiscal year beginning on or after July 1,
+32 2023, and the fiscal year beginning July 1, 2024, there
+33 is appropriated from the general fund of the state to the
+34 department of management for deposit in the transportation
+35 equity fund the sum of the following, or so much thereof as is
+SF 167.262 (1) 91
+-6- jm/md 6/9
+
+1 necessary, to be used for the purposes of this section:
+2 Sec. 9. Section 257.16C, subsection 3, paragraph d, Code
+3 2025, is amended by adding the following new subparagraphs:
+4 NEW SUBPARAGRAPH. (5) For the fiscal year beginning
+5 July 1, 2025, there is appropriated from the general fund of
+6 the state to the department of management for deposit in the
+7 transportation equity fund an amount necessary to make all
+8 transportation equity aid payments under subsection 2, to be
+9 used for the purposes of this section.
+10 NEW SUBPARAGRAPH. (6) For each fiscal year beginning on
+11 or after July 1, 2026, there is appropriated from the general
+12 fund of the state to the department of management for deposit
+13 in the transportation equity fund the sum of the following, or
+14 so much thereof as is necessary, to be used for the purposes of
+15 this section:
+16 (a) The amount appropriated to the transportation equity
+17 fund under this paragraph for the immediately preceding fiscal
+18 year.
+19 (b) The product of the amount determined under subparagraph
+20 division (a) multiplied by the categorical percent of growth
+21 under section 257.8, subsection 2, for the budget year
+22 beginning on the same date of the fiscal year for which the
+23 appropriation is made.
+24 Sec. 10. EFFECTIVE DATE. This division of this Act, being
+25 deemed of immediate importance, takes effect upon enactment.
+26 DIVISION V
+27 SCHOOL FUNDING SUPPLEMENT
+28 Sec. 11. SCHOOL DISTRICT FUNDING SUPPLEMENT —— FISCAL YEAR
+29 2025-2026.
+30 1. There is appropriated from the general fund of the state
+31 to the department of education for the fiscal year beginning
+32 July 1, 2025, and ending June 30, 2026, twenty-two million five
+33 hundred ninety-one thousand two hundred seventy-four dollars to
+34 make all payments to school districts required under subsection
+35 2.
+SF 167.262 (1) 91
+-7- jm/md 7/9
+
+1 2. a. Moneys appropriated to the department of education
+2 under this section shall be used to provide a funding
+3 supplement to each school district during the fiscal year
+4 beginning July 1, 2025, and ending June 30, 2026.
+5 b. Each school district’s funding supplement amount shall
+6 be equal to the amount of the appropriation under subsection
+7 1 multiplied by the quotient of the school district’s budget
+8 enrollment for the budget year beginning July 1, 2025, and
+9 ending June 30, 2026, divided by the statewide total budget
+10 enrollment for the budget year beginning July 1, 2025, and
+11 ending June 30, 2026.
+12 c. Moneys received by a school district under this section
+13 may be used for any school general fund purpose, shall be
+14 miscellaneous income for purposes of chapter 257, and shall not
+15 be included in district cost.
+16 3. The payment of funding supplement amounts under this
+17 section shall be paid by the department of education at the
+18 same time and in the same manner as foundation aid is paid
+19 under section 257.16 for the fiscal year beginning July 1,
+20 2025, and ending June 30, 2026, and may be included in the
+21 monthly payment of state aid under section 257.16, subsection
+22 2.
+23 Sec. 12. EFFECTIVE DATE. This division of this Act, being
+24 deemed of immediate importance, takes effect upon enactment.>
+25 2. Title page, by striking lines 1 through 5 and inserting
+26 <An Act relating to public school funding by establishing the
+27 state percent of growth and the categorical state percent of
+28 growth for the budget year beginning July 1, 2025, modifying
+29 provisions relating to the property tax replacement payments
+30 and transportation equity payments, modifying provisions
+31 relating to the regular program state cost per pupil and
+32 funding for shared operational functions, establishing a
+33 school district funding supplement, making appropriations, and
+34 including effective date provisions.>
+SF 167.262 (1) 91
+-8- jm/md 8/9
+
+______________________________
+GEHLBACH of Dallas
+SF 167.262 (1) 91
+-9- jm/md 9/9
+
+[DELETED: eFe1AdSeFe1,aspdbyteS,asf1.Bysgegarteegceai<NSEADCLPTOFGHADPYTRTPSn1.Sn2,ss1ad2,Ce2aeadtordasf1.Teseptofghfeptofg0tebtyrbgJy1,2,istoado1p.Teseptofghfrtebty2bgJy1,2,istep.Tesep3ofghfrtebtyrbgJy1,2,ist4adofp.Teseptofghfrt5btyrbgJy1,2,istoadt6hsp.Teseptofghfre7stbtyrslbeedbysew8slbeedwntydsoftetnoft9gsbtrdbyFy1ursn80dgterrlesnbginteb1y22.Teclseptofg3septofghfrtebtyrbgJ41,2,istoadofp.Tecls5ptofghfrtebtyrbgJy1,26istep.Teclseptofghf7tebtyrbgJy1,2,istoado8p.Teclseptofghfrt9btyrbgJy1,2,istoadt0hsp.Teclseptofg1frehbtyrslbeedbysew2slbeedwntydsoftetnoft3gsbtrdbyFy1ursn84dgterrlesnbginteb5y.TeclseptofghmyiF12()9]
+[DELETED: sepsofghfrtetrsys,tpldts,teeyis,tetrlps,adfrbysbgonorarJy1,2,tneadpsursn2S.2.Sn2,ss1ad2,Ce2,aadtordasf1.FrehflyrbgonorarJy1,22,teisadfmteglfdoftes0totedtofenanatnytomea1sldtpytxrtpsurt2s,ascdinsn232.()FrtebtyrbgJy1,24teatofehsldspytxr5ptslbeteptoftesldsw6etfrtebtyrmdbyteprp7pytxrtatfrtebtyrc8ursh(9()Teprplpytxrtatfrt0btyrbgJy1,2,iseltotesmofo1hdfedspstedebnt2f3()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplp6pttosn21frtebtyrbgJ71,28()Terrpmsectprplfrteb9yrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frtebtyrbgJ21,2.a3()FrtebtyrbgJy1,24teatofehsldspytxr5ptslbeteptoftesldswF12()9]
+[DELETED: etfrtebtyrmdbyteprppytxrtatfrtebtyrcursh(()TeprplpytxrtatfrtbtyrbgJy1,2,iseltotesmofohdfedspstedebntf()TerrpmsectprplfrtebyrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frtebtyrbgJ21,23()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplp6pttosn21frtebtyrbgJ71,2.b8()Frehtebtyrbgonora9Jy1,2,teatofehsldsp0txrtptslbeteptoftes1dswdetfrtebtyrm2byteprplpytxrtatfrteb3yrcdursh(4()Teprplpytxrtatf5tebtysyrbgonorarJy1,2,i6eltotesmofoehdfedspst7debntef8()Terrpmsectprplfrteb9yrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frteaebtyru2tsphbgJy1,23()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplpF12()9]
+[DELETED: pttosn21frteaebtyrutsphbgJy1,2()FrehbtyrbgonorarJ1,2,teatofehsldsptxrtptslbeteptoftesdswdetfrtebtyrmbyteprplpytxrtatfrtebyrcdursh(()Teprplpytxrtatfrb0ysbgonorarJy1,2,iseltotes1ofoehdfedspstedeb2tef3()Terrpmsectprplfrteb4yrbgJy1,2,mdbyoehdp5lsterrpmfnbeprplp6pttosn21frteaebtyru7tsp8()Terrpmsectprplfrteb9yrbgJy1,2,mdbyoehdp0lsterrpmfnbeprplp1pttosn21frteaebtyru2tsp3S.3.EED.TsdnoftsA,b4ddofiei,tsetune5DNI6SECTPRP7S.4.Sn2,sn2,Ce2,isa8tordasf92rpmsectprplfr13agy1FrtebtyrbgJy1,1,a2sgbtysbgbeJy1,2,t3rrpmsectprplfrabtyrist4rrpmsectprplfrtebeyrpst5rrpmslseadfrtebtyF12()9]
+[DELETED: FrtebtyrbgJy1,2,terpmsectprplisterrpmsctprplfrtebeyrpsterrpslseadfrtebty,psfedFrtebtyrbgJy1,2,terpmsectprplisterrpmsctprplfrtebeyrpsterrpslseadfrtebty,psfedFrtebtyrbgJy1,2,ter0pmsectprplisterrpms1ctprplfrtebeyrpsterrp2slseadfrtebty,pstnd3FrtebtyrbgJy1,2,ter4pmsectprplisterrpms5ctprplfrtebeyrpsterrp6slseadfrtebty,pstnd7FrtebtyrbgJy1,2,ter8pmsectprplisterrpms9ctprplfrtebeyrpsterrp0slseadfrtebty,psfed1FrtebtyrysbgJy1,2,a2sgbtysJy1,2,terrpms3ctprplfrabtyristerrpms4ctprplfrtebeyrpsterrp5slseadfrtebty6FrtebtyrbgJy1,2,ter7pmsectprplisterrpms8ctprplfrtebeyrpsterrp9slseadfrtebty,pstnd0FrtebtyrbgJy1,2,a1sgbty,terrpmsectp2plfrabtyristerrpmsectp3plfrtebeyrpsterrpms4seadfrtebty5S.5.EED.TsdnoftsA,bF12()9]
+[DELETED: ddofiei,tsetuneDNISYWGFRSDOLFS.6.Sn2,sn5,phd,C2,isadtordasfSywgpttotssnsbeaetoasldtdgtepdcwhtebtyrbgJy1,2,thtebyrbgJy1,2.TeFrbtysb0prtoJy1,2,temmatofa1wgfrwhasldtslbeeein2btyristealp;adfrb3ysbgonorarJy1,2,temma4ofalwgfrwhasldtslb5eeinabtyristep;p6h,ttfrbtysbgonorarJ71,2,tesywgadfras8olfninteaaofaceadc9tncrorcrslntcttdt0mma.Cafrdgteq1ofolfsfrsywgslb2ddbytedtbyr,thcno3idsto4S.7.EED.TsdnoftsA,b5ddofiei,tsetune6DNI7TNEYP8S.8.Sn2,sn3,phd9sh(,udph1,Ce2,isa0tordasf1FrehteflyrbgonorarJy122,adteflyrbgJy1,2,t3isadfmteglfdoftesetot4dtofmtfrdtintet5eyfdtesmoftef,orsomhtfasiF12()9]
+[DELETED: n,tobeudfrtepsoftssS.9.Sn2,sn3,phd,C2,isadbyagtefgnwsNWS.()FrteflyrbJy1,2,teisadfmteglfdotesetotedtofmtfrdtinttneyfdanatnytomeatneyadpsursn2,tobudfrtepsoftss0NWS.()Frehflyrbgo1orarJy1,2,teisadfmteg2fdoftesetotedtofmtfrd3intetneyfdtesmoftef,o4somhtfasisn,tobeudfrtepso5tss6()Teatadtotetne7fdurtsphfrteiypgf8y9()Teptofteatddurs0dn()mdbyteclptofg1ursn2,sn2,frtebty2bgontesedeofteflyrfrwht3anism4S.1.EED.TsdnoftsA,b5ddofiei,tsetune6DN7SLFGS8S.1.SLDTFGST——FLY9201.Teisadfmteglfdoftes1totedtofenfrteflyrb2Jy1,2,adegJe3,2,tomnf3hdnetdtohdsrdst4mealpstosldsrdurs52F12()9]
+[DELETED: 2.a.MsadtotedtofeurtssnslbeudtopeafsttoehsldtdgteflybgJy1,2,adegJe3,2b.Ehsldsfgstatsbeeltoteatofteanurs1mdbyteqtoftesldsbetfrtebtyrbgJy1,2,aegJe3,2,ddbytesetlb0etfrtebtyrbgJy1,2,a1egJe3,22c.Msrdbyasldturtss3mybeudfrayslglfdp,slb4msiefrpsofcr2,adsln5beidindtc63.Teptoffgstasurt7snslbepdbytedtofenatt8seteadintesemrasfnadisp9ursn26frteflyrbgJy102,adegJe3,2,admybeidint1myptofseadursn2,s223S.1.EED.TsdnoftsA,b4ddofiei,tsetune52.Tep,bysgls1th5adi6<nAtrgtopcslfgbyegt7septofghadteclsepto8ghfrtebtyrbgJy1,2,m9psrgtotepytxrtp0adtneyp,mgp1rgtoterrpmsectprpla2fgfrsdolf,eg3sldtfgs,mga,a4igeedepF12()9]
+[DELETED: HofDF12()9]

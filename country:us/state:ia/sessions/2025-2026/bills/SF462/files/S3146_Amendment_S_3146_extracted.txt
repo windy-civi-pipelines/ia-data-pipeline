@@ -1,0 +1,126 @@
+Title: 1 Amend Senate File 462, as passed by the Senate, as follows:
+Official Title: 1 Amend Senate File 462, as passed by the Senate, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3146
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Amendment to
+Senate File 462
+S-3146
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 724.26, subsection 1, Code 2025, is
+4 amended to read as follows:
+5 1. a. A person who is convicted of a felony in a state or
+6 federal court, or who is adjudicated delinquent on the basis
+7 of conduct that would constitute a felony if committed by an
+8 adult, and who knowingly has under the person’s dominion and
+9 control or possession, receives, or transports or causes to be
+10 transported a firearm or offensive weapon is guilty of a class
+11 “D” felony the following:
+12 (1) A class “D” felony for a first offense, with commitment
+13 to the custody of the director of the department of corrections
+14 for an indeterminate term not to exceed five years with a
+15 mandatory minimum term of confinement of two years.
+16 (2) A class “D” felony for a second offense, with commitment
+17 to the custody of the director of the department of corrections
+18 for an indeterminate term not to exceed five years with a
+19 mandatory minimum term of confinement of four years.
+20 (3) A class “C” felony for a third offense, with commitment
+21 to the custody of the director of the department of corrections
+22 for an indeterminate term not to exceed ten years with a
+23 mandatory minimum term of confinement of seven years.
+24 (4) A class “C” felony for a fourth or subsequent offense,
+25 with commitment to the custody of the director of the
+26 department of corrections for an indeterminate term not to
+27 exceed ten years with a mandatory minimum term of confinement
+28 of ten years.
+29 b. The court shall not defer judgment or sentencing,
+30 or suspend execution of any mandatory minimum sentence of
+31 incarceration imposed by this subsection, except the court may
+32 suspend execution of any sentence of incarceration imposed
+33 under subparagraph (1) upon the recommendation of the county
+34 attorney.
+35 c. Earned time accrued by a person convicted under this
+SF 462.1867.H (1) 91
+-1- md 1/2
+1 subsection shall not be applied to reduce any mandatory minimum
+2 sentence imposed. Earned time accrued shall be credited
+3 against the person’s indeterminate term of incarceration, but
+4 shall not reduce any mandatory minimum sentence imposed.>
+5 2. Title page, line 1, after <relating to> by inserting
+6 <weapons, including mandatory minimum sentences relating to the
+7 control, possession, receipt, or transportation of a firearm or
+8 offensive weapon by a felon, and>
+9 3. Title page, line 3, after <order> by inserting <, and
+10 providing penalties>
+11 4. By renumbering as necessary.
+SF 462.1867.H (1) 91
+-2- md 2/2
+[DELETED: eAtteFe4AdSeFe4,aspdbyteS,asf1.Pe1,bele1byi<n1.Sn7,sn1,Ce2,iadtordasf1.Apnwoiscdofafyinaseoflc,orwoisaddtontebofctttwdceafyifcdbyaa,adwokyhsurtepsdnaclorp,r,ortsorcstob0tdafmoroewnisgyofac1“”fytef2()Acs“”fyfrafto,whc3totecyoftedroftedtofc4franietmnttoedfeyswh5mymmtmofctoftoy6()Acs“”fyfrasdo,whc7totecyoftedroftedtofc8franietmnttoedfeyswh9mymmtmofctoffry0()Acs“”fyfratdo,whc1totecyoftedroftedtofc2franietmnttoedtnyswh3mymmtmofctofsny4()Acs“”fyfrafhorsto5whcttotecyoftedroft6dtofcsfranietmntt7edtnyswhamymmtmofc8oftny9Tectslntdrjtors0orsdenofaymymmseo1inidbytss,ettectm2sdenofayseofini3ursh()unternoftec4a5EdteadbyapncdurtF4H()9]
+[DELETED: snslntbeadtoreaymymsei.Edteadslbecattepsietmofi,bslntreaymymmsei2.Tep,le1,ar<gt>byi<,igmymmssrgtotc,p,r,ortnofafmooewnbyaf,a3.Tep,le3,ar<>byig<,a0pgp14.ByrgasnF4H()9]
+
+
+================================================================================
+
+Raw Text:
+House Amendment to
+Senate File 462
+S-3146
+1 Amend Senate File 462, as passed by the Senate, as follows:
+2 1. Page 1, before line 1 by inserting:
+3 <Section 1. Section 724.26, subsection 1, Code 2025, is
+4 amended to read as follows:
+5 1. a. A person who is convicted of a felony in a state or
+6 federal court, or who is adjudicated delinquent on the basis
+7 of conduct that would constitute a felony if committed by an
+8 adult, and who knowingly has under the person’s dominion and
+9 control or possession, receives, or transports or causes to be
+10 transported a firearm or offensive weapon is guilty of a class
+11 “D” felony the following:
+12 (1) A class “D” felony for a first offense, with commitment
+13 to the custody of the director of the department of corrections
+14 for an indeterminate term not to exceed five years with a
+15 mandatory minimum term of confinement of two years.
+16 (2) A class “D” felony for a second offense, with commitment
+17 to the custody of the director of the department of corrections
+18 for an indeterminate term not to exceed five years with a
+19 mandatory minimum term of confinement of four years.
+20 (3) A class “C” felony for a third offense, with commitment
+21 to the custody of the director of the department of corrections
+22 for an indeterminate term not to exceed ten years with a
+23 mandatory minimum term of confinement of seven years.
+24 (4) A class “C” felony for a fourth or subsequent offense,
+25 with commitment to the custody of the director of the
+26 department of corrections for an indeterminate term not to
+27 exceed ten years with a mandatory minimum term of confinement
+28 of ten years.
+29 b. The court shall not defer judgment or sentencing,
+30 or suspend execution of any mandatory minimum sentence of
+31 incarceration imposed by this subsection, except the court may
+32 suspend execution of any sentence of incarceration imposed
+33 under subparagraph (1) upon the recommendation of the county
+34 attorney.
+35 c. Earned time accrued by a person convicted under this
+SF 462.1867.H (1) 91
+-1- md 1/2
+
+1 subsection shall not be applied to reduce any mandatory minimum
+2 sentence imposed. Earned time accrued shall be credited
+3 against the person’s indeterminate term of incarceration, but
+4 shall not reduce any mandatory minimum sentence imposed.>
+5 2. Title page, line 1, after <relating to> by inserting
+6 <weapons, including mandatory minimum sentences relating to the
+7 control, possession, receipt, or transportation of a firearm or
+8 offensive weapon by a felon, and>
+9 3. Title page, line 3, after <order> by inserting <, and
+10 providing penalties>
+11 4. By renumbering as necessary.
+SF 462.1867.H (1) 91
+-2- md 2/2
+
+[DELETED: eAtteFe4AdSeFe4,aspdbyteS,asf1.Pe1,bele1byi<n1.Sn7,sn1,Ce2,iadtordasf1.Apnwoiscdofafyinaseoflc,orwoisaddtontebofctttwdceafyifcdbyaa,adwokyhsurtepsdnaclorp,r,ortsorcstob0tdafmoroewnisgyofac1“”fytef2()Acs“”fyfrafto,whc3totecyoftedroftedtofc4franietmnttoedfeyswh5mymmtmofctoftoy6()Acs“”fyfrasdo,whc7totecyoftedroftedtofc8franietmnttoedfeyswh9mymmtmofctoffry0()Acs“”fyfratdo,whc1totecyoftedroftedtofc2franietmnttoedtnyswh3mymmtmofctofsny4()Acs“”fyfrafhorsto5whcttotecyoftedroft6dtofcsfranietmntt7edtnyswhamymmtmofc8oftny9Tectslntdrjtors0orsdenofaymymmseo1inidbytss,ettectm2sdenofayseofini3ursh()unternoftec4a5EdteadbyapncdurtF4H()9]
+[DELETED: snslntbeadtoreaymymsei.Edteadslbecattepsietmofi,bslntreaymymmsei2.Tep,le1,ar<gt>byi<,igmymmssrgtotc,p,r,ortnofafmooewnbyaf,a3.Tep,le3,ar<>byig<,a0pgp14.ByrgasnF4H()9]

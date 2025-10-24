@@ -1,0 +1,134 @@
+Title: 2 1. Page 1, line 2, by striking <subsection:> and inserting
+Official Title: 2 1. Page 1, line 2, by striking <subsection:> and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1130
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 385
+H-1130
+1 Amend House File 385 as follows:
+3 <subsections:>
+4 2. Page 1, after line 4 by inserting:
+5 <001. “Behavioral health district” means the same as defined
+6 in section 225A.1.>
+7 3. Page 1, line 13, by striking <case management> and
+8 inserting <system navigation>
+9 4. Page 1, line 16, by striking <thirty-day> and inserting
+10 <fifteen-day>
+11 5. Page 1, line 19, after <medications.> by inserting <If
+12 payment for a medication provided under this paragraph is
+13 not covered by insurance or Medicaid, the facility may make
+14 a request for reimbursement from an administrative services
+15 organization for the cost of the medication.>
+16 6. Page 2, by striking line 18 and inserting:
+17 <NEW SUBSECTION. 7. a. The administrative services>
+18 7. Page 2, line 22, by striking <a.> and inserting <(1)>
+19 8. Page 2, line 26, by striking <b.> and inserting <(2)>
+20 9. Page 2, after line 28 by inserting:
+21 <b. An administrative services organization may delegate
+22 duties required under this subsection to a managed care
+23 organization acting pursuant to a contract with the department
+24 to administer the Medicaid program under chapter 249A, if the
+25 respondent referred to the administrative services organization
+26 qualifies for Medicaid.>
+27 10. Page 3, line 21, by striking <subsection:> and inserting
+28 <subsections:>
+29 11. Page 3, after line 23 by inserting:
+30 <001. “Behavioral health district” means the same as defined
+31 in section 225A.1.>
+32 12. Page 4, line 16, by striking <case management> and
+33 inserting <system navigation>
+34 13. Page 4, line 22, after <medications.> by inserting
+35 <If payment for a medication provided under this paragraph is
+HF 385.1056 (2) 91
+-1- dg/ko 1/2
+1 not covered by insurance or Medicaid, the facility may make
+2 a request for reimbursement from an administrative services
+3 organization for the cost of the medication.>
+4 14. Page 5, by striking line 19 and inserting:
+5 <3. a. The administrative services organization to which a>
+6 15. Page 5, line 22, by striking <a.> and inserting <(1)>
+7 16. Page 5, line 26, by striking <b.> and inserting <(2)>
+8 17. Page 5, after line 28 by inserting:
+9 <b. An administrative services organization may delegate
+10 duties required under this subsection to a managed care
+11 organization acting pursuant to a contract with the department
+12 to administer the Medicaid program under chapter 249A, if the
+13 patient referred to the administrative services organization
+14 qualifies for Medicaid.>
+______________________________
+ANDREWS of Polk
+HF 385.1056 (2) 91
+-2- dg/ko 2/2
+[DELETED: eFe3AdHeFe35asf1.Pe1,le2,bysg<>adi<2.Pe1,arle4byi<.msteseasdlhhdinsn23.Pe1,le1,bysg<em>aig<mn4.Pe1,le1,bysg<>adi0<15.Pe1,le1,ar<>byig<2ptframnpdurtsphi3ntcdbyieorM,tefymym4artfrrtfmanaes5onfrtectoftem66.Pe2,bysgle18adi7<WS.7.Teaes87.Pe2,le2,bysg<>adig<98.Pe2,le2,bysg<>adig<09.Pe2,arle28byi1Anaessonmyd2dsrdurtssntoamdc3onagpttoactwhted4toarteMdpmurcr2,ift5rtrdtoteaesso6qsfrM71.Pe3,le2,bysg<>adi8<91.Pe3,arle23byi0<.msteseasdlhhd1insn221.Pe4,le1,bysg<em>a3ig<mn41.Pe4,le2,ar<>byi5<fptframnpdurtsphiF36()9]
+[DELETED: ntcdbyieorM,tefymymartfrrtfmanaesonfrtectoftem1.Pe5,bysgle19adi<.Teaessontowha1.Pe5,le2,bysg<>adig<1.Pe5,le2,bysg<>adig<1.Pe5,arle28byiAnaessonmyd0dsrdurtssntoamdc1onagpttoactwhted2toarteMdpmurcr2,ift3ptrdtoteaesso4qsfrMSofPF36()9]
+
+
+================================================================================
+
+Raw Text:
+House File 385
+H-1130
+1 Amend House File 385 as follows:
+2 1. Page 1, line 2, by striking <subsection:> and inserting
+3 <subsections:>
+4 2. Page 1, after line 4 by inserting:
+5 <001. “Behavioral health district” means the same as defined
+6 in section 225A.1.>
+7 3. Page 1, line 13, by striking <case management> and
+8 inserting <system navigation>
+9 4. Page 1, line 16, by striking <thirty-day> and inserting
+10 <fifteen-day>
+11 5. Page 1, line 19, after <medications.> by inserting <If
+12 payment for a medication provided under this paragraph is
+13 not covered by insurance or Medicaid, the facility may make
+14 a request for reimbursement from an administrative services
+15 organization for the cost of the medication.>
+16 6. Page 2, by striking line 18 and inserting:
+17 <NEW SUBSECTION. 7. a. The administrative services>
+18 7. Page 2, line 22, by striking <a.> and inserting <(1)>
+19 8. Page 2, line 26, by striking <b.> and inserting <(2)>
+20 9. Page 2, after line 28 by inserting:
+21 <b. An administrative services organization may delegate
+22 duties required under this subsection to a managed care
+23 organization acting pursuant to a contract with the department
+24 to administer the Medicaid program under chapter 249A, if the
+25 respondent referred to the administrative services organization
+26 qualifies for Medicaid.>
+27 10. Page 3, line 21, by striking <subsection:> and inserting
+28 <subsections:>
+29 11. Page 3, after line 23 by inserting:
+30 <001. “Behavioral health district” means the same as defined
+31 in section 225A.1.>
+32 12. Page 4, line 16, by striking <case management> and
+33 inserting <system navigation>
+34 13. Page 4, line 22, after <medications.> by inserting
+35 <If payment for a medication provided under this paragraph is
+HF 385.1056 (2) 91
+-1- dg/ko 1/2
+
+1 not covered by insurance or Medicaid, the facility may make
+2 a request for reimbursement from an administrative services
+3 organization for the cost of the medication.>
+4 14. Page 5, by striking line 19 and inserting:
+5 <3. a. The administrative services organization to which a>
+6 15. Page 5, line 22, by striking <a.> and inserting <(1)>
+7 16. Page 5, line 26, by striking <b.> and inserting <(2)>
+8 17. Page 5, after line 28 by inserting:
+9 <b. An administrative services organization may delegate
+10 duties required under this subsection to a managed care
+11 organization acting pursuant to a contract with the department
+12 to administer the Medicaid program under chapter 249A, if the
+13 patient referred to the administrative services organization
+14 qualifies for Medicaid.>
+______________________________
+ANDREWS of Polk
+HF 385.1056 (2) 91
+-2- dg/ko 2/2
+
+[DELETED: eFe3AdHeFe35asf1.Pe1,le2,bysg<>adi<2.Pe1,arle4byi<.msteseasdlhhdinsn23.Pe1,le1,bysg<em>aig<mn4.Pe1,le1,bysg<>adi0<15.Pe1,le1,ar<>byig<2ptframnpdurtsphi3ntcdbyieorM,tefymym4artfrrtfmanaes5onfrtectoftem66.Pe2,bysgle18adi7<WS.7.Teaes87.Pe2,le2,bysg<>adig<98.Pe2,le2,bysg<>adig<09.Pe2,arle28byi1Anaessonmyd2dsrdurtssntoamdc3onagpttoactwhted4toarteMdpmurcr2,ift5rtrdtoteaesso6qsfrM71.Pe3,le2,bysg<>adi8<91.Pe3,arle23byi0<.msteseasdlhhd1insn221.Pe4,le1,bysg<em>a3ig<mn41.Pe4,le2,ar<>byi5<fptframnpdurtsphiF36()9]
+[DELETED: ntcdbyieorM,tefymymartfrrtfmanaesonfrtectoftem1.Pe5,bysgle19adi<.Teaessontowha1.Pe5,le2,bysg<>adig<1.Pe5,le2,bysg<>adig<1.Pe5,arle28byiAnaessonmyd0dsrdurtssntoamdc1onagpttoactwhted2toarteMdpmurcr2,ift3ptrdtoteaesso4qsfrMSofPF36()9]

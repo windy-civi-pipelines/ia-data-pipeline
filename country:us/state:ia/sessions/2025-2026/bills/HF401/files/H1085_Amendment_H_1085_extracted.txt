@@ -1,0 +1,37 @@
+Title: 2 1. Page 2, lines 18 and 19, by striking <school of> and
+Official Title: 2 1. Page 2, lines 18 and 19, by striking <school of> and
+Number of Sections: 1
+Source: versions - Amendment H-1085
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 401
+H-1085
+1 Amend House File 401 as follows:
+3 inserting <center for>
+4 2. Page 2, line 20, by striking <school or>
+______________________________
+HOLT of Crawford
+HF 401.916 (2) 91
+-1- je/jh 1/1
+[DELETED: eFe4AdHeFe41asf1.Pe2,ls18ad1,bysg<lo>aig<rf2.Pe2,le2,bysg<loTofCF46()9]
+
+
+================================================================================
+
+Raw Text:
+House File 401
+H-1085
+1 Amend House File 401 as follows:
+2 1. Page 2, lines 18 and 19, by striking <school of> and
+3 inserting <center for>
+4 2. Page 2, line 20, by striking <school or>
+______________________________
+HOLT of Crawford
+HF 401.916 (2) 91
+-1- je/jh 1/1
+
+[DELETED: eFe4AdHeFe41asf1.Pe2,ls18ad1,bysg<lo>aig<rf2.Pe2,le2,bysg<loTofCF46()9]

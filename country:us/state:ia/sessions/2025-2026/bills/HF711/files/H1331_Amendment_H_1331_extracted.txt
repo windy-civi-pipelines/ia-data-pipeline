@@ -1,0 +1,154 @@
+Title: 1 Amend the Senate amendment, H-1325, to House File 711, as
+Official Title: 1 Amend the Senate amendment, H-1325, to House File 711, as
+Number of Sections: 1
+Source: versions - Amendment H-1331
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 711
+H-1331
+2 amended, passed, and reprinted by the House, as follows:
+3 1. Page 2, line 28, by striking <establishment.>> and
+4 inserting <establishment.>
+5 2. Page 2, after line 28 by inserting:
+6 <Sec. ___. NEW SECTION. 157.12D Supervised haircutting.
+7 1. A person engaged exclusively in the practice of
+8 supervised haircutting is not required to receive a license
+9 issued under section 157.3.
+10 2. A person shall not engage in the practice of or
+11 supervised haircutting except at an establishment that is
+12 licensed pursuant to section 157.11 or an establishment
+13 established in a residence pursuant to section 157.6.
+14 3. A person shall not engage exclusively in the practice
+15 of supervised haircutting unless the person has completed four
+16 hours of education related to Iowa cosmetology law and rules,
+17 sanitation, scalp diseases and disorders, and infection control
+18 related to hair cutting, as determined by the board by rule.
+19 The board shall ensure that at least one education program for
+20 supervised haircutting is available online.
+21 4. An establishment shall disclose in writing prior to a
+22 consumer’s receipt of haircutting services from an unlicensed
+23 provider that the provider is not licensed. The disclosure
+24 shall be clearly legible and state: “The services you are
+25 receiving are from an unlicensed provider under the supervision
+26 of a licensed provider.”
+27 5. In addition to any other remedy provided by law, in
+28 an action based on an injury alleged to have been caused by
+29 an unlicensed person performing supervised haircutting, a
+30 prevailing party may recover reasonable attorney’s fees and
+31 receive other equitable relief as determined by the court.
+32 6. In addition to any other disciplinary powers established
+33 pursuant to this chapter, the board may, when the board has
+34 probable cause to believe that an unlicensed person performing
+35 supervised haircutting has violated a provision of this
+H 1325.2020 (2) 91
+-1- ss/ko 1/2
+1 chapter, order an establishment to immediately cease providing
+2 supervised haircutting. The board shall conduct formal
+3 proceedings pursuant to this chapter to determine whether the
+4 issue has been corrected, and whether to suspend, revoke, or
+5 reinstate the establishment’s license.
+6 7. The owner of an establishment shall be responsible for
+7 ensuring the education, training, skills, and competence of a
+8 person performing supervised haircutting at the establishment.
+9 8. For the purposes of this section:
+10 a. “Supervised haircutting” means the practice of cutting
+11 hair in a licensed establishment under the supervision of a
+12 licensed cosmetologist or barber, or a person licensed to
+13 perform barber styling.
+14 b. “Supervision” means within the presence of a licensed
+15 cosmetologist or barber, or a person licensed to perform barber
+16 styling, and the licensee is available to assist in providing
+17 services.
+18 Sec. ___. Section 157.13, subsection 1, Code 2025, is
+19 amended by adding the following new paragraph:
+20 NEW PARAGRAPH. d. When a person is performing supervised
+21 haircutting pursuant to section 157.12D.>>
+22 3. Page 2, line 30, after <styling> by inserting <,
+23 supervised haircutting>
+24 4. By renumbering as necessary.
+______________________________
+WULF of Black Hawk
+H 1325.2020 (2) 91
+-2- ss/ko 2/2
+[DELETED: eFe7AdteSea,H,toHeFe7,aa,p,adrdbyteH,asf1.Pe2,le2,bysg<>aig<2.Pe2,arle28byi<._.NWSDSdh1.Apnedeyintepeosdhgisntrdtorealidursn102.Apnslnteeintepeofo1sdhgetatanettti2ldpttosn11orane3edinarepttosn143.Apnslnteeeyintep5ofsdhgustepnhscdf6hsofenrdtoIacylwadr7s,spdsadd,adinc8rdtohrc,asddbytebdbyr9Tebdsleettatltoeenpmf0sdhgisaeo14.Anetsldeinwgprto2csrtofhgssfmanu3prttteprisntl.Ted4slbecyleads:“essyua5rgaefmanudprurtes6ofaldp75.Inantoayorrypdbyl,i8ananbdonaniyadtohebncdb9anudpnpgsdh,0pgpymyrrreasfsa1reoreerfasddbytec26.Inantoayordypse3pttotsc,tebdm,wntebdh4pecetobettanudpnp5sdhghsvdapnoft10()9o1]
+[DELETED: c,oranettoiycepsdh.Tebdslctfpspttotscrtodewrtiehsbnc,adwrtos,r,oreteesl7.Teorofanetslberefegtee,t,s,adceofpnpgsdhgattee8.Frtepsoftss.“dh0mstepeofc1hrinaldeturtesnof2ldctorb,orapnldt3pmbrs.“4mswntepeofal5ctorb,orapnldtopmb6s,adteleisaetoatinp7s8S._.Sn1,sn1,Ce2,i9adbyagtefgnwp0NWP.Wnapnispgs1hgpttosn123.Pe2,le3,ar<>byig<3sdh44.ByrgasnFofBkH10()9o2]
+
+
+================================================================================
+
+Raw Text:
+House File 711
+H-1331
+1 Amend the Senate amendment, H-1325, to House File 711, as
+2 amended, passed, and reprinted by the House, as follows:
+3 1. Page 2, line 28, by striking <establishment.>> and
+4 inserting <establishment.>
+5 2. Page 2, after line 28 by inserting:
+6 <Sec. ___. NEW SECTION. 157.12D Supervised haircutting.
+7 1. A person engaged exclusively in the practice of
+8 supervised haircutting is not required to receive a license
+9 issued under section 157.3.
+10 2. A person shall not engage in the practice of or
+11 supervised haircutting except at an establishment that is
+12 licensed pursuant to section 157.11 or an establishment
+13 established in a residence pursuant to section 157.6.
+14 3. A person shall not engage exclusively in the practice
+15 of supervised haircutting unless the person has completed four
+16 hours of education related to Iowa cosmetology law and rules,
+17 sanitation, scalp diseases and disorders, and infection control
+18 related to hair cutting, as determined by the board by rule.
+19 The board shall ensure that at least one education program for
+20 supervised haircutting is available online.
+21 4. An establishment shall disclose in writing prior to a
+22 consumer’s receipt of haircutting services from an unlicensed
+23 provider that the provider is not licensed. The disclosure
+24 shall be clearly legible and state: “The services you are
+25 receiving are from an unlicensed provider under the supervision
+26 of a licensed provider.”
+27 5. In addition to any other remedy provided by law, in
+28 an action based on an injury alleged to have been caused by
+29 an unlicensed person performing supervised haircutting, a
+30 prevailing party may recover reasonable attorney’s fees and
+31 receive other equitable relief as determined by the court.
+32 6. In addition to any other disciplinary powers established
+33 pursuant to this chapter, the board may, when the board has
+34 probable cause to believe that an unlicensed person performing
+35 supervised haircutting has violated a provision of this
+H 1325.2020 (2) 91
+-1- ss/ko 1/2
+
+1 chapter, order an establishment to immediately cease providing
+2 supervised haircutting. The board shall conduct formal
+3 proceedings pursuant to this chapter to determine whether the
+4 issue has been corrected, and whether to suspend, revoke, or
+5 reinstate the establishment’s license.
+6 7. The owner of an establishment shall be responsible for
+7 ensuring the education, training, skills, and competence of a
+8 person performing supervised haircutting at the establishment.
+9 8. For the purposes of this section:
+10 a. “Supervised haircutting” means the practice of cutting
+11 hair in a licensed establishment under the supervision of a
+12 licensed cosmetologist or barber, or a person licensed to
+13 perform barber styling.
+14 b. “Supervision” means within the presence of a licensed
+15 cosmetologist or barber, or a person licensed to perform barber
+16 styling, and the licensee is available to assist in providing
+17 services.
+18 Sec. ___. Section 157.13, subsection 1, Code 2025, is
+19 amended by adding the following new paragraph:
+20 NEW PARAGRAPH. d. When a person is performing supervised
+21 haircutting pursuant to section 157.12D.>>
+22 3. Page 2, line 30, after <styling> by inserting <,
+23 supervised haircutting>
+24 4. By renumbering as necessary.
+______________________________
+WULF of Black Hawk
+H 1325.2020 (2) 91
+-2- ss/ko 2/2
+
+[DELETED: eFe7AdteSea,H,toHeFe7,aa,p,adrdbyteH,asf1.Pe2,le2,bysg<>aig<2.Pe2,arle28byi<._.NWSDSdh1.Apnedeyintepeosdhgisntrdtorealidursn102.Apnslnteeintepeofo1sdhgetatanettti2ldpttosn11orane3edinarepttosn143.Apnslnteeeyintep5ofsdhgustepnhscdf6hsofenrdtoIacylwadr7s,spdsadd,adinc8rdtohrc,asddbytebdbyr9Tebdsleettatltoeenpmf0sdhgisaeo14.Anetsldeinwgprto2csrtofhgssfmanu3prttteprisntl.Ted4slbecyleads:“essyua5rgaefmanudprurtes6ofaldp75.Inantoayorrypdbyl,i8ananbdonaniyadtohebncdb9anudpnpgsdh,0pgpymyrrreasfsa1reoreerfasddbytec26.Inantoayordypse3pttotsc,tebdm,wntebdh4pecetobettanudpnp5sdhghsvdapnoft10()9o1]
+[DELETED: c,oranettoiycepsdh.Tebdslctfpspttotscrtodewrtiehsbnc,adwrtos,r,oreteesl7.Teorofanetslberefegtee,t,s,adceofpnpgsdhgattee8.Frtepsoftss.“dh0mstepeofc1hrinaldeturtesnof2ldctorb,orapnldt3pmbrs.“4mswntepeofal5ctorb,orapnldtopmb6s,adteleisaetoatinp7s8S._.Sn1,sn1,Ce2,i9adbyagtefgnwp0NWP.Wnapnispgs1hgpttosn123.Pe2,le3,ar<>byig<3sdh44.ByrgasnFofBkH10()9o2]

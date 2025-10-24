@@ -1,0 +1,53 @@
+Title: 1 Amend the amendment, H-1228, to Senate File 369, as amended,
+Official Title: 1 Amend the amendment, H-1228, to Senate File 369, as amended,
+Number of Sections: 1
+Source: versions - Amendment H-1254
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 369
+H-1254
+2 passed, and reprinted by the Senate, as follows:
+3 1. Page 1, by striking lines 17 through 22 and inserting:
+4 <2. a. The secretary of the senate shall publish in the
+5 senate’s daily journal the number of questions each member of
+6 the senate answered correctly on the assessment administered
+7 pursuant to subsection 1.
+8 b. The chief clerk of the house of representatives shall
+9 publish in the house of representatives’ daily journal the
+10 number of questions each member of the house of representatives
+11 answered correctly on the assessment administered pursuant to
+12 subsection 1.>
+______________________________
+LEVIN of Johnson
+H 1228.1612 (2) 91
+-1- jda/jh 1/1
+[DELETED: eFe3Adtea,H,toSeFe3,asap,adrdbyteS,asf1.Pe1,bysgls17th22adi<.Tesyofteseslphintssdyjltenrofqsehmroteseadcyonteatapttosn1Tecfckofteheofrssphinteheofr’dyjlt0nrofqsehmrofteheofr1adcyonteatadptt2sn1NofJ12()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 369
+H-1254
+1 Amend the amendment, H-1228, to Senate File 369, as amended,
+2 passed, and reprinted by the Senate, as follows:
+3 1. Page 1, by striking lines 17 through 22 and inserting:
+4 <2. a. The secretary of the senate shall publish in the
+5 senate’s daily journal the number of questions each member of
+6 the senate answered correctly on the assessment administered
+7 pursuant to subsection 1.
+8 b. The chief clerk of the house of representatives shall
+9 publish in the house of representatives’ daily journal the
+10 number of questions each member of the house of representatives
+11 answered correctly on the assessment administered pursuant to
+12 subsection 1.>
+______________________________
+LEVIN of Johnson
+H 1228.1612 (2) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe3Adtea,H,toSeFe3,asap,adrdbyteS,asf1.Pe1,bysgls17th22adi<.Tesyofteseslphintssdyjltenrofqsehmroteseadcyonteatapttosn1Tecfckofteheofrssphinteheofr’dyjlt0nrofqsehmrofteheofr1adcyonteatadptt2sn1NofJ12()9]

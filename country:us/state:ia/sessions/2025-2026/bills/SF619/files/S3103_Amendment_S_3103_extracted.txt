@@ -1,0 +1,47 @@
+Title: 2 1. Page 36, by striking lines 25 and 26 and inserting:
+Official Title: 2 1. Page 36, by striking lines 25 and 26 and inserting:
+Number of Sections: 1
+Source: versions - Amendment S-3103
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 619
+S-3103
+1 Amend Senate File 619 as follows:
+3 <g. Grants the public adjuster power of attorney for the
+4 insured. However, a public adjuster may obtain a limited power
+5 of attorney for an insured for the sole purpose of depositing
+6 claim payments in the insured’s name into a fiduciary trust
+7 account pursuant to section 522C.11, subsection 26.>
+8 2. Page 61, line 9, by striking <a.>
+9 3. Page 61, by striking lines 13 through 18.
+______________________________
+SCOTT WEBSTER
+SF 619.1534 (1) 91
+-1- nls/ko 1/1
+[DELETED: eFe6AdSeFe69asf1.Pe3,bysgls25ad26adiGstepcarprofayfrti.H,apcarmyonaldpofayfranidfrtesepeofdcmpsinteisneioafytatpttosn5,sn22.Pe6,le9,bysg<3.Pe6,bysgls13th1TWF64()9o1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 619
+S-3103
+1 Amend Senate File 619 as follows:
+2 1. Page 36, by striking lines 25 and 26 and inserting:
+3 <g. Grants the public adjuster power of attorney for the
+4 insured. However, a public adjuster may obtain a limited power
+5 of attorney for an insured for the sole purpose of depositing
+6 claim payments in the insured’s name into a fiduciary trust
+7 account pursuant to section 522C.11, subsection 26.>
+8 2. Page 61, line 9, by striking <a.>
+9 3. Page 61, by striking lines 13 through 18.
+______________________________
+SCOTT WEBSTER
+SF 619.1534 (1) 91
+-1- nls/ko 1/1
+
+[DELETED: eFe6AdSeFe69asf1.Pe3,bysgls25ad26adiGstepcarprofayfrti.H,apcarmyonaldpofayfranidfrtesepeofdcmpsinteisneioafytatpttosn5,sn22.Pe6,le9,bysg<3.Pe6,bysgls13th1TWF64()9o1]

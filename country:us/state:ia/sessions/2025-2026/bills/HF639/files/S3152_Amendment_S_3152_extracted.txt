@@ -1,0 +1,2229 @@
+Title: 1 Amend House File 639, as amended, passed, and reprinted by
+Official Title: 1 Amend House File 639, as amended, passed, and reprinted by
+Number of Sections: 1
+Source: versions - Amendment S-3152
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+House File 639
+S-3152
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 476.33, Code 2025, is amended by adding
+6 the following new subsection:
+7 NEW SUBSECTION. 5. For hearings initiated under this
+8 chapter, a majority of the members of the commission shall be
+9 present during any live testimony. If at any point during live
+10 testimony at a hearing less than a majority of the members
+11 are available for any reason, the meeting shall pause until a
+12 majority of the members of the commission are available.
+13 Sec. 2. Section 476A.4, Code 2025, is amended by adding the
+14 following new subsections:
+15 NEW SUBSECTION. 6. All hearings initiated under this
+16 chapter shall follow the attendance rules governing commission
+17 members as provided in section 476.33, subsection 5.
+18 NEW SUBSECTION. 7. After a hearing, if notice by
+19 publication was properly made, an operator of an electric power
+20 generation and transmission facility and a property owner may
+21 enter a voluntary agreement for an interest in the property
+22 without regard to whether the property owner received notice
+23 by mail.
+24 Sec. 3. NEW SECTION. 476A.4A Objections.
+25 1. If an applicant is exercising the power of eminent domain
+26 pursuant to this chapter, a person, including a governmental
+27 entity, whose rights or interests may be affected by the
+28 proposed facility may file written objections.
+29 2. All objections shall be on file with the commission
+30 not less than five days before the date of hearing on the
+31 application. However, the commission may permit the filing
+32 of the objections later than five days before the hearing, in
+33 which event the applicant must be granted a reasonable time to
+34 respond to the objections.
+35 3. If a facility is relocated due to an objection filed
+HF 639.1921 (1) 91
+-1- sb/js 1/29
+1 pursuant to this section, the utilities commission shall not
+2 require an applicant to resubmit an application for a permit
+3 pursuant to section 479A.3.
+4 4. Notwithstanding any other provisions in this section,
+5 an objection filed by a government entity that is a regulatory
+6 agency or city or county zoning authority subject to the
+7 requirements of section 476A.5 shall only address items not
+8 within the scope of section 476A.5.
+9 Sec. 4. Section 476A.6, unnumbered paragraph 1, Code 2025,
+10 is amended to read as follows:
+11 The commission shall render a decision on the application in
+12 an expeditious manner. The commission shall render a decision
+13 on an application requesting the power of eminent domain no
+14 later than one year after the request for eminent domain is
+15 received by the commission. A certificate shall be issued to
+16 the applicant if the commission finds all of the following:
+17 Sec. 5. NEW SECTION. 476A.16 Access to lines —— damages.
+18 1. Individuals or corporations operating transmission
+19 lines for the facility shall have reasonable access to
+20 the transmission lines for the purpose of constructing,
+21 reconstructing, enlarging, repairing, or locating the poles,
+22 wires, or construction and other devices used in or upon any
+23 line, but shall pay to the owner of the lands and of crops on
+24 the lands all damages to the lands or crops caused by entering,
+25 using, and occupying the lands for those purposes. This
+26 section shall not prevent the execution of an agreement between
+27 the person, company, or corporation owning or operating the
+28 lines and the owner of the land or crops regarding the use of
+29 the land.
+30 2. A claim for crop yield loss damages pursuant to this
+31 section shall not be precluded from renegotiation under section
+32 6B.52 on the grounds that the damages were apparent at the time
+33 of settlement unless the settlement expressly releases the
+34 person, company, or corporation owning or operating the lines
+35 from claims for damages to the productivity of the soil. A
+HF 639.1921 (1) 91
+-2- sb/js 2/29
+1 landowner that seeks damages under this section not subject to
+2 a release shall notify the person, company, or corporation in
+3 writing fourteen days prior to harvest in each year to assess
+4 crop deficiency.
+5 Sec. 6. NEW SECTION. 476A.17 Drainage tile —— liability.
+6 For an applicant exercising the power of eminent domain
+7 pursuant to this chapter, the operator of the electric power
+8 generation and transmission facility shall be liable for
+9 repairs of drainage tile installed prior to the installation of
+10 the facility, when the installation, construction, operation,
+11 maintenance, or repair of the facility is the proximate cause
+12 of the damage to the drainage tile. The operator’s liability
+13 pursuant to this section shall continue for the life of the
+14 electric power generation and transmission facility and shall
+15 include all of the following:
+16 1. The full replacement costs of the drainage tile,
+17 including, without limitation, material, labor, and equipment.
+18 2. The reclamation and restoration of topsoil as part of any
+19 drainage tile repair.
+20 Sec. 7. NEW SECTION. 476A.18 Land restoration standards.
+21 1. The commission shall adopt rules pursuant to chapter
+22 17A regarding the restoration of agricultural lands following
+23 construction of a facility subject to this chapter. Rules
+24 adopted under this section shall implement the following
+25 requirements, which shall not apply within the corporate limits
+26 of a city, to any land owned by the facility owner, or to any
+27 construction, activity, or facility other than a facility as
+28 defined in this chapter:
+29 a. A facility owner shall repair a damaged underground
+30 drain tile as soon as practicable during construction of the
+31 facility. Permanent repairs to the damaged underground drain
+32 tile shall be completed as soon as practicable after the
+33 initial construction of the facility is complete. The repairs
+34 made to the damaged drain tile shall be of at least equal
+35 quality, size, and flow capacity of the original drain tile.
+HF 639.1921 (1) 91
+-3- sb/js 3/29
+1 b. Following the construction of the facility, the facility
+2 owner shall remove from any easement area all rock larger than
+3 three inches in average diameter not native to the soil of the
+4 excavated land. The rock removed from the excavated land that
+5 cannot be used to backfill shall be disposed of at a location
+6 and in a manner agreed upon by the facility owner and the
+7 landowner.
+8 c. Upon completion of construction activities on a property,
+9 the facility owner shall deep till agricultural land, including
+10 right-of-way access points or roads traversed by heavy
+11 construction equipment, to alleviate soil compaction. The land
+12 shall be tilled at least eighteen inches deep in land used for
+13 crop production and twelve inches deep in other lands unless
+14 otherwise agreed to by the landowner.
+15 d. Upon completion of the facility, the facility owner shall
+16 restore the soil conservation practices and structures damaged
+17 during construction of the facility to the elevation and grade
+18 existing on the land prior to the construction. The soil used
+19 to repair embankments intended to retain water shall be well
+20 compacted. Any vegetation disturbed during construction shall
+21 be reestablished, including cover crops when appropriate.
+22 e. Following compaction of the land, agricultural land that
+23 is not in row crop or small grain production at the time of
+24 construction, including hay ground and land in conservation or
+25 set-aside programs, shall be reseeded and a cover crop shall
+26 be utilized when appropriate. Seeding for cover crops may be
+27 delayed if the construction of the facility is completed too
+28 late in the year for a cover crop to become established and is
+29 not required if the land will be tilled in the following year.
+30 The landowner may request ground cover to prevent soil erosion
+31 in areas where construction on the facility is completed if the
+32 season is not suitable for seeding a cover crop.
+33 f. Unless agreed upon by the facility owner and the
+34 landowner, the facility owner shall remove field entrances
+35 or temporary roads built for the purpose of constructing the
+HF 639.1921 (1) 91
+-4- sb/js 4/29
+1 facility upon the completion of construction and restore the
+2 area to its previous use.
+3 g. A facility owner shall use good utility practices for
+4 constructing the facility in wet conditions, such as electing
+5 to use matting or padding when utilizing heavy equipment. A
+6 facility owner shall grade and till any rutted land to restore,
+7 to the extent practicable, the original condition of the land
+8 prior to the construction of the facility. If agreed upon by
+9 the facility owner and the landowner, the landowner may repair
+10 any damage caused by construction activities in wet conditions
+11 and the facility owner shall reimburse the landowner for the
+12 reasonable cost incurred to repair the damage. If a facility
+13 owner utilizes heavy equipment in wetlands or mudflats, mats or
+14 other measures shall be utilized to minimize soil disturbance.
+15 h. The facility owner shall designate a point of contact for
+16 inquiries or claims from an affected person. The designation
+17 shall include a name, a telephone number, an email address, and
+18 an address.
+19 2. a. If a facility owner and a landowner dispute a
+20 potential violation of the restoration standards provided in
+21 subsection 1, the commission may appoint a qualified individual
+22 to inspect the property for compliance. If the qualified
+23 individual determines that there has been a violation of the
+24 applicable restoration standards, the commission shall provide
+25 oral notice, followed by written notice, to the facility owner
+26 and the contractor operating for the facility owner and order
+27 corrective action to comply with the restoration standards.
+28 The facility owner shall be responsible for the costs of the
+29 corrective action.
+30 b. If the facility owner or the contractor for the facility
+31 owner does not comply with a valid order for corrective
+32 action issued by the commission, the commission may issue an
+33 order requiring corrective action to be taken and may impose
+34 civil penalties under section 478.29, which shall apply to a
+35 violation of this section in lieu of section 476A.14.
+HF 639.1921 (1) 91
+-5- sb/js 5/29
+1 c. The commission shall instruct the inspector appointed by
+2 the commission regarding the content of the statutes and rules
+3 and the responsibility of the inspector to require restoration
+4 conforming with the standards established in subsection 1.
+5 3. a. An applicant for a certificate shall file with the
+6 application a written land restoration plan that documents how
+7 the requirements and rules of subsection 1 will be met. The
+8 applicant shall provide a copy of the plan to all landowners
+9 of property that will be disturbed by the construction of the
+10 facility.
+11 b. Nothing in this section shall preclude the application
+12 of provisions for protecting or restoring property that are
+13 different than those prescribed in subsection 1, in rules
+14 adopted under subsection 1, or in the land restoration plan,
+15 if the alternative provisions are contained in agreements
+16 independently executed by the facility owner and the landowner.
+17 Independent agreements for land restoration between the
+18 facility owner and the landowner shall be in writing and made
+19 available to the commission upon request.
+20 c. The commission may by waiver allow variations from the
+21 requirements of subsection 1 if the facility owner requesting a
+22 waiver satisfies the standards set forth in section 17A.9A and
+23 if the alternative methods proposed by the facility owner would
+24 restore the land to a condition as good as or better than as
+25 provided for in subsection 1.
+26 d. The commission may waive preparation of a separate
+27 land restoration plan if the facility owner enters into an
+28 agricultural impact mitigation plan or similar agreement
+29 with the appropriate agencies of this state that satisfies
+30 the requirements of subsection 1. If a mitigation plan or
+31 agreement is used to fully or partially meet the requirements
+32 of a land restoration plan, the statement or agreement shall
+33 be filed with the commission and shall be considered to be,
+34 or to be part of, the land restoration plan for purposes of
+35 subsection 1.
+HF 639.1921 (1) 91
+-6- sb/js 6/29
+1 4. Nothing in this section shall limit, expand, or otherwise
+2 modify the rights of access and obligations for damages set
+3 forth in section 476A.16.
+4 5. The requirements of this section shall apply only to
+5 facility construction projects commenced on or after June 1,
+6 2025.
+7 Sec. 8. NEW SECTION. 476A.19 Particular damage claims.
+8 1. When the facility owner’s interest in the landowner’s
+9 property was acquired by the exercise of eminent domain
+10 pursuant to this chapter, compensable losses may include but
+11 are not limited to any of the following:
+12 a. Loss or reduced yield of crops or forage on the facility
+13 right-of-way, whether caused directly by construction or from
+14 disturbance of usual farm operations.
+15 b. Loss or reduced yield of crops from land near the
+16 facility right-of-way resulting from lack of timely access
+17 to the land or other disturbance of usual farm operations,
+18 including interference with irrigation or drainage.
+19 c. Costs associated with the application of fertilizer,
+20 lime, or organic material by the landowner to restore land
+21 disturbed by construction to full productivity.
+22 d. Loss of or damage to trees of commercial value that
+23 occurs at the time of construction or restoration, or at the
+24 time of any subsequent work by the individual, company, or
+25 corporation operating the facility.
+26 e. The cost of or losses in moving or relocating livestock,
+27 and the loss of gain by or the death or injury of livestock
+28 caused by the interruption or relocation of normal feeding.
+29 f. Erosion and soil compaction on lands attributable to
+30 facility construction.
+31 g. Damage to farm equipment caused by striking debris or
+32 other material reasonably associated with facility construction
+33 while engaged in normal farming operations as defined in
+34 section 480.1.
+35 h. Damage to soil or water conservation structures caused
+HF 639.1921 (1) 91
+-7- sb/js 7/29
+1 by construction, restoration, or subsequent work by the
+2 individual, company, or corporation operating the facility
+3 including but not limited to terraces, grassed waterways, water
+4 and sediment control basins, ponds, saturated buffers, and
+5 biofilters.
+6 i. Damage to irrigation or drainage systems caused
+7 by construction, restoration, or subsequent work by the
+8 individual, company, or corporation operating the facility.
+9 2. A claim for damages pursuant to this section shall not be
+10 precluded from renegotiation under section 6B.52 on the grounds
+11 that the damages were apparent at the time of settlement unless
+12 the settlement expressly releases the individual, company,
+13 or corporation operating the facility from the claim. The
+14 landowner shall notify the individual, company, or corporation
+15 in writing fourteen days prior to harvest in each year to
+16 assess crop deficiency.
+17 3. A landowner that incurred damage under this section
+18 is eligible for compensation for damages. A landowner may
+19 file a claim for damages against an individual, company, or
+20 corporation operating the facility in small claims or district
+21 court for a violation of this section.
+22 Sec. 9. Section 478.2, subsection 2, paragraph a, Code 2025,
+23 is amended to read as follows:
+24 a. A member of the commission, the counsel of the
+25 commission, or a presiding officer designated by the commission
+26 shall serve as the presiding officer at each meeting, shall
+27 present an agenda for such meeting, which shall include
+28 a summary of the legal rights of the affected landowners,
+29 and shall distribute and review the statement of individual
+30 rights required under section 6B.2A, subsection 1. At least
+31 one member of the commission shall attend each informational
+32 meeting. If at any point during the meeting no member of the
+33 commission is available for any reason, the meeting shall pause
+34 until at least one member of the commission returns. A formal
+35 record of the meeting shall not be required.
+HF 639.1921 (1) 91
+-8- sb/js 8/29
+1 Sec. 10. Section 478.2, subsection 4, Code 2025, is amended
+2 to read as follows:
+3 4. a. A person seeking rights under this chapter shall
+4 not negotiate or purchase any easements or other interests in
+5 land in any county known to be affected by the proposed project
+6 prior to the informational meeting. After such meeting, if
+7 notice by publication was properly made, a person seeking
+8 rights under this chapter and a landowner may enter a voluntary
+9 agreement for an interest in land without regard to whether
+10 the landowner received notice by mail. Prior to entering a
+11 voluntary agreement with a landowner who did not receive notice
+12 of the informational meeting by mail, the person seeking rights
+13 under this chapter shall provide such landowner copies of the
+14 informational meeting materials presented by the commission,
+15 the consumer advocate, and the person seeking rights under
+16 this chapter. Nothing in this paragraph shall prohibit a
+17 person seeking rights under this chapter from holding a meeting
+18 prior to the informational meeting required by this section to
+19 provide general information regarding a project to a community
+20 that does not include negotiating specific terms with specific
+21 landowners.
+22 b. A person seeking rights under this chapter may contact
+23 landowners within five miles of the project’s proposed route
+24 for the purpose of seeking voluntary easements under the same
+25 conditions as provided in paragraph “a”.
+26 Sec. 11. Section 478.5, Code 2025, is amended to read as
+27 follows:
+28 478.5 Notice —— objections filed.
+29 1. Upon the filing of such petition, the utilities
+30 commission shall cause a notice, addressed to the citizens
+31 of each county through which the proposed line or lines
+32 will extend, to be published in a newspaper located in each
+33 such county for two consecutive weeks. Said notice shall
+34 contain a general statement of the contents and purpose of the
+35 petition, a general description of the lands and highways to
+HF 639.1921 (1) 91
+-9- sb/js 9/29
+1 be traversed by the proposed line or lines, and shall state
+2 that any objections thereto must be filed in writing with the
+3 commission not later than twenty days after the date of last
+4 publication of the notice. Any person, company, city, or
+5 corporation whose rights may be affected, shall have the right
+6 to file written objections to the proposed improvement or to
+7 the granting of such franchise; such objections shall be filed
+8 with the commission not later than twenty days after the date
+9 of last publication and shall state the grounds therefor. The
+10 commission may allow objections to be filed later in which
+11 event the applicant must be given reasonable time to meet
+12 respond to such late objections.
+13 2. If a route is readjusted due to an objection filed
+14 pursuant to this section, the utilities commission shall not
+15 require the individual, company, or corporation asking for the
+16 franchise to resubmit a petition for a franchise pursuant to
+17 section 478.2.
+18 Sec. 12. Section 478.6, Code 2025, is amended by adding the
+19 following new subsection:
+20 NEW SUBSECTION. 4. The commission shall render a decision
+21 on a petition requesting the power of eminent domain no later
+22 than one year after the request for eminent domain is received
+23 by the commission.
+24 Sec. 13. Section 478.17, Code 2025, is amended to read as
+25 follows:
+26 478.17 Access to lines —— damages.
+27 1. Individuals or corporations operating transmission lines
+28 shall have reasonable access to the transmission lines for the
+29 purpose of constructing, reconstructing, enlarging, repairing,
+30 or locating the poles, wires, or construction and other devices
+31 used in or upon any line, but shall pay to the owner of the
+32 lands and of crops on the lands all damages to the lands or
+33 crops caused by entering, using, and occupying the lands for
+34 those purposes. This section shall not prevent the execution
+35 of an agreement between the person, or company, or corporation
+HF 639.1921 (1) 91
+-10- sb/js 10/29
+1 owning or operating the lines and the owner of the land or
+2 crops regarding the use of the land.
+3 2. A claim for damages pursuant to this section due to crop
+4 yield loss shall not be precluded from renegotiation under
+5 section 6B.52 on the grounds that the damages were apparent at
+6 the time of settlement unless the settlement expressly releases
+7 the person, company, or corporation owning or operating the
+8 lines from claims for damages to the productivity of the soil.
+9 A landowner that seeks damages under this section not subject
+10 to a release shall notify the person, company, or corporation
+11 in writing fourteen days prior to harvest in each year to
+12 assess crop deficiency.
+13 Sec. 14. NEW SECTION. 478.17A Drainage tile —— liability.
+14 For an applicant exercising the power of eminent domain
+15 pursuant to this chapter, an electric transmission owner
+16 as defined in section 478.16 shall be liable for repairs
+17 of drainage tile installed prior to the installation of
+18 the electric transmission line, when the installation,
+19 construction, operation, maintenance, or repair of the electric
+20 transmission line is the proximate cause of the damage to
+21 the drainage tile. The operator’s liability pursuant to
+22 this section shall continue for the life of the electric
+23 transmission line and shall include all of the following:
+24 1. The full replacement costs of the drainage tile,
+25 including, without limitation, material, labor, and equipment.
+26 2. The reclamation and restoration of topsoil as part of any
+27 drainage tile repair.
+28 Sec. 15. Section 478.29, subsection 1, Code 2025, is amended
+29 to read as follows:
+30 1. A person who violates a provision of this chapter or
+31 section 476A.18 is subject to a civil penalty, which may
+32 be levied by the commission, of not more than one hundred
+33 dollars per violation or one thousand dollars per day of a
+34 continuing violation, whichever is greater. Civil penalties
+35 collected pursuant to this section shall be forwarded by the
+HF 639.1921 (1) 91
+-11- sb/js 11/29
+1 chief operating officer of the commission to the treasurer
+2 of state to be credited to the general fund of the state and
+3 appropriated to the department of health and human services for
+4 purposes of the low income home energy assistance program and
+5 the weatherization assistance program.
+6 Sec. 16. NEW SECTION. 478.34 Land restoration standards.
+7 1. The commission shall adopt rules pursuant to chapter
+8 17A regarding the restoration of agricultural lands following
+9 construction of an electric transmission line subject to
+10 this chapter that is capable of operating at two hundred
+11 kilovolts or greater. Rules adopted under this section shall
+12 implement the following requirements, which shall not apply
+13 within the corporate limits of a city, to property excluded
+14 from a franchise under section 478.1, subsection 2, or to any
+15 construction, activity, or facility not subject to a franchise
+16 under this chapter:
+17 a. An electric transmission owner shall repair a damaged
+18 underground drain tile as soon as practicable during
+19 construction of the electric transmission line. Permanent
+20 repairs to the damaged underground drain tile shall be
+21 completed as soon as practicable after the initial construction
+22 of the electric transmission line is complete. The repairs
+23 made to the damaged drain tile shall be of at least equal
+24 quality, size, and flow capacity of the original drain tile.
+25 b. Following the construction of an electric transmission
+26 line, the electric transmission owner shall remove from the
+27 easement area all rock larger than three inches in average
+28 diameter not native to the soil of the excavated land. The
+29 rock removed from the excavated land that cannot be used to
+30 backfill shall be disposed of at a location and in a manner
+31 agreed upon by the electric transmission owner and the
+32 landowner.
+33 c. Upon completion of construction activities on a property,
+34 the electric transmission owner shall deep till agricultural
+35 land, including right-of-way access points or roads traversed
+HF 639.1921 (1) 91
+-12- sb/js 12/29
+1 by heavy construction equipment, to alleviate soil compaction.
+2 The land shall be tilled at least eighteen inches deep in land
+3 used for crop production and twelve inches deep in other lands
+4 unless otherwise agreed to by the landowner.
+5 d. Upon completion of the electric transmission line, the
+6 electric transmission owner shall restore the soil conservation
+7 practices and structures damaged during construction of the
+8 electric transmission line to the elevation and grade existing
+9 on the land prior to the construction. The soil used to
+10 repair embankments intended to retain water shall be well
+11 compacted. Any vegetation disturbed during construction shall
+12 be reestablished, including cover crops when appropriate.
+13 e. Following compaction of the land, agricultural land that
+14 is not in row crop or small grain production at the time of
+15 construction, including hay ground and land in conservation or
+16 set-aside programs, shall be reseeded and a cover crop shall
+17 be utilized when appropriate. Seeding for cover crops may be
+18 delayed if the construction of the electric transmission line
+19 is completed too late in the year for a cover crop to become
+20 established and is not required if the land will be tilled in
+21 the following year. The landowner may request ground cover
+22 to prevent soil erosion in areas where construction on the
+23 electric transmission line is completed if the season is not
+24 suitable for seeding a cover crop.
+25 f. Unless agreed upon by the electric transmission owner
+26 and the landowner, the electric transmission owner shall remove
+27 field entrances or temporary roads built for the purpose of
+28 constructing the electric transmission line upon the completion
+29 of construction and restore the area to its previous use.
+30 g. An electric transmission owner shall use good utility
+31 practices for constructing the electric transmission line in
+32 wet conditions, such as electing to use matting or padding when
+33 utilizing heavy equipment. An electric transmission owner
+34 shall grade and till any rutted land to restore, to the extent
+35 practicable, the original condition of the land prior to the
+HF 639.1921 (1) 91
+-13- sb/js 13/29
+1 construction of the electric transmission line. If agreed
+2 upon by the electric transmission owner and the landowner,
+3 the landowner may repair any damage caused by construction
+4 activities in wet conditions and the electric transmission
+5 owner shall reimburse the landowner for the reasonable cost
+6 incurred to repair the damage. If an electric transmission
+7 owner utilizes heavy equipment in wetlands or mudflats, mats or
+8 other measures shall be utilized to minimize soil disturbance.
+9 h. The electric transmission owner shall designate a point
+10 of contact for inquiries or claims from an affected person.
+11 The designation shall include a name, a telephone number, an
+12 email address, and an address.
+13 2. a. If an electric transmission owner and a landowner
+14 dispute a potential violation of the restoration standards
+15 provided in subsection 1, the commission may appoint a
+16 qualified individual to inspect the property for compliance.
+17 If the qualified individual determines that there has been
+18 a violation of the applicable restoration standards, the
+19 commission shall provide oral notice, followed by written
+20 notice, to the electric transmission owner and the contractor
+21 operating for the electric transmission owner and order
+22 corrective action to comply with the restoration standards.
+23 The electric transmission owner shall be responsible for the
+24 costs of the corrective action.
+25 b. If the electric transmission owner or the contractor
+26 for the electric transmission owner does not comply with a
+27 valid order for corrective action issued by the commission, the
+28 commission may issue an order requiring corrective action to be
+29 taken and may impose civil penalties under section 478.29.
+30 c. The commission shall instruct the inspector appointed by
+31 the commission regarding the content of the statutes and rules
+32 and the responsibility of the inspector to require restoration
+33 conforming with the standards established in subsection 1.
+34 3. a. A petitioner for a franchise for an electric
+35 transmission line shall file with the petition a written land
+HF 639.1921 (1) 91
+-14- sb/js 14/29
+1 restoration plan that documents how the requirements and rules
+2 of subsection 1 will be met. The petitioner shall provide a
+3 copy of the plan to all landowners of property that will be
+4 disturbed by the construction of the electric transmission
+5 line.
+6 b. Nothing in this section shall preclude the application
+7 of provisions for protecting or restoring property that are
+8 different than those prescribed in subsection 1, in rules
+9 adopted under subsection 1, or in the land restoration plan,
+10 if the alternative provisions are contained in agreements
+11 independently executed by the electric transmission owner and
+12 the landowner. Independent agreements for land restoration
+13 between the electric transmission owner and the landowner shall
+14 be in writing and shall be made available to the commission
+15 upon request.
+16 c. The commission may by waiver allow variations from the
+17 requirements of subsection 1 if the electric transmission
+18 owner requesting a waiver satisfies the standards set forth
+19 in section 17A.9A and if the alternative methods proposed
+20 by the electric transmission owner would restore the land
+21 to a condition as good as or better than as provided for in
+22 subsection 1.
+23 d. The commission may waive preparation of a separate land
+24 restoration plan if the electric transmission owner enters into
+25 an agricultural impact mitigation plan or similar agreement
+26 with the appropriate agencies of this state that satisfies
+27 the requirements of subsection 1. If a mitigation plan or
+28 agreement is used to fully or partially meet the requirements
+29 of a land restoration plan, the statement or agreement shall
+30 be filed with the commission and shall be considered to be,
+31 or to be part of, the land restoration plan for purposes of
+32 subsection 1.
+33 4. Nothing in this section shall limit, expand, or otherwise
+34 modify the rights of access and obligations for damages set
+35 forth in section 478.17.
+HF 639.1921 (1) 91
+-15- sb/js 15/29
+1 5. The requirements of this section shall apply only to
+2 electric transmission line construction projects commenced on
+3 or after June 1, 2025.
+4 Sec. 17. NEW SECTION. 478.35 Particular damage claims.
+5 1. When the electric transmission line owner’s interest
+6 in the landowner’s property was acquired by the exercise of
+7 eminent domain pursuant to this chapter, compensable losses may
+8 include but are not limited to any of the following:
+9 a. Loss or reduced yield of crops or forage on the electric
+10 transmission line right-of-way, whether caused directly by
+11 construction or from disturbance of usual farm operations.
+12 b. Loss or reduced yield of crops from land near the
+13 electric transmission line right-of-way resulting from lack of
+14 timely access to the land or other disturbance of usual farm
+15 operations, including interference with irrigation or drainage.
+16 c. Costs associated with the application of fertilizer,
+17 lime, or organic material by the landowner to restore land
+18 disturbed by construction to full productivity.
+19 d. Loss of or damage to trees of commercial value that
+20 occurs at the time of construction or restoration, or at the
+21 time of any subsequent work by the individual, company, or
+22 corporation operating the transmission line.
+23 e. The cost of or losses in moving or relocating livestock,
+24 and the loss of gain by or the death or injury of livestock
+25 caused by the interruption or relocation of normal feeding.
+26 f. Erosion and soil compaction on lands attributable to
+27 electric transmission line construction.
+28 g. Damage to farm equipment caused by striking debris or
+29 other material reasonably associated with electric transmission
+30 line construction while engaged in normal farming operations as
+31 defined in section 480.1.
+32 h. Damage to soil or water conservation structures caused
+33 by construction, restoration, or subsequent work by the
+34 individual, company, or corporation operating the transmission
+35 line including but not limited to terraces, grassed waterways,
+HF 639.1921 (1) 91
+-16- sb/js 16/29
+1 water and sediment control basins, ponds, saturated buffers,
+2 and biofilters.
+3 i. Damage to irrigation or drainage systems caused
+4 by construction, restoration, or subsequent work by the
+5 individual, company, or corporation operating the transmission
+6 line.
+7 2. A claim for damages pursuant to this section shall not be
+8 precluded from renegotiation under section 6B.52 on the grounds
+9 that the damages were apparent at the time of settlement unless
+10 the settlement expressly releases the individual, company,
+11 or corporation operating the transmission line from the
+12 claim. The landowner shall notify the individual, company, or
+13 corporation in writing fourteen days prior to harvest in each
+14 year to assess crop deficiency. The landowner may submit a
+15 global positioning yield map to demonstrate such crop loss, but
+16 the information contained in such map shall not be dispositive
+17 as to the extent or causation of the damages, which may be
+18 contested by the individual, company, or corporation operating
+19 the transmission line.
+20 3. A landowner that incurred damage under this section
+21 is eligible for compensation for damages. A landowner may
+22 file a claim for damages against an individual, company, or
+23 corporation operating the transmission line in small claims
+24 or district court for a violation of this section or pursue
+25 remedies under section 478.36.
+26 Sec. 18. NEW SECTION. 478.36 Hearing —— commission member
+27 attendance.
+28 All hearings initiated under this chapter shall follow the
+29 attendance rules governing commission members as provided in
+30 section 476.33, subsection 5.
+31 Sec. 19. Section 479.5, subsection 3, paragraph a, Code
+32 2025, is amended to read as follows:
+33 a. A pipeline company shall hold informational meetings
+34 in each county in which real property or property rights will
+35 be affected at least thirty days prior to filing the petition
+HF 639.1921 (1) 91
+-17- sb/js 17/29
+1 for a new pipeline. A member of the commission or a person
+2 designated by the commission shall serve as the presiding
+3 officer at each meeting, shall present an agenda for the
+4 meeting, which shall include a summary of the legal rights
+5 of the affected landowners, and shall distribute and review
+6 the statement of individual rights required under section
+7 6B.2A. At least one member of the commission shall attend each
+8 informational meeting. If at any point during the meeting
+9 no member of the commission is available for any reason, the
+10 meeting shall pause until at least one member of the commission
+11 returns. A formal record of the meeting shall not be required.
+12 Sec. 20. Section 479.5, subsection 5, Code 2025, is amended
+13 to read as follows:
+14 5. a. A pipeline company person seeking rights under this
+15 chapter shall not negotiate or purchase any easements or other
+16 interests in land in any county known to be affected by the
+17 proposed project prior to the informational meeting. After
+18 such meeting, if notice by publication was properly made, a
+19 person seeking rights under this chapter and a landowner may
+20 enter a voluntary agreement for an interest in land without
+21 regard to whether the landowner received notice by mail. Prior
+22 to entering a voluntary agreement with a landowner who did not
+23 receive notice of the informational meeting by mail, the person
+24 seeking rights under this chapter shall provide such landowner
+25 copies of the informational meeting materials presented by
+26 the commission, the consumer advocate, and the person seeking
+27 rights under this chapter. Nothing in this paragraph shall
+28 prohibit a person seeking rights under this chapter from
+29 holding a meeting prior to the informational meeting required
+30 by this section to provide general information regarding a
+31 project to a community that does not include negotiating
+32 specific terms with specific landowners.
+33 b. A person seeking rights under this chapter may contact
+34 landowners within five miles of the project’s proposed route
+35 for the purpose of seeking voluntary easements under the same
+HF 639.1921 (1) 91
+-18- sb/js 18/29
+1 conditions as provided in paragraph “a”.
+2 Sec. 21. Section 479.9, Code 2025, is amended to read as
+3 follows:
+4 479.9 Objections.
+5 1. Any person, corporation, company, or city whose rights
+6 or interests may be affected by a proposed pipeline or lines
+7 or gas storage facilities may file written objections to the
+8 proposed pipeline or lines or gas storage facilities or to the
+9 granting of a permit.
+10 2. If a pipeline or line route is readjusted or a gas
+11 storage facility is relocated due to an objection filed
+12 pursuant to this section, the utilities commission shall not
+13 require a pipeline company to resubmit an application for a
+14 permit pursuant to section 479.5.
+15 Sec. 22. Section 479.12, Code 2025, is amended to read as
+16 follows:
+17 479.12 Final order —— condition.
+18 The commission may grant a permit in whole or in part upon
+19 terms, conditions, and restrictions as to safety requirements
+20 and as to location and route as determined by it to be just
+21 and proper. Before a permit is granted to a pipeline company,
+22 the commission, after a public hearing as provided in this
+23 chapter, shall determine whether the services proposed to be
+24 rendered will promote the public convenience and necessity, and
+25 an affirmative finding to that effect is a condition precedent
+26 to the granting of a permit. The commission shall render a
+27 decision on a petition requesting the power of eminent domain
+28 no later than one year after the request for eminent domain is
+29 received by the commission.
+30 Sec. 23. Section 479.25, Code 2025, is amended to read as
+31 follows:
+32 479.25 Damages.
+33 1. A pipeline company operating a pipeline or a gas
+34 storage area shall have reasonable access to the pipeline or
+35 gas storage area for the purpose of constructing, operating,
+HF 639.1921 (1) 91
+-19- sb/js 19/29
+1 maintaining, or locating pipes, pumps, pressure apparatus or
+2 other stations, wells, devices, or equipment used in or upon
+3 the pipeline or gas storage area; shall pay the owner of the
+4 land for the right of entry and the owner of crops for all
+5 damages caused by entering, using, or occupying the land; and
+6 shall pay to the owner all damages caused by the completion
+7 of construction of the pipeline due to wash or erosion of the
+8 soil at or along the location of the pipeline and due to the
+9 settling of the soil along and above the pipeline. However,
+10 this section shall not prevent the execution of an agreement
+11 between the pipeline company and the owner of land or crops
+12 with reference to the use of the land.
+13 2. A claim for damages pursuant to this section due to crop
+14 yield loss shall not be precluded from renegotiation under
+15 section 6B.52 on the grounds that the damages were apparent
+16 at the time of settlement unless the settlement expressly
+17 releases the pipeline company from claims for damages to the
+18 productivity of the soil. A landowner that seeks damages under
+19 this section not subject to a release shall notify the pipeline
+20 company in writing fourteen days prior to harvest in each year
+21 to assess crop deficiency.
+22 Sec. 24. Section 479.29, Code 2025, is amended by adding the
+23 following new subsection:
+24 NEW SUBSECTION. 1A. For a pipeline company exercising
+25 the power of eminent domain pursuant to this chapter, the
+26 pipeline company shall be liable for repairs of drain tile
+27 installed prior to the installation of the pipeline, when the
+28 installation, construction, operation, maintenance, or repair
+29 of the pipeline is the proximate cause of the damage to the
+30 drainage tile. The pipeline company’s liability pursuant to
+31 this section shall continue for the life of the pipeline and
+32 shall include all of the following:
+33 a. The full replacement costs of the drainage tile,
+34 including, without limitation, material, labor, and equipment.
+35 b. The reclamation and restoration of topsoil as part of any
+HF 639.1921 (1) 91
+-20- sb/js 20/29
+1 drainage tile repair.
+2 Sec. 25. Section 479.29, subsection 5, Code 2025, is amended
+3 to read as follows:
+4 5. If the pipeline company or its contractor does not
+5 comply with the requirements of this section, with the
+6 land restoration plan, or with an independent agreement on
+7 land restoration or line location executed in accordance
+8 with subsection 10, the county board of supervisors or a
+9 landowner may petition the commission for an order requiring
+10 corrective action to be taken. In addition, the county board
+11 of supervisors or a landowner may file a complaint with the
+12 commission seeking imposition of civil penalties pursuant to
+13 section 479.31. A landowner may supply a copy of the complaint
+14 to the county board of supervisors where the complaint
+15 originated.
+16 Sec. 26. Section 479.45, subsection 1, paragraphs b and f,
+17 Code 2025, are amended to read as follows:
+18 b. Loss or reduced yield of crops or yield from land near
+19 the pipeline right-of-way resulting from lack of timely access
+20 to the land or other disturbance of usual farm operations,
+21 including interference with irrigation or drainage.
+22 f. Erosion and soil compaction on lands attributable to
+23 pipeline construction.
+24 Sec. 27. Section 479.45, subsection 1, Code 2025, is amended
+25 by adding the following new paragraphs:
+26 NEW PARAGRAPH. h. Damage to soil or water conservation
+27 structures caused by construction, restoration, or subsequent
+28 work by the pipeline company including but not limited to
+29 terraces, grassed waterways, water and sediment control basins,
+30 ponds, saturated buffers, and biofilters.
+31 NEW PARAGRAPH. i. Damage to irrigation or drainage systems
+32 caused by construction, restoration, or subsequent work by the
+33 pipeline company.
+34 Sec. 28. Section 479.45, subsection 2, Code 2025, is amended
+35 to read as follows:
+HF 639.1921 (1) 91
+-21- sb/js 21/29
+1 2. A claim for damage for future crop deficiency within
+2 the easement strip damages incurred under this section shall
+3 not be precluded from renegotiation under section 6B.52 on
+4 the grounds that it was apparent at the time of settlement
+5 unless the settlement expressly releases the pipeline company
+6 from claims for damage to the productivity of the soil. The A
+7 landowner that seeks damages under this section not subject to
+8 a release shall notify the pipeline company in writing fourteen
+9 days prior to harvest in each year to assess crop deficiency.
+10 The landowner may submit a global positioning yield map to
+11 demonstrate such crop loss, but the information contained in
+12 such map shall not be dispositive as to the extent or causation
+13 of the damages, which may be contested by the pipeline company.
+14 Sec. 29. Section 479.45, Code 2025, is amended by adding the
+15 following new subsection:
+16 NEW SUBSECTION. 3. A landowner that incurred damage under
+17 this section is eligible for compensation for damages. A
+18 landowner may file a claim for damages against a pipeline
+19 company in small claims or district court for a violation of
+20 this section or pursue remedies under section 479.46.
+21 Sec. 30. Section 479.46, subsection 7, Code 2025, is amended
+22 to read as follows:
+23 7. As used in this section, “damages” means compensation for
+24 damages to the land, crops, and other personal property caused
+25 by the construction activity of installing a pipeline and its
+26 attendant structures or underground storage facility, or a
+27 compensable loss as described in section 479.45, subsection 1,
+28 but does not include compensation for a property interest, and
+29 “landowner” includes a farm tenant.
+30 Sec. 31. NEW SECTION. 479.50 Hearing —— commission member
+31 attendance.
+32 All hearings initiated under this chapter shall follow the
+33 attendance rules governing commission members as provided in
+34 section 476.33, subsection 5.
+35 Sec. 32. Section 479A.11, Code 2025, is amended to read as
+HF 639.1921 (1) 91
+-22- sb/js 22/29
+1 follows:
+2 479A.11 Damages.
+3 1. A pipeline company operating pipelines or underground
+4 storage shall be given reasonable access to the pipelines and
+5 storage areas for the purpose of constructing, operating,
+6 maintaining, or locating their pipes, pumps, pressure
+7 apparatus, or other stations, wells, devices, or equipment used
+8 in or upon a pipeline or storage area, but shall pay the owner
+9 of the lands for the right of entry and the owner of crops on
+10 the land all damages caused by entering, using, or occupying
+11 the lands for these purposes; and shall pay to the owner of the
+12 lands, after the completion of construction of the pipeline or
+13 storage, all damages caused by settling of the soil along and
+14 above the pipeline, and wash or erosion of the soil along the
+15 pipeline due to the construction of the pipeline. However,
+16 this section does not prevent the execution of an agreement
+17 with other terms between the pipeline company and the owner of
+18 the land or crops with reference to their use.
+19 2. A claim for crop yield loss damages pursuant to this
+20 section shall not be precluded from renegotiation under section
+21 6B.52 on the grounds that the damages were apparent at the time
+22 of settlement unless the settlement expressly releases the
+23 pipeline company from claims for damages to the productivity of
+24 the soil. A landowner that seeks damages under this section
+25 not subject to a release shall notify the pipeline company in
+26 writing fourteen days prior to harvest in each year to assess
+27 crop deficiency.
+28 Sec. 33. Section 479B.4, subsection 3, Code 2025, is amended
+29 to read as follows:
+30 3. The pipeline company shall hold informational meetings
+31 in each county in which real property or property rights will
+32 be affected at least thirty days prior to filing the petition
+33 for a new pipeline. A member of the commission, or a person
+34 designated by the commission, shall serve as the presiding
+35 officer at each meeting and present an agenda for the meeting,
+HF 639.1921 (1) 91
+-23- sb/js 23/29
+1 which shall include a summary of the legal rights of the
+2 affected landowners. At least one member of the commission
+3 shall attend each informational meeting. If at any point
+4 during the meeting no member of the commission is available for
+5 any reason, the meeting shall pause until at least one member
+6 of the commission returns. No formal record of the meeting
+7 shall be required. The meeting shall be held at a location
+8 reasonably accessible to all persons who may be affected by
+9 granting the permit.
+10 Sec. 34. Section 479B.4, subsection 6, Code 2025, is amended
+11 to read as follows:
+12 6. a. A pipeline company person seeking rights under
+13 this chapter shall not negotiate or purchase an easement or
+14 other interest in land in a county known to be affected by the
+15 proposed project prior to the informational meeting. After
+16 such meeting, if notice by publication was properly made, a
+17 person seeking rights under this chapter and a landowner may
+18 enter a voluntary agreement for an interest in land without
+19 regard to whether the landowner received notice by mail. Prior
+20 to entering a voluntary agreement with a landowner who did not
+21 receive notice of the informational meeting by mail, the person
+22 seeking rights under this chapter shall provide such landowner
+23 copies of the informational meeting materials presented by
+24 the commission, the consumer advocate, and the person seeking
+25 rights under this chapter. Nothing in this paragraph shall
+26 prohibit a person seeking rights under this chapter from
+27 holding a meeting prior to the informational meeting required
+28 by this section to provide general information regarding a
+29 project to a community that does not include negotiating
+30 specific terms with specific landowners.
+31 b. A person seeking rights under this chapter may contact
+32 landowners within five miles of the project’s proposed route
+33 for the purpose of seeking voluntary easements under the same
+34 conditions as provided in paragraph “a”.
+35 Sec. 35. Section 479B.7, Code 2025, is amended by adding the
+HF 639.1921 (1) 91
+-24- sb/js 24/29
+1 following new subsection:
+2 NEW SUBSECTION. 3. If a pipeline route is readjusted due
+3 to an objection filed pursuant to this section, the utilities
+4 commission shall not require a pipeline company to resubmit an
+5 application for a permit pursuant to section 479B.4.
+6 Sec. 36. Section 479B.9, Code 2025, is amended to read as
+7 follows:
+8 479B.9 Final order —— condition.
+9 The commission may grant a permit in whole or in part upon
+10 terms, conditions, and restrictions as to location and route
+11 as it determines to be just and proper. A permit shall not be
+12 granted to a pipeline company unless the commission determines
+13 that the proposed services will promote the public convenience
+14 and necessity. The commission shall render a decision on a
+15 petition requesting the power of eminent domain no later than
+16 one year after the request for eminent domain is received by
+17 the commission.
+18 Sec. 37. Section 479B.16, Code 2025, is amended by adding
+19 the following new subsection:
+20 NEW SUBSECTION. 4. a. Notwithstanding subsection 1, a
+21 pipeline company granted a permit for a pipeline to carry
+22 liquefied carbon dioxide shall not be authorized to use eminent
+23 domain except under all of the following circumstances:
+24 (1) The pipeline was permitted by the commission prior to
+25 the effective date of this Act.
+26 (2) The pipeline company’s petition process for a permit was
+27 initiated by the filing of a request with the commission for
+28 a date for an informational meeting as required under section
+29 479B.4, or the petition for amendment was on file with the
+30 commission prior to the effective date of this Act, including
+31 if the petition was subject to review and amendment.
+32 b. A pipeline for which the sole purpose is to attach a new
+33 shipper, customer, or off-taker to a pipeline for which eminent
+34 domain is authorized under paragraph “a” is authorized to use
+35 eminent domain provided at least sixty-seven hundredths of the
+HF 639.1921 (1) 91
+-25- sb/js 25/29
+1 affected parcels and of the total distance of the facility have
+2 been acquired through voluntary easements. The commission
+3 shall not require more than sixty-seven hundredths of easements
+4 to be voluntary for purposes of this paragraph.
+5 Sec. 38. Section 479B.17, Code 2025, is amended to read as
+6 follows:
+7 479B.17 Damages.
+8 1. A pipeline company operating a pipeline or an
+9 underground storage facility shall have reasonable access to
+10 the pipeline or underground storage facility for the purpose
+11 of constructing, operating, maintaining, or locating pipes,
+12 pumps, pressure apparatus, or other stations, wells, devices,
+13 or equipment used in or upon the pipeline or underground
+14 storage facility. A pipeline company shall pay the owner of
+15 the land for the right of entry and the owner of crops for all
+16 damages caused by entering, using, or occupying the lands and
+17 shall pay to the owner all damages caused by the completion
+18 of construction of the pipeline due to wash or erosion of the
+19 soil at or along the location of the pipeline and due to the
+20 settling of the soil along and above the pipeline. However,
+21 this section does not prevent the execution of an agreement
+22 between the pipeline company and the owner of the land or crops
+23 with reference to the use of the land.
+24 2. A claim for crop yield loss damages pursuant to this
+25 section shall not be precluded from renegotiation under section
+26 6B.52 on the grounds that the damages were apparent at the time
+27 of settlement unless the settlement expressly releases the
+28 pipeline company from claims for damages to the productivity of
+29 the soil. A landowner that seeks damages under this section
+30 not subject to a release shall notify the pipeline company in
+31 writing fourteen days prior to harvest in each year to assess
+32 crop deficiency.
+33 Sec. 39. Section 479B.20, Code 2025, is amended by adding
+34 the following new subsection:
+35 NEW SUBSECTION. 1A. For a pipeline company exercising
+HF 639.1921 (1) 91
+-26- sb/js 26/29
+1 the power of eminent domain pursuant to this chapter, the
+2 pipeline company shall be liable for repairs of drainage tile
+3 installed prior to the installation of the pipeline, when the
+4 installation, construction, operation, maintenance, or repair
+5 of the pipeline is the proximate cause of the damage to the
+6 drainage tile. The pipeline company’s liability pursuant to
+7 this section shall continue for the life of the pipeline and
+8 shall include all of the following:
+9 a. The full replacement costs of the drainage tile,
+10 including, without limitation, material, labor, and equipment.
+11 b. The reclamation and restoration of topsoil as part of any
+12 drainage tile repair.
+13 Sec. 40. Section 479B.20, subsection 5, Code 2025, is
+14 amended to read as follows:
+15 5. If the pipeline company or its contractor does not
+16 comply with the requirements of this section, with the land
+17 restoration plan or line location, or with an independent
+18 agreement on land restoration executed in accordance with
+19 subsection 10, the county board of supervisors or a landowner
+20 may petition the commission for an order requiring corrective
+21 action to be taken. In addition, the county board of
+22 supervisors or a landowner may file a complaint with the
+23 commission seeking imposition of civil penalties under section
+24 479B.21. A landowner may supply a copy of the complaint to the
+25 county board of supervisors where the complaint originated.
+26 Sec. 41. Section 479B.29, subsection 1, paragraphs b and f,
+27 Code 2025, are amended to read as follows:
+28 b. Loss or reduced yield of crops or yield from land near
+29 the pipeline right-of-way resulting from lack of timely access
+30 to the land or other disturbance of usual farm operations,
+31 including interference with irrigation or drainage.
+32 f. Erosion and soil compaction on lands attributable to
+33 pipeline construction.
+34 Sec. 42. Section 479B.29, subsection 1, Code 2025, is
+35 amended by adding the following new paragraphs:
+HF 639.1921 (1) 91
+-27- sb/js 27/29
+1 NEW PARAGRAPH. h. Damage to soil or water conservation
+2 structures caused by construction, restoration, or subsequent
+3 work by the pipeline company including but not limited to
+4 terraces, grassed waterways, water and sediment control basins,
+5 ponds, saturated buffers, and biofilters.
+6 NEW PARAGRAPH. i. Damage to irrigation or drainage systems
+7 caused by construction, restoration, or subsequent work by the
+8 pipeline company.
+9 Sec. 43. Section 479B.29, subsection 2, Code 2025, is
+10 amended to read as follows:
+11 2. A claim for damage for future crop deficiency within
+12 the easement strip damages incurred under this section shall
+13 not be precluded from renegotiation under section 6B.52 on
+14 the grounds that it was apparent at the time of settlement
+15 unless the settlement expressly releases the pipeline company
+16 from claims for damage to the productivity of the soil. The A
+17 landowner that seeks damages under this section not subject to
+18 a release shall notify the pipeline company in writing fourteen
+19 days prior to harvest in each year to assess crop deficiency.
+20 The landowner may submit a global positioning yield map to
+21 demonstrate such crop loss, but the information contained in
+22 such map shall not be dispositive as to the extent or causation
+23 of the damages, which may be contested by the pipeline company.
+24 Sec. 44. Section 479B.29, Code 2025, is amended by adding
+25 the following new subsection:
+26 NEW SUBSECTION. 3. A landowner that incurred damage under
+27 this section is eligible for compensation for damages. A
+28 landowner may file a claim for damages against a pipeline
+29 company in small claims or district court for a violation of
+30 this section or pursue remedies under section 479B.30.
+31 Sec. 45. Section 479B.30, subsection 7, Code 2025, is
+32 amended to read as follows:
+33 7. As used in this section, “damages” means compensation for
+34 damages to the land, crops, and other personal property caused
+35 by the construction of a pipeline and its attendant structures
+HF 639.1921 (1) 91
+-28- sb/js 28/29
+1 or underground storage facility, or a compensable loss as
+2 described in section 479B.29, subsection 1, but does not
+3 include compensation for a property interest, and “landowner”
+4 includes a farm tenant.
+5 Sec. 46. NEW SECTION. 479B.34 Hearing —— commission member
+6 attendance.
+7 All hearings initiated under this chapter shall follow the
+8 attendance rules governing commission members as provided in
+9 section 476.33, subsection 5.
+10 Sec. 47. RETROACTIVE APPLICABILITY. The section of this Act
+11 amending section 479B.4, subsection 6, applies retroactively to
+12 voluntary agreements between a pipeline company and a landowner
+13 entered into on or after January 1, 2024.>
+14 2. Title page, by striking lines 1 through 8 and
+15 inserting <An Act relating to public utilities, including
+16 utility commission member attendance at hearings and
+17 informational meetings, utility commission decision timelines,
+18 land restoration standards, claims for damages, easement
+19 negotiations, and the exercise of eminent domain for the
+20 construction of hazardous liquid pipelines, making civil
+21 penalties applicable, and including retroactive applicability
+22 provisions.>
+______________________________
+MIKE BOUSSELOT
+HF 639.1921 (1) 91
+-29- sb/js 29/29
+[DELETED: eFe6AdHeFe6,asa,p,adrdbteH,asf1.Bysgegarteegceai<n1.Sn4,Ce2,isadbyatefgnwsNWS.5.Frhsidurtc,amyoftemsoftecnslbptdgaylet.Ifatayptdgl0tyatahglstnamyoftem1aeaefrayr,temgslpeul2myoftemsoftecnaea3S.2.Sn4,Ce2,isadbyagt4fgnws5NWS.6.Alhsidurt6crslfwteaersggc7msaspdinsn4,sn58NWS.7.Arah,ifneb9pnwspym,anorofanecp0gnadtnfyadapyorm1eravyatfranitintep2wtrdtowrtepyorrdn3bym4S.3.NWSAO51.Ifanatisegteprofetd6pttotsc,ap,igag7e,wersorismybeadbyt8pdfymyfewno92.Alosslbeonfewhtec0ntlstnfedsbetedeofhgont1a.H,tecnmypttef2ofteoslrtnfedsbeteh,i3whetteatmtbegdaretet4rdtoteo53.IfafyisrddetoanonfF61()9]
+[DELETED: pttotss,teuscnslnreanattortananfrappttosn44.Ngayorpsintssanonfdbyagteyttisarayorcyorcyzgaysttotrsofsn45sloyasisnwnteseofsn4S.4.Sn4,udph1,Ce20isadtordasf1Tecnslrradnonteani2anesm.Tecnslrrad3onananrgteprofetdnn4lrtnoeyrartertfretdni5rdbytec.Aceslbeidt6teatiftecnfsaloftef7S.5.NWS6Astols——d81.Isorcsogt9lsfrtefyslhereast0tetnlsfrtepeofc1r,e,r,orlgtep2w,orcnadordsudinoruna3l,btslpytoteoroftelsadofcso4telsaldstotelsorcscdbye5u,adogtelsfrtep.T6snslntptteenofanatb7tep,c,orcnogorogt8lsadteorofteldorcsrgteueo9tel02.Acmfrcpydlsdspttot1snslntbepdfmrnurs262ontegstttedsweatattet3ofstustesteyrst4p,c,orcnogorogtel5fmcsfrdstotepyoftes.F61()9]
+[DELETED: lrttssdsurtssnntsttareslnytep,c,orcniwgfndsprtohtinehyrtoacpdS.6.NWS7Dete——lFranategteprofetdpttotsc,teorofteecpgnadtnfyslbelefrsofdeteidprtoteino0tef,wntei,c,o1m,orrroftefyistepec2oftedetotedet.Teosl3pttotssnslcefrteleoft4ecprgnadtnfyads5iealoftef61.Teflrtcsoftedet7i,wtl,m,l,ade82.Ternadrnoftlasptofa9deter0S.7.NWS8Ldrns11.Tecnslatrspttoc21Argternofallsf3cnofafysttotsc.R4adurtssnslittef5r,whslntaywntecel6ofac,toayldodbytefyo,ortoa7c,a,orfyortnafya8ddintsc9Afyorslrraddu0dnteassnaspedgcnoft1f.Ptrstoteddudd2teslbecdassnaspeart3ilcnoftefyisc.Ter4metotedddnteslbeofatlte5q,s,adfwcyofteoldntF61()9]
+[DELETED: Fgtecnoftef,teforslrefmayetaaalrklrtteisinaedrntnetotesloftedl.TerkrdfmteedldtctbeudtoblslbeddofataladinamradunbytefyoradtlUncnofcnasonaptefyorsldptlall,i0ryaspsorrstdbyh1cne,toaeslc.Tel2slbetdatltenisdpinldudf3cppnadteisdpinorlsu4oeadtobytel5Uncnoftef,tefyors6reteslcnpsadssd7dgcnoftefytoteenadg8egonteldprtotec.Teslu9torresidtornwrslbew0c.Ayvndddgcns1ber,igcrcswna2Fgcnoftel,alldt3isntinrwcporslgnpnatteteo4c,ighygdadldincno5sep,slberdadacrcps6beudwna.Sgfrcrcsmyb7ddiftecnoftefyiscdt8leinteyrfracrcptobeedadi9ntrdifteldwlbetdintefgy0Telrmyrtgdcrtoptsle1inaswecnontefyiscdift2snisntsefrsgacrc3Usadunbytefyoradt4l,tefyorslrefde5ortyrsbtfrtepeofcgtF61()9]
+[DELETED: fyuntecnofcnadretaatoispsuAfyorsluegduypsfcgtefyinwtc,shasetouemgorpgwnughye.fyorslgeadtlayrdldtortoteetp,teolcnoftelprtotecnoftef.Ifadunbtefyoradtel,telrmyr0aydecdbycnasinwtc1adtefyorslretelrfrt2rectidtorrted.Ifaf3orushyetinwsorm,mso4ormsslbeudtomesld5Tefyorsldeaptofctf6isorcsfmanadp.Ted7sliean,aten,anela,a8ana92.Ifafyoradalrde0plvnofternsspdi1sn1,tecnmyataqdi2toittepyfrc.Ifteq3ildstttehsbnavnoft4aerns,tecnslp5oln,fdbywnn,totefyo6adtecrogfrtefyorado7ceantocywhterns8Tefyorslberefrtecsoft9cea0Iftefyorortecrfrtef1ordsntcywhavdorfrc2anidbytec,tecnmyiea3orrgceantobetnadmyi4clpsursn4,whslayto5vnoftssninluofsn4F61()9]
+[DELETED: Tecnslitteiradbtecnrgtectoftessadradteryofteirtorercgwhtessedinsn13.Anatfraceslfewhtanawnldrnpnttdshtersadrsofsn1wlbem.Tatslpeacyoftepntoallofpyttwlbeddbytecnoft0f1Ngintssnslpetea2ofpsfrpgorrgpytta3dttntepdinsn1,inr4adursn1,orinteldrnp5ifteaepsaecdina6iyedbytefyoradtel7Itasfrldrnbnt8fyoradtelrslbeinwgadm9aetotecnunr0Tecnmybywrawvsfmt1rsofsn1iftefyorrg2wrsstessstfhinsn1Aa3ifteaemspdbytefyorw4reteldtoacnasgdasorbrtna5pdfrinsn16Tecnmywepnofas7ldrnpniftefyoresioa8alitmnpnorsra9whteaeasoftssetts0tersofsn1.Ifamnpno1atisudtofyorpymtter2ofaldrnp,testorats3befdwhtecnadslbecdtob4ortobepto,teldrnpnfrpso5sn1F61()9]
+[DELETED: 4.Ngintssnsll,e,oromytersofasadosfrdssfhinsn45.TersoftssnslayoytfycnpscdonorarJe12S.8.NWS9Prdec1.Wntefyositintelpywsadbyteeeofetd0pttotsc,celsmyieb1aentldtoayoftef2Lsorrdydofcsorfeontef3r,wrcddybycnorf4deofulfmo5Lsorrdydofcsfmldnrt6fyryrgfmlkoftya7toteldorordeofulfmo8igiewhinord9Csadwhteanoff0l,orocmlbytelrtorel1ddbycntoflp2Lsofordetotsofclvet3osatteteofcnorr,oratt4teofaystwkbytei,c,o5cnogtef6Tectoforlsinmgorrgl7adtelsofgnbyortedhoriyofl8cdbyteinorrnofnlf9Enadslcnonlsaet0fyc1Detofmetcdbysgdso2ormlryadwhfyc3weedinnlfgosasddi4sn45DetoslorwrcnsscF61()9]
+[DELETED: byc,r,orstwkbyti,c,orcnogtefigbtntldtot,gdw,wadstclb,p,sdb,abDetoinordesscbyc,r,orstwkbyti,c,orcnogtef2.Acmfrdspttotssnslntb0pdfmrnursn62onteg1tttedsweatatteteofstu2testeyrstei,c3orcnogtefyfmtec.T4lrslnytei,c,orc5inwgfndsprtohtinehyrt6ascpd73.Alrttiddeurtss8iseefrcnfrd.Alrm9feacmfrdsatani,c,o0cnogtefyinslcsord1ctfravnoftss2S.9.Sn4,sn2,pha,Ce23isadtordasf4Amroftec,tecloft5c,orapgorddbytec6slseastepgoratehm,s7ptanaafrshm,whsli8asyoftellrsofteadl9adsldeadrwtestofi0rsrdursn6,sn1.Atl1oemroftecnsladehi2m.Ifatayptdgtemgnomroft3cnisaefrayr,temgslp4ulatltoemroftecnr.Af5rdoftemgslntberF61()9]
+[DELETED: S.1.Sn4,sn4,Ce2,isatordasf4.Apnsgrsurtscrsntneorpeayesororisildinaycykntobeadbytepdpprtoteilm.Arshm,inebypnwspym,apnsrsurtscradalrmyeravatfranitinldwtrdtow0telrrdnebym.Prtoeg1vyatwhalrwoddntren2ofteilmgbym,tepnsgr3urtscrslpeshlrcsoft4ilmgmspdbytec5tecra,adtepnsgrsu6tsc.Ngintsphslpt7pnsgrsurtscrfmhgam8prtoteilmgrdbytssnt9peglinrgapttoac0ttdsntiengsctswhs1l2Apnsgrsurtscrmyc3lswnfemsoftepspdr4frtepeofsgvyesurtes5csaspdinph6S.1.Sn4,Ce2,isadtorda7f5Ne——osf91.Untefgofshp,teu0cnslcean,adtotec1ofehcythwhtepdleorl2wle,tobepdinanrldine3shcyfrtocew.Sdnes4cnaglstoftecsadpeoft5p,agldnoftelsadhstF61()9]
+[DELETED: betdbytepdleorl,adslsttayostomtbefdinwgwhtcnntlrtntydsartedeoflpnoften.Ayp,c,c,ocnwersmybea,slhetertofewnostotepditortteggofshf;shosslbefwhtecnntlrtntydsartedofltpnadslsetegst.T0cnmyawostobefdlrinw1etteatmtbegnretetom2rdtoshleo32.Ifareisrddetoanonf4pttotss,teuscnsln5retei,c,orcnagfrt6fetortapnfrafeptt7sn48S.1.Sn4,Ce2,isadbyagt9fgnws0NWS.4.Tecnslrrad1onapnrgteprofetdnnol2tnoeyrartertfretdnisr3bytec4S.1.Sn4,Ce2,isadtorda5f7Astols——d71.Isorcsogtnl8slhereastotetnlsfrt9peofc,r,e,r0orlgtep,w,orcnadord1udinorunayl,btslpytoteoroft2lsadofcsontelsaldstotelso3cscdbye,u,adogtelsf4tep.Tssnslntpttee5ofanatbntep,orc,orcF61()9]
+[DELETED: ogorogtelsadteorofteldocsrgteueoftel2.Acmfrdspttotssndetocydlsslntbepdfmrnusn62ontegstttedsweatateteofstustesteyrtep,c,orcnogorogtlsfmcsfrdstotepyoftesAlrttssdsurtssnnts0toareslnytep,c,orc1inwgfndsprtohtinehyrt2ascpd3S.1.NWSADete——l4Franategteprofetd5pttotsc,anectno6asddinsn46slbelefrr7ofdeteidprtoteino8teectnl,wntei9c,o,m,orrroftee0tnleistepeceoftedet1tedet.Teoslyptt2tssnslcefrteleoftee3tnleadsliealoftef41.Teflrtcsoftedet5i,wtl,m,l,ade62.Ternadrnoftlasptofa7deter8S.1.Sn4,sn1,Ce2,isa9tordasf01.Apnwovsapnoftscro1sn48issttoaclp,whm2beldbytec,ofntmetnoeh3dsprvnoroetddsprdyof4cgv,wrisg.Clp5cdpttotssnslbefdbytF61()9]
+[DELETED: cfogoroftecntotetofsetobecdtoteglfdofteseaadtotedtofhhadhnssfpsoftelwieheeyaepmatewnaepS.1.NWS4Ldrns1.Tecnslatrspttoc1Argternofallsfcnofanectnlestt0tscrttisceofogattoh1ksorg.Rsadurtssns2ittefgr,whslnta3wntecelsofac,topye4fmafeursn4,sn2,ortoa5c,a,orfyntsttoaf6urtsc7Anectnorslrrad8uddnteassnasped9cnofteectnl.P0rstotedduddnteslb1cdassnaspearteilc2ofteectnleisc.Ter3metotedddnteslbeofatlte4q,s,adfwcyofteoldnt5Fgtecnofanect6l,teectnorslrefmt7etaaalrklrtnteisina8drntnetoteslofteedl.T9rkrdfmteedldttctbeudt0blslbeddofatalnadinam1adunbyteectnoradt2l3Uncnofcnasonap4teectnorsldptla5l,igryaspsorrstF61()9]
+[DELETED: byhycne,toaeslcTeldslbetdatltenisdpinludfrcppnadteisdpinorlusoeadtobytelUncnofteectnl,tectnorslreteslcpsadssdddgcnoftectnletoteenadgeeonteldprtotec.Tesludt0rresidtornwrslbew1c.Ayvndddgcns2ber,igcrcswna3Fgcnoftel,alldt4isntinrwcporslgnpnatteteo5c,ighygdadldincno6sep,slberdadacrcps7beudwna.Sgfrcrcsmyb8ddiftecnofteectnl9iscdtoleinteyrfracrcptob0edadisntrdifteldwlbetdi1tefgy.Telrmyrtgdc2toptsleninaswecnont3ectnleiscdiftesnisn4sefrsgacrc5Usadunbyteectno6adtel,teectnorslr7fdesortyrsbtfrtepeo8cgteectnleuntec9ofcnadreteaatoispsu0Anectnorsluegdu1psfrcgteectnlei2wtc,shasegtouemgorpgw3ughye.Anectno4slgeadtlayrdldtor,totee5p,teolcnofteldprtotF61()9]
+[DELETED: cnofteectnl.Ifaunbyteectnoradteltelrmyrraydecdbycasinwtcsadteectorslretelrfrterecidtorrted.Ifanectorushyetinwsorm,msoormsslbeudtomesldTeectnorsldeap0ofctfrisorcsfmanadp1Tednsliean,aten,a2ela,adana32.Ifanectnoradal4deaplvnofterns5pdinsn1,tecnmyat6qdiltoittepyfrc7Ifteqdildstttehsb8avnofteaerns,t9cnslpeoln,fdbyw0n,toteectnoradtec1ogfrteectnorado2ceantocywhterns3Teectnorslberefrt4csoftecea5Ifteectnorortec6frteectnordsntcywh7vdorfrceanidbytec,t8cnmyieanorrgceantob9tnadmyieclpsursn40Tecnslitteiradb1tecnrgtectoftessadr2adteryofteirtorer3cgwhtessedinsn143.Aprfrafefrane5tnleslfewhtepnawnlF61()9]
+[DELETED: rnpnttdshwtersadrofsn1wlbem.TeprslpecyoftepntoallsofpyttwlbddbytecnofteectlNgintssnslpeteaofpsfrpgorrgpyttadttntepdinsn1,inradursn1,orinteldrnp0ifteaepsaecdina1iyedbyteectnora2tel.Itasfrldr3bnteectnoradtelrs4beinwgadslbemeaetotec5unr6Tecnmybywrawvsfmt7rsofsn1ifteect8orrgawrsstessstf9insn1Aadifteaemsp0byteectnorwdretel1toacnasgdasorbrtnaspdfri2sn13Tecnmywepnofasel4rnpnifteectnoresi5analitmnpnorsra6whteaeasoftssetts7tersofsn1.Ifamnpno8atisudtofyorpymtter9ofaldrnp,testorats0befdwhtecnadslbecdtob1ortobepto,teldrnpnfrpso2sn134.Ngintssnsll,e,oro4mytersofasadosfrdss5fhinsn4F61()9]
+[DELETED: 5.TersoftssnslayoytectnlecnpscdoorarJe1,2S.1.NWS5Prdec1.Wnteectnleosiintelspywsadbyteeeoetdnpttotsc,celsmiebtaentldtoayoftefLsorrdydofcsorfeontee0tnler,wrcddyb1cnorfmdeofulfmo2Lsorrdydofcsfmldnrt3ectnleryrgfmlko4tyastoteldorordeofulf5o,igiewhinord6Csadwhteanoff7l,orocmlbytelrtorel8ddbycntoflp9Lsofordetotsofclvet0osatteteofcnorr,oratt1teofaystwkbytei,c,o2cnogtetnl3Tectoforlsinmgorrgl4adtelsofgnbyortedhoriyofl5cdbyteinorrnofnlf6Enadslcnonlsaet7ectnlec8Detofmetcdbysgdso9ormlryadwhect0lecnweedinnlfgosa1ddinsn42Detoslorwrcnssc3byc,r,orstwkbyt4i,c,orcnogtet5leigbtntldtot,gdwF61()9]
+[DELETED: wradstclb,p,sdbadbDetoinordesscbyc,r,orstwkbyti,c,orcnogtetl2.Acmfrdspttotssnslntbpdfmrnursn62ontegtttedsweatatteteofstu0testeyrstei,c1orcnogtetnlefmt2c.Telrslnytei,c,o3cninwgfndsprtohtine4yrtoascpd.Telrmyst5glpgydmptodeshcpl,b6teincdinshmpslntbed7astoteetorcnofted,whmyb8cdbytei,c,orcno9tetnl03.Alrttiddeurtss1iseefrcnfrd.Alrm2feacmfrdsatani,c,o3cnogtetnleinslc4ordtctfravnoftssnorp5rsursn46S.1.NWS6Hg——cnm8Alhsidurtscrslfwt9aersggcnmsaspdi0sn4,sn51S.1.Sn4,sn3,pha,C22,isadtordasf3Apecyslhdilm4inehcyinwhrlpyorpyrsw5beadatlttydsprtofgtepF61()9]
+[DELETED: franwp.Amroftecnorapddbytecnslseasteporatehm,slptanaafrtm,whslieasyoftellrofteadl,adsldeadrtestofilrsrdurs6.Atltoemroftecnsladeilm.Ifatayptdgtemnomroftecnisaefrayr,t0mgslpeulatltoemroftec1r.Aflrdoftemgslntber2S.2.Sn4,sn5,Ce2,isa3tordasf45.Apecypnsgrsurt5crslntneorpeayesoro6isinldinaycykntobeadbyt7pdptprtoteilm.A8shm,ifnebypnwspym,9pnsgrsurtscradalrm0eravyatfranitinldw1rdtowrtelrrdnebym.P2toegavyatwhalrwoddn3reneofteilmgbym,tep4sgrsurtscrslpeshl5csofteilmgmspdb6tec,tecra,adtepns7rsurtsc.Ngintsphs8ptapnsgrsurtscrf9hgamgprtoteilmgr0bytssntopeglinrg1pttoacyttdsntien2sctswhscl3Apnsgrsurtscrmyc4lswnfemsoftepspdr5frtepeofsgvyesurtesF61()9]
+[DELETED: csaspdinphS.2.Sn4,Ce2,isadtordaf9O1.Ayp,c,c,orcywerorismybeadbyapdpeorlorgssefsmyfewnostotpdpeorlsorgssefsortotggofap02.Ifapeorlereisrdorag1sefyisrddetoanonf2pttotss,teuscnsln3reapecytortananfr4ptpttosn45S.2.Sn4,Ce2,isadtorda6f2Flor——c8Tecnmygtaptinweorinptu9t,c,adrsastosyr0adastolnadreasddbyittobej1adp.Beaptisgdtoapec2tec,arapchgaspdint3c,sldewrtesspdtob4rdwlpetepcceadn,a5anaefgtottetisacnp6toteggofap.Tecnslrr7dnonapnrgteprofetd8nolrtnoeyrartertfretdni9rdbytec0S.2.Sn4,Ce2,isadtorda1f5D31.Apecyogapeorag4seaaslhereastotepeo5gsseaafrtepeofc,oF61()9]
+[DELETED: m,orlgp,p,peasoors,w,d,oretudinorutepeorgssea;slpyteoroftldfrtertofeyadteorofcsfradscdbye,u,orogtel;aslpytoteoraldscdbytecofcnoftepedetowhorenoftslatoragtelnoftepeaddetotsgofteslagadaetep.H0tssnslntptteenofana1bntepecyadteorofldorc2whretoteueoftel32.Acmfrdspttotssndetoc4ydlsslntbepdfmrnu5sn62ontegstttedswea6atteteofstusteste7rstepecyfmcsfrdstot8pyoftes.Alrttssdsu9tssnntsttoareslnytep0cyinwgfndsprtohtinehy1toascpd2S.2.Sn4,Ce2,isadbyagt3fgnws4NWS.1.Frapecye5teprofetdnpttotsc,t6pecyslbelefrrsofdnt7idprtoteinoftep,wnt8i,c,o,m,orr9oftepeistepeceoftedetot0det.Tepecslyptt1tssnslcefrteleoftepea2sliealoftef3Teflrtcsoftedet4i,wtl,m,l,ade5TernadrnoftlasptofaF61()9]
+[DELETED: deterS.2.Sn4,sn5,Ce2,isatordasf5.Iftepecyoriscrdsncywhtersoftss,whtldrnp,orwhanitatoldrnorlelnedinawhsn1,tecybdofssorlrmypntecnfranorr0ceantobet.Ina,tecyb1ofssoralrmyfeactwht2cnsginofclpsptt3sn4.Alrmysyacyoftec4totecybdofsswetec5o6S.2.Sn4,sn1,psbadf7Ce2,aeadtordasf8Lsorrdydofcsorydfmldn9teperyrgfmlkoftya0toteldorordeofulfmo1igiewhinord2Enadslcnonlsaet3pec4S.2.Sn4,sn1,Ce2,isa5byagtefgnwp6NWP.Detoslorwrc7sscdbyc,r,ors8wkbytepecyigbtntldt9t,gdw,wradstclb0p,sdb,adb1NWP.Detoinordes2cdbyc,r,orstwkbyt3pec4S.2.Sn4,sn2,Ce2,isa5tordasfF61()9]
+[DELETED: 2.Acmfrdefrfecpdywteetspdsidurtssnsntbepdfmrnursn62otegsttitwsatatteteofsustesteyrstepecfmcsfrdetotepyoftes.Telrttssdsurtssnntsttareslnytepecyinwgfdsprtohtinehyrtoascpd0Telrmystaglpgydmpt1deshcpl,btteincdi2shmpslntbedeastoteetorc3ofted,whmybecdbytepec4S.2.Sn4,Ce2,isadbyagt5fgnws6NWS.3.Alrttiddeu7tssniseefrcnfrd.8lrmyfeacmfrdsatap9cyinslcsordtctfravno0tssnorpersursn41S.3.Sn4,sn7,Ce2,isa2tordasf37.Asudintss,mscnf4dstotel,c,adorplpyc5bytecnayofigapeadi6atssorudsef,or7celsasddinsn4,sn18btdsntiecnfrapyi,a9isafmt0S.3.NWS0Hg——cnm2Alhsidurtscrslfwt3aersggcnmsaspdi4sn4,sn55S.3.Sn4,Ce2,isadtordaF61()9]
+[DELETED: f1D1.Apecyogpsoruseslbegnreastotepsaseasfrtepeofc,om,orlgtrp,p,pa,orors,w,d,oretuinorunapeorsea,btslpyteooftelsfrtertofeyadteorofcso0teldaldscdbye,u,oro1telsfrtep;adslpytoteoroft2l,artecnofcnoftepeo3s,aldscdbysgofteslaga4aetep,adwhorenofteslagt5pedetotecnoftep.H6tssndsntptteenofana7whortsbntepecyadteoro8teldorcswhretotru92.Acmfrcpydlsdspttot0snslntbepdfmrnurs162ontegstttedsweatattet2ofstustesteyrst3pecyfmcsfrdstotepyo4tes.Alrttssdsurtss5ntsttoareslnytepecyi6wgfndsprtohtinehyrtoa7cpd8S.3.Sn4,sn3,Ce2,isa9tordasf03.Tepecyslhdilm1inehcyinwhrlpyorpyrsw2beadatlttydsprtofgtep3franwp.Amroftec,orap4ddbytec,slseastep5oratehmgadptanaafrtemF61()9]
+[DELETED: whslieasyoftellrsoftadl.Atltoemroftecsladehilm.Ifataypdgtemgnomroftecnisaefayr,temgslpeulatltoemoftecnr.Noflrdoftemslber.Temgslbehdatalryaetoalpswomybeadbggtep0S.3.Sn4,sn6,Ce2,isa1tordasf26.Apecypnsgrsu3tscrslntneorpeaneto4oritinldinacykntobeadbyt5pdptprtoteilm.A6shm,ifnebypnwspym,7pnsgrsurtscradalrm8eravyatfranitinldw9rdtowrtelrrdnebym.P0toegavyatwhalrwoddn1reneofteilmgbym,tep2sgrsurtscrslpeshl3csofteilmgmspdb4tec,tecra,adtepns5rsurtsc.Ngintsphs6ptapnsgrsurtscrf7hgamgprtoteilmgr8bytssntopeglinrg9pttoacyttdsntien0sctswhscl1Apnsgrsurtscrmyc2lswnfemsoftepspdr3frtepeofsgvyesurtes4csaspdinph5S.3.Sn4,Ce2,isadbyagtF61()9]
+[DELETED: fgnwsNWS.3.Ifapereisrddtoanonfdpttotss,teucnslntreapecytortaanfraptpttosn4S.3.Sn4,Ce2,isadtordaf9Flor——cTecnmygtaptinweorinptu0t,c,adrsastolnadr1asitdstobejtadp.Aptslntb2gdtoapecyustecnd3tttepdsswlpetepcc4adn.Tecnslrradnon5pnrgteprofetdnnolrt6oeyrartertfretdnisrdb7tec8S.3.Sn4,Ce2,isadbya9tefgnws0NWS.4.Ngsn1,1pecygdaptfrapetoc2ldcndeslntbeadtouee3dneturaloftefgc4()Tepewspdbytecnprt5teeedeoftsA6()Tepecspnpsfraptw7idbytefgofartwhtecnf8adefranilmgasrdurs94,ortepnfratwsonfewht0cnprtoteeedeoftsA,i1iftepnwssttorwada2Apefrwhtesepeistoahan3s,c,orortoapefrwhe4dnisadurphisadtou5etdnpdatltsnhsoftF61()9]
+[DELETED: adpsadoftetldeoftefyhbnadthvye.TecslntremetnsnhsofetobevyfrpsoftspS.3.Sn4,Ce2,isadtordaf7D1.Apecyogapeoraudsefyslhereast0tepeorudsefyfrtep1ofc,o,m,orlgp2p,pea,orors,w,d3oretudinoruntepeoru4sef.Apecyslpyteoro5teldfrtertofeyadteorofcsfra6dscdbye,u,orogtelsa7slpytoteoraldscdbytec8ofcnoftepedetowhorenoft9slatoragtelnoftepeaddetot0sgofteslagadaetep.H1tssndsntptteenofana2bntepecyadteorofteldorc3whretoteueoftel42.Acmfrcpydlsdspttot5snslntbepdfmrnurs662ontegstttedsweatattet7ofstustesteyrst8pecyfmcsfrdstotepyo9tes.Alrttssdsurtss0ntsttoareslnytepecyi1wgfndsprtohtinehyrtoa2cpd3S.3.Sn4,Ce2,isadbya4tefgnws5NWS.1.FrapecyeF61()9]
+[DELETED: teprofetdnpttotsc,tpecyslbelefrrsofdetidprtoteinoftep,wnti,c,o,m,orroftepeistepeceoftedetotdet.TepecslyptttssnslcefrteleoftepeasliealoftefTeflrtcsoftedet0i,wtl,m,l,ade1Ternadrnoftlasptofa2deter3S.4.Sn4,sn5,Ce2,i4adtordasf55.Iftepecyoriscrdsn6cywhtersoftss,whtel7rnpnorlel,orwhani8atonldrnedinaew9sn1,tecybdofssoral0mypntecnfranorrgc1antobet.Ina,tecybdo2ssoralrmyfeactwht3cnsginofclpsurs44.Alrmysyacyoftecttot5cybdofsswetecto6S.4.Sn4,sn1,psbadf7Ce2,aeadtordasf8Lsorrdydofcsorydfmldn9teperyrgfmlkoftya0toteldorordeofulfmo1igiewhinord2Enadslcnonlsaet3pec4S.4.Sn4,sn1,Ce2,i5adbyagtefgnwpF61()9]
+[DELETED: NWP.Detoslorwrcsscdbyc,r,orswkbytepecyigbtntldtt,gdw,wradstclbp,sdb,adbNWP.Detoinordescdbyc,r,orstwkbytpecS.4.Sn4,sn2,Ce2,i0adtordasf12.Acmfrdefrfecpdyw2teetspdsidurtssns3ntbepdfmrnursn62o4tegsttitwsatatteteofs5ustesteyrstepec6fmcsfrdetotepyoftes.Te7lrttssdsurtssnntstt8areslnytepecyinwgf9dsprtohtinehyrtoascpd0Telrmystaglpgydmpt1deshcpl,btteincdi2shmpslntbedeastoteetorc3ofted,whmybecdbytepec4S.4.Sn4,Ce2,isadbya5tefgnws6NWS.3.Alrttiddeu7tssniseefrcnfrd.8lrmyfeacmfrdsatap9cyinslcsordtctfravno0tssnorpersursn41S.4.Sn4,sn7,Ce2,i2adtordasf37.Asudintss,mscnf4dstotel,c,adorplpyc5bytecnofapeadisatsF61()9]
+[DELETED: orudsef,oracelsaddinsn4,sn1,btdsniecnfrapyi,aisafmtS.4.NWS4Hg——cnmAlhsidurtscrslfwtaersggcnmsaspdisn4,sn50S.4.REA.TesnoftsA1agsn4,sn6,asryt2vyasbnapecyadal3edioonorarJy1,242.Tep,bysgls1th8a5ig<nAtrgtopcu,i6uycnmraeathsa7ilm,uycndnt8ldrns,csfrd,e9n,adteeeofetdnfrt0cnofhsldp,mgc1psa,adigrea2pEBF61()9]
+
+
+================================================================================
+
+Raw Text:
+House File 639
+S-3152
+1 Amend House File 639, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 476.33, Code 2025, is amended by adding
+6 the following new subsection:
+7 NEW SUBSECTION. 5. For hearings initiated under this
+8 chapter, a majority of the members of the commission shall be
+9 present during any live testimony. If at any point during live
+10 testimony at a hearing less than a majority of the members
+11 are available for any reason, the meeting shall pause until a
+12 majority of the members of the commission are available.
+13 Sec. 2. Section 476A.4, Code 2025, is amended by adding the
+14 following new subsections:
+15 NEW SUBSECTION. 6. All hearings initiated under this
+16 chapter shall follow the attendance rules governing commission
+17 members as provided in section 476.33, subsection 5.
+18 NEW SUBSECTION. 7. After a hearing, if notice by
+19 publication was properly made, an operator of an electric power
+20 generation and transmission facility and a property owner may
+21 enter a voluntary agreement for an interest in the property
+22 without regard to whether the property owner received notice
+23 by mail.
+24 Sec. 3. NEW SECTION. 476A.4A Objections.
+25 1. If an applicant is exercising the power of eminent domain
+26 pursuant to this chapter, a person, including a governmental
+27 entity, whose rights or interests may be affected by the
+28 proposed facility may file written objections.
+29 2. All objections shall be on file with the commission
+30 not less than five days before the date of hearing on the
+31 application. However, the commission may permit the filing
+32 of the objections later than five days before the hearing, in
+33 which event the applicant must be granted a reasonable time to
+34 respond to the objections.
+35 3. If a facility is relocated due to an objection filed
+HF 639.1921 (1) 91
+-1- sb/js 1/29
+
+1 pursuant to this section, the utilities commission shall not
+2 require an applicant to resubmit an application for a permit
+3 pursuant to section 479A.3.
+4 4. Notwithstanding any other provisions in this section,
+5 an objection filed by a government entity that is a regulatory
+6 agency or city or county zoning authority subject to the
+7 requirements of section 476A.5 shall only address items not
+8 within the scope of section 476A.5.
+9 Sec. 4. Section 476A.6, unnumbered paragraph 1, Code 2025,
+10 is amended to read as follows:
+11 The commission shall render a decision on the application in
+12 an expeditious manner. The commission shall render a decision
+13 on an application requesting the power of eminent domain no
+14 later than one year after the request for eminent domain is
+15 received by the commission. A certificate shall be issued to
+16 the applicant if the commission finds all of the following:
+17 Sec. 5. NEW SECTION. 476A.16 Access to lines —— damages.
+18 1. Individuals or corporations operating transmission
+19 lines for the facility shall have reasonable access to
+20 the transmission lines for the purpose of constructing,
+21 reconstructing, enlarging, repairing, or locating the poles,
+22 wires, or construction and other devices used in or upon any
+23 line, but shall pay to the owner of the lands and of crops on
+24 the lands all damages to the lands or crops caused by entering,
+25 using, and occupying the lands for those purposes. This
+26 section shall not prevent the execution of an agreement between
+27 the person, company, or corporation owning or operating the
+28 lines and the owner of the land or crops regarding the use of
+29 the land.
+30 2. A claim for crop yield loss damages pursuant to this
+31 section shall not be precluded from renegotiation under section
+32 6B.52 on the grounds that the damages were apparent at the time
+33 of settlement unless the settlement expressly releases the
+34 person, company, or corporation owning or operating the lines
+35 from claims for damages to the productivity of the soil. A
+HF 639.1921 (1) 91
+-2- sb/js 2/29
+
+1 landowner that seeks damages under this section not subject to
+2 a release shall notify the person, company, or corporation in
+3 writing fourteen days prior to harvest in each year to assess
+4 crop deficiency.
+5 Sec. 6. NEW SECTION. 476A.17 Drainage tile —— liability.
+6 For an applicant exercising the power of eminent domain
+7 pursuant to this chapter, the operator of the electric power
+8 generation and transmission facility shall be liable for
+9 repairs of drainage tile installed prior to the installation of
+10 the facility, when the installation, construction, operation,
+11 maintenance, or repair of the facility is the proximate cause
+12 of the damage to the drainage tile. The operator’s liability
+13 pursuant to this section shall continue for the life of the
+14 electric power generation and transmission facility and shall
+15 include all of the following:
+16 1. The full replacement costs of the drainage tile,
+17 including, without limitation, material, labor, and equipment.
+18 2. The reclamation and restoration of topsoil as part of any
+19 drainage tile repair.
+20 Sec. 7. NEW SECTION. 476A.18 Land restoration standards.
+21 1. The commission shall adopt rules pursuant to chapter
+22 17A regarding the restoration of agricultural lands following
+23 construction of a facility subject to this chapter. Rules
+24 adopted under this section shall implement the following
+25 requirements, which shall not apply within the corporate limits
+26 of a city, to any land owned by the facility owner, or to any
+27 construction, activity, or facility other than a facility as
+28 defined in this chapter:
+29 a. A facility owner shall repair a damaged underground
+30 drain tile as soon as practicable during construction of the
+31 facility. Permanent repairs to the damaged underground drain
+32 tile shall be completed as soon as practicable after the
+33 initial construction of the facility is complete. The repairs
+34 made to the damaged drain tile shall be of at least equal
+35 quality, size, and flow capacity of the original drain tile.
+HF 639.1921 (1) 91
+-3- sb/js 3/29
+
+1 b. Following the construction of the facility, the facility
+2 owner shall remove from any easement area all rock larger than
+3 three inches in average diameter not native to the soil of the
+4 excavated land. The rock removed from the excavated land that
+5 cannot be used to backfill shall be disposed of at a location
+6 and in a manner agreed upon by the facility owner and the
+7 landowner.
+8 c. Upon completion of construction activities on a property,
+9 the facility owner shall deep till agricultural land, including
+10 right-of-way access points or roads traversed by heavy
+11 construction equipment, to alleviate soil compaction. The land
+12 shall be tilled at least eighteen inches deep in land used for
+13 crop production and twelve inches deep in other lands unless
+14 otherwise agreed to by the landowner.
+15 d. Upon completion of the facility, the facility owner shall
+16 restore the soil conservation practices and structures damaged
+17 during construction of the facility to the elevation and grade
+18 existing on the land prior to the construction. The soil used
+19 to repair embankments intended to retain water shall be well
+20 compacted. Any vegetation disturbed during construction shall
+21 be reestablished, including cover crops when appropriate.
+22 e. Following compaction of the land, agricultural land that
+23 is not in row crop or small grain production at the time of
+24 construction, including hay ground and land in conservation or
+25 set-aside programs, shall be reseeded and a cover crop shall
+26 be utilized when appropriate. Seeding for cover crops may be
+27 delayed if the construction of the facility is completed too
+28 late in the year for a cover crop to become established and is
+29 not required if the land will be tilled in the following year.
+30 The landowner may request ground cover to prevent soil erosion
+31 in areas where construction on the facility is completed if the
+32 season is not suitable for seeding a cover crop.
+33 f. Unless agreed upon by the facility owner and the
+34 landowner, the facility owner shall remove field entrances
+35 or temporary roads built for the purpose of constructing the
+HF 639.1921 (1) 91
+-4- sb/js 4/29
+
+1 facility upon the completion of construction and restore the
+2 area to its previous use.
+3 g. A facility owner shall use good utility practices for
+4 constructing the facility in wet conditions, such as electing
+5 to use matting or padding when utilizing heavy equipment. A
+6 facility owner shall grade and till any rutted land to restore,
+7 to the extent practicable, the original condition of the land
+8 prior to the construction of the facility. If agreed upon by
+9 the facility owner and the landowner, the landowner may repair
+10 any damage caused by construction activities in wet conditions
+11 and the facility owner shall reimburse the landowner for the
+12 reasonable cost incurred to repair the damage. If a facility
+13 owner utilizes heavy equipment in wetlands or mudflats, mats or
+14 other measures shall be utilized to minimize soil disturbance.
+15 h. The facility owner shall designate a point of contact for
+16 inquiries or claims from an affected person. The designation
+17 shall include a name, a telephone number, an email address, and
+18 an address.
+19 2. a. If a facility owner and a landowner dispute a
+20 potential violation of the restoration standards provided in
+21 subsection 1, the commission may appoint a qualified individual
+22 to inspect the property for compliance. If the qualified
+23 individual determines that there has been a violation of the
+24 applicable restoration standards, the commission shall provide
+25 oral notice, followed by written notice, to the facility owner
+26 and the contractor operating for the facility owner and order
+27 corrective action to comply with the restoration standards.
+28 The facility owner shall be responsible for the costs of the
+29 corrective action.
+30 b. If the facility owner or the contractor for the facility
+31 owner does not comply with a valid order for corrective
+32 action issued by the commission, the commission may issue an
+33 order requiring corrective action to be taken and may impose
+34 civil penalties under section 478.29, which shall apply to a
+35 violation of this section in lieu of section 476A.14.
+HF 639.1921 (1) 91
+-5- sb/js 5/29
+
+1 c. The commission shall instruct the inspector appointed by
+2 the commission regarding the content of the statutes and rules
+3 and the responsibility of the inspector to require restoration
+4 conforming with the standards established in subsection 1.
+5 3. a. An applicant for a certificate shall file with the
+6 application a written land restoration plan that documents how
+7 the requirements and rules of subsection 1 will be met. The
+8 applicant shall provide a copy of the plan to all landowners
+9 of property that will be disturbed by the construction of the
+10 facility.
+11 b. Nothing in this section shall preclude the application
+12 of provisions for protecting or restoring property that are
+13 different than those prescribed in subsection 1, in rules
+14 adopted under subsection 1, or in the land restoration plan,
+15 if the alternative provisions are contained in agreements
+16 independently executed by the facility owner and the landowner.
+17 Independent agreements for land restoration between the
+18 facility owner and the landowner shall be in writing and made
+19 available to the commission upon request.
+20 c. The commission may by waiver allow variations from the
+21 requirements of subsection 1 if the facility owner requesting a
+22 waiver satisfies the standards set forth in section 17A.9A and
+23 if the alternative methods proposed by the facility owner would
+24 restore the land to a condition as good as or better than as
+25 provided for in subsection 1.
+26 d. The commission may waive preparation of a separate
+27 land restoration plan if the facility owner enters into an
+28 agricultural impact mitigation plan or similar agreement
+29 with the appropriate agencies of this state that satisfies
+30 the requirements of subsection 1. If a mitigation plan or
+31 agreement is used to fully or partially meet the requirements
+32 of a land restoration plan, the statement or agreement shall
+33 be filed with the commission and shall be considered to be,
+34 or to be part of, the land restoration plan for purposes of
+35 subsection 1.
+HF 639.1921 (1) 91
+-6- sb/js 6/29
+
+1 4. Nothing in this section shall limit, expand, or otherwise
+2 modify the rights of access and obligations for damages set
+3 forth in section 476A.16.
+4 5. The requirements of this section shall apply only to
+5 facility construction projects commenced on or after June 1,
+6 2025.
+7 Sec. 8. NEW SECTION. 476A.19 Particular damage claims.
+8 1. When the facility owner’s interest in the landowner’s
+9 property was acquired by the exercise of eminent domain
+10 pursuant to this chapter, compensable losses may include but
+11 are not limited to any of the following:
+12 a. Loss or reduced yield of crops or forage on the facility
+13 right-of-way, whether caused directly by construction or from
+14 disturbance of usual farm operations.
+15 b. Loss or reduced yield of crops from land near the
+16 facility right-of-way resulting from lack of timely access
+17 to the land or other disturbance of usual farm operations,
+18 including interference with irrigation or drainage.
+19 c. Costs associated with the application of fertilizer,
+20 lime, or organic material by the landowner to restore land
+21 disturbed by construction to full productivity.
+22 d. Loss of or damage to trees of commercial value that
+23 occurs at the time of construction or restoration, or at the
+24 time of any subsequent work by the individual, company, or
+25 corporation operating the facility.
+26 e. The cost of or losses in moving or relocating livestock,
+27 and the loss of gain by or the death or injury of livestock
+28 caused by the interruption or relocation of normal feeding.
+29 f. Erosion and soil compaction on lands attributable to
+30 facility construction.
+31 g. Damage to farm equipment caused by striking debris or
+32 other material reasonably associated with facility construction
+33 while engaged in normal farming operations as defined in
+34 section 480.1.
+35 h. Damage to soil or water conservation structures caused
+HF 639.1921 (1) 91
+-7- sb/js 7/29
+
+1 by construction, restoration, or subsequent work by the
+2 individual, company, or corporation operating the facility
+3 including but not limited to terraces, grassed waterways, water
+4 and sediment control basins, ponds, saturated buffers, and
+5 biofilters.
+6 i. Damage to irrigation or drainage systems caused
+7 by construction, restoration, or subsequent work by the
+8 individual, company, or corporation operating the facility.
+9 2. A claim for damages pursuant to this section shall not be
+10 precluded from renegotiation under section 6B.52 on the grounds
+11 that the damages were apparent at the time of settlement unless
+12 the settlement expressly releases the individual, company,
+13 or corporation operating the facility from the claim. The
+14 landowner shall notify the individual, company, or corporation
+15 in writing fourteen days prior to harvest in each year to
+16 assess crop deficiency.
+17 3. A landowner that incurred damage under this section
+18 is eligible for compensation for damages. A landowner may
+19 file a claim for damages against an individual, company, or
+20 corporation operating the facility in small claims or district
+21 court for a violation of this section.
+22 Sec. 9. Section 478.2, subsection 2, paragraph a, Code 2025,
+23 is amended to read as follows:
+24 a. A member of the commission, the counsel of the
+25 commission, or a presiding officer designated by the commission
+26 shall serve as the presiding officer at each meeting, shall
+27 present an agenda for such meeting, which shall include
+28 a summary of the legal rights of the affected landowners,
+29 and shall distribute and review the statement of individual
+30 rights required under section 6B.2A, subsection 1. At least
+31 one member of the commission shall attend each informational
+32 meeting. If at any point during the meeting no member of the
+33 commission is available for any reason, the meeting shall pause
+34 until at least one member of the commission returns. A formal
+35 record of the meeting shall not be required.
+HF 639.1921 (1) 91
+-8- sb/js 8/29
+
+1 Sec. 10. Section 478.2, subsection 4, Code 2025, is amended
+2 to read as follows:
+3 4. a. A person seeking rights under this chapter shall
+4 not negotiate or purchase any easements or other interests in
+5 land in any county known to be affected by the proposed project
+6 prior to the informational meeting. After such meeting, if
+7 notice by publication was properly made, a person seeking
+8 rights under this chapter and a landowner may enter a voluntary
+9 agreement for an interest in land without regard to whether
+10 the landowner received notice by mail. Prior to entering a
+11 voluntary agreement with a landowner who did not receive notice
+12 of the informational meeting by mail, the person seeking rights
+13 under this chapter shall provide such landowner copies of the
+14 informational meeting materials presented by the commission,
+15 the consumer advocate, and the person seeking rights under
+16 this chapter. Nothing in this paragraph shall prohibit a
+17 person seeking rights under this chapter from holding a meeting
+18 prior to the informational meeting required by this section to
+19 provide general information regarding a project to a community
+20 that does not include negotiating specific terms with specific
+21 landowners.
+22 b. A person seeking rights under this chapter may contact
+23 landowners within five miles of the project’s proposed route
+24 for the purpose of seeking voluntary easements under the same
+25 conditions as provided in paragraph “a”.
+26 Sec. 11. Section 478.5, Code 2025, is amended to read as
+27 follows:
+28 478.5 Notice —— objections filed.
+29 1. Upon the filing of such petition, the utilities
+30 commission shall cause a notice, addressed to the citizens
+31 of each county through which the proposed line or lines
+32 will extend, to be published in a newspaper located in each
+33 such county for two consecutive weeks. Said notice shall
+34 contain a general statement of the contents and purpose of the
+35 petition, a general description of the lands and highways to
+HF 639.1921 (1) 91
+-9- sb/js 9/29
+
+1 be traversed by the proposed line or lines, and shall state
+2 that any objections thereto must be filed in writing with the
+3 commission not later than twenty days after the date of last
+4 publication of the notice. Any person, company, city, or
+5 corporation whose rights may be affected, shall have the right
+6 to file written objections to the proposed improvement or to
+7 the granting of such franchise; such objections shall be filed
+8 with the commission not later than twenty days after the date
+9 of last publication and shall state the grounds therefor. The
+10 commission may allow objections to be filed later in which
+11 event the applicant must be given reasonable time to meet
+12 respond to such late objections.
+13 2. If a route is readjusted due to an objection filed
+14 pursuant to this section, the utilities commission shall not
+15 require the individual, company, or corporation asking for the
+16 franchise to resubmit a petition for a franchise pursuant to
+17 section 478.2.
+18 Sec. 12. Section 478.6, Code 2025, is amended by adding the
+19 following new subsection:
+20 NEW SUBSECTION. 4. The commission shall render a decision
+21 on a petition requesting the power of eminent domain no later
+22 than one year after the request for eminent domain is received
+23 by the commission.
+24 Sec. 13. Section 478.17, Code 2025, is amended to read as
+25 follows:
+26 478.17 Access to lines —— damages.
+27 1. Individuals or corporations operating transmission lines
+28 shall have reasonable access to the transmission lines for the
+29 purpose of constructing, reconstructing, enlarging, repairing,
+30 or locating the poles, wires, or construction and other devices
+31 used in or upon any line, but shall pay to the owner of the
+32 lands and of crops on the lands all damages to the lands or
+33 crops caused by entering, using, and occupying the lands for
+34 those purposes. This section shall not prevent the execution
+35 of an agreement between the person, or company, or corporation
+HF 639.1921 (1) 91
+-10- sb/js 10/29
+
+1 owning or operating the lines and the owner of the land or
+2 crops regarding the use of the land.
+3 2. A claim for damages pursuant to this section due to crop
+4 yield loss shall not be precluded from renegotiation under
+5 section 6B.52 on the grounds that the damages were apparent at
+6 the time of settlement unless the settlement expressly releases
+7 the person, company, or corporation owning or operating the
+8 lines from claims for damages to the productivity of the soil.
+9 A landowner that seeks damages under this section not subject
+10 to a release shall notify the person, company, or corporation
+11 in writing fourteen days prior to harvest in each year to
+12 assess crop deficiency.
+13 Sec. 14. NEW SECTION. 478.17A Drainage tile —— liability.
+14 For an applicant exercising the power of eminent domain
+15 pursuant to this chapter, an electric transmission owner
+16 as defined in section 478.16 shall be liable for repairs
+17 of drainage tile installed prior to the installation of
+18 the electric transmission line, when the installation,
+19 construction, operation, maintenance, or repair of the electric
+20 transmission line is the proximate cause of the damage to
+21 the drainage tile. The operator’s liability pursuant to
+22 this section shall continue for the life of the electric
+23 transmission line and shall include all of the following:
+24 1. The full replacement costs of the drainage tile,
+25 including, without limitation, material, labor, and equipment.
+26 2. The reclamation and restoration of topsoil as part of any
+27 drainage tile repair.
+28 Sec. 15. Section 478.29, subsection 1, Code 2025, is amended
+29 to read as follows:
+30 1. A person who violates a provision of this chapter or
+31 section 476A.18 is subject to a civil penalty, which may
+32 be levied by the commission, of not more than one hundred
+33 dollars per violation or one thousand dollars per day of a
+34 continuing violation, whichever is greater. Civil penalties
+35 collected pursuant to this section shall be forwarded by the
+HF 639.1921 (1) 91
+-11- sb/js 11/29
+
+1 chief operating officer of the commission to the treasurer
+2 of state to be credited to the general fund of the state and
+3 appropriated to the department of health and human services for
+4 purposes of the low income home energy assistance program and
+5 the weatherization assistance program.
+6 Sec. 16. NEW SECTION. 478.34 Land restoration standards.
+7 1. The commission shall adopt rules pursuant to chapter
+8 17A regarding the restoration of agricultural lands following
+9 construction of an electric transmission line subject to
+10 this chapter that is capable of operating at two hundred
+11 kilovolts or greater. Rules adopted under this section shall
+12 implement the following requirements, which shall not apply
+13 within the corporate limits of a city, to property excluded
+14 from a franchise under section 478.1, subsection 2, or to any
+15 construction, activity, or facility not subject to a franchise
+16 under this chapter:
+17 a. An electric transmission owner shall repair a damaged
+18 underground drain tile as soon as practicable during
+19 construction of the electric transmission line. Permanent
+20 repairs to the damaged underground drain tile shall be
+21 completed as soon as practicable after the initial construction
+22 of the electric transmission line is complete. The repairs
+23 made to the damaged drain tile shall be of at least equal
+24 quality, size, and flow capacity of the original drain tile.
+25 b. Following the construction of an electric transmission
+26 line, the electric transmission owner shall remove from the
+27 easement area all rock larger than three inches in average
+28 diameter not native to the soil of the excavated land. The
+29 rock removed from the excavated land that cannot be used to
+30 backfill shall be disposed of at a location and in a manner
+31 agreed upon by the electric transmission owner and the
+32 landowner.
+33 c. Upon completion of construction activities on a property,
+34 the electric transmission owner shall deep till agricultural
+35 land, including right-of-way access points or roads traversed
+HF 639.1921 (1) 91
+-12- sb/js 12/29
+
+1 by heavy construction equipment, to alleviate soil compaction.
+2 The land shall be tilled at least eighteen inches deep in land
+3 used for crop production and twelve inches deep in other lands
+4 unless otherwise agreed to by the landowner.
+5 d. Upon completion of the electric transmission line, the
+6 electric transmission owner shall restore the soil conservation
+7 practices and structures damaged during construction of the
+8 electric transmission line to the elevation and grade existing
+9 on the land prior to the construction. The soil used to
+10 repair embankments intended to retain water shall be well
+11 compacted. Any vegetation disturbed during construction shall
+12 be reestablished, including cover crops when appropriate.
+13 e. Following compaction of the land, agricultural land that
+14 is not in row crop or small grain production at the time of
+15 construction, including hay ground and land in conservation or
+16 set-aside programs, shall be reseeded and a cover crop shall
+17 be utilized when appropriate. Seeding for cover crops may be
+18 delayed if the construction of the electric transmission line
+19 is completed too late in the year for a cover crop to become
+20 established and is not required if the land will be tilled in
+21 the following year. The landowner may request ground cover
+22 to prevent soil erosion in areas where construction on the
+23 electric transmission line is completed if the season is not
+24 suitable for seeding a cover crop.
+25 f. Unless agreed upon by the electric transmission owner
+26 and the landowner, the electric transmission owner shall remove
+27 field entrances or temporary roads built for the purpose of
+28 constructing the electric transmission line upon the completion
+29 of construction and restore the area to its previous use.
+30 g. An electric transmission owner shall use good utility
+31 practices for constructing the electric transmission line in
+32 wet conditions, such as electing to use matting or padding when
+33 utilizing heavy equipment. An electric transmission owner
+34 shall grade and till any rutted land to restore, to the extent
+35 practicable, the original condition of the land prior to the
+HF 639.1921 (1) 91
+-13- sb/js 13/29
+
+1 construction of the electric transmission line. If agreed
+2 upon by the electric transmission owner and the landowner,
+3 the landowner may repair any damage caused by construction
+4 activities in wet conditions and the electric transmission
+5 owner shall reimburse the landowner for the reasonable cost
+6 incurred to repair the damage. If an electric transmission
+7 owner utilizes heavy equipment in wetlands or mudflats, mats or
+8 other measures shall be utilized to minimize soil disturbance.
+9 h. The electric transmission owner shall designate a point
+10 of contact for inquiries or claims from an affected person.
+11 The designation shall include a name, a telephone number, an
+12 email address, and an address.
+13 2. a. If an electric transmission owner and a landowner
+14 dispute a potential violation of the restoration standards
+15 provided in subsection 1, the commission may appoint a
+16 qualified individual to inspect the property for compliance.
+17 If the qualified individual determines that there has been
+18 a violation of the applicable restoration standards, the
+19 commission shall provide oral notice, followed by written
+20 notice, to the electric transmission owner and the contractor
+21 operating for the electric transmission owner and order
+22 corrective action to comply with the restoration standards.
+23 The electric transmission owner shall be responsible for the
+24 costs of the corrective action.
+25 b. If the electric transmission owner or the contractor
+26 for the electric transmission owner does not comply with a
+27 valid order for corrective action issued by the commission, the
+28 commission may issue an order requiring corrective action to be
+29 taken and may impose civil penalties under section 478.29.
+30 c. The commission shall instruct the inspector appointed by
+31 the commission regarding the content of the statutes and rules
+32 and the responsibility of the inspector to require restoration
+33 conforming with the standards established in subsection 1.
+34 3. a. A petitioner for a franchise for an electric
+35 transmission line shall file with the petition a written land
+HF 639.1921 (1) 91
+-14- sb/js 14/29
+
+1 restoration plan that documents how the requirements and rules
+2 of subsection 1 will be met. The petitioner shall provide a
+3 copy of the plan to all landowners of property that will be
+4 disturbed by the construction of the electric transmission
+5 line.
+6 b. Nothing in this section shall preclude the application
+7 of provisions for protecting or restoring property that are
+8 different than those prescribed in subsection 1, in rules
+9 adopted under subsection 1, or in the land restoration plan,
+10 if the alternative provisions are contained in agreements
+11 independently executed by the electric transmission owner and
+12 the landowner. Independent agreements for land restoration
+13 between the electric transmission owner and the landowner shall
+14 be in writing and shall be made available to the commission
+15 upon request.
+16 c. The commission may by waiver allow variations from the
+17 requirements of subsection 1 if the electric transmission
+18 owner requesting a waiver satisfies the standards set forth
+19 in section 17A.9A and if the alternative methods proposed
+20 by the electric transmission owner would restore the land
+21 to a condition as good as or better than as provided for in
+22 subsection 1.
+23 d. The commission may waive preparation of a separate land
+24 restoration plan if the electric transmission owner enters into
+25 an agricultural impact mitigation plan or similar agreement
+26 with the appropriate agencies of this state that satisfies
+27 the requirements of subsection 1. If a mitigation plan or
+28 agreement is used to fully or partially meet the requirements
+29 of a land restoration plan, the statement or agreement shall
+30 be filed with the commission and shall be considered to be,
+31 or to be part of, the land restoration plan for purposes of
+32 subsection 1.
+33 4. Nothing in this section shall limit, expand, or otherwise
+34 modify the rights of access and obligations for damages set
+35 forth in section 478.17.
+HF 639.1921 (1) 91
+-15- sb/js 15/29
+
+1 5. The requirements of this section shall apply only to
+2 electric transmission line construction projects commenced on
+3 or after June 1, 2025.
+4 Sec. 17. NEW SECTION. 478.35 Particular damage claims.
+5 1. When the electric transmission line owner’s interest
+6 in the landowner’s property was acquired by the exercise of
+7 eminent domain pursuant to this chapter, compensable losses may
+8 include but are not limited to any of the following:
+9 a. Loss or reduced yield of crops or forage on the electric
+10 transmission line right-of-way, whether caused directly by
+11 construction or from disturbance of usual farm operations.
+12 b. Loss or reduced yield of crops from land near the
+13 electric transmission line right-of-way resulting from lack of
+14 timely access to the land or other disturbance of usual farm
+15 operations, including interference with irrigation or drainage.
+16 c. Costs associated with the application of fertilizer,
+17 lime, or organic material by the landowner to restore land
+18 disturbed by construction to full productivity.
+19 d. Loss of or damage to trees of commercial value that
+20 occurs at the time of construction or restoration, or at the
+21 time of any subsequent work by the individual, company, or
+22 corporation operating the transmission line.
+23 e. The cost of or losses in moving or relocating livestock,
+24 and the loss of gain by or the death or injury of livestock
+25 caused by the interruption or relocation of normal feeding.
+26 f. Erosion and soil compaction on lands attributable to
+27 electric transmission line construction.
+28 g. Damage to farm equipment caused by striking debris or
+29 other material reasonably associated with electric transmission
+30 line construction while engaged in normal farming operations as
+31 defined in section 480.1.
+32 h. Damage to soil or water conservation structures caused
+33 by construction, restoration, or subsequent work by the
+34 individual, company, or corporation operating the transmission
+35 line including but not limited to terraces, grassed waterways,
+HF 639.1921 (1) 91
+-16- sb/js 16/29
+
+1 water and sediment control basins, ponds, saturated buffers,
+2 and biofilters.
+3 i. Damage to irrigation or drainage systems caused
+4 by construction, restoration, or subsequent work by the
+5 individual, company, or corporation operating the transmission
+6 line.
+7 2. A claim for damages pursuant to this section shall not be
+8 precluded from renegotiation under section 6B.52 on the grounds
+9 that the damages were apparent at the time of settlement unless
+10 the settlement expressly releases the individual, company,
+11 or corporation operating the transmission line from the
+12 claim. The landowner shall notify the individual, company, or
+13 corporation in writing fourteen days prior to harvest in each
+14 year to assess crop deficiency. The landowner may submit a
+15 global positioning yield map to demonstrate such crop loss, but
+16 the information contained in such map shall not be dispositive
+17 as to the extent or causation of the damages, which may be
+18 contested by the individual, company, or corporation operating
+19 the transmission line.
+20 3. A landowner that incurred damage under this section
+21 is eligible for compensation for damages. A landowner may
+22 file a claim for damages against an individual, company, or
+23 corporation operating the transmission line in small claims
+24 or district court for a violation of this section or pursue
+25 remedies under section 478.36.
+26 Sec. 18. NEW SECTION. 478.36 Hearing —— commission member
+27 attendance.
+28 All hearings initiated under this chapter shall follow the
+29 attendance rules governing commission members as provided in
+30 section 476.33, subsection 5.
+31 Sec. 19. Section 479.5, subsection 3, paragraph a, Code
+32 2025, is amended to read as follows:
+33 a. A pipeline company shall hold informational meetings
+34 in each county in which real property or property rights will
+35 be affected at least thirty days prior to filing the petition
+HF 639.1921 (1) 91
+-17- sb/js 17/29
+
+1 for a new pipeline. A member of the commission or a person
+2 designated by the commission shall serve as the presiding
+3 officer at each meeting, shall present an agenda for the
+4 meeting, which shall include a summary of the legal rights
+5 of the affected landowners, and shall distribute and review
+6 the statement of individual rights required under section
+7 6B.2A. At least one member of the commission shall attend each
+8 informational meeting. If at any point during the meeting
+9 no member of the commission is available for any reason, the
+10 meeting shall pause until at least one member of the commission
+11 returns. A formal record of the meeting shall not be required.
+12 Sec. 20. Section 479.5, subsection 5, Code 2025, is amended
+13 to read as follows:
+14 5. a. A pipeline company person seeking rights under this
+15 chapter shall not negotiate or purchase any easements or other
+16 interests in land in any county known to be affected by the
+17 proposed project prior to the informational meeting. After
+18 such meeting, if notice by publication was properly made, a
+19 person seeking rights under this chapter and a landowner may
+20 enter a voluntary agreement for an interest in land without
+21 regard to whether the landowner received notice by mail. Prior
+22 to entering a voluntary agreement with a landowner who did not
+23 receive notice of the informational meeting by mail, the person
+24 seeking rights under this chapter shall provide such landowner
+25 copies of the informational meeting materials presented by
+26 the commission, the consumer advocate, and the person seeking
+27 rights under this chapter. Nothing in this paragraph shall
+28 prohibit a person seeking rights under this chapter from
+29 holding a meeting prior to the informational meeting required
+30 by this section to provide general information regarding a
+31 project to a community that does not include negotiating
+32 specific terms with specific landowners.
+33 b. A person seeking rights under this chapter may contact
+34 landowners within five miles of the project’s proposed route
+35 for the purpose of seeking voluntary easements under the same
+HF 639.1921 (1) 91
+-18- sb/js 18/29
+
+1 conditions as provided in paragraph “a”.
+2 Sec. 21. Section 479.9, Code 2025, is amended to read as
+3 follows:
+4 479.9 Objections.
+5 1. Any person, corporation, company, or city whose rights
+6 or interests may be affected by a proposed pipeline or lines
+7 or gas storage facilities may file written objections to the
+8 proposed pipeline or lines or gas storage facilities or to the
+9 granting of a permit.
+10 2. If a pipeline or line route is readjusted or a gas
+11 storage facility is relocated due to an objection filed
+12 pursuant to this section, the utilities commission shall not
+13 require a pipeline company to resubmit an application for a
+14 permit pursuant to section 479.5.
+15 Sec. 22. Section 479.12, Code 2025, is amended to read as
+16 follows:
+17 479.12 Final order —— condition.
+18 The commission may grant a permit in whole or in part upon
+19 terms, conditions, and restrictions as to safety requirements
+20 and as to location and route as determined by it to be just
+21 and proper. Before a permit is granted to a pipeline company,
+22 the commission, after a public hearing as provided in this
+23 chapter, shall determine whether the services proposed to be
+24 rendered will promote the public convenience and necessity, and
+25 an affirmative finding to that effect is a condition precedent
+26 to the granting of a permit. The commission shall render a
+27 decision on a petition requesting the power of eminent domain
+28 no later than one year after the request for eminent domain is
+29 received by the commission.
+30 Sec. 23. Section 479.25, Code 2025, is amended to read as
+31 follows:
+32 479.25 Damages.
+33 1. A pipeline company operating a pipeline or a gas
+34 storage area shall have reasonable access to the pipeline or
+35 gas storage area for the purpose of constructing, operating,
+HF 639.1921 (1) 91
+-19- sb/js 19/29
+
+1 maintaining, or locating pipes, pumps, pressure apparatus or
+2 other stations, wells, devices, or equipment used in or upon
+3 the pipeline or gas storage area; shall pay the owner of the
+4 land for the right of entry and the owner of crops for all
+5 damages caused by entering, using, or occupying the land; and
+6 shall pay to the owner all damages caused by the completion
+7 of construction of the pipeline due to wash or erosion of the
+8 soil at or along the location of the pipeline and due to the
+9 settling of the soil along and above the pipeline. However,
+10 this section shall not prevent the execution of an agreement
+11 between the pipeline company and the owner of land or crops
+12 with reference to the use of the land.
+13 2. A claim for damages pursuant to this section due to crop
+14 yield loss shall not be precluded from renegotiation under
+15 section 6B.52 on the grounds that the damages were apparent
+16 at the time of settlement unless the settlement expressly
+17 releases the pipeline company from claims for damages to the
+18 productivity of the soil. A landowner that seeks damages under
+19 this section not subject to a release shall notify the pipeline
+20 company in writing fourteen days prior to harvest in each year
+21 to assess crop deficiency.
+22 Sec. 24. Section 479.29, Code 2025, is amended by adding the
+23 following new subsection:
+24 NEW SUBSECTION. 1A. For a pipeline company exercising
+25 the power of eminent domain pursuant to this chapter, the
+26 pipeline company shall be liable for repairs of drain tile
+27 installed prior to the installation of the pipeline, when the
+28 installation, construction, operation, maintenance, or repair
+29 of the pipeline is the proximate cause of the damage to the
+30 drainage tile. The pipeline company’s liability pursuant to
+31 this section shall continue for the life of the pipeline and
+32 shall include all of the following:
+33 a. The full replacement costs of the drainage tile,
+34 including, without limitation, material, labor, and equipment.
+35 b. The reclamation and restoration of topsoil as part of any
+HF 639.1921 (1) 91
+-20- sb/js 20/29
+
+1 drainage tile repair.
+2 Sec. 25. Section 479.29, subsection 5, Code 2025, is amended
+3 to read as follows:
+4 5. If the pipeline company or its contractor does not
+5 comply with the requirements of this section, with the
+6 land restoration plan, or with an independent agreement on
+7 land restoration or line location executed in accordance
+8 with subsection 10, the county board of supervisors or a
+9 landowner may petition the commission for an order requiring
+10 corrective action to be taken. In addition, the county board
+11 of supervisors or a landowner may file a complaint with the
+12 commission seeking imposition of civil penalties pursuant to
+13 section 479.31. A landowner may supply a copy of the complaint
+14 to the county board of supervisors where the complaint
+15 originated.
+16 Sec. 26. Section 479.45, subsection 1, paragraphs b and f,
+17 Code 2025, are amended to read as follows:
+18 b. Loss or reduced yield of crops or yield from land near
+19 the pipeline right-of-way resulting from lack of timely access
+20 to the land or other disturbance of usual farm operations,
+21 including interference with irrigation or drainage.
+22 f. Erosion and soil compaction on lands attributable to
+23 pipeline construction.
+24 Sec. 27. Section 479.45, subsection 1, Code 2025, is amended
+25 by adding the following new paragraphs:
+26 NEW PARAGRAPH. h. Damage to soil or water conservation
+27 structures caused by construction, restoration, or subsequent
+28 work by the pipeline company including but not limited to
+29 terraces, grassed waterways, water and sediment control basins,
+30 ponds, saturated buffers, and biofilters.
+31 NEW PARAGRAPH. i. Damage to irrigation or drainage systems
+32 caused by construction, restoration, or subsequent work by the
+33 pipeline company.
+34 Sec. 28. Section 479.45, subsection 2, Code 2025, is amended
+35 to read as follows:
+HF 639.1921 (1) 91
+-21- sb/js 21/29
+
+1 2. A claim for damage for future crop deficiency within
+2 the easement strip damages incurred under this section shall
+3 not be precluded from renegotiation under section 6B.52 on
+4 the grounds that it was apparent at the time of settlement
+5 unless the settlement expressly releases the pipeline company
+6 from claims for damage to the productivity of the soil. The A
+7 landowner that seeks damages under this section not subject to
+8 a release shall notify the pipeline company in writing fourteen
+9 days prior to harvest in each year to assess crop deficiency.
+10 The landowner may submit a global positioning yield map to
+11 demonstrate such crop loss, but the information contained in
+12 such map shall not be dispositive as to the extent or causation
+13 of the damages, which may be contested by the pipeline company.
+14 Sec. 29. Section 479.45, Code 2025, is amended by adding the
+15 following new subsection:
+16 NEW SUBSECTION. 3. A landowner that incurred damage under
+17 this section is eligible for compensation for damages. A
+18 landowner may file a claim for damages against a pipeline
+19 company in small claims or district court for a violation of
+20 this section or pursue remedies under section 479.46.
+21 Sec. 30. Section 479.46, subsection 7, Code 2025, is amended
+22 to read as follows:
+23 7. As used in this section, “damages” means compensation for
+24 damages to the land, crops, and other personal property caused
+25 by the construction activity of installing a pipeline and its
+26 attendant structures or underground storage facility, or a
+27 compensable loss as described in section 479.45, subsection 1,
+28 but does not include compensation for a property interest, and
+29 “landowner” includes a farm tenant.
+30 Sec. 31. NEW SECTION. 479.50 Hearing —— commission member
+31 attendance.
+32 All hearings initiated under this chapter shall follow the
+33 attendance rules governing commission members as provided in
+34 section 476.33, subsection 5.
+35 Sec. 32. Section 479A.11, Code 2025, is amended to read as
+HF 639.1921 (1) 91
+-22- sb/js 22/29
+
+1 follows:
+2 479A.11 Damages.
+3 1. A pipeline company operating pipelines or underground
+4 storage shall be given reasonable access to the pipelines and
+5 storage areas for the purpose of constructing, operating,
+6 maintaining, or locating their pipes, pumps, pressure
+7 apparatus, or other stations, wells, devices, or equipment used
+8 in or upon a pipeline or storage area, but shall pay the owner
+9 of the lands for the right of entry and the owner of crops on
+10 the land all damages caused by entering, using, or occupying
+11 the lands for these purposes; and shall pay to the owner of the
+12 lands, after the completion of construction of the pipeline or
+13 storage, all damages caused by settling of the soil along and
+14 above the pipeline, and wash or erosion of the soil along the
+15 pipeline due to the construction of the pipeline. However,
+16 this section does not prevent the execution of an agreement
+17 with other terms between the pipeline company and the owner of
+18 the land or crops with reference to their use.
+19 2. A claim for crop yield loss damages pursuant to this
+20 section shall not be precluded from renegotiation under section
+21 6B.52 on the grounds that the damages were apparent at the time
+22 of settlement unless the settlement expressly releases the
+23 pipeline company from claims for damages to the productivity of
+24 the soil. A landowner that seeks damages under this section
+25 not subject to a release shall notify the pipeline company in
+26 writing fourteen days prior to harvest in each year to assess
+27 crop deficiency.
+28 Sec. 33. Section 479B.4, subsection 3, Code 2025, is amended
+29 to read as follows:
+30 3. The pipeline company shall hold informational meetings
+31 in each county in which real property or property rights will
+32 be affected at least thirty days prior to filing the petition
+33 for a new pipeline. A member of the commission, or a person
+34 designated by the commission, shall serve as the presiding
+35 officer at each meeting and present an agenda for the meeting,
+HF 639.1921 (1) 91
+-23- sb/js 23/29
+
+1 which shall include a summary of the legal rights of the
+2 affected landowners. At least one member of the commission
+3 shall attend each informational meeting. If at any point
+4 during the meeting no member of the commission is available for
+5 any reason, the meeting shall pause until at least one member
+6 of the commission returns. No formal record of the meeting
+7 shall be required. The meeting shall be held at a location
+8 reasonably accessible to all persons who may be affected by
+9 granting the permit.
+10 Sec. 34. Section 479B.4, subsection 6, Code 2025, is amended
+11 to read as follows:
+12 6. a. A pipeline company person seeking rights under
+13 this chapter shall not negotiate or purchase an easement or
+14 other interest in land in a county known to be affected by the
+15 proposed project prior to the informational meeting. After
+16 such meeting, if notice by publication was properly made, a
+17 person seeking rights under this chapter and a landowner may
+18 enter a voluntary agreement for an interest in land without
+19 regard to whether the landowner received notice by mail. Prior
+20 to entering a voluntary agreement with a landowner who did not
+21 receive notice of the informational meeting by mail, the person
+22 seeking rights under this chapter shall provide such landowner
+23 copies of the informational meeting materials presented by
+24 the commission, the consumer advocate, and the person seeking
+25 rights under this chapter. Nothing in this paragraph shall
+26 prohibit a person seeking rights under this chapter from
+27 holding a meeting prior to the informational meeting required
+28 by this section to provide general information regarding a
+29 project to a community that does not include negotiating
+30 specific terms with specific landowners.
+31 b. A person seeking rights under this chapter may contact
+32 landowners within five miles of the project’s proposed route
+33 for the purpose of seeking voluntary easements under the same
+34 conditions as provided in paragraph “a”.
+35 Sec. 35. Section 479B.7, Code 2025, is amended by adding the
+HF 639.1921 (1) 91
+-24- sb/js 24/29
+
+1 following new subsection:
+2 NEW SUBSECTION. 3. If a pipeline route is readjusted due
+3 to an objection filed pursuant to this section, the utilities
+4 commission shall not require a pipeline company to resubmit an
+5 application for a permit pursuant to section 479B.4.
+6 Sec. 36. Section 479B.9, Code 2025, is amended to read as
+7 follows:
+8 479B.9 Final order —— condition.
+9 The commission may grant a permit in whole or in part upon
+10 terms, conditions, and restrictions as to location and route
+11 as it determines to be just and proper. A permit shall not be
+12 granted to a pipeline company unless the commission determines
+13 that the proposed services will promote the public convenience
+14 and necessity. The commission shall render a decision on a
+15 petition requesting the power of eminent domain no later than
+16 one year after the request for eminent domain is received by
+17 the commission.
+18 Sec. 37. Section 479B.16, Code 2025, is amended by adding
+19 the following new subsection:
+20 NEW SUBSECTION. 4. a. Notwithstanding subsection 1, a
+21 pipeline company granted a permit for a pipeline to carry
+22 liquefied carbon dioxide shall not be authorized to use eminent
+23 domain except under all of the following circumstances:
+24 (1) The pipeline was permitted by the commission prior to
+25 the effective date of this Act.
+26 (2) The pipeline company’s petition process for a permit was
+27 initiated by the filing of a request with the commission for
+28 a date for an informational meeting as required under section
+29 479B.4, or the petition for amendment was on file with the
+30 commission prior to the effective date of this Act, including
+31 if the petition was subject to review and amendment.
+32 b. A pipeline for which the sole purpose is to attach a new
+33 shipper, customer, or off-taker to a pipeline for which eminent
+34 domain is authorized under paragraph “a” is authorized to use
+35 eminent domain provided at least sixty-seven hundredths of the
+HF 639.1921 (1) 91
+-25- sb/js 25/29
+
+1 affected parcels and of the total distance of the facility have
+2 been acquired through voluntary easements. The commission
+3 shall not require more than sixty-seven hundredths of easements
+4 to be voluntary for purposes of this paragraph.
+5 Sec. 38. Section 479B.17, Code 2025, is amended to read as
+6 follows:
+7 479B.17 Damages.
+8 1. A pipeline company operating a pipeline or an
+9 underground storage facility shall have reasonable access to
+10 the pipeline or underground storage facility for the purpose
+11 of constructing, operating, maintaining, or locating pipes,
+12 pumps, pressure apparatus, or other stations, wells, devices,
+13 or equipment used in or upon the pipeline or underground
+14 storage facility. A pipeline company shall pay the owner of
+15 the land for the right of entry and the owner of crops for all
+16 damages caused by entering, using, or occupying the lands and
+17 shall pay to the owner all damages caused by the completion
+18 of construction of the pipeline due to wash or erosion of the
+19 soil at or along the location of the pipeline and due to the
+20 settling of the soil along and above the pipeline. However,
+21 this section does not prevent the execution of an agreement
+22 between the pipeline company and the owner of the land or crops
+23 with reference to the use of the land.
+24 2. A claim for crop yield loss damages pursuant to this
+25 section shall not be precluded from renegotiation under section
+26 6B.52 on the grounds that the damages were apparent at the time
+27 of settlement unless the settlement expressly releases the
+28 pipeline company from claims for damages to the productivity of
+29 the soil. A landowner that seeks damages under this section
+30 not subject to a release shall notify the pipeline company in
+31 writing fourteen days prior to harvest in each year to assess
+32 crop deficiency.
+33 Sec. 39. Section 479B.20, Code 2025, is amended by adding
+34 the following new subsection:
+35 NEW SUBSECTION. 1A. For a pipeline company exercising
+HF 639.1921 (1) 91
+-26- sb/js 26/29
+
+1 the power of eminent domain pursuant to this chapter, the
+2 pipeline company shall be liable for repairs of drainage tile
+3 installed prior to the installation of the pipeline, when the
+4 installation, construction, operation, maintenance, or repair
+5 of the pipeline is the proximate cause of the damage to the
+6 drainage tile. The pipeline company’s liability pursuant to
+7 this section shall continue for the life of the pipeline and
+8 shall include all of the following:
+9 a. The full replacement costs of the drainage tile,
+10 including, without limitation, material, labor, and equipment.
+11 b. The reclamation and restoration of topsoil as part of any
+12 drainage tile repair.
+13 Sec. 40. Section 479B.20, subsection 5, Code 2025, is
+14 amended to read as follows:
+15 5. If the pipeline company or its contractor does not
+16 comply with the requirements of this section, with the land
+17 restoration plan or line location, or with an independent
+18 agreement on land restoration executed in accordance with
+19 subsection 10, the county board of supervisors or a landowner
+20 may petition the commission for an order requiring corrective
+21 action to be taken. In addition, the county board of
+22 supervisors or a landowner may file a complaint with the
+23 commission seeking imposition of civil penalties under section
+24 479B.21. A landowner may supply a copy of the complaint to the
+25 county board of supervisors where the complaint originated.
+26 Sec. 41. Section 479B.29, subsection 1, paragraphs b and f,
+27 Code 2025, are amended to read as follows:
+28 b. Loss or reduced yield of crops or yield from land near
+29 the pipeline right-of-way resulting from lack of timely access
+30 to the land or other disturbance of usual farm operations,
+31 including interference with irrigation or drainage.
+32 f. Erosion and soil compaction on lands attributable to
+33 pipeline construction.
+34 Sec. 42. Section 479B.29, subsection 1, Code 2025, is
+35 amended by adding the following new paragraphs:
+HF 639.1921 (1) 91
+-27- sb/js 27/29
+
+1 NEW PARAGRAPH. h. Damage to soil or water conservation
+2 structures caused by construction, restoration, or subsequent
+3 work by the pipeline company including but not limited to
+4 terraces, grassed waterways, water and sediment control basins,
+5 ponds, saturated buffers, and biofilters.
+6 NEW PARAGRAPH. i. Damage to irrigation or drainage systems
+7 caused by construction, restoration, or subsequent work by the
+8 pipeline company.
+9 Sec. 43. Section 479B.29, subsection 2, Code 2025, is
+10 amended to read as follows:
+11 2. A claim for damage for future crop deficiency within
+12 the easement strip damages incurred under this section shall
+13 not be precluded from renegotiation under section 6B.52 on
+14 the grounds that it was apparent at the time of settlement
+15 unless the settlement expressly releases the pipeline company
+16 from claims for damage to the productivity of the soil. The A
+17 landowner that seeks damages under this section not subject to
+18 a release shall notify the pipeline company in writing fourteen
+19 days prior to harvest in each year to assess crop deficiency.
+20 The landowner may submit a global positioning yield map to
+21 demonstrate such crop loss, but the information contained in
+22 such map shall not be dispositive as to the extent or causation
+23 of the damages, which may be contested by the pipeline company.
+24 Sec. 44. Section 479B.29, Code 2025, is amended by adding
+25 the following new subsection:
+26 NEW SUBSECTION. 3. A landowner that incurred damage under
+27 this section is eligible for compensation for damages. A
+28 landowner may file a claim for damages against a pipeline
+29 company in small claims or district court for a violation of
+30 this section or pursue remedies under section 479B.30.
+31 Sec. 45. Section 479B.30, subsection 7, Code 2025, is
+32 amended to read as follows:
+33 7. As used in this section, “damages” means compensation for
+34 damages to the land, crops, and other personal property caused
+35 by the construction of a pipeline and its attendant structures
+HF 639.1921 (1) 91
+-28- sb/js 28/29
+
+1 or underground storage facility, or a compensable loss as
+2 described in section 479B.29, subsection 1, but does not
+3 include compensation for a property interest, and “landowner”
+4 includes a farm tenant.
+5 Sec. 46. NEW SECTION. 479B.34 Hearing —— commission member
+6 attendance.
+7 All hearings initiated under this chapter shall follow the
+8 attendance rules governing commission members as provided in
+9 section 476.33, subsection 5.
+10 Sec. 47. RETROACTIVE APPLICABILITY. The section of this Act
+11 amending section 479B.4, subsection 6, applies retroactively to
+12 voluntary agreements between a pipeline company and a landowner
+13 entered into on or after January 1, 2024.>
+14 2. Title page, by striking lines 1 through 8 and
+15 inserting <An Act relating to public utilities, including
+16 utility commission member attendance at hearings and
+17 informational meetings, utility commission decision timelines,
+18 land restoration standards, claims for damages, easement
+19 negotiations, and the exercise of eminent domain for the
+20 construction of hazardous liquid pipelines, making civil
+21 penalties applicable, and including retroactive applicability
+22 provisions.>
+______________________________
+MIKE BOUSSELOT
+HF 639.1921 (1) 91
+-29- sb/js 29/29
+
+[DELETED: eFe6AdHeFe6,asa,p,adrdbteH,asf1.Bysgegarteegceai<n1.Sn4,Ce2,isadbyatefgnwsNWS.5.Frhsidurtc,amyoftemsoftecnslbptdgaylet.Ifatayptdgl0tyatahglstnamyoftem1aeaefrayr,temgslpeul2myoftemsoftecnaea3S.2.Sn4,Ce2,isadbyagt4fgnws5NWS.6.Alhsidurt6crslfwteaersggc7msaspdinsn4,sn58NWS.7.Arah,ifneb9pnwspym,anorofanecp0gnadtnfyadapyorm1eravyatfranitintep2wtrdtowrtepyorrdn3bym4S.3.NWSAO51.Ifanatisegteprofetd6pttotsc,ap,igag7e,wersorismybeadbyt8pdfymyfewno92.Alosslbeonfewhtec0ntlstnfedsbetedeofhgont1a.H,tecnmypttef2ofteoslrtnfedsbeteh,i3whetteatmtbegdaretet4rdtoteo53.IfafyisrddetoanonfF61()9]
+[DELETED: pttotss,teuscnslnreanattortananfrappttosn44.Ngayorpsintssanonfdbyagteyttisarayorcyorcyzgaysttotrsofsn45sloyasisnwnteseofsn4S.4.Sn4,udph1,Ce20isadtordasf1Tecnslrradnonteani2anesm.Tecnslrrad3onananrgteprofetdnn4lrtnoeyrartertfretdni5rdbytec.Aceslbeidt6teatiftecnfsaloftef7S.5.NWS6Astols——d81.Isorcsogt9lsfrtefyslhereast0tetnlsfrtepeofc1r,e,r,orlgtep2w,orcnadordsudinoruna3l,btslpytoteoroftelsadofcso4telsaldstotelsorcscdbye5u,adogtelsfrtep.T6snslntptteenofanatb7tep,c,orcnogorogt8lsadteorofteldorcsrgteueo9tel02.Acmfrcpydlsdspttot1snslntbepdfmrnurs262ontegstttedsweatattet3ofstustesteyrst4p,c,orcnogorogtel5fmcsfrdstotepyoftes.F61()9]
+[DELETED: lrttssdsurtssnntsttareslnytep,c,orcniwgfndsprtohtinehyrtoacpdS.6.NWS7Dete——lFranategteprofetdpttotsc,teorofteecpgnadtnfyslbelefrsofdeteidprtoteino0tef,wntei,c,o1m,orrroftefyistepec2oftedetotedet.Teosl3pttotssnslcefrteleoft4ecprgnadtnfyads5iealoftef61.Teflrtcsoftedet7i,wtl,m,l,ade82.Ternadrnoftlasptofa9deter0S.7.NWS8Ldrns11.Tecnslatrspttoc21Argternofallsf3cnofafysttotsc.R4adurtssnslittef5r,whslntaywntecel6ofac,toayldodbytefyo,ortoa7c,a,orfyortnafya8ddintsc9Afyorslrraddu0dnteassnaspedgcnoft1f.Ptrstoteddudd2teslbecdassnaspeart3ilcnoftefyisc.Ter4metotedddnteslbeofatlte5q,s,adfwcyofteoldntF61()9]
+[DELETED: Fgtecnoftef,teforslrefmayetaaalrklrtteisinaedrntnetotesloftedl.TerkrdfmteedldtctbeudtoblslbeddofataladinamradunbytefyoradtlUncnofcnasonaptefyorsldptlall,i0ryaspsorrstdbyh1cne,toaeslc.Tel2slbetdatltenisdpinldudf3cppnadteisdpinorlsu4oeadtobytel5Uncnoftef,tefyors6reteslcnpsadssd7dgcnoftefytoteenadg8egonteldprtotec.Teslu9torresidtornwrslbew0c.Ayvndddgcns1ber,igcrcswna2Fgcnoftel,alldt3isntinrwcporslgnpnatteteo4c,ighygdadldincno5sep,slberdadacrcps6beudwna.Sgfrcrcsmyb7ddiftecnoftefyiscdt8leinteyrfracrcptobeedadi9ntrdifteldwlbetdintefgy0Telrmyrtgdcrtoptsle1inaswecnontefyiscdift2snisntsefrsgacrc3Usadunbytefyoradt4l,tefyorslrefde5ortyrsbtfrtepeofcgtF61()9]
+[DELETED: fyuntecnofcnadretaatoispsuAfyorsluegduypsfcgtefyinwtc,shasetouemgorpgwnughye.fyorslgeadtlayrdldtortoteetp,teolcnoftelprtotecnoftef.Ifadunbtefyoradtel,telrmyr0aydecdbycnasinwtc1adtefyorslretelrfrt2rectidtorrted.Ifaf3orushyetinwsorm,mso4ormsslbeudtomesld5Tefyorsldeaptofctf6isorcsfmanadp.Ted7sliean,aten,anela,a8ana92.Ifafyoradalrde0plvnofternsspdi1sn1,tecnmyataqdi2toittepyfrc.Ifteq3ildstttehsbnavnoft4aerns,tecnslp5oln,fdbywnn,totefyo6adtecrogfrtefyorado7ceantocywhterns8Tefyorslberefrtecsoft9cea0Iftefyorortecrfrtef1ordsntcywhavdorfrc2anidbytec,tecnmyiea3orrgceantobetnadmyi4clpsursn4,whslayto5vnoftssninluofsn4F61()9]
+[DELETED: Tecnslitteiradbtecnrgtectoftessadradteryofteirtorercgwhtessedinsn13.Anatfraceslfewhtanawnldrnpnttdshtersadrsofsn1wlbem.Tatslpeacyoftepntoallofpyttwlbeddbytecnoft0f1Ngintssnslpetea2ofpsfrpgorrgpytta3dttntepdinsn1,inr4adursn1,orinteldrnp5ifteaepsaecdina6iyedbytefyoradtel7Itasfrldrnbnt8fyoradtelrslbeinwgadm9aetotecnunr0Tecnmybywrawvsfmt1rsofsn1iftefyorrg2wrsstessstfhinsn1Aa3ifteaemspdbytefyorw4reteldtoacnasgdasorbrtna5pdfrinsn16Tecnmywepnofas7ldrnpniftefyoresioa8alitmnpnorsra9whteaeasoftssetts0tersofsn1.Ifamnpno1atisudtofyorpymtter2ofaldrnp,testorats3befdwhtecnadslbecdtob4ortobepto,teldrnpnfrpso5sn1F61()9]
+[DELETED: 4.Ngintssnsll,e,oromytersofasadosfrdssfhinsn45.TersoftssnslayoytfycnpscdonorarJe12S.8.NWS9Prdec1.Wntefyositintelpywsadbyteeeofetd0pttotsc,celsmyieb1aentldtoayoftef2Lsorrdydofcsorfeontef3r,wrcddybycnorf4deofulfmo5Lsorrdydofcsfmldnrt6fyryrgfmlkoftya7toteldorordeofulfmo8igiewhinord9Csadwhteanoff0l,orocmlbytelrtorel1ddbycntoflp2Lsofordetotsofclvet3osatteteofcnorr,oratt4teofaystwkbytei,c,o5cnogtef6Tectoforlsinmgorrgl7adtelsofgnbyortedhoriyofl8cdbyteinorrnofnlf9Enadslcnonlsaet0fyc1Detofmetcdbysgdso2ormlryadwhfyc3weedinnlfgosasddi4sn45DetoslorwrcnsscF61()9]
+[DELETED: byc,r,orstwkbyti,c,orcnogtefigbtntldtot,gdw,wadstclb,p,sdb,abDetoinordesscbyc,r,orstwkbyti,c,orcnogtef2.Acmfrdspttotssnslntb0pdfmrnursn62onteg1tttedsweatatteteofstu2testeyrstei,c3orcnogtefyfmtec.T4lrslnytei,c,orc5inwgfndsprtohtinehyrt6ascpd73.Alrttiddeurtss8iseefrcnfrd.Alrm9feacmfrdsatani,c,o0cnogtefyinslcsord1ctfravnoftss2S.9.Sn4,sn2,pha,Ce23isadtordasf4Amroftec,tecloft5c,orapgorddbytec6slseastepgoratehm,s7ptanaafrshm,whsli8asyoftellrsofteadl9adsldeadrwtestofi0rsrdursn6,sn1.Atl1oemroftecnsladehi2m.Ifatayptdgtemgnomroft3cnisaefrayr,temgslp4ulatltoemroftecnr.Af5rdoftemgslntberF61()9]
+[DELETED: S.1.Sn4,sn4,Ce2,isatordasf4.Apnsgrsurtscrsntneorpeayesororisildinaycykntobeadbytepdpprtoteilm.Arshm,inebypnwspym,apnsrsurtscradalrmyeravatfranitinldwtrdtow0telrrdnebym.Prtoeg1vyatwhalrwoddntren2ofteilmgbym,tepnsgr3urtscrslpeshlrcsoft4ilmgmspdbytec5tecra,adtepnsgrsu6tsc.Ngintsphslpt7pnsgrsurtscrfmhgam8prtoteilmgrdbytssnt9peglinrgapttoac0ttdsntiengsctswhs1l2Apnsgrsurtscrmyc3lswnfemsoftepspdr4frtepeofsgvyesurtes5csaspdinph6S.1.Sn4,Ce2,isadtorda7f5Ne——osf91.Untefgofshp,teu0cnslcean,adtotec1ofehcythwhtepdleorl2wle,tobepdinanrldine3shcyfrtocew.Sdnes4cnaglstoftecsadpeoft5p,agldnoftelsadhstF61()9]
+[DELETED: betdbytepdleorl,adslsttayostomtbefdinwgwhtcnntlrtntydsartedeoflpnoften.Ayp,c,c,ocnwersmybea,slhetertofewnostotepditortteggofshf;shosslbefwhtecnntlrtntydsartedofltpnadslsetegst.T0cnmyawostobefdlrinw1etteatmtbegnretetom2rdtoshleo32.Ifareisrddetoanonf4pttotss,teuscnsln5retei,c,orcnagfrt6fetortapnfrafeptt7sn48S.1.Sn4,Ce2,isadbyagt9fgnws0NWS.4.Tecnslrrad1onapnrgteprofetdnnol2tnoeyrartertfretdnisr3bytec4S.1.Sn4,Ce2,isadtorda5f7Astols——d71.Isorcsogtnl8slhereastotetnlsfrt9peofc,r,e,r0orlgtep,w,orcnadord1udinorunayl,btslpytoteoroft2lsadofcsontelsaldstotelso3cscdbye,u,adogtelsf4tep.Tssnslntpttee5ofanatbntep,orc,orcF61()9]
+[DELETED: ogorogtelsadteorofteldocsrgteueoftel2.Acmfrdspttotssndetocydlsslntbepdfmrnusn62ontegstttedsweatateteofstustesteyrtep,c,orcnogorogtlsfmcsfrdstotepyoftesAlrttssdsurtssnnts0toareslnytep,c,orc1inwgfndsprtohtinehyrt2ascpd3S.1.NWSADete——l4Franategteprofetd5pttotsc,anectno6asddinsn46slbelefrr7ofdeteidprtoteino8teectnl,wntei9c,o,m,orrroftee0tnleistepeceoftedet1tedet.Teoslyptt2tssnslcefrteleoftee3tnleadsliealoftef41.Teflrtcsoftedet5i,wtl,m,l,ade62.Ternadrnoftlasptofa7deter8S.1.Sn4,sn1,Ce2,isa9tordasf01.Apnwovsapnoftscro1sn48issttoaclp,whm2beldbytec,ofntmetnoeh3dsprvnoroetddsprdyof4cgv,wrisg.Clp5cdpttotssnslbefdbytF61()9]
+[DELETED: cfogoroftecntotetofsetobecdtoteglfdofteseaadtotedtofhhadhnssfpsoftelwieheeyaepmatewnaepS.1.NWS4Ldrns1.Tecnslatrspttoc1Argternofallsfcnofanectnlestt0tscrttisceofogattoh1ksorg.Rsadurtssns2ittefgr,whslnta3wntecelsofac,topye4fmafeursn4,sn2,ortoa5c,a,orfyntsttoaf6urtsc7Anectnorslrrad8uddnteassnasped9cnofteectnl.P0rstotedduddnteslb1cdassnaspearteilc2ofteectnleisc.Ter3metotedddnteslbeofatlte4q,s,adfwcyofteoldnt5Fgtecnofanect6l,teectnorslrefmt7etaaalrklrtnteisina8drntnetoteslofteedl.T9rkrdfmteedldttctbeudt0blslbeddofatalnadinam1adunbyteectnoradt2l3Uncnofcnasonap4teectnorsldptla5l,igryaspsorrstF61()9]
+[DELETED: byhycne,toaeslcTeldslbetdatltenisdpinludfrcppnadteisdpinorlusoeadtobytelUncnofteectnl,tectnorslreteslcpsadssdddgcnoftectnletoteenadgeeonteldprtotec.Tesludt0rresidtornwrslbew1c.Ayvndddgcns2ber,igcrcswna3Fgcnoftel,alldt4isntinrwcporslgnpnatteteo5c,ighygdadldincno6sep,slberdadacrcps7beudwna.Sgfrcrcsmyb8ddiftecnofteectnl9iscdtoleinteyrfracrcptob0edadisntrdifteldwlbetdi1tefgy.Telrmyrtgdc2toptsleninaswecnont3ectnleiscdiftesnisn4sefrsgacrc5Usadunbyteectno6adtel,teectnorslr7fdesortyrsbtfrtepeo8cgteectnleuntec9ofcnadreteaatoispsu0Anectnorsluegdu1psfrcgteectnlei2wtc,shasegtouemgorpgw3ughye.Anectno4slgeadtlayrdldtor,totee5p,teolcnofteldprtotF61()9]
+[DELETED: cnofteectnl.Ifaunbyteectnoradteltelrmyrraydecdbycasinwtcsadteectorslretelrfrterecidtorrted.Ifanectorushyetinwsorm,msoormsslbeudtomesldTeectnorsldeap0ofctfrisorcsfmanadp1Tednsliean,aten,a2ela,adana32.Ifanectnoradal4deaplvnofterns5pdinsn1,tecnmyat6qdiltoittepyfrc7Ifteqdildstttehsb8avnofteaerns,t9cnslpeoln,fdbyw0n,toteectnoradtec1ogfrteectnorado2ceantocywhterns3Teectnorslberefrt4csoftecea5Ifteectnorortec6frteectnordsntcywh7vdorfrceanidbytec,t8cnmyieanorrgceantob9tnadmyieclpsursn40Tecnslitteiradb1tecnrgtectoftessadr2adteryofteirtorer3cgwhtessedinsn143.Aprfrafefrane5tnleslfewhtepnawnlF61()9]
+[DELETED: rnpnttdshwtersadrofsn1wlbem.TeprslpecyoftepntoallsofpyttwlbddbytecnofteectlNgintssnslpeteaofpsfrpgorrgpyttadttntepdinsn1,inradursn1,orinteldrnp0ifteaepsaecdina1iyedbyteectnora2tel.Itasfrldr3bnteectnoradtelrs4beinwgadslbemeaetotec5unr6Tecnmybywrawvsfmt7rsofsn1ifteect8orrgawrsstessstf9insn1Aadifteaemsp0byteectnorwdretel1toacnasgdasorbrtnaspdfri2sn13Tecnmywepnofasel4rnpnifteectnoresi5analitmnpnorsra6whteaeasoftssetts7tersofsn1.Ifamnpno8atisudtofyorpymtter9ofaldrnp,testorats0befdwhtecnadslbecdtob1ortobepto,teldrnpnfrpso2sn134.Ngintssnsll,e,oro4mytersofasadosfrdss5fhinsn4F61()9]
+[DELETED: 5.TersoftssnslayoytectnlecnpscdoorarJe1,2S.1.NWS5Prdec1.Wnteectnleosiintelspywsadbyteeeoetdnpttotsc,celsmiebtaentldtoayoftefLsorrdydofcsorfeontee0tnler,wrcddyb1cnorfmdeofulfmo2Lsorrdydofcsfmldnrt3ectnleryrgfmlko4tyastoteldorordeofulf5o,igiewhinord6Csadwhteanoff7l,orocmlbytelrtorel8ddbycntoflp9Lsofordetotsofclvet0osatteteofcnorr,oratt1teofaystwkbytei,c,o2cnogtetnl3Tectoforlsinmgorrgl4adtelsofgnbyortedhoriyofl5cdbyteinorrnofnlf6Enadslcnonlsaet7ectnlec8Detofmetcdbysgdso9ormlryadwhect0lecnweedinnlfgosa1ddinsn42Detoslorwrcnssc3byc,r,orstwkbyt4i,c,orcnogtet5leigbtntldtot,gdwF61()9]
+[DELETED: wradstclb,p,sdbadbDetoinordesscbyc,r,orstwkbyti,c,orcnogtetl2.Acmfrdspttotssnslntbpdfmrnursn62ontegtttedsweatatteteofstu0testeyrstei,c1orcnogtetnlefmt2c.Telrslnytei,c,o3cninwgfndsprtohtine4yrtoascpd.Telrmyst5glpgydmptodeshcpl,b6teincdinshmpslntbed7astoteetorcnofted,whmyb8cdbytei,c,orcno9tetnl03.Alrttiddeurtss1iseefrcnfrd.Alrm2feacmfrdsatani,c,o3cnogtetnleinslc4ordtctfravnoftssnorp5rsursn46S.1.NWS6Hg——cnm8Alhsidurtscrslfwt9aersggcnmsaspdi0sn4,sn51S.1.Sn4,sn3,pha,C22,isadtordasf3Apecyslhdilm4inehcyinwhrlpyorpyrsw5beadatlttydsprtofgtepF61()9]
+[DELETED: franwp.Amroftecnorapddbytecnslseasteporatehm,slptanaafrtm,whslieasyoftellrofteadl,adsldeadrtestofilrsrdurs6.Atltoemroftecnsladeilm.Ifatayptdgtemnomroftecnisaefrayr,t0mgslpeulatltoemroftec1r.Aflrdoftemgslntber2S.2.Sn4,sn5,Ce2,isa3tordasf45.Apecypnsgrsurt5crslntneorpeayesoro6isinldinaycykntobeadbyt7pdptprtoteilm.A8shm,ifnebypnwspym,9pnsgrsurtscradalrm0eravyatfranitinldw1rdtowrtelrrdnebym.P2toegavyatwhalrwoddn3reneofteilmgbym,tep4sgrsurtscrslpeshl5csofteilmgmspdb6tec,tecra,adtepns7rsurtsc.Ngintsphs8ptapnsgrsurtscrf9hgamgprtoteilmgr0bytssntopeglinrg1pttoacyttdsntien2sctswhscl3Apnsgrsurtscrmyc4lswnfemsoftepspdr5frtepeofsgvyesurtesF61()9]
+[DELETED: csaspdinphS.2.Sn4,Ce2,isadtordaf9O1.Ayp,c,c,orcywerorismybeadbyapdpeorlorgssefsmyfewnostotpdpeorlsorgssefsortotggofap02.Ifapeorlereisrdorag1sefyisrddetoanonf2pttotss,teuscnsln3reapecytortananfr4ptpttosn45S.2.Sn4,Ce2,isadtorda6f2Flor——c8Tecnmygtaptinweorinptu9t,c,adrsastosyr0adastolnadreasddbyittobej1adp.Beaptisgdtoapec2tec,arapchgaspdint3c,sldewrtesspdtob4rdwlpetepcceadn,a5anaefgtottetisacnp6toteggofap.Tecnslrr7dnonapnrgteprofetd8nolrtnoeyrartertfretdni9rdbytec0S.2.Sn4,Ce2,isadtorda1f5D31.Apecyogapeorag4seaaslhereastotepeo5gsseaafrtepeofc,oF61()9]
+[DELETED: m,orlgp,p,peasoors,w,d,oretudinorutepeorgssea;slpyteoroftldfrtertofeyadteorofcsfradscdbye,u,orogtel;aslpytoteoraldscdbytecofcnoftepedetowhorenoftslatoragtelnoftepeaddetotsgofteslagadaetep.H0tssnslntptteenofana1bntepecyadteorofldorc2whretoteueoftel32.Acmfrdspttotssndetoc4ydlsslntbepdfmrnu5sn62ontegstttedswea6atteteofstusteste7rstepecyfmcsfrdstot8pyoftes.Alrttssdsu9tssnntsttoareslnytep0cyinwgfndsprtohtinehy1toascpd2S.2.Sn4,Ce2,isadbyagt3fgnws4NWS.1.Frapecye5teprofetdnpttotsc,t6pecyslbelefrrsofdnt7idprtoteinoftep,wnt8i,c,o,m,orr9oftepeistepeceoftedetot0det.Tepecslyptt1tssnslcefrteleoftepea2sliealoftef3Teflrtcsoftedet4i,wtl,m,l,ade5TernadrnoftlasptofaF61()9]
+[DELETED: deterS.2.Sn4,sn5,Ce2,isatordasf5.Iftepecyoriscrdsncywhtersoftss,whtldrnp,orwhanitatoldrnorlelnedinawhsn1,tecybdofssorlrmypntecnfranorr0ceantobet.Ina,tecyb1ofssoralrmyfeactwht2cnsginofclpsptt3sn4.Alrmysyacyoftec4totecybdofsswetec5o6S.2.Sn4,sn1,psbadf7Ce2,aeadtordasf8Lsorrdydofcsorydfmldn9teperyrgfmlkoftya0toteldorordeofulfmo1igiewhinord2Enadslcnonlsaet3pec4S.2.Sn4,sn1,Ce2,isa5byagtefgnwp6NWP.Detoslorwrc7sscdbyc,r,ors8wkbytepecyigbtntldt9t,gdw,wradstclb0p,sdb,adb1NWP.Detoinordes2cdbyc,r,orstwkbyt3pec4S.2.Sn4,sn2,Ce2,isa5tordasfF61()9]
+[DELETED: 2.Acmfrdefrfecpdywteetspdsidurtssnsntbepdfmrnursn62otegsttitwsatatteteofsustesteyrstepecfmcsfrdetotepyoftes.Telrttssdsurtssnntsttareslnytepecyinwgfdsprtohtinehyrtoascpd0Telrmystaglpgydmpt1deshcpl,btteincdi2shmpslntbedeastoteetorc3ofted,whmybecdbytepec4S.2.Sn4,Ce2,isadbyagt5fgnws6NWS.3.Alrttiddeu7tssniseefrcnfrd.8lrmyfeacmfrdsatap9cyinslcsordtctfravno0tssnorpersursn41S.3.Sn4,sn7,Ce2,isa2tordasf37.Asudintss,mscnf4dstotel,c,adorplpyc5bytecnayofigapeadi6atssorudsef,or7celsasddinsn4,sn18btdsntiecnfrapyi,a9isafmt0S.3.NWS0Hg——cnm2Alhsidurtscrslfwt3aersggcnmsaspdi4sn4,sn55S.3.Sn4,Ce2,isadtordaF61()9]
+[DELETED: f1D1.Apecyogpsoruseslbegnreastotepsaseasfrtepeofc,om,orlgtrp,p,pa,orors,w,d,oretuinorunapeorsea,btslpyteooftelsfrtertofeyadteorofcso0teldaldscdbye,u,oro1telsfrtep;adslpytoteoroft2l,artecnofcnoftepeo3s,aldscdbysgofteslaga4aetep,adwhorenofteslagt5pedetotecnoftep.H6tssndsntptteenofana7whortsbntepecyadteoro8teldorcswhretotru92.Acmfrcpydlsdspttot0snslntbepdfmrnurs162ontegstttedsweatattet2ofstustesteyrst3pecyfmcsfrdstotepyo4tes.Alrttssdsurtss5ntsttoareslnytepecyi6wgfndsprtohtinehyrtoa7cpd8S.3.Sn4,sn3,Ce2,isa9tordasf03.Tepecyslhdilm1inehcyinwhrlpyorpyrsw2beadatlttydsprtofgtep3franwp.Amroftec,orap4ddbytec,slseastep5oratehmgadptanaafrtemF61()9]
+[DELETED: whslieasyoftellrsoftadl.Atltoemroftecsladehilm.Ifataypdgtemgnomroftecnisaefayr,temgslpeulatltoemoftecnr.Noflrdoftemslber.Temgslbehdatalryaetoalpswomybeadbggtep0S.3.Sn4,sn6,Ce2,isa1tordasf26.Apecypnsgrsu3tscrslntneorpeaneto4oritinldinacykntobeadbyt5pdptprtoteilm.A6shm,ifnebypnwspym,7pnsgrsurtscradalrm8eravyatfranitinldw9rdtowrtelrrdnebym.P0toegavyatwhalrwoddn1reneofteilmgbym,tep2sgrsurtscrslpeshl3csofteilmgmspdb4tec,tecra,adtepns5rsurtsc.Ngintsphs6ptapnsgrsurtscrf7hgamgprtoteilmgr8bytssntopeglinrg9pttoacyttdsntien0sctswhscl1Apnsgrsurtscrmyc2lswnfemsoftepspdr3frtepeofsgvyesurtes4csaspdinph5S.3.Sn4,Ce2,isadbyagtF61()9]
+[DELETED: fgnwsNWS.3.Ifapereisrddtoanonfdpttotss,teucnslntreapecytortaanfraptpttosn4S.3.Sn4,Ce2,isadtordaf9Flor——cTecnmygtaptinweorinptu0t,c,adrsastolnadr1asitdstobejtadp.Aptslntb2gdtoapecyustecnd3tttepdsswlpetepcc4adn.Tecnslrradnon5pnrgteprofetdnnolrt6oeyrartertfretdnisrdb7tec8S.3.Sn4,Ce2,isadbya9tefgnws0NWS.4.Ngsn1,1pecygdaptfrapetoc2ldcndeslntbeadtouee3dneturaloftefgc4()Tepewspdbytecnprt5teeedeoftsA6()Tepecspnpsfraptw7idbytefgofartwhtecnf8adefranilmgasrdurs94,ortepnfratwsonfewht0cnprtoteeedeoftsA,i1iftepnwssttorwada2Apefrwhtesepeistoahan3s,c,orortoapefrwhe4dnisadurphisadtou5etdnpdatltsnhsoftF61()9]
+[DELETED: adpsadoftetldeoftefyhbnadthvye.TecslntremetnsnhsofetobevyfrpsoftspS.3.Sn4,Ce2,isadtordaf7D1.Apecyogapeoraudsefyslhereast0tepeorudsefyfrtep1ofc,o,m,orlgp2p,pea,orors,w,d3oretudinoruntepeoru4sef.Apecyslpyteoro5teldfrtertofeyadteorofcsfra6dscdbye,u,orogtelsa7slpytoteoraldscdbytec8ofcnoftepedetowhorenoft9slatoragtelnoftepeaddetot0sgofteslagadaetep.H1tssndsntptteenofana2bntepecyadteorofteldorc3whretoteueoftel42.Acmfrcpydlsdspttot5snslntbepdfmrnurs662ontegstttedsweatattet7ofstustesteyrst8pecyfmcsfrdstotepyo9tes.Alrttssdsurtss0ntsttoareslnytepecyi1wgfndsprtohtinehyrtoa2cpd3S.3.Sn4,Ce2,isadbya4tefgnws5NWS.1.FrapecyeF61()9]
+[DELETED: teprofetdnpttotsc,tpecyslbelefrrsofdetidprtoteinoftep,wnti,c,o,m,orroftepeistepeceoftedetotdet.TepecslyptttssnslcefrteleoftepeasliealoftefTeflrtcsoftedet0i,wtl,m,l,ade1Ternadrnoftlasptofa2deter3S.4.Sn4,sn5,Ce2,i4adtordasf55.Iftepecyoriscrdsn6cywhtersoftss,whtel7rnpnorlel,orwhani8atonldrnedinaew9sn1,tecybdofssoral0mypntecnfranorrgc1antobet.Ina,tecybdo2ssoralrmyfeactwht3cnsginofclpsurs44.Alrmysyacyoftecttot5cybdofsswetecto6S.4.Sn4,sn1,psbadf7Ce2,aeadtordasf8Lsorrdydofcsorydfmldn9teperyrgfmlkoftya0toteldorordeofulfmo1igiewhinord2Enadslcnonlsaet3pec4S.4.Sn4,sn1,Ce2,i5adbyagtefgnwpF61()9]
+[DELETED: NWP.Detoslorwrcsscdbyc,r,orswkbytepecyigbtntldtt,gdw,wradstclbp,sdb,adbNWP.Detoinordescdbyc,r,orstwkbytpecS.4.Sn4,sn2,Ce2,i0adtordasf12.Acmfrdefrfecpdyw2teetspdsidurtssns3ntbepdfmrnursn62o4tegsttitwsatatteteofs5ustesteyrstepec6fmcsfrdetotepyoftes.Te7lrttssdsurtssnntstt8areslnytepecyinwgf9dsprtohtinehyrtoascpd0Telrmystaglpgydmpt1deshcpl,btteincdi2shmpslntbedeastoteetorc3ofted,whmybecdbytepec4S.4.Sn4,Ce2,isadbya5tefgnws6NWS.3.Alrttiddeu7tssniseefrcnfrd.8lrmyfeacmfrdsatap9cyinslcsordtctfravno0tssnorpersursn41S.4.Sn4,sn7,Ce2,i2adtordasf37.Asudintss,mscnf4dstotel,c,adorplpyc5bytecnofapeadisatsF61()9]
+[DELETED: orudsef,oracelsaddinsn4,sn1,btdsniecnfrapyi,aisafmtS.4.NWS4Hg——cnmAlhsidurtscrslfwtaersggcnmsaspdisn4,sn50S.4.REA.TesnoftsA1agsn4,sn6,asryt2vyasbnapecyadal3edioonorarJy1,242.Tep,bysgls1th8a5ig<nAtrgtopcu,i6uycnmraeathsa7ilm,uycndnt8ldrns,csfrd,e9n,adteeeofetdnfrt0cnofhsldp,mgc1psa,adigrea2pEBF61()9]

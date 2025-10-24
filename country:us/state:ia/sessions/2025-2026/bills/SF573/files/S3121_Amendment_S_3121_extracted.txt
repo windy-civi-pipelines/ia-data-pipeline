@@ -1,0 +1,33 @@
+Title: 1 Amend Senate File 573, as passed by the Senate, as follows:
+Official Title: 1 Amend Senate File 573, as passed by the Senate, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3121
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Amendment to
+Senate File 573
+S-3121
+2 1. Page 2, line 8, after <loss> by inserting <for repair or
+3 replacement of damaged motor vehicle glass>
+SF 573.1665.H (1) 91
+-1- md 1/1
+[DELETED: eAtteFe5AdSeFe5,aspdbyteS,asf1.Pe2,le8,ar<>byig<rrrortofddmrvegF5H()9]
+
+
+================================================================================
+
+Raw Text:
+House Amendment to
+Senate File 573
+S-3121
+1 Amend Senate File 573, as passed by the Senate, as follows:
+2 1. Page 2, line 8, after <loss> by inserting <for repair or
+3 replacement of damaged motor vehicle glass>
+SF 573.1665.H (1) 91
+-1- md 1/1
+
+[DELETED: eAtteFe5AdSeFe5,aspdbyteS,asf1.Pe2,le8,ar<>byig<rrrortofddmrvegF5H()9]

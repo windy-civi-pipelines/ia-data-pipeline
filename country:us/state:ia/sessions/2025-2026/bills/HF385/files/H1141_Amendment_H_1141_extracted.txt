@@ -1,0 +1,37 @@
+Title: 1 Amend the amendment, H-1130, to House File 385, as follows:
+Official Title: 1 Amend the amendment, H-1130, to House File 385, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1141
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 385
+H-1141
+2 1. Page 1, after line 33 by inserting:
+3 <___. Page 4, line 19, by striking <thirty-day> and
+4 inserting <fifteen-day>>
+______________________________
+ANDREWS of Polk
+H 1130.1095 (1) 91
+-1- dg/ko 1/1
+[DELETED: eFe3Adtea,H,toHeFe3,asf1.Pe1,arle33byi<.Pe4,le1,bysg<>aig<SofP15()9]
+
+
+================================================================================
+
+Raw Text:
+House File 385
+H-1141
+1 Amend the amendment, H-1130, to House File 385, as follows:
+2 1. Page 1, after line 33 by inserting:
+3 <___. Page 4, line 19, by striking <thirty-day> and
+4 inserting <fifteen-day>>
+______________________________
+ANDREWS of Polk
+H 1130.1095 (1) 91
+-1- dg/ko 1/1
+
+[DELETED: eFe3Adtea,H,toHeFe3,asf1.Pe1,arle33byi<.Pe4,le1,bysg<>aig<SofP15()9]
