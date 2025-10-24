@@ -1,0 +1,1262 @@
+Title: 2 1. By striking everything after the enacting clause and
+Official Title: 2 1. By striking everything after the enacting clause and
+Number of Sections: 1
+Source: versions - Amendment S-3160
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+Senate File 642
+S-3160
+1 Amend Senate File 642 as follows:
+3 inserting:
+4 <DIVISION I
+5 STRATEGIC INFRASTRUCTURE PROGRAM
+6 Section 1. Section 15.117A, subsection 6, paragraph c, Code
+7 2025, is amended by striking the paragraph.
+8 Sec. 2. Section 15.313, subsection 3, unnumbered paragraph
+9 1, Code 2025, is amended to read as follows:
+10 The Iowa innovation council A committee appointed pursuant
+11 to section 15.117A, subsection 7, shall review each application
+12 received by the economic development authority for financial
+13 assistance under the program and shall make recommendations to
+14 the board regarding all of the following:
+15 DIVISION II
+16 BROWNFIELDS, GRAYFIELDS, AND REDEVELOPMENT TAX CREDITS
+17 Sec. 3. Section 15.291, subsections 3 and 11, Code 2025, are
+18 amended by striking the subsections.
+19 Sec. 4. Section 15.293A, subsection 3, unnumbered paragraph
+20 1, Code 2025, is amended to read as follows:
+21 The amount of the tax credit shall be determined by the board
+22 in conjunction with the council. However, the tax credit and
+23 shall not exceed the following amount, as applicable:
+24 Sec. 5. Section 15.293B, subsection 1, paragraphs b, d, and
+25 h, Code 2025, are amended to read as follows:
+26 b. The authority shall accept and, in conjunction with
+27 the council, review applications for tax credits provided in
+28 section 15.293A and, with the approval of the council, make tax
+29 credit award recommendations regarding the applications to the
+30 board. The authority may engage outside experts to complete a
+31 technical, financial, or other review.
+32 d. Upon review of an application, the authority may
+33 register the project with the redevelopment tax credits
+34 program. If the authority registers the project, the authority
+35 may, in conjunction with the council, make a preliminary
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-1- nls/ko 1/16
+1 determination as to the amount of tax credit for which an award
+2 recommendation will be made to the board.
+3 h. If the applicant for a tax credit provided in section
+4 15.293A has also applied to an agency of the federal government
+5 or to the authority, the board, or any other agency of state
+6 government for additional financial assistance, the authority,
+7 the council, and the board shall consider the amount of funding
+8 to be received from such public sources when making a tax
+9 credit award pursuant to this section.
+10 Sec. 6. Section 15.293B, subsection 1, paragraph f,
+11 subparagraph (1), Code 2025, is amended to read as follows:
+12 (1) All completed applications shall be reviewed and scored
+13 on a competitive basis by the council and the board authority.
+14 In reviewing and scoring applications, the council and the
+15 board authority may consider any factors the council and board
+16 deem authority deems appropriate for a competitive application
+17 process, including but not limited to the financial need,
+18 quality, and feasibility of a qualifying redevelopment project.
+19 Sec. 7. Section 15.293B, subsection 2, paragraph c, Code
+20 2025, is amended to read as follows:
+21 c. Any other information deemed necessary by the board
+22 and the council authority to review and score the application
+23 pursuant to subsection 1.
+24 Sec. 8. Section 15.293B, subsections 4 and 5, Code 2025, are
+25 amended to read as follows:
+26 4. A registered project shall be completed within thirty
+27 months of the date the project was registered unless the
+28 authority, upon recommendation of the council and with the
+29 approval of the board, provides additional time to complete the
+30 project. If the registered project is not completed within
+31 the time required, the project is not eligible to claim a
+32 redevelopment tax credit provided in section 15.293A.
+33 5. a. The investor shall engage a certified public
+34 accountant authorized to practice in this state to conduct an
+35 examination of the project in accordance with the American
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-2- nls/ko 2/16
+1 institute of certified public accountants’ statements on
+2 standards for attestation engagements. Upon completion of a
+3 registered project, an audit of the project, completed by an
+4 independent certified public accountant licensed in this state,
+5 the examination, along with a statement of the amount of final
+6 qualifying investment, shall be submitted to the authority.
+7 b. Upon review of the audit and verification of the amount
+8 of the qualifying investment, examination and statement
+9 submitted pursuant to paragraph “a”, the authority may issue a
+10 tax credit certificate to the investor stating the amount of
+11 tax credit under section 15.293A the investor may claim.
+12 Sec. 9. REPEAL. Sections 15.292, 15.293, 15.294, and
+13 15.295, Code 2025, are repealed.
+14 Sec. 10. TRANSFER OF MONEYS. On the effective date of this
+15 division of this Act, any unencumbered or unobligated moneys
+16 remaining in the brownfield redevelopment fund created in
+17 section 15.293 are transferred to a fund or funds established
+18 pursuant to section 15.335B, subsection 1, paragraph “a”, as
+19 determined by the economic development authority.
+20 DIVISION III
+21 COMMUNITY ATTRACTION AND TOURISM, AND VISION IOWA —— REQUIRED
+22 BENEFITS
+23 Sec. 11. REPEAL. Section 15F.106, Code 2025, is repealed.
+24 Sec. 12. APPLICABILITY. This division of this Act applies
+25 to an applicant awarded financial assistance under both the
+26 vision Iowa program established in section 15F.302, and the
+27 community attraction and tourism program established in section
+28 15F.202, on or after the effective date of this division of
+29 this Act.
+30 Sec. 13. RETROACTIVE APPLICABILITY. This division of this
+31 Act applies retroactively to an applicant awarded financial
+32 assistance under both the vision Iowa program established in
+33 section 15F.302, and the community attraction and tourism
+34 program established in section 15F.202, prior to the effective
+35 date of this division of this Act.
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-3- nls/ko 3/16
+1 DIVISION IV
+2 COMMUNITY ATTRACTION AND TOURISM PROGRAM, AND SPORTS TOURISM
+3 MARKETING AND INFRASTRUCTURE PROGRAM —— APPLICATION REVIEW
+4 Sec. 14. Section 15F.203, subsection 2, Code 2025, is
+5 amended to read as follows:
+6 2. A The director of the authority shall appoint a review
+7 committee composed of five members of the board shall with
+8 relevant expertise to review community attraction and tourism
+9 program applications forwarded to the board and. The review
+10 committee shall make recommendations regarding the applications
+11 to the board.
+12 Sec. 15. Section 15F.402, subsection 2, Code 2025, is
+13 amended to read as follows:
+14 2. A The director of the authority shall appoint a review
+15 committee composed of five members of the board shall with
+16 relevant expertise to review sports tourism marketing and
+17 infrastructure program applications forwarded to the board and.
+18 The review committee shall make recommendations regarding the
+19 applications to the authority.
+20 DIVISION V
+21 HISTORIC PRESERVATION TAX CREDIT
+22 Sec. 16. Section 404A.1, subsection 2, Code 2025, is amended
+23 by striking the subsection.
+24 Sec. 17. Section 404A.1, subsection 7, Code 2025, is amended
+25 by adding the following new paragraph:
+26 NEW PARAGRAPH. d. The property is not a single-family
+27 dwelling unit, unless the project will result in two or more
+28 new single-family dwelling units that were not available
+29 for occupancy as residential housing during the immediately
+30 preceding consecutive six months prior to commencement of
+31 the project, and the dwelling units are located in the same
+32 neighborhood, as confirmed by the authority. The two or more
+33 new single-family dwelling units must be made available for
+34 occupancy as a result of the rehabilitation project. The
+35 authority may promulgate by rule criteria used by the authority
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-4- nls/ko 4/16
+1 to determine if a property is a single-family dwelling unit,
+2 and qualifies as a qualified rehabilitation project under this
+3 paragraph.
+4 Sec. 18. Section 404A.1, Code 2025, is amended by adding the
+5 following new subsection:
+6 NEW SUBSECTION. 8. “Registration date” means the date on
+7 which the authority notifies an eligible taxpayer of successful
+8 registration of the taxpayer’s qualified rehabilitation project
+9 pursuant to section 404A.3, subsection 2.
+10 Sec. 19. Section 404A.3, subsection 3, paragraph b,
+11 subparagraphs (4) and (5), Code 2025, are amended to read as
+12 follows:
+13 (4) The commencement date of by which the qualified
+14 rehabilitation project must commence, which shall not be no
+15 later than the end of the fiscal year in which the agreement
+16 is entered into one calendar year from the registration date.
+17 Upon application of the eligible taxpayer, the authority may,
+18 at the discretion of the authority, extend the date by which
+19 the qualified rehabilitation project must commence up to an
+20 additional twelve consecutive months.
+21 (5) (a) The completion date of by which the qualified
+22 rehabilitation project, which shall be within thirty-six
+23 months of the commencement date must be completed, which shall
+24 be no later than three consecutive calendar years from the
+25 registration date. The qualified rehabilitation project shall
+26 be considered complete as of the date the property that is the
+27 subject of the qualified rehabilitation project is placed in
+28 service, as described in 26 U.S.C. §47.
+29 (b) Upon application of the eligible taxpayer, the
+30 authority may, at the discretion of the authority, extend the
+31 date by which the qualified rehabilitation project must be
+32 complete up to an additional twelve consecutive months.
+33 (c) Upon application of the eligible taxpayer made prior
+34 to the expiration of an extension under subparagraph (b), the
+35 authority may, at the discretion of the authority, extend
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-5- nls/ko 5/16
+1 the date by which the qualified rehabilitation project must
+2 be complete up to an additional twelve consecutive months.
+3 The qualified eligible taxpayer must substantiate to the
+4 satisfaction of the authority that the requested extension is
+5 warranted due to extenuating circumstances outside the control
+6 of the eligible taxpayer.
+7 (d) An application by an eligible taxpayer under
+8 subparagraph division (b) or (c) shall be made in the manner
+9 and form prescribed by the authority by rule.
+10 Sec. 20. Section 404A.4, subsection 1, paragraph a,
+11 unnumbered paragraph 1, Code 2025, is amended to read as
+12 follows:
+13 Except as provided in subsections 2, and 3, and 4, the
+14 authority shall not award in any one fiscal year an amount of
+15 tax credits provided in section 404A.2 in excess of forty-five
+16 million dollars.
+17 Sec. 21. Section 404A.4, Code 2025, is amended by adding the
+18 following new subsection:
+19 NEW SUBSECTION. 4. a. If, during the fiscal year beginning
+20 July 1, 2025, or any fiscal year thereafter, the authority
+21 receives an application for a qualified rehabilitation project
+22 with qualified rehabilitation expenditures that, if registered
+23 by the authority, makes the eligible taxpayer eligible for tax
+24 credits of ten million dollars or more, the authority may award
+25 tax credits during the fiscal year in which the application
+26 is received in an amount not to exceed twenty percent more
+27 than the maximum aggregate tax credit award limit specified in
+28 subsection 1.
+29 b. Tax credits awarded pursuant to this subsection shall be
+30 considered for purposes of calculating the maximum aggregate
+31 tax credits awarded pursuant to subsection 1 in the immediately
+32 succeeding fiscal year.
+33 DIVISION VI
+34 HOMELESSNESS —— IOWA FINANCE AUTHORITY
+35 Sec. 22. Section 16.5F, subsection 3, Code 2025, is amended
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-6- nls/ko 6/16
+1 to read as follows:
+2 3. a. The authority shall may adopt rules pursuant to
+3 chapter 17A for carrying out the duties of the authority
+4 pursuant to this section.
+5 b. The authority shall may establish internal rules of
+6 procedure consistent with the provisions of this section.
+7 c. Rules adopted or internal rules of procedure established
+8 pursuant to paragraph “a” or “b” shall be consistent with the
+9 requirements of the federal McKinney-Vento Homeless Assistance
+10 Act, 42 U.S.C. §11301 et seq.
+11 DIVISION VII
+12 TITLE GUARANTY BOARD —— ELIMINATION
+13 Sec. 23. Section 16.1A, subsection 5, Code 2025, is amended
+14 to read as follows:
+15 5. The board may, by resolution, delegate to the
+16 agricultural development board, title guaranty division board,
+17 director, or other authority employee such of its powers, under
+18 such terms and conditions, as it deems appropriate.
+19 Sec. 24. Section 16.2A, Code 2025, is amended by striking
+20 the section and inserting in lieu thereof the following:
+21 16.2A Title guaranty division.
+22 A title guaranty division is created within the authority.
+23 The division may also be referred to as Iowa title guaranty.
+24 The powers of the division relating to the issuance of
+25 title guaranties are vested in and shall be exercised by the
+26 board. The director shall appoint an attorney as director
+27 of the division. The appointment of, and compensation for,
+28 the division director shall be exempt from the merit system
+29 under chapter 8A, subchapter IV, part 2. The net earnings of
+30 the division, beyond that necessary for reserves, backing,
+31 guaranties issued, or to otherwise implement the public
+32 purposes and programs authorized, shall not inure to the
+33 benefit of any person other than the state and are subject to
+34 section 16.2, subsection 9.
+35 Sec. 25. Section 16.91, subsections 1, 3, and 6, Code 2025,
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-7- nls/ko 7/16
+1 are amended to read as follows:
+2 1. The authority, through the Iowa title guaranty division,
+3 shall initiate and operate a program in which the division
+4 shall offer guaranties of real property titles in this state.
+5 The terms, conditions, and form of the guaranty contract shall
+6 be forms approved by the division board. The division shall
+7 fix a charge for the guaranty in an amount sufficient to permit
+8 the program to operate on a self-sustaining basis, including
+9 payment of administrative costs and the maintenance of an
+10 adequate reserve against claims under the Iowa title guaranty
+11 program. A title guaranty fund is created in the office of
+12 the treasurer of state. Funds collected under this program
+13 shall be placed in the title guaranty fund and are available
+14 to pay all claims, necessary reserves and all administrative
+15 costs of the Iowa title guaranty program. Moneys in the fund
+16 shall not revert to the general fund and interest on the moneys
+17 in the fund shall be deposited in the housing trust fund
+18 established created in section 16.181 and shall not accrue to
+19 the general fund. If the authority board in consultation with
+20 the division board determines that there are surplus funds in
+21 the title guaranty fund after providing for adequate reserves
+22 and operating expenses of the division, the surplus funds shall
+23 be transferred to the housing assistance fund created pursuant
+24 to section 16.40.
+25 3. With the approval of the authority board, the division
+26 and its board shall consult with the insurance division of the
+27 department of insurance and financial services in developing
+28 a guaranty contract acceptable to the secondary market and
+29 developing any other feature of the program with which the
+30 insurance division may have special expertise. Except as
+31 provided in this subsection, the Iowa title guaranty program
+32 is not subject to the jurisdiction of or regulation by the
+33 insurance division or the commissioner of insurance.
+34 6. Prior to the issuance of a title guaranty, the division
+35 shall require evidence that an abstract of title to the
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-8- nls/ko 8/16
+1 property in question has been brought up-to-date and certified
+2 by a participating abstractor in a form approved by division
+3 rules acceptable to the division, and a title opinion issued by
+4 a participating attorney in the form approved in the rules a
+5 form acceptable to the division stating the attorney’s opinion
+6 as to the title. The division shall require evidence of the
+7 abstract being brought up-to-date and the abstractor shall
+8 retain evidence of the abstract as determined by the board
+9 division.
+10 Sec. 26. Section 16.92, subsection 1, paragraph d, Code
+11 2025, is amended by striking the paragraph.
+12 Sec. 27. Section 16.92, subsection 1, paragraph e, Code
+13 2025, is amended to read as follows:
+14 e. “Mortgage” means a mortgage or mortgage lien on an
+15 interest in real property in this state given to secure a loan
+16 in an original principal amount equal to or less than the
+17 maximum principal amount as determined by the division board
+18 and adopted by the authority pursuant to rules promulgated
+19 under chapter 17A.
+20 Sec. 28. Section 16.93, subsection 1, unnumbered paragraph
+21 1, Code 2025, is amended to read as follows:
+22 The authority, through the Iowa title guaranty division,
+23 may issue a closing protection letter to a person to whom a
+24 proposed title guaranty is to be issued, upon the request of
+25 the person, if the division issues a commitment for title
+26 guaranty or title guaranty certificate. The closing protection
+27 letter shall conform to the terms of coverage and form of the
+28 instrument as approved by the division board and may indemnify
+29 a person to whom a proposed title guaranty is to be issued
+30 against loss of settlement funds due to only the following acts
+31 of the division’s named participating attorney, participating
+32 abstractor, or closer:
+33 Sec. 29. Section 16.93, subsection 3, Code 2025, is amended
+34 to read as follows:
+35 3. The division board shall establish the amount of coverage
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-9- nls/ko 9/16
+1 to be provided and may distinguish between classes of property
+2 including, but not limited to, residential, agricultural, or
+3 commercial, provided that the total amount of coverage provided
+4 by the closing protection letter shall not exceed the amount
+5 of the commitment or title guaranty to be issued. Liability
+6 under the closing protection letter shall be coextensive with
+7 liability under the certificate to be issued in connection with
+8 a transaction such that payments under the terms of the closing
+9 protection letter shall reduce by the same amount the liability
+10 under the title guaranty certificate and payment under the
+11 title guaranty certificate shall reduce the liability under the
+12 terms of the closing protection letter.
+13 DIVISION VIII
+14 ARTS AND CULTURE
+15 Sec. 30. Section 15.108, subsection 7, Code 2025, is amended
+16 to read as follows:
+17 7. Cultural affairs. To develop the state’s interest in
+18 the areas of the arts, history, and other cultural matters. To
+19 carry out this responsibility, the authority shall:
+20 a. Accept, receive, and administer grants or other funds or
+21 gifts from public or private agencies, including the federal
+22 government, for the authority.
+23 b. Administer the Iowa cultural trust, as advised and
+24 assisted by the Iowa arts council, as provided in subchapter
+25 II, part 30, and do all of the following:
+26 (1) Develop and adopt by rule criteria for the issuance
+27 of trust fund credits by measuring the efforts of qualified
+28 organizations to increase their endowment or other resources
+29 for the promotion of the arts, history, or the sciences and
+30 humanities in Iowa. For purposes of this paragraph, “qualified
+31 organization” means a tax-exempt, nonprofit organization
+32 whose primary mission is to promote the arts, history, or the
+33 sciences and humanities in Iowa. If the authority determines
+34 that a qualified organization has increased the amount of the
+35 qualified organization’s endowment and other resources, the
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-10- nls/ko 10/16
+1 authority shall certify the amount of increase in the form of
+2 trust fund credits to the treasurer, who shall deposit in the
+3 Iowa cultural trust fund, from moneys received for purposes
+4 of the trust fund as provided in section 15.479, subsection
+5 2, an amount equal to the trust fund credits. If the amount
+6 of the trust fund credits issued by the authority exceeds the
+7 amount of moneys available to be deposited in the trust fund as
+8 provided in section 15.479, subsection 2, the outstanding trust
+9 fund credits shall not expire but shall be available to draw
+10 down additional moneys which become available to be deposited
+11 in the trust fund as provided in section 15.479, subsection 2.
+12 (2) Develop and implement, in accordance with subchapter
+13 II, part 30, a grant application process for grants issued to
+14 qualified organizations.
+15 (3) Develop and adopt by rule criteria for the approval of
+16 Iowa cultural trust grants. The criteria shall include but
+17 shall not be limited to the future stability and sustainability
+18 of a qualified organization.
+19 (4) Compile, in consultation with the Iowa arts council,
+20 a list of grant applications recommended for funding in
+21 accordance with the amount available for distribution as
+22 provided in section 15.481, subsection 3.
+23 (5) Monitor the allocation and use of grant moneys by all
+24 qualified organizations to determine whether moneys are used
+25 in accordance with the provisions of this paragraph “b” and
+26 subchapter II, part 30.
+27 c. b. Design a comprehensive, statewide, long-range plan
+28 with the assistance of the Iowa arts council to develop the
+29 arts in Iowa. The authority is designated as the state agency
+30 for carrying out the plan.
+31 d. c. By rule, establish Establish advisory groups as
+32 necessary for the receipt of federal funds or grants or the
+33 administration of any of the authority’s programs.
+34 e. Develop and implement fee-based educational programming
+35 opportunities, including preschool programs, related to arts,
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-11- nls/ko 11/16
+1 history, and other cultural matters for Iowans of all ages.
+2 f. Conduct surveys of existing art and cultural programs
+3 and activities within the state, including but not limited to
+4 music, theater, dance, painting, sculpture, architecture, and
+5 allied arts and crafts. The authority shall submit, or include
+6 as part of the annual report under section 15.107B, a report
+7 on the survey to the governor and to the general assembly no
+8 later than ten calendar days after the commencement of each
+9 first session of the general assembly recommending appropriate
+10 legislation or other action as the authority deems appropriate.
+11 g. d. Establish and administer a film office. The purpose
+12 of the film office is to assist legitimate film, television,
+13 and video producers in Provide technical assistance for the
+14 production of film, television, and video projects in the
+15 state, and to increase the fiscal impact on the state’s economy
+16 of film, television, and video projects produced in the state.
+17 Sec. 31. Section 15.274, Code 2025, is amended to read as
+18 follows:
+19 15.274 Promotional program for national historic landmarks
+20 and cultural and entertainment districts.
+21 The economic development authority, in cooperation with
+22 the state department of transportation, shall establish
+23 and administer a program designed to promote knowledge of
+24 and access to buildings, sites, districts, structures, and
+25 objects located in this state that have been designated by the
+26 secretary of the interior of the United States as a national
+27 historic landmark, unless the national historic landmark is
+28 protected under section 22.7, subsection 20, and certified
+29 cultural and entertainment districts, as established pursuant
+30 to section 15.438. The program shall be designed to maximize
+31 the visibility and visitation of national historic landmarks
+32 in this state and buildings, sites, structures, and objects
+33 located in certified cultural and entertainment districts,
+34 as established pursuant to section 15.438. Methods used to
+35 maximize the visibility and visitation of such locations may
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-12- nls/ko 12/16
+1 include the use of tourism literature, signage on highways,
+2 maps of the state and cities, and internet sites. For purposes
+3 of this section, “highway” means the same as defined in section
+4 325A.1.
+5 Sec. 32. Section 15.436, Code 2025, is amended by striking
+6 the section and inserting in lieu thereof the following:
+7 15.436 Arts and culture enhancement fund.
+8 1. The economic development authority shall, pursuant
+9 to section 15.106A, subsection 1, paragraph “o”, establish
+10 the arts and culture enhancement fund to be used for the
+11 purposes of this section. The fund shall consist of any moneys
+12 appropriated by the general assembly for purposes of this
+13 section and any other moneys that are lawfully available to
+14 the authority. Notwithstanding section 12C.7, subsection 2,
+15 interest or earnings on moneys in the fund shall accrue to
+16 the authority and shall be used for purposes of this section.
+17 Notwithstanding section 8.33, moneys in the fund at the end of
+18 each fiscal year shall not revert to any other fund but shall
+19 remain in the fund for expenditure for subsequent fiscal years.
+20 2. The authority shall allocate moneys in the arts and
+21 culture enhancement fund in appropriate amounts to be used for
+22 the following purposes:
+23 a. To provide support to municipal and nonprofit arts and
+24 cultural organizations that serve as significant attractions
+25 or community resources.
+26 b. To support artists and entities that foster artistic and
+27 cultural expression, promote lifelong learning and engagement
+28 in the arts, advance community development goals, or emphasize
+29 Iowa’s diverse heritage through the creation, performance, or
+30 presentation of artworks.
+31 c. To increase access to arts and culture in rural and
+32 underserved communities in the state.
+33 d. For the promotion of and investment in film, television,
+34 and video projects produced in the state.
+35 e. To address other goals and priorities as reflected in
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-13- nls/ko 13/16
+1 the comprehensive, statewide, long-range plan designed by the
+2 authority with the assistance of the Iowa arts council pursuant
+3 to section 15.108, subsection 7.
+4 f. For administrative costs related to this section.
+5 3. The authority may adopt by rule eligibility and priority
+6 criteria for allocation of moneys in the arts and culture
+7 enhancement fund.
+8 Sec. 33. Section 15.465, subsection 2, Code 2025, is amended
+9 to read as follows:
+10 2. The term of office of each member of the Iowa arts
+11 council is three years. The governor shall designate council
+12 may elect a chairperson and a vice chairperson from the members
+13 of the council to serve at the pleasure of the governor. All
+14 vacancies shall be filled for the balance of any unexpired term
+15 in the same manner as original appointments. The members of
+16 the council shall not receive compensation for their services,
+17 but shall be reimbursed for their actual and necessary expenses
+18 incurred in the performance of their duties as members of the
+19 council. Members may also be eligible for compensation as
+20 provided in section 7E.6.
+21 Sec. 34. Section 15.466, Code 2025, is amended to read as
+22 follows:
+23 15.466 Duties of Iowa arts council.
+24 The Iowa arts council shall review programs to be supported
+25 and make recommendations on the programs to the director to
+26 ensure that Iowa citizens and communities have access to the
+27 cultural, civic, economic, and educational benefits of the
+28 arts. The council may solicit public input including but not
+29 limited to input on the comprehensive, statewide, long-range
+30 plan created by the authority with the assistance of the Iowa
+31 arts council pursuant to section 15.108, subsection 7.
+32 Sec. 35. Section 15H.6, subsection 3, Code 2025, is amended
+33 to read as follows:
+34 3. The capacity building activities shall be targeted in
+35 communities that are already working with existing community
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-14- nls/ko 14/16
+1 improvement programs, including but not limited to the Iowa
+2 great places program established under section 15.439, the
+3 green streets and main street Iowa programs administered by
+4 the economic development authority, and disaster remediation
+5 activities by communities located within an area declared to be
+6 a disaster area in a declaration issued by the president of the
+7 United States or the governor.
+8 Sec. 36. Section 99F.11, subsection 4, paragraph d,
+9 subparagraph (1), Code 2025, is amended to read as follows:
+10 (1) Five hundred twenty thousand dollars is appropriated
+11 each fiscal year to the economic development authority with
+12 one-half of the moneys allocated for operational support grants
+13 and the remaining one-half allocated for the community cultural
+14 grants program established under for deposit in the arts and
+15 culture enhancement fund established in section 15.436.
+16 Sec. 37. REPEAL. Sections 15.437, 15.438, 15.439, 15.440,
+17 15.441, 15.476, 15.477, 15.478, 15.479, 15.481, and 15.482,
+18 Code 2025, are repealed.
+19 Sec. 38. TRANSFER OF MONEYS. On the effective date of this
+20 division of this Act, all unencumbered and unobligated moneys
+21 remaining in the Iowa great places program fund created in
+22 section 15.440, the Iowa cultural trust fund created in section
+23 15.479, and the Iowa cultural trust grant account created
+24 in section 15.482 are transferred to the arts and culture
+25 enhancement fund established pursuant to section 15.436, as
+26 amended by this division of this Act.
+27 DIVISION IX
+28 CONFORMING CHANGES
+29 Sec. 39. Section 16.6, subsection 4, Code 2025, is amended
+30 to read as follows:
+31 4. The director may establish administrative divisions
+32 within the authority in order to most efficiently and
+33 effectively carry out the authority’s responsibilities,
+34 provided that any creation or modification of authority
+35 divisions be established only after consultation with the board
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-15- nls/ko 15/16
+1 of the authority.
+2 Sec. 40. Section 16.64, subsection 1, Code 2025, is amended
+3 to read as follows:
+4 1. The authority shall publish a notice of intention to
+5 issue bonds or notes. After sixty days from the date of
+6 publication of the notice, an action shall not be brought
+7 questioning the legality of any bonds or notes or the power of
+8 the authority to issue any bonds or notes or to the legality
+9 of any proceedings in connection with the authorization or
+10 issuance of the bonds or notes after determination by the board
+11 of the authority to proceed with the issuance of the bonds or
+12 notes.
+13 DIVISION X
+14 IOWA REINVESTMENT ACT —— DISTRICT ESTABLISHMENT
+15 Sec. 41. Section 15J.4, subsection 1, paragraph c, Code
+16 2025, is amended to read as follows:
+17 c. For districts approved before July 1, 2018, the area
+18 consists of contiguous parcels and does not exceed twenty-five
+19 acres in total. For districts approved on or after July 1,
+20 2020, the area consists of contiguous parcels and does not
+21 exceed seventy-five one hundred twenty-five acres in total.
+22 Sec. 42. RETROACTIVE APPLICABILITY. This division of this
+23 Act applies retroactively to July 1, 2020.>
+______________________________
+CARRIE KOELKER
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-16- nls/ko 16/16
+[DELETED: eFe6AdSeFe62asf1.Bysgegarteegceai<NSCIEPSn1.Sn1,sn6,phc,C2,isadbysgtepS.2.Sn1,sn3,udp1,Ce2,isadtordasf0TeIainclAceadp1tosn1,sn7,slrweha2rdbyteecdtayfrf3aeurtepmadslmerst4tebdrgaloftef5DNI6B,G,ADRTTXC7S.3.Sn1,ss3ad1,Ce2,a8adbysgtes9S.4.Sn1,sn3,udp01,Ce2,isadtordasf1Teatoftetxctslbeddbyteb2incnwhtec.H,tetxcta3slntedtefga,asa4S.5.Sn1,sn1,psb,d,a5h,Ce2,aeadtordasf6Teayslata,incnw7tec,rwasfrtxcspdi8sn1Aa,whtealoftec,met9ctadrsrgteastot0b.Teaymyeeoeestoce1t,f,ororr2Unrwofana,teaym3rrteptwhterttxc4p.Ifteayrstep,tea5m,incnwhtec,meapF60()9gtsSF62toCMtoHF9o1]
+[DELETED: dnastoteatoftxctfrwhanarnwlbemetotebIfteatfratxctpdins1Ahsaoadtoanayofteflgortotea,teb,orayorayofsgtfralfla,teatec,adtebdslcrteatofftoberdfmshpcsswnmgatctadpttotss0S.6.Sn1,sn1,phf1sh(,Ce2,isadtordasf2()Alcdasslberdads3onacebsbytecladtebda4Inrgadsga,tecladt5bdaymycrayfstecladb6dmaydsaefracea7p,igbtntldtotefln8q,adfyofaqgrtp9S.7.Sn1,sn2,phc,C02,isadtordasf1Ayorinddnybyteb2adteclaytorwadsetea3pttosn14S.8.Sn1,ss4ad5,Ce2,a5adtordasf64.Ardptslbecdwnt7msoftedeteptwsrdust8a,unrnoftecladwht9alofteb,psaltetocet0p.Ifterdptisntcdw1teter,teptisnteetocm2rttxctpdinsn135.Teirsleeacdp4atadtopeintssetocta5enofteptinaewhteAF60()9gtsSF62toCMtoHF9o2]
+[DELETED: ieofcdpca’ssossfrane.Uncnofrdp,anatoftep,cdbyaitcdpcatldintsstee,agwhastofteatoffqgi,slbesdtoteaUnrwofteatadvnofteaofteqgi,enadssdpttoph,teaymyie0txctcetoteirsgteato1txctursn1Ateirmyc2S.9.R.Ss1,1,1,a31,Ce2,aer4S.1.TROFM.Onteeedeoft5dnoftsA,ayudorudm6rgintebdrtfdcdi7sn13aetdtoafdorfse8pttosn1,sn1,ph“,a9ddbyteecdta0DNI1CYANADT,ADVNIA——R2B3S.1.R.Sn1,Ce2,isr4S.1.A.TsdnoftsAta5toanatadflaeurbht6vnIapmedinsn1,adt7cyanadtmpmedins81,onorarteeedeoftsdno9tsA0S.1.REA.Tsdnoft1Atasrytoanatadf2aeurbhtevnIapmedi3sn1,adtecyanadt4pmedinsn1,prtotee5deoftsdnoftsAF60()9gtsSF62toCMtoHF9o3]
+[DELETED: DNICYANADTMP,ADSSTMGADIEPM——ANRS.1.Sn1,sn2,Ce2,iadtordasf2.ATedrofteayslatarcecdoffemsoftebdslwrteetorwcyanadtpmasfdtotebda.Ter0ceslmersrgtea1toteb2S.1.Sn1,sn2,Ce2,i3adtordasf42.ATedrofteayslatar5cecdoffemsoftebdslw6rteetorwsstmmga7iepmasfdtotebda8Terwceslmersrgt9astotea0DN1HCPNTXC2S.1.Sn4,sn2,Ce2,isa3bysgtes4S.1.Sn4,sn7,Ce2,isa5byagtefgnwp6NWP.Tepyisntas7dgu,usteptwlrtintoorm8nwsydgusttwenta9froyasrlhgdgtei0pgcesxmsprtocto1tep,adtedgusaeldintes2n,ascdbytea.Tetoorm3nwsydgusmtbemeaef4oyasartofternp.T5aymypebyrecaudbyteaF60()9gtsSF62toCMtoHF9o4]
+[DELETED: todeifapyisasydguadqsasaqdrnpturtpS.1.Sn4,Ce2,isadbyagtfgnwsNWS.8.mstedeondwhteaynsaneetrofsrnoftetsqdrnppttosn4,sn20S.1.Sn4,sn3,phb1ss()ad(,Ce2,aeadtorda2f3()Tectdeofbywhteq4rnptmtc,whslntben5lrtnteedofteflyrinwhtea6isediooecryrfmternd7Unanofteeet,teaym8attednoftea,edtedebyw9teqdrnptmtceuptoa0altecem1()()Tecndeofbywhteq2rnp,whslbewnt3msoftectdemtbec,whs4benolrtntececrysfmt5rnd.Teqdrnpts6becdceasoftedetepyttist7stofteqdrnptispdi8s,asddin26U.§9()Unanofteeet,t0aym,attednoftea,edt1debywhteqdrnptmtb2ceuptoanaltecem3()Unanofteeetrmep4toteenofanenursh(,t5aym,attednoftea,eF60()9gtsSF62toCMtoHF9o5]
+[DELETED: tedebywhteqdrnptmbeceuptoanaltecemTeqdeetrmtsetotsnofteayttterdeniwddetoegcsoetecofteeet()Ananbyaneetrushdn()or()slbemeintemadfmpdbyteaybyr0S.2.Sn4,sn1,pha1udph1,Ce2,isadtorda2f3Etaspdinss2,ad3,ad4,t4ayslntadinayoeflyranato5txcspdinsn42inesoff6mnd7S.2.Sn4,Ce2,isadbyagt8fgnws9NWS.4.I,dgteflyrb0Jy1,2,orayflyrt,tea1rsananfraqdrnp2whqdrnest,ifr3bytea,msteeetreefrt4csoftnmndsorm,teaymya5txcsdgteflyrinwhtea6isrdinanatnttoedtyptm7tntemmaetxctadltsdi8sn19Txcsadpttotssnslb0cdfrpsofcgtemma1txcsadpttosn1intei2sgfly3DNV4HS——IAFEA5S.2.Sn1,sn3,Ce2,isaF60()9gtsSF62toCMtoHF9o6]
+[DELETED: tordasf3.Teayslmyatrspttcr1AfrcgottedsofteapttotssTeayslmyehilrsopectwhtepsoftssRsadorilrsofpeepttophorslbectwht”“rsofteflMoHsA0A,42U.§1ets1DNV2TEGYBD——E3S.2.Sn1,sn5,Ce2,isa4tordasf55.Tebdm,byr,detot6aldtb,tegydnb7d,ororayeeshofisp,u8shtsadc,asitdsa9S.2.Sn1,Ce2,isadbys0tesnadiginlutftefATegyd2Ategydniscdwntea3TednmyaoberdtoasIateg4Tepsoftednrgtoteieo5tegsaevdinadslbeedbyt6b.Tedrslatanayasd7ofted.Teato,adcnf8tedndrslbeetfmtemts9urcr8,srI,pt2.Tenteso0ted,bdttnyfrr,b1gsi,ortooeittep2psadpsa,slntietot3btofaypnortnteseadaestt4sn1,sn95S.2.Sn1,ss1,3,ad6,Ce2F60()9gtsSF62toCMtoHF9o7]
+[DELETED: aeadtordasf1.Tea,thteIategydslieadoeapminwhtedslorgsofrlpytsintssTet,c,adfmoftegyctsbefsadbytednb.Tednsfxacefrtegyinanatsttoptepmtooeonasgb,iptofaecsadtemeofa0aereatcsurteIateg1p.Ategyfdiscdinteoeo2tetrofs.Fscdurtsp3slbepdintetegyfdadaea4topyalc,nyrsadala5csofteIategyp.Msintef6slntrttoteglfdaditontem7intefdslbeddintehgttf8edcdinsn11adslntaet9teglf.Ifteaybdincnw0tednbddsttteaessfsi1tetegyfdarpgfraer2adogesofted,tessfss3betdtotehgaefdcdp4tosn153.Whtealofteayb,ted6adisbdslctwhteiednoft7dtofieadflssind8agyctaetotesymta9dgayorfeoftepmwhwht0iednmyhesle.Eta1pdintss,teIategyp2isntsttotejnoforrnbyt3iednortecrofi46.Prtoteieofateg,ted5slreeettanatoftetotF60()9gtsSF62toCMtoHF9o8]
+[DELETED: pyinqnhsbnbtueadcbyapgarinafmadbydrsaetoted,adateonidbapgayintefmadintersfmaetotednsgteasoastotet.Tednslreeeoftatbgbtueadtearsrneeofteatasddbytebd0S.2.Sn1,sn1,phd,C12,isadbysgtep2S.2.Sn1,sn1,phe,C32,isadtordasf.“4msameormelnona5itinrlpyintssegntoseal6inanolplateltoorlstnt7mmplatasddbytednb8adadbyteaypttorsp9urcr10S.2.Sn1,sn1,udp11,Ce2,isadtordasf2Tea,thteIategyd3myieacgpnlrtoapntowm4pdtegyistobei,unterto5tep,iftednisactfrt6gyortegyc.Tecgp7lrslcmtotetsofceadfmoft8itasadbytednbdadmyi9apntowmapdtegyistobei0atlsofstfsdetooytefga1oftedsndpga,p2a,orc3S.2.Sn1,sn3,Ce2,isa4tordasf53.TednbdslehteatofcF60()9gtsSF62toCMtoHF9o9]
+[DELETED: tobepdadmydhbncsofpi,btntldt,r,a,oc,pdtttetlatofcepbytecgpnlrslntedteaoftectortegytobei.Lurtecgpnlrslbecewlyurtecetobeidincnwatnshttpsurtetsoftecpnlrslrebyteseattel0urtetegyceadpturt1tegyceslretelyurt2tsoftecgpnl3DNV4ASADC5S.3.Sn1,sn7,Ce2,isa6tordasf77.Todptessitila8teasoftea,h,adorclm.T9cyottsr,teays0A,r,adargsororfso1gsfmpcorpea,igtef2g,frtea3ArteIaclt,asada4adbyteIaasc,aspdins5I,pt3,addoaloftef6()Dpadatbyrecafrtei7ofttfdcsbymgteesofq8ostoietretororr9frtepnoftea,h,ortessa0hsinI.Frpsoftsp1msat,nto2wepymnistopetea,h,ort3ssadhsinI.Ifteayd4ttaqdonhsidteatoft5qdosetadorr,tF60()9gtsSF62toCMtoHF9o1]
+[DELETED: ayslcyteatofieintefmottfdcstotet,wosldtintIaclttf,fmmsrdfrpoftettfdaspdinsn1,s2,anateltotettfdc.Ifteaoftettfdcsidbyteayestatofmsaetobeddintettfdapdinsn1,sn2,teogtfdcsslnteebtslbeaetod0dnalmswhbeaetobed1intettfdaspdinsn1,sn22()Dpadi,inaewhs3I,pt3,agtanpsfrgsidt4qdo5()Dpadatbyrecafrtealo6Iaclttg.Tecaslieb7slntbeldtotefesyads8ofaqdo9()C,incnwhteIaasc0altofgtasrdfrfgi1aewhteataefrdna2pdinsn1,sn33()Mrteanadueofgtmsbya4qdostodewrmsaeu5inaewhtepsoftspha6srI,pt3.b7Dnac,s,lep8whteaeofteIaascltodpt9asinI.Teayisddastesea0frcgottep.c1Byr,ehEhaygsa2nyfrtertofflfsorgsort3anofayofteasp4Dpaditfdelp5o,igplp,rdtoaF60()9gtsSF62toCMtoHF9o1]
+[DELETED: h,adorclmsfrIsofalaCtssofegatadclpadaswntes,igbtntldtm,t,d,p,s,a,aadasadc.Teaysls,oriasptoftealrtursn1,arontesytotegradtoteglaynlrtntncrdsartectofeftsnofteglayrga0lnororanasteaydsa.d1Ehadarafmo.Tep2oftefmoeistoatlef,t3advopsinPetlaefrt4pnoff,t,advopsint5s,adtoieteflitontesse6off,t,advopspdintes7S.3.Sn1,Ce2,isadtorda8f4Plpmfrnlhcldcladetd1Teecdta,incnw2tesedtoft,sle3adarapmddtopekeo4adastob,s,d,s,a5osldintssetthebnddbyt6syofteirofteUdSsasan7hcl,ustenlhclki8pdursn2,sn2,adc9cladetd,asedp0tosn1.Tepmslbeddtom1tevyadvnofnlhcl2intsseadb,s,s,ado3ldincdcladetd4asedpttosn1.Msudt5metevyadvnofshlsmF60()9gtsSF62toCMtoHF9o1]
+[DELETED: ieteueoftml,seonhmsofteseadc,adits.Frpoftss,msteseasddins3S.3.Sn1,Ce2,isadbystesnadiginlutftef6Asadceetf1.Teecdtays,ptosn1,sn1,ph,e0teasadceetfdtobeudfrt1psoftss.Tefdslctofaym2adbyteglayfrpsoft3snadayormsttaelyaet4tea.Ngsn1,sn25itoresonmsintefdslaet6teayadslbeudfrpsoftss7Ngsn8,msintefdatteedo8ehflyrslntrttoayorfdbts9rnintefdfreefrstfly02.Teayslaemsinteasa1ceetfdinaeastobeudf2tefgp3Topesttomladntasa4closttseassta5orcyr6Tostasadesttfraca7cle,pelglgade8intea,aecydtg,ore9Isdehethtec,p,o0pnofa1Toieastoasadceinrla2udcsintes3Frtepnofaditinf,t4advopspdintes5ToasorgsadpsasrdiF60()9gtsSF62toCMtoHF9o1]
+[DELETED: tec,s,lepnddbytaywhteaeofteIaasclptosn1,sn7Fraecsrdtotss3.TeaymyatbyreeyadpcafranofmsinteasadcetfS.3.Sn1,sn2,Ce2,isatordasf02.TetmofoeofehmrofteIaa1clistey.Tegrsldec2myetacnadavecnfmtem3oftecltoseattepeofteg.A4vsslbefdfrtebeofayudt5intesemrasola.Temso6teclslntrecnfrtrs7btslberdfrtraladnye8idintepeoftrdsasmsoft9c.Msmyaobeeefrcna0pdinsn71S.3.Sn1,Ce2,isadtorda2f6DsofIaasc4TeIaasclslrwpstobes5admersontepstotedrt6eettIacsadcsheastot7c,c,e,adelbsoft8a.Teclmystpcitigbtn9ldtoitontec,s,l0pncdbyteaywhteaeofteI1asclpttosn1,sn72S.3.Sn1,sn3,Ce2,isa3tordasf43.Tecybgasslbetdi5csttaeaywgwhegcF60()9gtsSF62toCMtoHF9o1]
+[DELETED: itp,igbtntldtoteIgtpspmedursn1,tgnssadmnstIapsadbteecdta,addrrasbycsldwnanaaddtobadraainadnidbyteptoftUdSsortegS.3.Sn9,sn4,phdsh(,Ce2,isadtordasf0()Fehdtytddsisa1ehflyrtoteecdtayw2ofoftemsadfrolstg3adtergofadfrtecyc4gspmedurfrdtinteasa5ceetfdedinsn16S.3.R.Ss1,1,1,171,1,1,1,1,1,ad18Ce2,aer9S.3.TROFM.Onteeedeoft0dnoftsA,aludadudm1rginteIagtpspmfdcdi2sn1,teIaclttfdcdins31,adteIaclttgtatc4insn12aetdtoteasadc5etfdedpttosn1,a6adbytsdnoftsA7DNI8CGC9S.3.Sn1,sn4,Ce2,isa0tordasf14.Tedrmyehaed2wnteayinortomteya3eycyotteasr4pdttaycnormnofa5dsbeedoyarcnwhtebF60()9gtsSF62toCMtoHF9o1]
+[DELETED: ofteaS.4.Sn1,sn1,Ce2,isatordasf1.Teayslphaneofintiebsorn.Arsydsfmtedeopnoften,ananslntbebqgtelyofaybsornsorteproteaytoieaybsornsortotelofaypsincnwhteano0ieoftebsornsardnbyteb1ofteaytopdwhteieoftebso2n3DN4IARTAT——DTE5S.4.Sn1,sn1,phc,C62,isadtordasf7FrdsadbeJy1,2,tea8csofcspsaddsntedt9asint.FrdsadonorarJy102,teaacsofcspsaddsn1edseoehdteasint2S.4.REA.Tsdnoft3AtasrytoJy1,2EKF60()9gtsSF62toCMtoHF9o1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 642
+S-3160
+1 Amend Senate File 642 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 STRATEGIC INFRASTRUCTURE PROGRAM
+6 Section 1. Section 15.117A, subsection 6, paragraph c, Code
+7 2025, is amended by striking the paragraph.
+8 Sec. 2. Section 15.313, subsection 3, unnumbered paragraph
+9 1, Code 2025, is amended to read as follows:
+10 The Iowa innovation council A committee appointed pursuant
+11 to section 15.117A, subsection 7, shall review each application
+12 received by the economic development authority for financial
+13 assistance under the program and shall make recommendations to
+14 the board regarding all of the following:
+15 DIVISION II
+16 BROWNFIELDS, GRAYFIELDS, AND REDEVELOPMENT TAX CREDITS
+17 Sec. 3. Section 15.291, subsections 3 and 11, Code 2025, are
+18 amended by striking the subsections.
+19 Sec. 4. Section 15.293A, subsection 3, unnumbered paragraph
+20 1, Code 2025, is amended to read as follows:
+21 The amount of the tax credit shall be determined by the board
+22 in conjunction with the council. However, the tax credit and
+23 shall not exceed the following amount, as applicable:
+24 Sec. 5. Section 15.293B, subsection 1, paragraphs b, d, and
+25 h, Code 2025, are amended to read as follows:
+26 b. The authority shall accept and, in conjunction with
+27 the council, review applications for tax credits provided in
+28 section 15.293A and, with the approval of the council, make tax
+29 credit award recommendations regarding the applications to the
+30 board. The authority may engage outside experts to complete a
+31 technical, financial, or other review.
+32 d. Upon review of an application, the authority may
+33 register the project with the redevelopment tax credits
+34 program. If the authority registers the project, the authority
+35 may, in conjunction with the council, make a preliminary
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-1- nls/ko 1/16
+
+1 determination as to the amount of tax credit for which an award
+2 recommendation will be made to the board.
+3 h. If the applicant for a tax credit provided in section
+4 15.293A has also applied to an agency of the federal government
+5 or to the authority, the board, or any other agency of state
+6 government for additional financial assistance, the authority,
+7 the council, and the board shall consider the amount of funding
+8 to be received from such public sources when making a tax
+9 credit award pursuant to this section.
+10 Sec. 6. Section 15.293B, subsection 1, paragraph f,
+11 subparagraph (1), Code 2025, is amended to read as follows:
+12 (1) All completed applications shall be reviewed and scored
+13 on a competitive basis by the council and the board authority.
+14 In reviewing and scoring applications, the council and the
+15 board authority may consider any factors the council and board
+16 deem authority deems appropriate for a competitive application
+17 process, including but not limited to the financial need,
+18 quality, and feasibility of a qualifying redevelopment project.
+19 Sec. 7. Section 15.293B, subsection 2, paragraph c, Code
+20 2025, is amended to read as follows:
+21 c. Any other information deemed necessary by the board
+22 and the council authority to review and score the application
+23 pursuant to subsection 1.
+24 Sec. 8. Section 15.293B, subsections 4 and 5, Code 2025, are
+25 amended to read as follows:
+26 4. A registered project shall be completed within thirty
+27 months of the date the project was registered unless the
+28 authority, upon recommendation of the council and with the
+29 approval of the board, provides additional time to complete the
+30 project. If the registered project is not completed within
+31 the time required, the project is not eligible to claim a
+32 redevelopment tax credit provided in section 15.293A.
+33 5. a. The investor shall engage a certified public
+34 accountant authorized to practice in this state to conduct an
+35 examination of the project in accordance with the American
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-2- nls/ko 2/16
+
+1 institute of certified public accountants’ statements on
+2 standards for attestation engagements. Upon completion of a
+3 registered project, an audit of the project, completed by an
+4 independent certified public accountant licensed in this state,
+5 the examination, along with a statement of the amount of final
+6 qualifying investment, shall be submitted to the authority.
+7 b. Upon review of the audit and verification of the amount
+8 of the qualifying investment, examination and statement
+9 submitted pursuant to paragraph “a”, the authority may issue a
+10 tax credit certificate to the investor stating the amount of
+11 tax credit under section 15.293A the investor may claim.
+12 Sec. 9. REPEAL. Sections 15.292, 15.293, 15.294, and
+13 15.295, Code 2025, are repealed.
+14 Sec. 10. TRANSFER OF MONEYS. On the effective date of this
+15 division of this Act, any unencumbered or unobligated moneys
+16 remaining in the brownfield redevelopment fund created in
+17 section 15.293 are transferred to a fund or funds established
+18 pursuant to section 15.335B, subsection 1, paragraph “a”, as
+19 determined by the economic development authority.
+20 DIVISION III
+21 COMMUNITY ATTRACTION AND TOURISM, AND VISION IOWA —— REQUIRED
+22 BENEFITS
+23 Sec. 11. REPEAL. Section 15F.106, Code 2025, is repealed.
+24 Sec. 12. APPLICABILITY. This division of this Act applies
+25 to an applicant awarded financial assistance under both the
+26 vision Iowa program established in section 15F.302, and the
+27 community attraction and tourism program established in section
+28 15F.202, on or after the effective date of this division of
+29 this Act.
+30 Sec. 13. RETROACTIVE APPLICABILITY. This division of this
+31 Act applies retroactively to an applicant awarded financial
+32 assistance under both the vision Iowa program established in
+33 section 15F.302, and the community attraction and tourism
+34 program established in section 15F.202, prior to the effective
+35 date of this division of this Act.
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-3- nls/ko 3/16
+
+1 DIVISION IV
+2 COMMUNITY ATTRACTION AND TOURISM PROGRAM, AND SPORTS TOURISM
+3 MARKETING AND INFRASTRUCTURE PROGRAM —— APPLICATION REVIEW
+4 Sec. 14. Section 15F.203, subsection 2, Code 2025, is
+5 amended to read as follows:
+6 2. A The director of the authority shall appoint a review
+7 committee composed of five members of the board shall with
+8 relevant expertise to review community attraction and tourism
+9 program applications forwarded to the board and. The review
+10 committee shall make recommendations regarding the applications
+11 to the board.
+12 Sec. 15. Section 15F.402, subsection 2, Code 2025, is
+13 amended to read as follows:
+14 2. A The director of the authority shall appoint a review
+15 committee composed of five members of the board shall with
+16 relevant expertise to review sports tourism marketing and
+17 infrastructure program applications forwarded to the board and.
+18 The review committee shall make recommendations regarding the
+19 applications to the authority.
+20 DIVISION V
+21 HISTORIC PRESERVATION TAX CREDIT
+22 Sec. 16. Section 404A.1, subsection 2, Code 2025, is amended
+23 by striking the subsection.
+24 Sec. 17. Section 404A.1, subsection 7, Code 2025, is amended
+25 by adding the following new paragraph:
+26 NEW PARAGRAPH. d. The property is not a single-family
+27 dwelling unit, unless the project will result in two or more
+28 new single-family dwelling units that were not available
+29 for occupancy as residential housing during the immediately
+30 preceding consecutive six months prior to commencement of
+31 the project, and the dwelling units are located in the same
+32 neighborhood, as confirmed by the authority. The two or more
+33 new single-family dwelling units must be made available for
+34 occupancy as a result of the rehabilitation project. The
+35 authority may promulgate by rule criteria used by the authority
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-4- nls/ko 4/16
+
+1 to determine if a property is a single-family dwelling unit,
+2 and qualifies as a qualified rehabilitation project under this
+3 paragraph.
+4 Sec. 18. Section 404A.1, Code 2025, is amended by adding the
+5 following new subsection:
+6 NEW SUBSECTION. 8. “Registration date” means the date on
+7 which the authority notifies an eligible taxpayer of successful
+8 registration of the taxpayer’s qualified rehabilitation project
+9 pursuant to section 404A.3, subsection 2.
+10 Sec. 19. Section 404A.3, subsection 3, paragraph b,
+11 subparagraphs (4) and (5), Code 2025, are amended to read as
+12 follows:
+13 (4) The commencement date of by which the qualified
+14 rehabilitation project must commence, which shall not be no
+15 later than the end of the fiscal year in which the agreement
+16 is entered into one calendar year from the registration date.
+17 Upon application of the eligible taxpayer, the authority may,
+18 at the discretion of the authority, extend the date by which
+19 the qualified rehabilitation project must commence up to an
+20 additional twelve consecutive months.
+21 (5) (a) The completion date of by which the qualified
+22 rehabilitation project, which shall be within thirty-six
+23 months of the commencement date must be completed, which shall
+24 be no later than three consecutive calendar years from the
+25 registration date. The qualified rehabilitation project shall
+26 be considered complete as of the date the property that is the
+27 subject of the qualified rehabilitation project is placed in
+28 service, as described in 26 U.S.C. §47.
+29 (b) Upon application of the eligible taxpayer, the
+30 authority may, at the discretion of the authority, extend the
+31 date by which the qualified rehabilitation project must be
+32 complete up to an additional twelve consecutive months.
+33 (c) Upon application of the eligible taxpayer made prior
+34 to the expiration of an extension under subparagraph (b), the
+35 authority may, at the discretion of the authority, extend
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-5- nls/ko 5/16
+
+1 the date by which the qualified rehabilitation project must
+2 be complete up to an additional twelve consecutive months.
+3 The qualified eligible taxpayer must substantiate to the
+4 satisfaction of the authority that the requested extension is
+5 warranted due to extenuating circumstances outside the control
+6 of the eligible taxpayer.
+7 (d) An application by an eligible taxpayer under
+8 subparagraph division (b) or (c) shall be made in the manner
+9 and form prescribed by the authority by rule.
+10 Sec. 20. Section 404A.4, subsection 1, paragraph a,
+11 unnumbered paragraph 1, Code 2025, is amended to read as
+12 follows:
+13 Except as provided in subsections 2, and 3, and 4, the
+14 authority shall not award in any one fiscal year an amount of
+15 tax credits provided in section 404A.2 in excess of forty-five
+16 million dollars.
+17 Sec. 21. Section 404A.4, Code 2025, is amended by adding the
+18 following new subsection:
+19 NEW SUBSECTION. 4. a. If, during the fiscal year beginning
+20 July 1, 2025, or any fiscal year thereafter, the authority
+21 receives an application for a qualified rehabilitation project
+22 with qualified rehabilitation expenditures that, if registered
+23 by the authority, makes the eligible taxpayer eligible for tax
+24 credits of ten million dollars or more, the authority may award
+25 tax credits during the fiscal year in which the application
+26 is received in an amount not to exceed twenty percent more
+27 than the maximum aggregate tax credit award limit specified in
+28 subsection 1.
+29 b. Tax credits awarded pursuant to this subsection shall be
+30 considered for purposes of calculating the maximum aggregate
+31 tax credits awarded pursuant to subsection 1 in the immediately
+32 succeeding fiscal year.
+33 DIVISION VI
+34 HOMELESSNESS —— IOWA FINANCE AUTHORITY
+35 Sec. 22. Section 16.5F, subsection 3, Code 2025, is amended
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-6- nls/ko 6/16
+
+1 to read as follows:
+2 3. a. The authority shall may adopt rules pursuant to
+3 chapter 17A for carrying out the duties of the authority
+4 pursuant to this section.
+5 b. The authority shall may establish internal rules of
+6 procedure consistent with the provisions of this section.
+7 c. Rules adopted or internal rules of procedure established
+8 pursuant to paragraph “a” or “b” shall be consistent with the
+9 requirements of the federal McKinney-Vento Homeless Assistance
+10 Act, 42 U.S.C. §11301 et seq.
+11 DIVISION VII
+12 TITLE GUARANTY BOARD —— ELIMINATION
+13 Sec. 23. Section 16.1A, subsection 5, Code 2025, is amended
+14 to read as follows:
+15 5. The board may, by resolution, delegate to the
+16 agricultural development board, title guaranty division board,
+17 director, or other authority employee such of its powers, under
+18 such terms and conditions, as it deems appropriate.
+19 Sec. 24. Section 16.2A, Code 2025, is amended by striking
+20 the section and inserting in lieu thereof the following:
+21 16.2A Title guaranty division.
+22 A title guaranty division is created within the authority.
+23 The division may also be referred to as Iowa title guaranty.
+24 The powers of the division relating to the issuance of
+25 title guaranties are vested in and shall be exercised by the
+26 board. The director shall appoint an attorney as director
+27 of the division. The appointment of, and compensation for,
+28 the division director shall be exempt from the merit system
+29 under chapter 8A, subchapter IV, part 2. The net earnings of
+30 the division, beyond that necessary for reserves, backing,
+31 guaranties issued, or to otherwise implement the public
+32 purposes and programs authorized, shall not inure to the
+33 benefit of any person other than the state and are subject to
+34 section 16.2, subsection 9.
+35 Sec. 25. Section 16.91, subsections 1, 3, and 6, Code 2025,
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-7- nls/ko 7/16
+
+1 are amended to read as follows:
+2 1. The authority, through the Iowa title guaranty division,
+3 shall initiate and operate a program in which the division
+4 shall offer guaranties of real property titles in this state.
+5 The terms, conditions, and form of the guaranty contract shall
+6 be forms approved by the division board. The division shall
+7 fix a charge for the guaranty in an amount sufficient to permit
+8 the program to operate on a self-sustaining basis, including
+9 payment of administrative costs and the maintenance of an
+10 adequate reserve against claims under the Iowa title guaranty
+11 program. A title guaranty fund is created in the office of
+12 the treasurer of state. Funds collected under this program
+13 shall be placed in the title guaranty fund and are available
+14 to pay all claims, necessary reserves and all administrative
+15 costs of the Iowa title guaranty program. Moneys in the fund
+16 shall not revert to the general fund and interest on the moneys
+17 in the fund shall be deposited in the housing trust fund
+18 established created in section 16.181 and shall not accrue to
+19 the general fund. If the authority board in consultation with
+20 the division board determines that there are surplus funds in
+21 the title guaranty fund after providing for adequate reserves
+22 and operating expenses of the division, the surplus funds shall
+23 be transferred to the housing assistance fund created pursuant
+24 to section 16.40.
+25 3. With the approval of the authority board, the division
+26 and its board shall consult with the insurance division of the
+27 department of insurance and financial services in developing
+28 a guaranty contract acceptable to the secondary market and
+29 developing any other feature of the program with which the
+30 insurance division may have special expertise. Except as
+31 provided in this subsection, the Iowa title guaranty program
+32 is not subject to the jurisdiction of or regulation by the
+33 insurance division or the commissioner of insurance.
+34 6. Prior to the issuance of a title guaranty, the division
+35 shall require evidence that an abstract of title to the
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-8- nls/ko 8/16
+
+1 property in question has been brought up-to-date and certified
+2 by a participating abstractor in a form approved by division
+3 rules acceptable to the division, and a title opinion issued by
+4 a participating attorney in the form approved in the rules a
+5 form acceptable to the division stating the attorney’s opinion
+6 as to the title. The division shall require evidence of the
+7 abstract being brought up-to-date and the abstractor shall
+8 retain evidence of the abstract as determined by the board
+9 division.
+10 Sec. 26. Section 16.92, subsection 1, paragraph d, Code
+11 2025, is amended by striking the paragraph.
+12 Sec. 27. Section 16.92, subsection 1, paragraph e, Code
+13 2025, is amended to read as follows:
+14 e. “Mortgage” means a mortgage or mortgage lien on an
+15 interest in real property in this state given to secure a loan
+16 in an original principal amount equal to or less than the
+17 maximum principal amount as determined by the division board
+18 and adopted by the authority pursuant to rules promulgated
+19 under chapter 17A.
+20 Sec. 28. Section 16.93, subsection 1, unnumbered paragraph
+21 1, Code 2025, is amended to read as follows:
+22 The authority, through the Iowa title guaranty division,
+23 may issue a closing protection letter to a person to whom a
+24 proposed title guaranty is to be issued, upon the request of
+25 the person, if the division issues a commitment for title
+26 guaranty or title guaranty certificate. The closing protection
+27 letter shall conform to the terms of coverage and form of the
+28 instrument as approved by the division board and may indemnify
+29 a person to whom a proposed title guaranty is to be issued
+30 against loss of settlement funds due to only the following acts
+31 of the division’s named participating attorney, participating
+32 abstractor, or closer:
+33 Sec. 29. Section 16.93, subsection 3, Code 2025, is amended
+34 to read as follows:
+35 3. The division board shall establish the amount of coverage
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-9- nls/ko 9/16
+
+1 to be provided and may distinguish between classes of property
+2 including, but not limited to, residential, agricultural, or
+3 commercial, provided that the total amount of coverage provided
+4 by the closing protection letter shall not exceed the amount
+5 of the commitment or title guaranty to be issued. Liability
+6 under the closing protection letter shall be coextensive with
+7 liability under the certificate to be issued in connection with
+8 a transaction such that payments under the terms of the closing
+9 protection letter shall reduce by the same amount the liability
+10 under the title guaranty certificate and payment under the
+11 title guaranty certificate shall reduce the liability under the
+12 terms of the closing protection letter.
+13 DIVISION VIII
+14 ARTS AND CULTURE
+15 Sec. 30. Section 15.108, subsection 7, Code 2025, is amended
+16 to read as follows:
+17 7. Cultural affairs. To develop the state’s interest in
+18 the areas of the arts, history, and other cultural matters. To
+19 carry out this responsibility, the authority shall:
+20 a. Accept, receive, and administer grants or other funds or
+21 gifts from public or private agencies, including the federal
+22 government, for the authority.
+23 b. Administer the Iowa cultural trust, as advised and
+24 assisted by the Iowa arts council, as provided in subchapter
+25 II, part 30, and do all of the following:
+26 (1) Develop and adopt by rule criteria for the issuance
+27 of trust fund credits by measuring the efforts of qualified
+28 organizations to increase their endowment or other resources
+29 for the promotion of the arts, history, or the sciences and
+30 humanities in Iowa. For purposes of this paragraph, “qualified
+31 organization” means a tax-exempt, nonprofit organization
+32 whose primary mission is to promote the arts, history, or the
+33 sciences and humanities in Iowa. If the authority determines
+34 that a qualified organization has increased the amount of the
+35 qualified organization’s endowment and other resources, the
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-10- nls/ko 10/16
+
+1 authority shall certify the amount of increase in the form of
+2 trust fund credits to the treasurer, who shall deposit in the
+3 Iowa cultural trust fund, from moneys received for purposes
+4 of the trust fund as provided in section 15.479, subsection
+5 2, an amount equal to the trust fund credits. If the amount
+6 of the trust fund credits issued by the authority exceeds the
+7 amount of moneys available to be deposited in the trust fund as
+8 provided in section 15.479, subsection 2, the outstanding trust
+9 fund credits shall not expire but shall be available to draw
+10 down additional moneys which become available to be deposited
+11 in the trust fund as provided in section 15.479, subsection 2.
+12 (2) Develop and implement, in accordance with subchapter
+13 II, part 30, a grant application process for grants issued to
+14 qualified organizations.
+15 (3) Develop and adopt by rule criteria for the approval of
+16 Iowa cultural trust grants. The criteria shall include but
+17 shall not be limited to the future stability and sustainability
+18 of a qualified organization.
+19 (4) Compile, in consultation with the Iowa arts council,
+20 a list of grant applications recommended for funding in
+21 accordance with the amount available for distribution as
+22 provided in section 15.481, subsection 3.
+23 (5) Monitor the allocation and use of grant moneys by all
+24 qualified organizations to determine whether moneys are used
+25 in accordance with the provisions of this paragraph “b” and
+26 subchapter II, part 30.
+27 c. b. Design a comprehensive, statewide, long-range plan
+28 with the assistance of the Iowa arts council to develop the
+29 arts in Iowa. The authority is designated as the state agency
+30 for carrying out the plan.
+31 d. c. By rule, establish Establish advisory groups as
+32 necessary for the receipt of federal funds or grants or the
+33 administration of any of the authority’s programs.
+34 e. Develop and implement fee-based educational programming
+35 opportunities, including preschool programs, related to arts,
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-11- nls/ko 11/16
+
+1 history, and other cultural matters for Iowans of all ages.
+2 f. Conduct surveys of existing art and cultural programs
+3 and activities within the state, including but not limited to
+4 music, theater, dance, painting, sculpture, architecture, and
+5 allied arts and crafts. The authority shall submit, or include
+6 as part of the annual report under section 15.107B, a report
+7 on the survey to the governor and to the general assembly no
+8 later than ten calendar days after the commencement of each
+9 first session of the general assembly recommending appropriate
+10 legislation or other action as the authority deems appropriate.
+11 g. d. Establish and administer a film office. The purpose
+12 of the film office is to assist legitimate film, television,
+13 and video producers in Provide technical assistance for the
+14 production of film, television, and video projects in the
+15 state, and to increase the fiscal impact on the state’s economy
+16 of film, television, and video projects produced in the state.
+17 Sec. 31. Section 15.274, Code 2025, is amended to read as
+18 follows:
+19 15.274 Promotional program for national historic landmarks
+20 and cultural and entertainment districts.
+21 The economic development authority, in cooperation with
+22 the state department of transportation, shall establish
+23 and administer a program designed to promote knowledge of
+24 and access to buildings, sites, districts, structures, and
+25 objects located in this state that have been designated by the
+26 secretary of the interior of the United States as a national
+27 historic landmark, unless the national historic landmark is
+28 protected under section 22.7, subsection 20, and certified
+29 cultural and entertainment districts, as established pursuant
+30 to section 15.438. The program shall be designed to maximize
+31 the visibility and visitation of national historic landmarks
+32 in this state and buildings, sites, structures, and objects
+33 located in certified cultural and entertainment districts,
+34 as established pursuant to section 15.438. Methods used to
+35 maximize the visibility and visitation of such locations may
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-12- nls/ko 12/16
+
+1 include the use of tourism literature, signage on highways,
+2 maps of the state and cities, and internet sites. For purposes
+3 of this section, “highway” means the same as defined in section
+4 325A.1.
+5 Sec. 32. Section 15.436, Code 2025, is amended by striking
+6 the section and inserting in lieu thereof the following:
+7 15.436 Arts and culture enhancement fund.
+8 1. The economic development authority shall, pursuant
+9 to section 15.106A, subsection 1, paragraph “o”, establish
+10 the arts and culture enhancement fund to be used for the
+11 purposes of this section. The fund shall consist of any moneys
+12 appropriated by the general assembly for purposes of this
+13 section and any other moneys that are lawfully available to
+14 the authority. Notwithstanding section 12C.7, subsection 2,
+15 interest or earnings on moneys in the fund shall accrue to
+16 the authority and shall be used for purposes of this section.
+17 Notwithstanding section 8.33, moneys in the fund at the end of
+18 each fiscal year shall not revert to any other fund but shall
+19 remain in the fund for expenditure for subsequent fiscal years.
+20 2. The authority shall allocate moneys in the arts and
+21 culture enhancement fund in appropriate amounts to be used for
+22 the following purposes:
+23 a. To provide support to municipal and nonprofit arts and
+24 cultural organizations that serve as significant attractions
+25 or community resources.
+26 b. To support artists and entities that foster artistic and
+27 cultural expression, promote lifelong learning and engagement
+28 in the arts, advance community development goals, or emphasize
+29 Iowa’s diverse heritage through the creation, performance, or
+30 presentation of artworks.
+31 c. To increase access to arts and culture in rural and
+32 underserved communities in the state.
+33 d. For the promotion of and investment in film, television,
+34 and video projects produced in the state.
+35 e. To address other goals and priorities as reflected in
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-13- nls/ko 13/16
+
+1 the comprehensive, statewide, long-range plan designed by the
+2 authority with the assistance of the Iowa arts council pursuant
+3 to section 15.108, subsection 7.
+4 f. For administrative costs related to this section.
+5 3. The authority may adopt by rule eligibility and priority
+6 criteria for allocation of moneys in the arts and culture
+7 enhancement fund.
+8 Sec. 33. Section 15.465, subsection 2, Code 2025, is amended
+9 to read as follows:
+10 2. The term of office of each member of the Iowa arts
+11 council is three years. The governor shall designate council
+12 may elect a chairperson and a vice chairperson from the members
+13 of the council to serve at the pleasure of the governor. All
+14 vacancies shall be filled for the balance of any unexpired term
+15 in the same manner as original appointments. The members of
+16 the council shall not receive compensation for their services,
+17 but shall be reimbursed for their actual and necessary expenses
+18 incurred in the performance of their duties as members of the
+19 council. Members may also be eligible for compensation as
+20 provided in section 7E.6.
+21 Sec. 34. Section 15.466, Code 2025, is amended to read as
+22 follows:
+23 15.466 Duties of Iowa arts council.
+24 The Iowa arts council shall review programs to be supported
+25 and make recommendations on the programs to the director to
+26 ensure that Iowa citizens and communities have access to the
+27 cultural, civic, economic, and educational benefits of the
+28 arts. The council may solicit public input including but not
+29 limited to input on the comprehensive, statewide, long-range
+30 plan created by the authority with the assistance of the Iowa
+31 arts council pursuant to section 15.108, subsection 7.
+32 Sec. 35. Section 15H.6, subsection 3, Code 2025, is amended
+33 to read as follows:
+34 3. The capacity building activities shall be targeted in
+35 communities that are already working with existing community
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-14- nls/ko 14/16
+
+1 improvement programs, including but not limited to the Iowa
+2 great places program established under section 15.439, the
+3 green streets and main street Iowa programs administered by
+4 the economic development authority, and disaster remediation
+5 activities by communities located within an area declared to be
+6 a disaster area in a declaration issued by the president of the
+7 United States or the governor.
+8 Sec. 36. Section 99F.11, subsection 4, paragraph d,
+9 subparagraph (1), Code 2025, is amended to read as follows:
+10 (1) Five hundred twenty thousand dollars is appropriated
+11 each fiscal year to the economic development authority with
+12 one-half of the moneys allocated for operational support grants
+13 and the remaining one-half allocated for the community cultural
+14 grants program established under for deposit in the arts and
+15 culture enhancement fund established in section 15.436.
+16 Sec. 37. REPEAL. Sections 15.437, 15.438, 15.439, 15.440,
+17 15.441, 15.476, 15.477, 15.478, 15.479, 15.481, and 15.482,
+18 Code 2025, are repealed.
+19 Sec. 38. TRANSFER OF MONEYS. On the effective date of this
+20 division of this Act, all unencumbered and unobligated moneys
+21 remaining in the Iowa great places program fund created in
+22 section 15.440, the Iowa cultural trust fund created in section
+23 15.479, and the Iowa cultural trust grant account created
+24 in section 15.482 are transferred to the arts and culture
+25 enhancement fund established pursuant to section 15.436, as
+26 amended by this division of this Act.
+27 DIVISION IX
+28 CONFORMING CHANGES
+29 Sec. 39. Section 16.6, subsection 4, Code 2025, is amended
+30 to read as follows:
+31 4. The director may establish administrative divisions
+32 within the authority in order to most efficiently and
+33 effectively carry out the authority’s responsibilities,
+34 provided that any creation or modification of authority
+35 divisions be established only after consultation with the board
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-15- nls/ko 15/16
+
+1 of the authority.
+2 Sec. 40. Section 16.64, subsection 1, Code 2025, is amended
+3 to read as follows:
+4 1. The authority shall publish a notice of intention to
+5 issue bonds or notes. After sixty days from the date of
+6 publication of the notice, an action shall not be brought
+7 questioning the legality of any bonds or notes or the power of
+8 the authority to issue any bonds or notes or to the legality
+9 of any proceedings in connection with the authorization or
+10 issuance of the bonds or notes after determination by the board
+11 of the authority to proceed with the issuance of the bonds or
+12 notes.
+13 DIVISION X
+14 IOWA REINVESTMENT ACT —— DISTRICT ESTABLISHMENT
+15 Sec. 41. Section 15J.4, subsection 1, paragraph c, Code
+16 2025, is amended to read as follows:
+17 c. For districts approved before July 1, 2018, the area
+18 consists of contiguous parcels and does not exceed twenty-five
+19 acres in total. For districts approved on or after July 1,
+20 2020, the area consists of contiguous parcels and does not
+21 exceed seventy-five one hundred twenty-five acres in total.
+22 Sec. 42. RETROACTIVE APPLICABILITY. This division of this
+23 Act applies retroactively to July 1, 2020.>
+______________________________
+CARRIE KOELKER
+SF 642.1950 (1) 91
+(amending this SF 642 to CONFORM to HF 975)
+-16- nls/ko 16/16
+
+[DELETED: eFe6AdSeFe62asf1.Bysgegarteegceai<NSCIEPSn1.Sn1,sn6,phc,C2,isadbysgtepS.2.Sn1,sn3,udp1,Ce2,isadtordasf0TeIainclAceadp1tosn1,sn7,slrweha2rdbyteecdtayfrf3aeurtepmadslmerst4tebdrgaloftef5DNI6B,G,ADRTTXC7S.3.Sn1,ss3ad1,Ce2,a8adbysgtes9S.4.Sn1,sn3,udp01,Ce2,isadtordasf1Teatoftetxctslbeddbyteb2incnwhtec.H,tetxcta3slntedtefga,asa4S.5.Sn1,sn1,psb,d,a5h,Ce2,aeadtordasf6Teayslata,incnw7tec,rwasfrtxcspdi8sn1Aa,whtealoftec,met9ctadrsrgteastot0b.Teaymyeeoeestoce1t,f,ororr2Unrwofana,teaym3rrteptwhterttxc4p.Ifteayrstep,tea5m,incnwhtec,meapF60()9gtsSF62toCMtoHF9o1]
+[DELETED: dnastoteatoftxctfrwhanarnwlbemetotebIfteatfratxctpdins1Ahsaoadtoanayofteflgortotea,teb,orayorayofsgtfralfla,teatec,adtebdslcrteatofftoberdfmshpcsswnmgatctadpttotss0S.6.Sn1,sn1,phf1sh(,Ce2,isadtordasf2()Alcdasslberdads3onacebsbytecladtebda4Inrgadsga,tecladt5bdaymycrayfstecladb6dmaydsaefracea7p,igbtntldtotefln8q,adfyofaqgrtp9S.7.Sn1,sn2,phc,C02,isadtordasf1Ayorinddnybyteb2adteclaytorwadsetea3pttosn14S.8.Sn1,ss4ad5,Ce2,a5adtordasf64.Ardptslbecdwnt7msoftedeteptwsrdust8a,unrnoftecladwht9alofteb,psaltetocet0p.Ifterdptisntcdw1teter,teptisnteetocm2rttxctpdinsn135.Teirsleeacdp4atadtopeintssetocta5enofteptinaewhteAF60()9gtsSF62toCMtoHF9o2]
+[DELETED: ieofcdpca’ssossfrane.Uncnofrdp,anatoftep,cdbyaitcdpcatldintsstee,agwhastofteatoffqgi,slbesdtoteaUnrwofteatadvnofteaofteqgi,enadssdpttoph,teaymyie0txctcetoteirsgteato1txctursn1Ateirmyc2S.9.R.Ss1,1,1,a31,Ce2,aer4S.1.TROFM.Onteeedeoft5dnoftsA,ayudorudm6rgintebdrtfdcdi7sn13aetdtoafdorfse8pttosn1,sn1,ph“,a9ddbyteecdta0DNI1CYANADT,ADVNIA——R2B3S.1.R.Sn1,Ce2,isr4S.1.A.TsdnoftsAta5toanatadflaeurbht6vnIapmedinsn1,adt7cyanadtmpmedins81,onorarteeedeoftsdno9tsA0S.1.REA.Tsdnoft1Atasrytoanatadf2aeurbhtevnIapmedi3sn1,adtecyanadt4pmedinsn1,prtotee5deoftsdnoftsAF60()9gtsSF62toCMtoHF9o3]
+[DELETED: DNICYANADTMP,ADSSTMGADIEPM——ANRS.1.Sn1,sn2,Ce2,iadtordasf2.ATedrofteayslatarcecdoffemsoftebdslwrteetorwcyanadtpmasfdtotebda.Ter0ceslmersrgtea1toteb2S.1.Sn1,sn2,Ce2,i3adtordasf42.ATedrofteayslatar5cecdoffemsoftebdslw6rteetorwsstmmga7iepmasfdtotebda8Terwceslmersrgt9astotea0DN1HCPNTXC2S.1.Sn4,sn2,Ce2,isa3bysgtes4S.1.Sn4,sn7,Ce2,isa5byagtefgnwp6NWP.Tepyisntas7dgu,usteptwlrtintoorm8nwsydgusttwenta9froyasrlhgdgtei0pgcesxmsprtocto1tep,adtedgusaeldintes2n,ascdbytea.Tetoorm3nwsydgusmtbemeaef4oyasartofternp.T5aymypebyrecaudbyteaF60()9gtsSF62toCMtoHF9o4]
+[DELETED: todeifapyisasydguadqsasaqdrnpturtpS.1.Sn4,Ce2,isadbyagtfgnwsNWS.8.mstedeondwhteaynsaneetrofsrnoftetsqdrnppttosn4,sn20S.1.Sn4,sn3,phb1ss()ad(,Ce2,aeadtorda2f3()Tectdeofbywhteq4rnptmtc,whslntben5lrtnteedofteflyrinwhtea6isediooecryrfmternd7Unanofteeet,teaym8attednoftea,edtedebyw9teqdrnptmtceuptoa0altecem1()()Tecndeofbywhteq2rnp,whslbewnt3msoftectdemtbec,whs4benolrtntececrysfmt5rnd.Teqdrnpts6becdceasoftedetepyttist7stofteqdrnptispdi8s,asddin26U.§9()Unanofteeet,t0aym,attednoftea,edt1debywhteqdrnptmtb2ceuptoanaltecem3()Unanofteeetrmep4toteenofanenursh(,t5aym,attednoftea,eF60()9gtsSF62toCMtoHF9o5]
+[DELETED: tedebywhteqdrnptmbeceuptoanaltecemTeqdeetrmtsetotsnofteayttterdeniwddetoegcsoetecofteeet()Ananbyaneetrushdn()or()slbemeintemadfmpdbyteaybyr0S.2.Sn4,sn1,pha1udph1,Ce2,isadtorda2f3Etaspdinss2,ad3,ad4,t4ayslntadinayoeflyranato5txcspdinsn42inesoff6mnd7S.2.Sn4,Ce2,isadbyagt8fgnws9NWS.4.I,dgteflyrb0Jy1,2,orayflyrt,tea1rsananfraqdrnp2whqdrnest,ifr3bytea,msteeetreefrt4csoftnmndsorm,teaymya5txcsdgteflyrinwhtea6isrdinanatnttoedtyptm7tntemmaetxctadltsdi8sn19Txcsadpttotssnslb0cdfrpsofcgtemma1txcsadpttosn1intei2sgfly3DNV4HS——IAFEA5S.2.Sn1,sn3,Ce2,isaF60()9gtsSF62toCMtoHF9o6]
+[DELETED: tordasf3.Teayslmyatrspttcr1AfrcgottedsofteapttotssTeayslmyehilrsopectwhtepsoftssRsadorilrsofpeepttophorslbectwht”“rsofteflMoHsA0A,42U.§1ets1DNV2TEGYBD——E3S.2.Sn1,sn5,Ce2,isa4tordasf55.Tebdm,byr,detot6aldtb,tegydnb7d,ororayeeshofisp,u8shtsadc,asitdsa9S.2.Sn1,Ce2,isadbys0tesnadiginlutftefATegyd2Ategydniscdwntea3TednmyaoberdtoasIateg4Tepsoftednrgtoteieo5tegsaevdinadslbeedbyt6b.Tedrslatanayasd7ofted.Teato,adcnf8tedndrslbeetfmtemts9urcr8,srI,pt2.Tenteso0ted,bdttnyfrr,b1gsi,ortooeittep2psadpsa,slntietot3btofaypnortnteseadaestt4sn1,sn95S.2.Sn1,ss1,3,ad6,Ce2F60()9gtsSF62toCMtoHF9o7]
+[DELETED: aeadtordasf1.Tea,thteIategydslieadoeapminwhtedslorgsofrlpytsintssTet,c,adfmoftegyctsbefsadbytednb.Tednsfxacefrtegyinanatsttoptepmtooeonasgb,iptofaecsadtemeofa0aereatcsurteIateg1p.Ategyfdiscdinteoeo2tetrofs.Fscdurtsp3slbepdintetegyfdadaea4topyalc,nyrsadala5csofteIategyp.Msintef6slntrttoteglfdaditontem7intefdslbeddintehgttf8edcdinsn11adslntaet9teglf.Ifteaybdincnw0tednbddsttteaessfsi1tetegyfdarpgfraer2adogesofted,tessfss3betdtotehgaefdcdp4tosn153.Whtealofteayb,ted6adisbdslctwhteiednoft7dtofieadflssind8agyctaetotesymta9dgayorfeoftepmwhwht0iednmyhesle.Eta1pdintss,teIategyp2isntsttotejnoforrnbyt3iednortecrofi46.Prtoteieofateg,ted5slreeettanatoftetotF60()9gtsSF62toCMtoHF9o8]
+[DELETED: pyinqnhsbnbtueadcbyapgarinafmadbydrsaetoted,adateonidbapgayintefmadintersfmaetotednsgteasoastotet.Tednslreeeoftatbgbtueadtearsrneeofteatasddbytebd0S.2.Sn1,sn1,phd,C12,isadbysgtep2S.2.Sn1,sn1,phe,C32,isadtordasf.“4msameormelnona5itinrlpyintssegntoseal6inanolplateltoorlstnt7mmplatasddbytednb8adadbyteaypttorsp9urcr10S.2.Sn1,sn1,udp11,Ce2,isadtordasf2Tea,thteIategyd3myieacgpnlrtoapntowm4pdtegyistobei,unterto5tep,iftednisactfrt6gyortegyc.Tecgp7lrslcmtotetsofceadfmoft8itasadbytednbdadmyi9apntowmapdtegyistobei0atlsofstfsdetooytefga1oftedsndpga,p2a,orc3S.2.Sn1,sn3,Ce2,isa4tordasf53.TednbdslehteatofcF60()9gtsSF62toCMtoHF9o9]
+[DELETED: tobepdadmydhbncsofpi,btntldt,r,a,oc,pdtttetlatofcepbytecgpnlrslntedteaoftectortegytobei.Lurtecgpnlrslbecewlyurtecetobeidincnwatnshttpsurtetsoftecpnlrslrebyteseattel0urtetegyceadpturt1tegyceslretelyurt2tsoftecgpnl3DNV4ASADC5S.3.Sn1,sn7,Ce2,isa6tordasf77.Todptessitila8teasoftea,h,adorclm.T9cyottsr,teays0A,r,adargsororfso1gsfmpcorpea,igtef2g,frtea3ArteIaclt,asada4adbyteIaasc,aspdins5I,pt3,addoaloftef6()Dpadatbyrecafrtei7ofttfdcsbymgteesofq8ostoietretororr9frtepnoftea,h,ortessa0hsinI.Frpsoftsp1msat,nto2wepymnistopetea,h,ort3ssadhsinI.Ifteayd4ttaqdonhsidteatoft5qdosetadorr,tF60()9gtsSF62toCMtoHF9o1]
+[DELETED: ayslcyteatofieintefmottfdcstotet,wosldtintIaclttf,fmmsrdfrpoftettfdaspdinsn1,s2,anateltotettfdc.Ifteaoftettfdcsidbyteayestatofmsaetobeddintettfdapdinsn1,sn2,teogtfdcsslnteebtslbeaetod0dnalmswhbeaetobed1intettfdaspdinsn1,sn22()Dpadi,inaewhs3I,pt3,agtanpsfrgsidt4qdo5()Dpadatbyrecafrtealo6Iaclttg.Tecaslieb7slntbeldtotefesyads8ofaqdo9()C,incnwhteIaasc0altofgtasrdfrfgi1aewhteataefrdna2pdinsn1,sn33()Mrteanadueofgtmsbya4qdostodewrmsaeu5inaewhtepsoftspha6srI,pt3.b7Dnac,s,lep8whteaeofteIaascltodpt9asinI.Teayisddastesea0frcgottep.c1Byr,ehEhaygsa2nyfrtertofflfsorgsort3anofayofteasp4Dpaditfdelp5o,igplp,rdtoaF60()9gtsSF62toCMtoHF9o1]
+[DELETED: h,adorclmsfrIsofalaCtssofegatadclpadaswntes,igbtntldtm,t,d,p,s,a,aadasadc.Teaysls,oriasptoftealrtursn1,arontesytotegradtoteglaynlrtntncrdsartectofeftsnofteglayrga0lnororanasteaydsa.d1Ehadarafmo.Tep2oftefmoeistoatlef,t3advopsinPetlaefrt4pnoff,t,advopsint5s,adtoieteflitontesse6off,t,advopspdintes7S.3.Sn1,Ce2,isadtorda8f4Plpmfrnlhcldcladetd1Teecdta,incnw2tesedtoft,sle3adarapmddtopekeo4adastob,s,d,s,a5osldintssetthebnddbyt6syofteirofteUdSsasan7hcl,ustenlhclki8pdursn2,sn2,adc9cladetd,asedp0tosn1.Tepmslbeddtom1tevyadvnofnlhcl2intsseadb,s,s,ado3ldincdcladetd4asedpttosn1.Msudt5metevyadvnofshlsmF60()9gtsSF62toCMtoHF9o1]
+[DELETED: ieteueoftml,seonhmsofteseadc,adits.Frpoftss,msteseasddins3S.3.Sn1,Ce2,isadbystesnadiginlutftef6Asadceetf1.Teecdtays,ptosn1,sn1,ph,e0teasadceetfdtobeudfrt1psoftss.Tefdslctofaym2adbyteglayfrpsoft3snadayormsttaelyaet4tea.Ngsn1,sn25itoresonmsintefdslaet6teayadslbeudfrpsoftss7Ngsn8,msintefdatteedo8ehflyrslntrttoayorfdbts9rnintefdfreefrstfly02.Teayslaemsinteasa1ceetfdinaeastobeudf2tefgp3Topesttomladntasa4closttseassta5orcyr6Tostasadesttfraca7cle,pelglgade8intea,aecydtg,ore9Isdehethtec,p,o0pnofa1Toieastoasadceinrla2udcsintes3Frtepnofaditinf,t4advopspdintes5ToasorgsadpsasrdiF60()9gtsSF62toCMtoHF9o1]
+[DELETED: tec,s,lepnddbytaywhteaeofteIaasclptosn1,sn7Fraecsrdtotss3.TeaymyatbyreeyadpcafranofmsinteasadcetfS.3.Sn1,sn2,Ce2,isatordasf02.TetmofoeofehmrofteIaa1clistey.Tegrsldec2myetacnadavecnfmtem3oftecltoseattepeofteg.A4vsslbefdfrtebeofayudt5intesemrasola.Temso6teclslntrecnfrtrs7btslberdfrtraladnye8idintepeoftrdsasmsoft9c.Msmyaobeeefrcna0pdinsn71S.3.Sn1,Ce2,isadtorda2f6DsofIaasc4TeIaasclslrwpstobes5admersontepstotedrt6eettIacsadcsheastot7c,c,e,adelbsoft8a.Teclmystpcitigbtn9ldtoitontec,s,l0pncdbyteaywhteaeofteI1asclpttosn1,sn72S.3.Sn1,sn3,Ce2,isa3tordasf43.Tecybgasslbetdi5csttaeaywgwhegcF60()9gtsSF62toCMtoHF9o1]
+[DELETED: itp,igbtntldtoteIgtpspmedursn1,tgnssadmnstIapsadbteecdta,addrrasbycsldwnanaaddtobadraainadnidbyteptoftUdSsortegS.3.Sn9,sn4,phdsh(,Ce2,isadtordasf0()Fehdtytddsisa1ehflyrtoteecdtayw2ofoftemsadfrolstg3adtergofadfrtecyc4gspmedurfrdtinteasa5ceetfdedinsn16S.3.R.Ss1,1,1,171,1,1,1,1,1,ad18Ce2,aer9S.3.TROFM.Onteeedeoft0dnoftsA,aludadudm1rginteIagtpspmfdcdi2sn1,teIaclttfdcdins31,adteIaclttgtatc4insn12aetdtoteasadc5etfdedpttosn1,a6adbytsdnoftsA7DNI8CGC9S.3.Sn1,sn4,Ce2,isa0tordasf14.Tedrmyehaed2wnteayinortomteya3eycyotteasr4pdttaycnormnofa5dsbeedoyarcnwhtebF60()9gtsSF62toCMtoHF9o1]
+[DELETED: ofteaS.4.Sn1,sn1,Ce2,isatordasf1.Teayslphaneofintiebsorn.Arsydsfmtedeopnoften,ananslntbebqgtelyofaybsornsorteproteaytoieaybsornsortotelofaypsincnwhteano0ieoftebsornsardnbyteb1ofteaytopdwhteieoftebso2n3DN4IARTAT——DTE5S.4.Sn1,sn1,phc,C62,isadtordasf7FrdsadbeJy1,2,tea8csofcspsaddsntedt9asint.FrdsadonorarJy102,teaacsofcspsaddsn1edseoehdteasint2S.4.REA.Tsdnoft3AtasrytoJy1,2EKF60()9gtsSF62toCMtoHF9o1]

@@ -1,0 +1,153 @@
+Title: BILL)
+Official Title: BILL)
+Number of Sections: 1
+Source: versions - Prefiled
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+A BILL FOR
+1 An Act relating to library services provided by the department
+2 of administrative services.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1339DP (2) 91
+sc/ns
+S.F. _____ H.F. _____
+1 Section 1. Section 7A.3, subsection 1, paragraph f, Code
+2 2025, is amended by striking the paragraph.
+3 Sec. 2. Section 8A.202, subsection 1, paragraph e, Code
+4 2025, is amended by striking the paragraph.
+5 Sec. 3. Section 8A.202, subsection 1, paragraph k, Code
+6 2025, is amended to read as follows:
+7 k. Establish and administer standards for state agency
+8 libraries and public libraries.
+9 Sec. 4. Section 8A.204, subsection 2, paragraph b, Code
+10 2025, is amended by striking the paragraph.
+11 Sec. 5. Section 8A.209, subsection 1, Code 2025, is amended
+12 to read as follows:
+13 1. An enrich Iowa program is established in the department
+14 to provide direct state assistance to public libraries, to
+15 support the open access and access plus interlibrary loan
+16 programs, to provide public libraries with an incentive
+17 to improve library services that are in compliance with
+18 performance measures, and to reduce inequities among
+19 communities in the delivery of library services based on
+20 performance measures adopted by rule by the department. The
+21 department shall adopt rules governing the allocation of moneys
+22 appropriated by the general assembly for purposes of this
+23 section to provide direct state assistance to eligible public
+24 libraries. A public library is eligible for moneys under
+25 this subchapter if it is in compliance with the department’s
+26 performance measures.
+27 EXPLANATION
+28 The inclusion of this explanation does not constitute agreement with
+29 the explanation’s substance by the members of the general assembly.
+30 This bill relates to library services provided by the
+31 department of administrative services (DAS).
+32 The bill eliminates the requirement that the state librarian
+33 submit a biennial report to the governor on the activities of
+34 DAS relating to library services. As the eliminated provision
+35 contains the only biennial report in the Code for the state
+LSB 1339DP (2) 91
+-1- sc/ns 1/2
+S.F. _____ H.F. _____
+1 librarian, the bill also strikes a corresponding provision
+2 applying general biennial reporting requirements to the state
+3 librarian. Under Code section 8E.210, DAS is still obligated
+4 to prepare reports of its progress in meeting goals from its
+5 agency strategic plan and operational plan.
+6 The bill strikes the requirement that DAS develop and
+7 approve a biennial unified plan of service and service delivery
+8 for DAS as part of DAS’s library services.
+9 The bill strikes DAS’s obligation to establish and
+10 administer standards for state agency libraries.
+11 The bill eliminates a reference to “access plus programs”
+12 of public libraries for purposes of DAS’s duty to support such
+13 programs under the enrich Iowa program, and substitutes the
+14 term “interlibrary loan programs” for such purposes.
+LSB 1339DP (2) 91
+-2- sc/ns 2/2
+[DELETED: EFE_Y(DDTOESBLFAnAtrgtolysspdbytedofaesBEITEDBYTEGLAYOFTESEOFIB1P()9]
+[DELETED: .__H._Sn1.Sn7,sn1,phf,C2,isadbysgtepS.2.Sn8,sn1,phe,C2,isadbysgtepS.3.Sn8,sn1,phk,C2,isadtordasfEhadarssfrsealsadpclS.4.Sn8,sn2,phb,C02,isadbysgtep1S.5.Sn8,sn1,Ce2,isa2tordasf31.AnehIapmisedinted4topedtseaetopcl,t5stteonasadaspsiyl6p,topepclswhani7toielyssttaeincew8pem,adtoreisa9csintedyoflyssbdo0pemsadbyrebyted.T1dtslatrsggteanofm2adbyteglayfrpsoft3sntopedtseaetoeep4l.Apclyiseefrmsu5tssrifitisincewhted6pem7Eeinoftsendsntceatweessebytemsoftegla0Tsblrstolysspdbyt1dtofaess(2Teblesterttttesel3stablrttotegronteaso4DSrgtolys.Asteedp5csteoyblrtinteCefrtesB1P()9s1]
+[DELETED: .__H._l,teblaossacgpagglblrgrstotesl.UrCesn8,DSisslotopersofispsinmggsfmiayscpnadolpTeblsstertttDSdpaaeabludpnofseadsedfrDSasptofDslysTeblssDsontoeha0arssfrseayl1Teblesareto“spsp2ofpclsfrpsofDsdytosts3psurteehIap,adsst4tm“ylnp”frshpB1P()9s2]
+
+
+================================================================================
+
+Raw Text:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to library services provided by the department
+2 of administrative services.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1339DP (2) 91
+sc/ns
+
+S.F. _____ H.F. _____
+1 Section 1. Section 7A.3, subsection 1, paragraph f, Code
+2 2025, is amended by striking the paragraph.
+3 Sec. 2. Section 8A.202, subsection 1, paragraph e, Code
+4 2025, is amended by striking the paragraph.
+5 Sec. 3. Section 8A.202, subsection 1, paragraph k, Code
+6 2025, is amended to read as follows:
+7 k. Establish and administer standards for state agency
+8 libraries and public libraries.
+9 Sec. 4. Section 8A.204, subsection 2, paragraph b, Code
+10 2025, is amended by striking the paragraph.
+11 Sec. 5. Section 8A.209, subsection 1, Code 2025, is amended
+12 to read as follows:
+13 1. An enrich Iowa program is established in the department
+14 to provide direct state assistance to public libraries, to
+15 support the open access and access plus interlibrary loan
+16 programs, to provide public libraries with an incentive
+17 to improve library services that are in compliance with
+18 performance measures, and to reduce inequities among
+19 communities in the delivery of library services based on
+20 performance measures adopted by rule by the department. The
+21 department shall adopt rules governing the allocation of moneys
+22 appropriated by the general assembly for purposes of this
+23 section to provide direct state assistance to eligible public
+24 libraries. A public library is eligible for moneys under
+25 this subchapter if it is in compliance with the department’s
+26 performance measures.
+27 EXPLANATION
+28 The inclusion of this explanation does not constitute agreement with
+29 the explanation’s substance by the members of the general assembly.
+30 This bill relates to library services provided by the
+31 department of administrative services (DAS).
+32 The bill eliminates the requirement that the state librarian
+33 submit a biennial report to the governor on the activities of
+34 DAS relating to library services. As the eliminated provision
+35 contains the only biennial report in the Code for the state
+LSB 1339DP (2) 91
+-1- sc/ns 1/2
+
+S.F. _____ H.F. _____
+1 librarian, the bill also strikes a corresponding provision
+2 applying general biennial reporting requirements to the state
+3 librarian. Under Code section 8E.210, DAS is still obligated
+4 to prepare reports of its progress in meeting goals from its
+5 agency strategic plan and operational plan.
+6 The bill strikes the requirement that DAS develop and
+7 approve a biennial unified plan of service and service delivery
+8 for DAS as part of DAS’s library services.
+9 The bill strikes DAS’s obligation to establish and
+10 administer standards for state agency libraries.
+11 The bill eliminates a reference to “access plus programs”
+12 of public libraries for purposes of DAS’s duty to support such
+13 programs under the enrich Iowa program, and substitutes the
+14 term “interlibrary loan programs” for such purposes.
+LSB 1339DP (2) 91
+-2- sc/ns 2/2
+
+[DELETED: EFE_Y(DDTOESBLFAnAtrgtolysspdbytedofaesBEITEDBYTEGLAYOFTESEOFIB1P()9]
+[DELETED: .__H._Sn1.Sn7,sn1,phf,C2,isadbysgtepS.2.Sn8,sn1,phe,C2,isadbysgtepS.3.Sn8,sn1,phk,C2,isadtordasfEhadarssfrsealsadpclS.4.Sn8,sn2,phb,C02,isadbysgtep1S.5.Sn8,sn1,Ce2,isa2tordasf31.AnehIapmisedinted4topedtseaetopcl,t5stteonasadaspsiyl6p,topepclswhani7toielyssttaeincew8pem,adtoreisa9csintedyoflyssbdo0pemsadbyrebyted.T1dtslatrsggteanofm2adbyteglayfrpsoft3sntopedtseaetoeep4l.Apclyiseefrmsu5tssrifitisincewhted6pem7Eeinoftsendsntceatweessebytemsoftegla0Tsblrstolysspdbyt1dtofaess(2Teblesterttttesel3stablrttotegronteaso4DSrgtolys.Asteedp5csteoyblrtinteCefrtesB1P()9s1]
+[DELETED: .__H._l,teblaossacgpagglblrgrstotesl.UrCesn8,DSisslotopersofispsinmggsfmiayscpnadolpTeblsstertttDSdpaaeabludpnofseadsedfrDSasptofDslysTeblssDsontoeha0arssfrseayl1Teblesareto“spsp2ofpclsfrpsofDsdytosts3psurteehIap,adsst4tm“ylnp”frshpB1P()9s2]

@@ -1,0 +1,126 @@
+Title: 1 Amend House File 644, as passed by the House, as follows:
+Official Title: 1 Amend House File 644, as passed by the House, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3037
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 644
+S-3037
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 232.2, subsection 12, paragraph c, Code
+5 2025, is amended to read as follows:
+6 c. (1) All rights and duties of a custodian shall be
+7 subject to any residual rights and duties remaining in a parent
+8 or guardian.
+9 (2) Notwithstanding subparagraph (1), the department may
+10 consent to emergency medical care and routine medical care for
+11 a child that will allow the child to experience childhood and
+12 participate in activities in a manner similar to the child’s
+13 peers. “Routine medical care” includes but is not limited to
+14 all of the following:
+15 (a) Preventative care, also known as wellness care, not
+16 including the administration of a vaccination.
+17 (b) Nonemergency medical care including but not limited
+18 to a physical examination, a diagnostic laboratory test, or a
+19 medical visit for a minor illness.
+20 (c) Use of necessary medication, including but not limited
+21 to antibiotics.
+22 (3) Notwithstanding subparagraph (1), the department
+23 may consent to a child’s participation in an individualized
+24 education program.
+25 Sec. 2. Section 232.2, subsection 12, Code 2025, is amended
+26 by adding the following new paragraph:
+27 NEW PARAGRAPH. d. If a court order entered under this
+28 chapter transfers legal custody of a child to the department,
+29 the department shall have the authority to delegate the
+30 department’s rights and duties as custodian of the child to a
+31 licensee under chapter 237.
+32 Sec. 3. Section 237.10, subsection 1, Code 2025, is amended
+33 by adding the following new paragraph:
+34 NEW PARAGRAPH. d. (1) The department shall notify an
+35 individual licensee, and the parents or guardians of a child,
+HF 644.937 (1) 91
+-1- dg/ko 1/2
+1 if the department delegates the department’s right to consent
+2 to emergency medical care and routine medical care on behalf of
+3 the child under section 232.2, paragraph “c”, to the individual
+4 licensee.
+5 (2) The department shall notify the department of
+6 education, an individual licensee, and the parents or guardians
+7 of a child if the department delegates the department’s right
+8 to consent to participation in an individualized education
+9 program on behalf of the child under section 232.2, paragraph
+10 “c”, to the individual licensee.>
+______________________________
+SANDY SALMON
+HF 644.937 (1) 91
+-2- dg/ko 2/2
+[DELETED: eFe6AdHeFe6,aspdbyteH,asf1.Bysgegarteegceai<n1.Sn2,sn1,phc,C2,isadtordasf()Alrsaddsofacnslbsttoayrlrsaddsrginaporg()Ngsh(,tedtm0cttoeymlceadremlcef1acdttwlawtecdtoeecda2peinasinamrsrtotec3p.isbtisntldtemlc4aloftef5()Pec,aoknaswsc,n6igteanofav7()Nymlceigbtntl8toaple,adclyt,or9mlvtframri0()Ueofnym,igbtntl1toa2()Ngsh(,ted3mycttoacspninani4enp5S.2.Sn2,sn1,Ce2,isa6byagtefgnwp7NWP.Ifactoredurt8crtsllcyofacdtoted9tedtslheteaytodet0dsrsaddsascnoftecdto1leurcr22S.3.Sn2,sn1,Ce2,isa3byagtefgnwp4NWP.()Tedtslnya5ill,adtepsorgsofacF67()9]
+[DELETED: iftedtdstedsrttoctoeymlceadremlceonbfotecdursn2,ph,toteil()Tedtslnytedtoe,anill,adtepsorgofacdiftedtdstedsrtocttopninanidepmonbfoftecdursn2,p0,toteillYSF67()9]
+
+
+================================================================================
+
+Raw Text:
+House File 644
+S-3037
+1 Amend House File 644, as passed by the House, as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <Section 1. Section 232.2, subsection 12, paragraph c, Code
+5 2025, is amended to read as follows:
+6 c. (1) All rights and duties of a custodian shall be
+7 subject to any residual rights and duties remaining in a parent
+8 or guardian.
+9 (2) Notwithstanding subparagraph (1), the department may
+10 consent to emergency medical care and routine medical care for
+11 a child that will allow the child to experience childhood and
+12 participate in activities in a manner similar to the child’s
+13 peers. “Routine medical care” includes but is not limited to
+14 all of the following:
+15 (a) Preventative care, also known as wellness care, not
+16 including the administration of a vaccination.
+17 (b) Nonemergency medical care including but not limited
+18 to a physical examination, a diagnostic laboratory test, or a
+19 medical visit for a minor illness.
+20 (c) Use of necessary medication, including but not limited
+21 to antibiotics.
+22 (3) Notwithstanding subparagraph (1), the department
+23 may consent to a child’s participation in an individualized
+24 education program.
+25 Sec. 2. Section 232.2, subsection 12, Code 2025, is amended
+26 by adding the following new paragraph:
+27 NEW PARAGRAPH. d. If a court order entered under this
+28 chapter transfers legal custody of a child to the department,
+29 the department shall have the authority to delegate the
+30 department’s rights and duties as custodian of the child to a
+31 licensee under chapter 237.
+32 Sec. 3. Section 237.10, subsection 1, Code 2025, is amended
+33 by adding the following new paragraph:
+34 NEW PARAGRAPH. d. (1) The department shall notify an
+35 individual licensee, and the parents or guardians of a child,
+HF 644.937 (1) 91
+-1- dg/ko 1/2
+
+1 if the department delegates the department’s right to consent
+2 to emergency medical care and routine medical care on behalf of
+3 the child under section 232.2, paragraph “c”, to the individual
+4 licensee.
+5 (2) The department shall notify the department of
+6 education, an individual licensee, and the parents or guardians
+7 of a child if the department delegates the department’s right
+8 to consent to participation in an individualized education
+9 program on behalf of the child under section 232.2, paragraph
+10 “c”, to the individual licensee.>
+______________________________
+SANDY SALMON
+HF 644.937 (1) 91
+-2- dg/ko 2/2
+
+[DELETED: eFe6AdHeFe6,aspdbyteH,asf1.Bysgegarteegceai<n1.Sn2,sn1,phc,C2,isadtordasf()Alrsaddsofacnslbsttoayrlrsaddsrginaporg()Ngsh(,tedtm0cttoeymlceadremlcef1acdttwlawtecdtoeecda2peinasinamrsrtotec3p.isbtisntldtemlc4aloftef5()Pec,aoknaswsc,n6igteanofav7()Nymlceigbtntl8toaple,adclyt,or9mlvtframri0()Ueofnym,igbtntl1toa2()Ngsh(,ted3mycttoacspninani4enp5S.2.Sn2,sn1,Ce2,isa6byagtefgnwp7NWP.Ifactoredurt8crtsllcyofacdtoted9tedtslheteaytodet0dsrsaddsascnoftecdto1leurcr22S.3.Sn2,sn1,Ce2,isa3byagtefgnwp4NWP.()Tedtslnya5ill,adtepsorgsofacF67()9]
+[DELETED: iftedtdstedsrttoctoeymlceadremlceonbfotecdursn2,ph,toteil()Tedtslnytedtoe,anill,adtepsorgofacdiftedtdstedsrtocttopninanidepmonbfoftecdursn2,p0,toteillYSF67()9]

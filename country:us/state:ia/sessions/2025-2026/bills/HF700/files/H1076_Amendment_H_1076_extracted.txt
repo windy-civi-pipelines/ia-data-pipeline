@@ -1,0 +1,130 @@
+Title: 2 1. Page 1, line 5, by striking <in the dwelling unit> and
+Official Title: 2 1. Page 1, line 5, by striking <in the dwelling unit> and
+Number of Sections: 1
+Source: versions - Amendment H-1076
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 700
+H-1076
+1 Amend House File 700 as follows:
+3 inserting <once every two years for a single-family residence
+4 or individual unit of a duplex>
+5 2. Page 1, by striking line 8 and inserting <written copy of
+6 the those test results within twenty-one days of receiving such
+7 results. If a new tenant takes possession during the two-year
+8 time frame, the landlord shall notify the new tenant of the
+9 prior radon test results.>
+10 3. Page 1, line 10, after <chapter 136B> by inserting
+11 <within thirty days of receiving the radon test results from
+12 the tenant>
+13 4. Page 1, line 17, after <chapter 136B> by inserting
+14 <within sixty days of receiving the test results>
+15 5. Page 1, line 18, after <retested> by inserting
+16 <within thirty days following the completion of the system
+17 installation>
+18 6. Page 1, lines 20 and 21, by striking <from the day the
+19 tenant provided notification of elevated radon levels to the
+20 landlord>
+21 7. Page 1, line 22, by striking <ninety-day> and inserting
+22 <sixty-day>
+23 8. Page 1, line 28, after <lease> by inserting <in writing>
+24 9. Page 1, line 29, after <deposit> by inserting <, provided
+25 there is no demonstrable damage to the dwelling unit,>
+26 10. Page 1, line 31, after <lease> by inserting <and the
+27 date the termination shall be effective>
+28 11. Page 1, after line 34 by inserting:
+29 <d. For properties with more than two dwelling units, the
+30 landlord shall have a radon test conducted on the property at
+31 least once every two years and shall provide the tenants a
+32 written copy of those test results. If the results of the test
+33 show a radon level equal to or greater than four picocuries
+34 per liter, the landlord may have a confirmatory radon test
+35 conducted by a person certified in accordance with chapter
+HF 700.798 (2) 91
+-1- ll/js 1/2
+1 136B within thirty days of receiving the initial radon test
+2 result. If the confirmatory test result is equal to or greater
+3 than four picocuries per liter, or if the landlord chooses
+4 not to have a confirmatory test conducted, the landlord shall
+5 have a radon mitigation system installed in the building by a
+6 person certified in accordance with chapter 136B within sixty
+7 days of receiving the test results. Once a radon mitigation
+8 system has been installed, the landlord shall have the building
+9 retested within thirty days following the completion of the
+10 system installation and the landlord shall provide the tenant a
+11 written copy of those new test results within ninety days.>
+12 12. Page 1, line 35, by striking <d.> and inserting <e.>
+______________________________
+WILZ of Wapello
+HF 700.798 (2) 91
+-2- ll/js 2/2
+[DELETED: eFe7AdHeFe70asf1.Pe1,le5,bysg<ntedgu>aig<eeytoysfrasyrorilutofad2.Pe1,bysgle8adig<ncyotetettrswntedsofrgsr.Ifanwtttspndgtettef,teldslnytenwttoftprrnttr03.Pe1,le1,ar<r1>byi1<ntydsofrgternttrsf2tet34.Pe1,le1,ar<r1>byi4<nsydsofrgtettr55.Pe1,le1,ar<>byi6<ntydsfgtecnoftes7i86.Pe1,ls20ad2,bysg<mtedyt9ttpdnnofedrnlstot0l17.Pe1,le2,bysg<>adi2<38.Pe1,le2,ar<>byig<nw49.Pe1,le2,ar<>byig<,p5teisnodedetotedgu61.Pe1,le3,ar<>byig<dt7detetnslbee81.Pe1,arle34byi9<Frpswhmetntodgu,t0ldslhearnttcdontepya1ltoeeytoysadslpetets2wncyoftettr.Iftersoftet3swarnlleltoorgrtnfrp4prl,teldmyheacyrnt5cdbyapncdinaewhcF78()9]
+[DELETED: 1Bwntydsofrgteilrntr.Iftecyttrtiseltoorgtnfrpsprl,orifteldcnttoheacyttc,teldshearnmnsmidintebgbypncdinaewhcr1Bwnsdsofrgtettr.Oearnmsmhsbni,teldslhetebrdwntydsfgtecnoft0sminadteldslpetett1wncyoftenwttrswnnyd21.Pe1,le3,bysg<>adig<.eZofWF78()9]
+
+
+================================================================================
+
+Raw Text:
+House File 700
+H-1076
+1 Amend House File 700 as follows:
+2 1. Page 1, line 5, by striking <in the dwelling unit> and
+3 inserting <once every two years for a single-family residence
+4 or individual unit of a duplex>
+5 2. Page 1, by striking line 8 and inserting <written copy of
+6 the those test results within twenty-one days of receiving such
+7 results. If a new tenant takes possession during the two-year
+8 time frame, the landlord shall notify the new tenant of the
+9 prior radon test results.>
+10 3. Page 1, line 10, after <chapter 136B> by inserting
+11 <within thirty days of receiving the radon test results from
+12 the tenant>
+13 4. Page 1, line 17, after <chapter 136B> by inserting
+14 <within sixty days of receiving the test results>
+15 5. Page 1, line 18, after <retested> by inserting
+16 <within thirty days following the completion of the system
+17 installation>
+18 6. Page 1, lines 20 and 21, by striking <from the day the
+19 tenant provided notification of elevated radon levels to the
+20 landlord>
+21 7. Page 1, line 22, by striking <ninety-day> and inserting
+22 <sixty-day>
+23 8. Page 1, line 28, after <lease> by inserting <in writing>
+24 9. Page 1, line 29, after <deposit> by inserting <, provided
+25 there is no demonstrable damage to the dwelling unit,>
+26 10. Page 1, line 31, after <lease> by inserting <and the
+27 date the termination shall be effective>
+28 11. Page 1, after line 34 by inserting:
+29 <d. For properties with more than two dwelling units, the
+30 landlord shall have a radon test conducted on the property at
+31 least once every two years and shall provide the tenants a
+32 written copy of those test results. If the results of the test
+33 show a radon level equal to or greater than four picocuries
+34 per liter, the landlord may have a confirmatory radon test
+35 conducted by a person certified in accordance with chapter
+HF 700.798 (2) 91
+-1- ll/js 1/2
+
+1 136B within thirty days of receiving the initial radon test
+2 result. If the confirmatory test result is equal to or greater
+3 than four picocuries per liter, or if the landlord chooses
+4 not to have a confirmatory test conducted, the landlord shall
+5 have a radon mitigation system installed in the building by a
+6 person certified in accordance with chapter 136B within sixty
+7 days of receiving the test results. Once a radon mitigation
+8 system has been installed, the landlord shall have the building
+9 retested within thirty days following the completion of the
+10 system installation and the landlord shall provide the tenant a
+11 written copy of those new test results within ninety days.>
+12 12. Page 1, line 35, by striking <d.> and inserting <e.>
+______________________________
+WILZ of Wapello
+HF 700.798 (2) 91
+-2- ll/js 2/2
+
+[DELETED: eFe7AdHeFe70asf1.Pe1,le5,bysg<ntedgu>aig<eeytoysfrasyrorilutofad2.Pe1,bysgle8adig<ncyotetettrswntedsofrgsr.Ifanwtttspndgtettef,teldslnytenwttoftprrnttr03.Pe1,le1,ar<r1>byi1<ntydsofrgternttrsf2tet34.Pe1,le1,ar<r1>byi4<nsydsofrgtettr55.Pe1,le1,ar<>byi6<ntydsfgtecnoftes7i86.Pe1,ls20ad2,bysg<mtedyt9ttpdnnofedrnlstot0l17.Pe1,le2,bysg<>adi2<38.Pe1,le2,ar<>byig<nw49.Pe1,le2,ar<>byig<,p5teisnodedetotedgu61.Pe1,le3,ar<>byig<dt7detetnslbee81.Pe1,arle34byi9<Frpswhmetntodgu,t0ldslhearnttcdontepya1ltoeeytoysadslpetets2wncyoftettr.Iftersoftet3swarnlleltoorgrtnfrp4prl,teldmyheacyrnt5cdbyapncdinaewhcF78()9]
+[DELETED: 1Bwntydsofrgteilrntr.Iftecyttrtiseltoorgtnfrpsprl,orifteldcnttoheacyttc,teldshearnmnsmidintebgbypncdinaewhcr1Bwnsdsofrgtettr.Oearnmsmhsbni,teldslhetebrdwntydsfgtecnoft0sminadteldslpetett1wncyoftenwttrswnnyd21.Pe1,le3,bysg<>adig<.eZofWF78()9]

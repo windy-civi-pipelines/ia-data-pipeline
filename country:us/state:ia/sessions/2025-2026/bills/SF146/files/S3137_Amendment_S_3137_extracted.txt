@@ -1,0 +1,65 @@
+Title: 1 Amend Senate File 146, as amended, passed, and reprinted by
+Official Title: 1 Amend Senate File 146, as amended, passed, and reprinted by
+Number of Sections: 1
+Source: versions - Amendment S-3137
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Amendment to
+Senate File 146
+S-3137
+2 the Senate, as follows:
+3 1. Page 2, by striking lines 5 through 7 and inserting:
+4 <1. Upon the attorney general’s request, a ticket seller
+5 shall report violations of this chapter of which the ticket
+6 seller has actual knowledge to the attorney general within five
+7 calendar days of the request.>
+8 2. Page 2, line 8, after <has> by inserting <actual>
+9 3. Page 2, by striking lines 14 through 27 and inserting:
+10 <A violation of section 554I.2 is an unfair practice under
+11 section 714.16 and under chapter 714H.
+12 Sec. ___. Section 714.16, subsection 2, Code 2025, is
+13 amended by adding the following new paragraph:
+14 NEW PARAGRAPH. r. It is an unlawful practice for a person
+15 to violate section 554I.2.
+16 Sec. ___. Section 714H.3, subsection 2, Code 2025, is
+17 amended by adding the following new paragraph:
+18 NEW PARAGRAPH. 0e. Section 554I.2.>
+19 4. By renumbering as necessary.
+SF 146.1725.H (1) 91
+-1- md 1/1
+[DELETED: eAtteFe1AdSeFe1,asa,p,adrdbteS,asf1.Pe2,bysgls5th7adi<.Unteaygsr,attsslrtvsoftscrofwhtetsrhsalketoteayglwnfcrdsofter2.Pe2,le8,ar<>byig<3.Pe2,bysgls14th27adi0<Avnofsn52isanurpeu1sn76adurcr72S._.Sn7,sn2,Ce2,i3adbyagtefgnwp4NWP.Itisanulpefrap5tovesn56S._.Sn7,sn2,Ce2,i7adbyagtefgnwp8NWP.Sn594.ByrgasnF1H()9]
+
+
+================================================================================
+
+Raw Text:
+House Amendment to
+Senate File 146
+S-3137
+1 Amend Senate File 146, as amended, passed, and reprinted by
+2 the Senate, as follows:
+3 1. Page 2, by striking lines 5 through 7 and inserting:
+4 <1. Upon the attorney general’s request, a ticket seller
+5 shall report violations of this chapter of which the ticket
+6 seller has actual knowledge to the attorney general within five
+7 calendar days of the request.>
+8 2. Page 2, line 8, after <has> by inserting <actual>
+9 3. Page 2, by striking lines 14 through 27 and inserting:
+10 <A violation of section 554I.2 is an unfair practice under
+11 section 714.16 and under chapter 714H.
+12 Sec. ___. Section 714.16, subsection 2, Code 2025, is
+13 amended by adding the following new paragraph:
+14 NEW PARAGRAPH. r. It is an unlawful practice for a person
+15 to violate section 554I.2.
+16 Sec. ___. Section 714H.3, subsection 2, Code 2025, is
+17 amended by adding the following new paragraph:
+18 NEW PARAGRAPH. 0e. Section 554I.2.>
+19 4. By renumbering as necessary.
+SF 146.1725.H (1) 91
+-1- md 1/1
+
+[DELETED: eAtteFe1AdSeFe1,asa,p,adrdbteS,asf1.Pe2,bysgls5th7adi<.Unteaygsr,attsslrtvsoftscrofwhtetsrhsalketoteayglwnfcrdsofter2.Pe2,le8,ar<>byig<3.Pe2,bysgls14th27adi0<Avnofsn52isanurpeu1sn76adurcr72S._.Sn7,sn2,Ce2,i3adbyagtefgnwp4NWP.Itisanulpefrap5tovesn56S._.Sn7,sn2,Ce2,i7adbyagtefgnwp8NWP.Sn594.ByrgasnF1H()9]

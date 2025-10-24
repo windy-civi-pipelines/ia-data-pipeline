@@ -1,0 +1,43 @@
+Title: 2 1. Page 1, line 11, after <branches> by inserting <, and has
+Official Title: 2 1. Page 1, line 11, after <branches> by inserting <, and has
+Number of Sections: 1
+Source: versions - Amendment H-1151
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 901
+H-1151
+1 Amend House File 901 as follows:
+3 primarily served in a law enforcement capacity>
+4 2. Page 1, line 24, after <standards> by inserting <within
+5 three years of applying for a lateral transfer>
+6 3. Page 2, line 12, by striking <a one-week> and inserting
+7 <an>
+______________________________
+GEARHART of Clayton
+HF 901.818 (1) 91
+-1- as/js 1/1
+[DELETED: eFe9AdHeFe91asf1.Pe1,le1,ar<>byig<,adhpysdinalwetc2.Pe1,le2,ar<>byig<teysofagfrallt3.Pe2,le1,bysg<ao>adi<TofCF98()9]
+
+
+================================================================================
+
+Raw Text:
+House File 901
+H-1151
+1 Amend House File 901 as follows:
+2 1. Page 1, line 11, after <branches> by inserting <, and has
+3 primarily served in a law enforcement capacity>
+4 2. Page 1, line 24, after <standards> by inserting <within
+5 three years of applying for a lateral transfer>
+6 3. Page 2, line 12, by striking <a one-week> and inserting
+7 <an>
+______________________________
+GEARHART of Clayton
+HF 901.818 (1) 91
+-1- as/js 1/1
+
+[DELETED: eFe9AdHeFe91asf1.Pe1,le1,ar<>byig<,adhpysdinalwetc2.Pe1,le2,ar<>byig<teysofagfrallt3.Pe2,le1,bysg<ao>adi<TofCF98()9]

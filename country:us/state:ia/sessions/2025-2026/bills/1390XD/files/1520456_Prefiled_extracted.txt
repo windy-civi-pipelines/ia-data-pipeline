@@ -1,0 +1,2073 @@
+Title: REVENUE BILL)
+Official Title: REVENUE BILL)
+Number of Sections: 1
+Source: versions - Prefiled
+Media Type: application/pdf
+Strikethrough Detection: 27 sections found
+
+================================================================================
+
+Section 1:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+A BILL FOR
+1 An Act relating to the administration of the tax by the
+2 department of revenue by modifying provisions related to
+3 personal income, property, sales and use, motor fuel, and
+4 inheritance taxes, changing tax expenditure reviews, and
+5 including effective date and retroactive applicability
+6 provisions.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1390XD (7) 91
+jm/jh
+S.F. _____ H.F. _____
+1 DIVISION I
+2 DISCLOSURE OF TAX INFORMATION
+3 Section 1. Section 421.19, subsection 2, Code 2025, is
+4 amended by striking the subsection and inserting in lieu
+5 thereof the following:
+6 2. The department may notify federal, state, or local
+7 law enforcement agencies, and may disclose state returns,
+8 state return information, state investigative information or
+9 audit information, or any other state information, to such law
+10 enforcement agencies, if the department has information that
+11 indicates any of the following:
+12 a. A person intentionally filed a false claim, affidavit,
+13 return, or other information with intent to evade tax or obtain
+14 a refund, credit, or other benefit from the department.
+15 b. A person failed to file a return with intent to evade a
+16 tax or filing requirement.
+17 c. A person failed to pay with the intent to evade tax.
+18 d. A person committed any act or omission that is a criminal
+19 offense under a provision of this title administered by the
+20 department.
+21 Sec. 2. Section 421.19, subsection 3, Code 2025, is amended
+22 to read as follows:
+23 3. Notwithstanding sections 422.20 and 422.72, the
+24 department may disclose state returns, state return
+25 information, state investigative or audit information, or any
+26 other state information as provided under this section.
+27 Sec. 3. Section 422.20, subsection 3, paragraph a, Code
+28 2025, is amended to read as follows:
+29 a. Unless otherwise expressly permitted by section 8G.4,
+30 section 11.41, section 96.11, subsection 6, section 421.17,
+31 subsections 22, 23, and 26, section 421.17, subsection 27,
+32 paragraph “k”, section 421.17, subsection 31, section 252B.9,
+33 section 321.40, subsection 6, sections 321.120, 421.19, 421.28,
+34 421.59, 421.65, 422.72, and 452A.63, and 556.19, subsection 2,
+35 this section, or another provision of law, a tax return, return
+LSB 1390XD (7) 91
+-1- jm/jh 1/26
+S.F. _____ H.F. _____
+1 information, or investigative or audit information shall not
+2 be divulged to any person or entity, other than the taxpayer,
+3 the department, or internal revenue service for use in a matter
+4 unrelated to tax administration.
+5 Sec. 4. Section 422.72, subsection 3, paragraph a, Code
+6 2025, is amended to read as follows:
+7 a. Unless otherwise expressly permitted by section 8G.4,
+8 section 11.41, section 96.11, subsection 6, section 421.17,
+9 subsections 22, 23, and 26, section 421.17, subsection 27,
+10 paragraph “k”, section 421.17, subsection 31, section 252B.9,
+11 section 321.40, subsection 6, sections 321.120, 421.19, 421.28,
+12 421.65, 422.20, and 452A.63, and section 556.19, subsection 2,
+13 this section, or another provision of law, a tax return, return
+14 information, or investigative or audit information shall not
+15 be divulged to any person or entity, other than the taxpayer,
+16 the department, or internal revenue service for use in a matter
+17 unrelated to tax administration.
+18 Sec. 5. EFFECTIVE DATE. This division of this Act, being
+19 deemed of immediate importance, takes effect upon enactment.
+20 DIVISION II
+21 ANNUAL REPORTING
+22 Sec. 6. Section 421.60, subsection 2, paragraph k, Code
+23 2025, is amended by striking the paragraph.
+24 Sec. 7. Section 422.75, Code 2025, is amended to read as
+25 follows:
+26 422.75 Statistics —— publication.
+27 The department shall prepare and publish an annual report
+28 which shall include statistics reasonably available, with
+29 respect to the operation of this chapter, including amounts
+30 collected, classification of taxpayers, and such other facts
+31 as are deemed pertinent and valuable. The annual report shall
+32 also include the reports and information required pursuant to
+33 section 421.60, subsection 2, paragraph “k”.
+34 DIVISION III
+35 PROPERTY TAX —— CHANGES
+LSB 1390XD (7) 91
+-2- jm/jh 2/26
+S.F. _____ H.F. _____
+1 Sec. 8. Section 425.20, subsection 3, Code 2025, is amended
+2 to read as follows:
+3 3. In case of sickness, absence, or other disability of
+4 the claimant or if, in the judgment of the director of revenue
+5 or the director of health and human services, as applicable,
+6 good cause exists and the claimant requests an extension, the
+7 director of health and human services may extend the time for
+8 filing a claim for reimbursement and the director of revenue
+9 may extend the time for filing a claim for credit. However,
+10 any further time granted shall not extend beyond December 31
+11 of the year following the year in which the claim was required
+12 to be filed. Claims filed as a result of this subsection shall
+13 be filed with the director of health and human services or the
+14 director of revenue, as applicable, who shall provide for the
+15 reimbursement of the claim to the claimant.
+16 Sec. 9. Section 445.60, Code 2025, is amended to read as
+17 follows:
+18 445.60 Refunding erroneous tax.
+19 The board of supervisors shall direct the county treasurer
+20 to refund to the taxpayer any tax or portion of a tax found to
+21 have been erroneously or illegally paid, with all interest,
+22 fees, and costs actually paid. A refund shall not be ordered
+23 or made unless a claim for refund is presented to the board
+24 within two years of the date the tax was due, or if appealed
+25 to the board of review, the property assessment appeal board,
+26 director of revenue, or district court, within two years of the
+27 final decision.
+28 Sec. 10. EFFECTIVE DATE. The following, being deemed of
+29 immediate importance, takes effect upon enactment:
+30 The section of this division of this Act amending section
+31 445.60.
+32 DIVISION IV
+33 FARM TENANCY INCOME TAX EXCLUSION
+34 Sec. 11. Section 422.7, subsection 14, paragraph a, Code
+35 2025, is amended to read as follows:
+LSB 1390XD (7) 91
+-3- jm/jh 3/26
+S.F. _____ H.F. _____
+1 a. Subtract, to the extent included, net income received
+2 by an eligible individual pursuant to a farm tenancy agreement
+3 covering real property held by the eligible individual for
+4 ten or more years, if the eligible individual materially
+5 participated in a farming business for ten or more years in the
+6 aggregate.
+7 Sec. 12. Section 422.7, subsection 14, paragraph f, Code
+8 2025, is amended by adding the following new subparagraph:
+9 NEW SUBPARAGRAPH. (04) “Held” shall be determined with
+10 reference to the holding period provisions of section 1223 of
+11 the Internal Revenue Code and the federal regulations pursuant
+12 thereto.
+13 DIVISION V
+14 PASS-THROUGH ENTITIES
+15 Sec. 13. Section 422.25C, subsection 2, Code 2025, is
+16 amended to read as follows:
+17 2. For tax years beginning on or after January 1, 2020, any
+18 adjustments to a partnership’s or pass-through entity’s items
+19 of income, gain, loss, expense, or credit, or an adjustment to
+20 such items allocated to a partner that holds an interest in a
+21 partnership or pass-through entity for the reviewed year by
+22 the department as a result of a state partnership audit, shall
+23 be determined at the partnership level or pass-through entity
+24 level in the same manner as provided by section 6221(a) of the
+25 Internal Revenue Code and the regulations thereunder unless a
+26 different treatment is specifically provided in this title.
+27 The provisions of sections 6222, 6223, and 6227 of the Internal
+28 Revenue Code and the regulations thereunder shall also apply to
+29 a partnership or pass-through entity and its direct or indirect
+30 partners in the same manner as provided in such sections unless
+31 a different treatment is specifically provided in this title.
+32 For purposes of applying such sections, due account shall be
+33 made for differences in federal and Iowa terminology. The
+34 adjustment provided by section 6221(a) of the Internal Revenue
+35 Code shall be determined as provided in such section but shall
+LSB 1390XD (7) 91
+-4- jm/jh 4/26
+S.F. _____ H.F. _____
+1 be based on Iowa taxable income or other tax attributes of
+2 the partnership or pass-through entity as determined pursuant
+3 to this chapter for the reviewed year. The department shall
+4 issue a notice of adjustment to the partnership or pass-through
+5 entity. Such notice shall be treated as an assessment for the
+6 purposes of section 422.25, and the notice shall be appealable,
+7 except as provided in section 422.25, by the partnership or
+8 pass-through entity pursuant to sections 422.28 and 422.29 and
+9 shall be issued within the time period provided by section
+10 422.25. Once the adjustments to partnership-related or
+11 pass-through entity-related items or reallocations of income,
+12 gains, losses, expenses, credits, and other attributes among
+13 such partners for the reviewed year are finally determined,
+14 the partnership or pass-through entity and any direct partners
+15 or indirect partners shall then be subject to the provisions
+16 of section 422.25, subsection 1, paragraph “e”, and section
+17 422.25A in the same manner as if the state partnership audit
+18 were a federal partnership level audit, and as if the final
+19 state partnership audit adjustment were a final federal
+20 partnership adjustment. The penalty exceptions in section
+21 421.27, subsection 2, paragraphs “b” and “c”, shall not apply
+22 to a state partnership audit.
+23 Sec. 14. EFFECTIVE DATE. This division of this Act, being
+24 deemed of immediate importance, takes effect upon enactment.
+25 Sec. 15. RETROACTIVE APPLICABILITY. This division of this
+26 Act applies retroactively to January 1, 2024.
+27 DIVISION VI
+28 SALES TAX CHANGES
+29 Sec. 16. Section 423.2, subsection 1, paragraph b, Code
+30 2025, is amended to read as follows:
+31 b. (1) Sales of building materials, supplies, and equipment
+32 to owners, contractors, subcontractors, or builders for the
+33 erection of buildings or the alteration, repair, or improvement
+34 of real property are retail sales of tangible personal property
+35 in whatever quantity sold. Where the owner, contractor,
+LSB 1390XD (7) 91
+-5- jm/jh 5/26
+S.F. _____ H.F. _____
+1 subcontractor, or builder is also a retailer holding a sales
+2 or use tax permit and transacting retail sales of building
+3 materials, supplies, and equipment, the person shall purchase
+4 such items of tangible personal property without liability for
+5 the tax if such property will be subject to the tax at the
+6 time of resale or at the time it is withdrawn from inventory
+7 for construction purposes. The sales tax shall be due in the
+8 reporting period when the materials, supplies, and equipment
+9 are withdrawn from inventory for construction purposes or
+10 when sold at retail. The tax shall not be due when materials
+11 are withdrawn from inventory for use in construction outside
+12 of Iowa and the tax shall not apply to tangible personal
+13 property purchased and consumed by the manufacturer as building
+14 materials in the performance by the manufacturer or its
+15 subcontractor of construction outside of Iowa. The sale of
+16 carpeting is not a sale of building materials. The sale of
+17 carpeting to owners, contractors, subcontractors, or builders
+18 shall be treated as the sale of ordinary tangible personal
+19 property and subject to the tax imposed under this subsection
+20 and the use tax Sales of building materials and supplies to
+21 contractors, subcontractors, or builders for the erection of
+22 buildings and other structures or for the reconstruction,
+23 alteration, expansion, or remodeling of buildings and other
+24 structures are retail sales of tangible personal property.
+25 Sales of building materials and supplies to contractors,
+26 subcontractors, or builders for use in repairs to or for
+27 installation in existing buildings and other structures
+28 are purchases for resale. Sales of building equipment to
+29 contractors, subcontractors, or builders are retails sales of
+30 tangible personal property.
+31 (2) Where the owner, contractor, subcontractor, or builder
+32 is also a retailer holding a sales and use tax permit and
+33 transacting retail sales of building materials, supplies, and
+34 equipment, the person shall purchase such items of tangible
+35 personal property without liability for the tax if such
+LSB 1390XD (7) 91
+-6- jm/jh 6/26
+S.F. _____ H.F. _____
+1 property will be subject to sales tax at the time of resale
+2 or subject to use tax at the time the retailer withdraws
+3 such property from inventory for use by the retailer in
+4 erecting buildings and other structures or for reconstruction,
+5 alteration, expansion, or remodeling of buildings and other
+6 structures. The tax shall be due in the reporting period
+7 when the materials, supplies, or equipment are withdrawn from
+8 inventory or when sold at retail. The tax shall not be due when
+9 materials and supplies are withdrawn from inventory for use in
+10 construction outside of Iowa.
+11 (3) The sale of carpeting is not a sale of building
+12 materials. Sales of carpeting to owners, contractors,
+13 subcontractors, or builders are retail sales of tangible
+14 personal property and subject to tax.
+15 Sec. 17. Section 423.36, subsection 9, paragraph a, Code
+16 2025, is amended to read as follows:
+17 a. Except as provided in paragraph “b”, purchasers, users,
+18 and consumers of tangible personal property, specified digital
+19 products, or enumerated services taxed pursuant to subchapter
+20 II or III of this chapter or chapter 423B may be authorized,
+21 pursuant to rules adopted by the director, to remit tax owed
+22 directly to the department instead of the tax being collected
+23 and paid by the seller. To qualify for a direct pay tax permit,
+24 the purchaser, user, or consumer must accrue a tax liability of
+25 more than four eight thousand dollars in tax under subchapters
+26 II and III in a semimonthly monthly period and make deposits
+27 and file returns pursuant to section 423.31. This authority
+28 shall not be granted or exercised except upon application to
+29 the director and then only after issuance by the director of a
+30 direct pay tax permit.
+31 DIVISION VII
+32 MOTOR FUEL TAXES
+33 Sec. 18. Section 452A.3, subsection 1, paragraph b,
+34 unnumbered paragraph 1, Code 2025, is amended to read as
+35 follows:
+LSB 1390XD (7) 91
+-7- jm/jh 7/26
+S.F. _____ H.F. _____
+1 On and after July 1, 2030, an excise tax of thirty cents is
+2 imposed on each gallon of ethanol blended gasoline classified
+3 as E-15 or higher. Before July 1, 2030, the rate of the excise
+4 tax on ethanol blended gasoline classified as E-15 or higher
+5 shall be based on the number of gallons of ethanol blended
+6 gasoline classified as E-15 or higher that are distributed
+7 in this state as expressed as a percentage of the number of
+8 gallons of motor fuel distributed in this state, which is
+9 referred to as the distribution percentage. For purposes
+10 of this paragraph “b”, only ethanol blended gasoline and
+11 nonblended gasoline, not including aviation gasoline, shall be
+12 used in determining the percentage basis for the excise tax.
+13 The department shall determine the percentage basis for each
+14 determination period beginning January 1 and ending December 31
+15 based on information from reports submitted to the department
+16 for filing pursuant to section 452A.33. Before June 1, the
+17 department may amend the distribution percentage due to a
+18 mistake, if there is a late report filed by a retail dealer
+19 to the department under section 452A.33, subsection 1, or if
+20 the distribution percentage is not accurate. The rate for the
+21 excise tax shall apply for the period beginning July 1 and
+22 ending June 30 following the end of the determination period.
+23 Before July 1, 2030, the rate of the excise tax on each gallon
+24 of ethanol blended gasoline classified as E-15 or higher shall
+25 be as follows:
+26 Sec. 19. Section 452A.3, subsection 3, paragraph a,
+27 subparagraph (2), unnumbered paragraph 1, Code 2025, is amended
+28 to read as follows:
+29 Except as otherwise provided in this section and in this
+30 subchapter, this subparagraph shall apply to the excise tax
+31 imposed on each gallon of biodiesel blended fuel classified
+32 as B-20 or higher used for any purpose for the privilege of
+33 operating motor vehicles in this state. On and after July 1,
+34 2030, the rate of the excise tax on each gallon of biodiesel
+35 blended fuel classified as B-20 or higher is thirty-two and
+LSB 1390XD (7) 91
+-8- jm/jh 8/26
+S.F. _____ H.F. _____
+1 five-tenths cents. Before July 1, 2030, the rate of the excise
+2 tax on each gallon of biodiesel blended fuel classified as
+3 B-20 or higher shall be based on the number of gallons of
+4 biodiesel blended fuel classified as B-20 or higher that are
+5 distributed in this state as expressed as a percentage of the
+6 number of gallons of special fuel for diesel engines of motor
+7 vehicles distributed in this state, which is referred to as
+8 the distribution percentage. The department shall determine
+9 the percentage basis for each determination period beginning
+10 January 1 and ending December 31 based on information from
+11 reports submitted to the department for filing pursuant to
+12 section 452A.33. Before June 1, the department may amend the
+13 distribution percentage due to a mistake, if there is a late
+14 report filed by a retail dealer to the department under section
+15 452A.33, subsection 1, or if the distribution percentage is
+16 not accurate. The rate of the excise tax shall apply for the
+17 period beginning July 1 and ending June 30 following the end of
+18 the determination period. Before July 1, 2030, the rate of the
+19 excise tax on each gallon of biodiesel blended fuel classified
+20 as B-20 or higher shall be as follows:
+21 Sec. 20. Section 452A.15, subsection 5, Code 2025, is
+22 amended to read as follows:
+23 5. The director may impose a civil penalty against any
+24 person who fails to timely file the reports or keep the records
+25 required under this section. The penalty shall be one hundred
+26 dollars for the first violation and shall increase by one
+27 hundred dollars for each additional violation occurring in the
+28 calendar year in which the first violation occurred.
+29 Sec. 21. Section 452A.33, subsection 2, unnumbered
+30 paragraph 1, Code 2025, is amended to read as follows:
+31 On or before April 1 the department shall deliver a report
+32 to the governor and the legislative services agency. Before
+33 June 1, the department may amend the report due to a mistake,
+34 if there is a late report by a retail dealer under subsection
+35 1, or if the report is not accurate. The report shall compile
+LSB 1390XD (7) 91
+-9- jm/jh 9/26
+S.F. _____ H.F. _____
+1 information reported by retail dealers to the department as
+2 provided in this section and shall at least include all of the
+3 following:
+4 Sec. 22. Section 452A.41, subsection 5, paragraph a, Code
+5 2025, is amended to read as follows:
+6 a. For the purpose of determining the amount of liability
+7 for the electric fuel tax, each dealer and user shall file with
+8 the department not later than July 31 for the period beginning
+9 January 1 and ending June 30, and not later than January 30
+10 31 for the period beginning July 1 and ending December 30 31,
+11 a biannual tax return certified under penalties for false
+12 certification. The return shall show, with reference to each
+13 location at which fuel is delivered or placed by the dealer or
+14 user into the battery or other energy storage device of any
+15 electric motor vehicle during the next preceding six calendar
+16 months, information as required by the department. On and
+17 after January 1, 2026, the department may require by rule that
+18 such tax returns be filed quarterly.
+19 Sec. 23. Section 452A.44, Code 2025, is amended by adding
+20 the following new subsection:
+21 NEW SUBSECTION. 4. If electric fuel is sold or dispensed
+22 for a nontaxable purpose, the purchaser may complete and
+23 provide an exemption certificate produced by the department to
+24 the license holder.
+25 DIVISION VIII
+26 INHERITANCE TAX —— FUTURE CODE CHANGES DUE TO REPEAL
+27 Sec. 24. Section 12D.9, subsection 3, Code 2025, is amended
+28 to read as follows:
+29 3. State For a death occurring before January 1, 2025, state
+30 inheritance tax treatment of interests in Iowa educational
+31 savings plans shall be as provided in section 450.4, subsection
+32 8. This subsection shall apply to all Iowa educational savings
+33 plans existing on or after July 1, 1998.
+34 Sec. 25. Section 12I.8, subsection 3, Code 2025, is amended
+35 to read as follows:
+LSB 1390XD (7) 91
+-10- jm/jh 10/26
+S.F. _____ H.F. _____
+1 3. State For a death occurring before January 1, 2025, state
+2 inheritance tax treatment of interests in Iowa ABLE savings
+3 plans shall be as provided in section 450.4, subsection 9.
+4 Sec. 26. Section 12I.10, subsection 3, Code 2025, is amended
+5 to read as follows:
+6 3. State For a death occurring before January 1, 2025, state
+7 inheritance tax treatment of interests in the qualified ABLE
+8 program with which the state has contracted pursuant to this
+9 section shall be as provided in section 450.4, subsection 9.
+10 Sec. 27. Section 16.177, subsection 8, Code 2025, is amended
+11 to read as follows:
+12 8. Bonds issued under this section are declared to be issued
+13 for an essential public and governmental purpose and all bonds
+14 issued under this section shall be exempt from taxation by the
+15 state of Iowa and the interest on the bonds shall be exempt
+16 from the state income tax and the any state inheritance tax.
+17 Sec. 28. Section 321.47, subsection 2, paragraph a, Code
+18 2025, is amended to read as follows:
+19 a. The persons entitled under the laws of descent and
+20 distribution to the possession and ownership of a vehicle owned
+21 in whole or in part by a decedent who died intestate, upon
+22 filing an affidavit stating the name and date of death of the
+23 decedent, the right to possession and ownership of the persons
+24 filing the affidavit, and that there has been no administration
+25 of the decedent’s estate, which instrument must also contain
+26 an agreement by the affiant to indemnify creditors of the
+27 decedent who would be entitled to levy execution upon the motor
+28 vehicle to the extent of the value of the motor vehicle, shall,
+29 upon complying with the other title transfer requirements of
+30 this chapter, be issued a registration card for the decedent’s
+31 interest in the vehicle and a certificate of title to the
+32 vehicle. If a decedent died testate, and either the will is
+33 not probated or is admitted to probate without administration,
+34 the persons entitled to the possession and ownership of
+35 a vehicle owned in whole or in part by the decedent may
+LSB 1390XD (7) 91
+-11- jm/jh 11/26
+S.F. _____ H.F. _____
+1 file an affidavit and, upon complying with the other title
+2 transfer requirements of this chapter, shall be issued a
+3 registration card for the decedent’s interest in the vehicle
+4 and a certificate of title to the vehicle. The affidavit
+5 must contain the same information and indemnity agreement
+6 as is required in cases of intestacy under this subsection.
+7 Chapter 450 is not For a death occurring before January 1,
+8 2025, a requirement of chapter 450 shall not be considered
+9 satisfied by the filing of the affidavit provided for in this
+10 subsection. If, from the records in the office of the county
+11 treasurer, there appear to be any liens on the vehicle, the
+12 certificate of title must contain a statement of the liens
+13 unless the application is accompanied by proper evidence of
+14 the satisfaction or extinction of such liens. Evidence of
+15 extinction includes but is not limited to an affidavit of the
+16 applicant stating that a security interest was foreclosed as
+17 provided in chapter 554, article 9, part 6. The department
+18 shall waive the certificate of title fee and surcharge required
+19 under sections 321.20, 321.20A, 321.23, 321.46, 321.52, and
+20 321.52A if the person entitled to possession and ownership of
+21 a vehicle, as provided in this subsection, is the surviving
+22 spouse of a decedent.
+23 Sec. 29. Section 331.602, subsection 23, Code 2025, is
+24 amended to read as follows:
+25 23. Forward For deaths occurring before January 1, 2025,
+26 forward to the director of revenue a copy of any deed, bill of
+27 sale, or other transfer which shows that it is made or intended
+28 to take effect at or after the death of the person executing
+29 the instrument as provided in section 450.81.
+30 Sec. 30. Section 331.756, subsection 57, Code 2025, is
+31 amended to read as follows:
+32 57. Represent For deaths occurring before January 1, 2025,
+33 represent the state in litigation relating to the inheritance
+34 tax if requested by the department of revenue as provided in
+35 section 450.1.
+LSB 1390XD (7) 91
+-12- jm/jh 12/26
+S.F. _____ H.F. _____
+1 Sec. 31. Section 421.27, subsection 1, paragraph d,
+2 subparagraph (13), Code 2025, is amended to read as follows:
+3 (13) That For a death occurring before January 1, 2025,
+4 that an Iowa inheritance tax return is filed for an estate
+5 within the later of nine months from the date of death or sixty
+6 days from the filing of a disclaimer by the beneficiary of the
+7 estate refusing to take the property or right or interest in
+8 the property.
+9 Sec. 32. Section 421.60, subsection 2, paragraph c,
+10 subparagraph (1), Code 2025, is amended to read as follows:
+11 (1) If the notice of assessment or denial of a claim for
+12 refund relates to a tax return filed pursuant to section
+13 422.14, or pursuant to chapter 450 for a death occurring before
+14 January 1, 2025, by the taxpayer which designates an individual
+15 as an authorized representative of the taxpayer with respect to
+16 that return, or if a power of attorney has been filed with the
+17 department by the taxpayer which designates an individual as
+18 an authorized representative of the taxpayer with respect to
+19 any tax that is included in the notice of assessment or denial
+20 of a claim for refund, a copy of the notice together with any
+21 additional information required to be sent to the taxpayer
+22 shall be sent to the authorized representative as well.
+23 Sec. 33. Section 422.27, subsection 1, Code 2025, is amended
+24 to read as follows:
+25 1. A final account of a personal representative, as defined
+26 in section 450.1, shall not be allowed by any court unless the
+27 account shows, and the judge of the court finds, that all taxes
+28 imposed by this subchapter upon the personal representative,
+29 which have become payable, have been paid, and that all taxes
+30 which may become due are secured by bond or deposit, or are
+31 otherwise secured. The certificate of acquittances of the
+32 department of revenue is conclusive as to the payment of the
+33 tax to the extent of the acquittance. This subsection does
+34 not apply if all property in the estate of a decedent is
+35 held in joint tenancy with right of survivorship by husband
+LSB 1390XD (7) 91
+-13- jm/jh 13/26
+S.F. _____ H.F. _____
+1 and wife alone. For purposes of this subsection, “personal
+2 representative” means an administrator, executor, or trustee as
+3 each is defined in section 633.3.
+4 Sec. 34. Section 496C.14, subsection 6, paragraph h, Code
+5 2025, is amended to read as follows:
+6 h. Notwithstanding the provisions of this section,
+7 payment of any part of the purchase price for shares of a
+8 deceased shareholder shall not be required until the executor
+9 or administrator of the deceased shareholder provides
+10 any indemnity, release, or other document from any taxing
+11 authority, which is reasonably necessary to protect the
+12 corporation against liability for any estate, inheritance, and
+13 death taxes tax, or any inheritance tax for a death occurring
+14 before January 1, 2025.
+15 Sec. 35. Section 524.805, subsection 8, Code 2025, is
+16 amended to read as follows:
+17 8. A state bank may receive deposits from one or more
+18 persons with the provision that upon the death of the
+19 depositors the deposit account shall be the property of the
+20 person or persons designated by the deceased depositors as
+21 shown on the deposit account records of the state bank. After
+22 payment by the state bank, the proceeds shall remain subject
+23 to the any debts of the decedent and the any payment of Iowa
+24 inheritance tax, if any for a death occurring prior to January
+25 1, 2025. A state bank paying the person or persons designated
+26 shall not be liable as a result of that action for any debts
+27 of the decedent or for any estate, inheritance, or succession
+28 taxes which may be due this state.
+29 Sec. 36. Section 541A.2, subsection 6, unnumbered paragraph
+30 1, Code 2025, is amended to read as follows:
+31 An individual development account closed in accordance
+32 with this subsection is not subject to the limitations and
+33 benefits provided by this chapter but is subject to state tax
+34 in accordance with the provisions of section 422.7, subsection
+35 17, and in accordance with the provisions of section 450.4,
+LSB 1390XD (7) 91
+-14- jm/jh 14/26
+S.F. _____ H.F. _____
+1 subsection 6, for a death occurring before January 1, 2025. An
+2 individual development account may be closed for any of the
+3 following reasons:
+4 Sec. 37. Section 602.8102, subsection 63, Code 2025, is
+5 amended to read as follows:
+6 63. Carry out duties relating to the inheritance tax as
+7 provided in chapter 450 for deaths occurring before January 1,
+8 2025.
+9 Sec. 38. Section 633.21, Code 2025, is amended to read as
+10 follows:
+11 633.21 Appraisers’ fees and referees’ fees fixed by rule.
+12 The district judges of each judicial district shall by rule
+13 fix the fees of probate referees, and also provide, insofar as
+14 practicable, a uniform schedule of compensation for inheritance
+15 tax appraisers, other appraisers, brokers, and agents employed
+16 at estate expense.
+17 Sec. 39. Section 633.31, subsection 2, paragraph a, Code
+18 2025, is amended to read as follows:
+19 a. For services performed in short form probates
+20 pursuant to sections 450.22 and 450.44 for deaths occurring
+21 before January 1, 2025..................................$ 15.00
+22 Sec. 40. Section 633.356, subsection 1, unnumbered
+23 paragraph 1, Code 2025, is amended to read as follows:
+24 When the gross value of the decedent’s personal property
+25 that would otherwise be distributed by will or intestate
+26 succession is or has been, at any time since the decedent’s
+27 death, fifty thousand dollars or less and there is no real
+28 property, or for deaths occurring before January 1, 2025, the
+29 real property passes to persons exempt from inheritance tax
+30 as joint tenants with full rights of survivorship pursuant to
+31 chapter 450, and if forty days have elapsed since the death of
+32 the decedent, a successor as defined in subsection 2 may, by
+33 furnishing an affidavit prepared pursuant to subsection 3 or
+34 8, and without procuring letters of appointment, do any of the
+35 following with respect to one or more items of such personal
+LSB 1390XD (7) 91
+-15- jm/jh 15/26
+S.F. _____ H.F. _____
+1 property:
+2 Sec. 41. Section 633.356, subsection 3, paragraph a,
+3 subparagraph (3), Code 2025, is amended to read as follows:
+4 (3) That the gross value of the decedent’s personal property
+5 that would otherwise be distributed by will or intestate
+6 succession is, or has been at any time since the decedent’s
+7 death, fifty thousand dollars or less and there is no real
+8 property, or for deaths occurring before January 1, 2025, the
+9 real property passes to persons exempt from inheritance tax
+10 as joint tenants with full rights of survivorship pursuant to
+11 chapter 450.
+12 Sec. 42. Section 633.356, subsection 3, paragraph a,
+13 subparagraph (10), Code 2025, is amended to read as follows:
+14 (10) That no inheritance or other taxes are owed to the
+15 department of revenue for a death occurring prior to January 1,
+16 2025, or if taxes are owed, that the taxes will be paid to the
+17 extent of funds received pursuant to the affidavit.
+18 Sec. 43. Section 633.356, subsection 9, Code 2025, is
+19 amended to read as follows:
+20 9. Upon receipt of an affidavit under subsection 3 and
+21 reasonable proof under subsection 5 of the identity of each
+22 successor seeking distribution by virtue of the affidavit,
+23 the holder of the property shall disclose to the affiant
+24 whether the value of the property held by the holder is, or has
+25 been at any time since the decedent’s death, fifty thousand
+26 dollars or less. An affidavit furnished for the purpose of
+27 determining whether the value of the property is, or has
+28 been at any time since the decedent’s death, fifty thousand
+29 dollars or less need not contain the language required under
+30 subsection 3, paragraph “a”, subparagraph (3), but shall state
+31 that the affiant reasonably believes that the gross value
+32 of the decedent’s personal property that would otherwise be
+33 distributed by will or intestate succession is, or has been at
+34 any time since the decedent’s death, fifty thousand dollars
+35 or less and there is no real property or for deaths occurring
+LSB 1390XD (7) 91
+-16- jm/jh 16/26
+S.F. _____ H.F. _____
+1 before January 1, 2025, the real property passes to persons
+2 exempt from inheritance tax as joint tenants with full rights
+3 of survivorship pursuant to chapter 450.
+4 Sec. 44. Section 633.361, subsection 12, Code 2025, is
+5 amended to read as follows:
+6 12. A listing of all other items, with estimated values,
+7 which are subject to Iowa inheritance tax for deaths occurring
+8 before January 1, 2025, or federal estate tax.
+9 Sec. 45. Section 633.365, Code 2025, is amended to read as
+10 follows:
+11 633.365 Appraisement.
+12 Property belonging to the estate need not be appraised
+13 unless required for inheritance tax purposes for deaths
+14 occurring before January 1, 2025, under the provisions of this
+15 probate code, or by order of court.
+16 Sec. 46. Section 633.399, Code 2025, is amended to read as
+17 follows:
+18 633.399 Report for approval.
+19 After making any such sale, mortgage, exchange or lease
+20 of real property, the personal representative shall make
+21 a verified report thereof to the court. The court shall
+22 examine said report, and if satisfied that the sale, mortgage,
+23 exchange, or lease has been at a price and upon terms
+24 advantageous to the estate, and, in all respects, made in
+25 conformity with law, and that it ought to be confirmed, shall
+26 confirm the same and order the personal representative to
+27 deliver a deed, mortgage, lease or other proper instruments
+28 to the persons entitled thereto; provided, however, that in
+29 the event said real property has been sold at private sale
+30 without an appraisal for inheritance tax purposes for a death
+31 occurring before January 1, 2025, or for purpose of such sale,
+32 or, if it has been so appraised and has been sold at private
+33 sale for less than the appraised value thereof, then, upon the
+34 filing of such report, the court may enter an order fixing a
+35 time and place for hearing thereon and prescribe a notice of
+LSB 1390XD (7) 91
+-17- jm/jh 17/26
+S.F. _____ H.F. _____
+1 such hearing to be served upon all interested persons, any one
+2 of whom, prior to the time fixed for such hearing, may file
+3 written objections to the entry of an order approving said
+4 sale. If not satisfied that the sale, mortgage, exchange, or
+5 lease has been made in conformity with law and that it is to the
+6 best interests of the estate, the court may reject the sale,
+7 mortgage, exchange, or lease, and enter such orders as the
+8 court may deem advisable.
+9 Sec. 47. Section 633.477, subsection 10, Code 2025, is
+10 amended to read as follows:
+11 10. A statement as to whether or not all statutory
+12 requirements pertaining to taxes have been complied with
+13 including whether the federal estate tax due has been paid,
+14 whether a lien continues to exist for any federal estate tax,
+15 and whether inheritance tax was paid or a return was filed in
+16 this state for a death occurring before January 1, 2025.
+17 Sec. 48. Section 633.479, subsection 2, paragraph a,
+18 subparagraph (5), Code 2025, is amended to read as follows:
+19 (5) Compliance with sections section 422.27, and section
+20 450.58 for deaths occurring before January 1, 2025, have been
+21 fulfilled.
+22 Sec. 49. Section 633.481, Code 2025, is amended to read as
+23 follows:
+24 633.481 Certificate to county recorder for tax purposes
+25 without administration.
+26 When an inventory or report is filed under section 450.22 for
+27 deaths occurring before January 1, 2025, without administration
+28 of the estate of the decedent, the heir or heir’s attorney
+29 shall prepare and deliver to the county recorder of the county
+30 in which the real estate is situated a certificate pertaining
+31 to each parcel of real estate described in the inventory or
+32 report. Any fees for certificates or recording fees required
+33 by this section or section 633.480 shall be assessed as costs
+34 of administration. The fees for recording and indexing the
+35 instrument shall be as provided in section 331.604. The county
+LSB 1390XD (7) 91
+-18- jm/jh 18/26
+S.F. _____ H.F. _____
+1 recorder shall deliver the certificates to the county auditor
+2 as provided in section 558.58.
+3 Sec. 50. Section 635.7, subsection 1, Code 2025, is amended
+4 to read as follows:
+5 1. The personal representative is required to file the
+6 report and inventory for which provision is made in section
+7 633.361, including all probate and nonprobate assets. This
+8 chapter does not exempt the personal representative from
+9 complying with the requirements of section 422.27, 450.22,
+10 450.58, 633.480, or 633.481, and the administration of an
+11 estate whether converted to or from a small estate shall be
+12 considered one proceeding pursuant to section 633.330. For
+13 a death occurring before January 1, 2025, this chapter does
+14 not exempt the personal representative from complying with the
+15 requirements of section 450.22 or 450.58.
+16 Sec. 51. Section 635.8, subsection 1, paragraph e, Code
+17 2025, is amended to read as follows:
+18 e. A statement that all statutory requirements pertaining to
+19 taxes have been complied with, including whether federal estate
+20 tax due has been paid, whether a lien continues to exist for
+21 any federal estate tax, and whether inheritance tax was paid
+22 or a tax return was filed in this state for a death occurring
+23 before January 1, 2025.
+24 Sec. 52. Section 654.16, subsection 2, Code 2025, is amended
+25 to read as follows:
+26 2. If a homestead is designated, the court shall determine
+27 the fair market value of the designated homestead before
+28 the sheriff’s sale. The court may consult with the county
+29 appraisers appointed pursuant to section 450.24 for deaths
+30 occurring before January 1, 2025, or with one or more
+31 independent appraisers, to determine the fair market value of
+32 the designated homestead.
+33 Sec. 53. EFFECTIVE DATE. This division of this Act, being
+34 deemed of immediate importance, takes effect upon enactment.
+35 Sec. 54. RETROACTIVE APPLICABILITY. This division of this
+LSB 1390XD (7) 91
+-19- jm/jh 19/26
+S.F. _____ H.F. _____
+1 Act applies retroactively to January 1, 2025, to the estates of
+2 decedents dying on or after January 1, 2025.
+3 DIVISION IX
+4 LUMP SUM DISTRIBUTION OF RETIREMENT INCOME
+5 Sec. 55. Section 422.5, subsection 7, Code 2025, is amended
+6 to read as follows:
+7 7. a. In addition to the other taxes imposed by this
+8 section, a tax is imposed, except under paragraph “b”, on the
+9 amount of a lump sum distribution for which the taxpayer has
+10 elected under section 402(e) of the Internal Revenue Code to
+11 be separately taxed for federal income tax purposes for the
+12 tax year. The rate of tax is equal to twenty-five percent of
+13 the separate federal tax imposed on the amount of the lump
+14 sum distribution. A nonresident is liable for this tax only
+15 on that portion of the lump sum distribution allocable to
+16 Iowa. The total amount of the lump sum distribution subject
+17 to separate federal tax shall be included in net income for
+18 purposes of determining eligibility under subsections 2 and 3,
+19 as applicable, except the amount of the lump sum distribution
+20 exempt from state tax in paragraph “b” shall not be included.
+21 b. The amount of a lump sum distribution that is received
+22 from a governmental or other pension or retirement plan,
+23 including defined benefit or defined contribution plans,
+24 annuities, individual retirement accounts, plans maintained or
+25 contributed to by an employer, or maintained or contributed
+26 to by a self-employed person as an employer, and deferred
+27 compensation plans or any earnings attributable to the deferred
+28 compensation plans is exempt from state tax imposed under
+29 paragraph “a” if received by a person who is disabled, or is
+30 fifty-five years of age or older, or is the surviving spouse of
+31 an individual or is a survivor having an insurable interest in
+32 an individual who would have qualified for the exemption under
+33 this subsection for the tax year.
+34 Sec. 56. EFFECTIVE DATE. This division of this Act, being
+35 deemed of immediate importance, takes effect upon enactment.
+LSB 1390XD (7) 91
+-20- jm/jh 20/26
+S.F. _____ H.F. _____
+1 Sec. 57. RETROACTIVE APPLICABILITY. This division of this
+2 Act applies retroactively to January 1, 2025, for tax years
+3 beginning on or after that date.
+4 DIVISION X
+5 ESTIMATED TAX THRESHOLD
+6 Sec. 58. Section 422.16, subsection 12, paragraph a,
+7 subparagraph (1), Code 2025, is amended to read as follows:
+8 (1) Taxpayers filing a return shall make estimated tax
+9 payments if their Iowa income tax liability can reasonably be
+10 expected to amount to two hundred one thousand dollars or more
+11 for the year.
+12 Sec. 59. EFFECTIVE DATE. This division of this Act takes
+13 effect January 1, 2026.
+14 Sec. 60. APPLICABILITY. This division of this Act applies
+15 to tax years beginning on or after January 1, 2026.
+16 DIVISION XI
+17 TAX EXPENDITURE REVIEW
+18 Sec. 61. Section 2.48, subsection 2, paragraph a,
+19 subparagraph (1), Code 2025, is amended to read as follows:
+20 (1) The department administering a tax expenditure
+21 described in subsection 3 shall engage in a review of the tax
+22 expenditure based upon the schedule in subsection 3, unless the
+23 tax expenditure is repealed. For purposes of this section,
+24 a tax expenditure is considered repealed if a zero amount
+25 remains available to be awarded, issued, or claimed under law.
+26 If multiple departments administer the tax expenditure, the
+27 departments shall cooperate in the review.
+28 Sec. 62. Section 2.48, subsection 3, paragraph b,
+29 subparagraph (1), Code 2025, is amended by striking the
+30 subparagraph.
+31 Sec. 63. Section 2.48, subsection 3, paragraph d,
+32 subparagraphs (3) and (5), Code 2025, are amended by striking
+33 the subparagraphs.
+34 Sec. 64. Section 2.48, subsection 3, paragraph e,
+35 subparagraph (4), Code 2025, is amended by striking the
+LSB 1390XD (7) 91
+-21- jm/jh 21/26
+S.F. _____ H.F. _____
+1 subparagraph.
+2 Sec. 65. 2017 Iowa Acts, chapter 29, section 169, is amended
+3 to read as follows:
+4 SEC. 169. EFFECTIVE DATE. The following provision or
+5 provisions in Division I of this Act take effect July 1, 2030
+6 2039:
+7 1. The section of this Act amending section 2.48, subsection
+8 3, paragraph “h”.
+9 EXPLANATION
+10 The inclusion of this explanation does not constitute agreement with
+11 the explanation’s substance by the members of the general assembly.
+12 This bill relates to the administration of the tax by
+13 the department of revenue by modifying provisions related
+14 to personal income, property, sales and use, motor fuel,
+15 inheritance tax, and changing tax expenditure reviews.
+16 DIVISION I —— DISCLOSURE OF TAX INFORMATION. The bill
+17 specifies and updates the circumstances the department of
+18 revenue (department) may disclose state tax return and audit
+19 information to law enforcement. The bill also makes conforming
+20 changes related to disclosure of state tax return information
+21 to the treasurer of state for purposes of determining ownership
+22 of abandoned property.
+23 The division takes effect upon enactment.
+24 DIVISION II —— ANNUAL REPORTING. The bill strikes the
+25 requirement that the department annually report to the general
+26 assembly the areas of recurrent taxpayer noncompliance with the
+27 rules of the department including any recommendations relating
+28 to the noncompliance.
+29 DIVISION III —— PROPERTY TAX —— EXTENSIONS. Under current
+30 law, a claimant may ask the director of the department, the
+31 county treasurer, or the director of the department of health
+32 and human services for an extension to claim a reimbursement
+33 for rent constituting property taxes in case of sickness,
+34 absence, or disability. The bill strikes the director of the
+35 department from involvement in the extension request by the
+LSB 1390XD (7) 91
+-22- jm/jh 22/26
+S.F. _____ H.F. _____
+1 claimant.
+2 Under current law, when issuing a refund for an erroneous
+3 property tax paid by a taxpayer, the taxpayer must have
+4 presented a claim of refund to the board of supervisors, or if
+5 appealed, a claim to the property assessment appeal or district
+6 court within two years of the final decision on the property
+7 taxes owed. Under the bill, a taxpayer is eligible to claim
+8 a refund for an erroneous tax if the taxpayer had previously
+9 appealed the claim for a refund of an erroneous tax to the
+10 director of revenue within two years of the director’s final
+11 decision. This provision takes effect upon enactment.
+12 DIVISION IV —— FARM TENANCY INCOME TAX EXCLUSION.
+13 Currently, an eligible individual may exclude income received
+14 by the individual pursuant to a farm tenancy covering real
+15 property held by the individual for 10 or more years, if the
+16 individual materially participated in a farming business for
+17 10 or more years. The bill allows the eligible individual to
+18 exclude such income under such circumstances, if the individual
+19 materially participated in a farming business for 10 or more
+20 years in the aggregate. The bill further specifies the term
+21 “held” is to be determined by the holding period provisions of
+22 section 1223 of the Internal Revenue Code and other federal
+23 regulations which is identical to the use of the term “held”
+24 under the farming business exclusion in Code section 422.7(13).
+25 DIVISION V —— PASS-THROUGH ENTITIES. Under current law,
+26 the department may issue a notice of adjustment (adjustment of
+27 tax) to a partnership or pass-through entity pursuant to Code
+28 section 422.25C, and specifies that the notice of adjustment
+29 is appealable pursuant to Code sections 422.28 and 422.29.
+30 The bill specifies the notice of adjustment is not always
+31 appealable under the circumstances provided in Code section
+32 422.25.
+33 The division takes effect upon enactment and applies
+34 retroactively to January 1, 2024.
+35 DIVISION VI —— SALES TAX CHANGES. The bill makes changes to
+LSB 1390XD (7) 91
+-23- jm/jh 23/26
+S.F. _____ H.F. _____
+1 the collection of sales taxes on building materials, supplies,
+2 and equipment where an owner, contractor, subcontractor, or
+3 builder is also a retailer holding a sales and use tax permit.
+4 Under such circumstances, if a customer of the retailer
+5 purchases tangible personal property from the retailer, the
+6 bill provides that such property will not be subject to sales
+7 tax if the property will be subject to sales tax at resale at a
+8 later date or if the property will be subject to use tax at the
+9 time the retailer withdraws the property from inventory for use
+10 by the retailer in construction. The bill makes other related
+11 changes to enhance the readability of the provision.
+12 Under current law, a purchaser, user, and consumer of
+13 taxable property or services may be authorized to remit tax
+14 owed directly to the department instead of the tax being
+15 collected and paid by the seller. The bill specifies that in
+16 order to qualify for the direct pay tax permit such a taxpayer
+17 must accrue a tax liability of more than $8,000 on a monthly
+18 basis. Currently, such a taxpayer must accrue a tax liability
+19 of $4,000 on a semimonthly basis in order to qualify for the
+20 direct pay tax permit.
+21 DIVISION VII —— MOTOR FUEL TAXES. Under current law and
+22 before July 1, 2026, the department determines the rate of
+23 excise tax imposed on each gallon of ethanol blended gasoline
+24 based upon the distribution percentage calculated in Code
+25 section 452A.3(1)(b), and the excise tax rate imposed on each
+26 gallon of biodiesel blended fuel based on the distribution
+27 percentage calculated in Code section 453A.3(3)(a)(2). The
+28 department determines the distribution percentage based upon
+29 data from reports filed pursuant to Code section 452A.33. The
+30 bill allows the department to amend the initial distribution
+31 percentage due to a mistake, or if there is a late report filed
+32 by a retail dealer to the department, or the distribution
+33 percentage is not accurate.
+34 The bill changes the due date of a biannual tax return
+35 relating to electric fuel tax due in January by one day, and
+LSB 1390XD (7) 91
+-24- jm/jh 24/26
+S.F. _____ H.F. _____
+1 modifies the biannual tax period by one day.
+2 The bill allows a person who uses electric fuel for a
+3 nontaxable purpose to provide an exemption certificate to
+4 the license holder selling or dispensing the fuel, if the
+5 certificate is produced by the department.
+6 DIVISION VIII —— INHERITANCE TAX —— FUTURE CODE CHANGES DUE
+7 TO REPEAL. The bill changes numerous Code sections to reflect
+8 the repeal of the inheritance tax beginning for the estates of
+9 decedents dying on or after January 1, 2025. However, other
+10 provisions of Code chapter 450 relating to the inheritance
+11 tax have not been repealed. The division takes effect upon
+12 enactment and applies retroactively to the estates of decedents
+13 dying on or after January 1, 2025.
+14 DIVISION IX —— LUMP SUM DISTRIBUTION OF RETIREMENT INCOME.
+15 Under current law, commencing with tax years beginning on or
+16 after January 1, 2023, retirement income is not subject to
+17 Iowa individual income tax. However, under current law a lump
+18 sum distribution from a retirement account is subject to Iowa
+19 income tax under Code section 422.5(8) at a rate of 25 percent
+20 of the federal tax rate imposed on the amount of the lump sum
+21 distribution.
+22 The bill provides that the taxation of a lump sum
+23 distribution from a retirement account is also exempt from
+24 state taxation by exempting the lump sum distribution for a
+25 person who is disabled, or 55 years of age or older, or who is
+26 the surviving spouse of an individual or is a survivor having
+27 an insurable interest in an individual who would have qualified
+28 for the exemption for the tax year.
+29 The bill excludes the lump sum distribution exempt from
+30 state taxation from being included in calculating the
+31 individual income tax filing thresholds in Code section
+32 422.5(2) and (3).
+33 The division takes effect upon enactment and applies
+34 retroactively to tax years beginning on or after January 1,
+35 2025.
+LSB 1390XD (7) 91
+-25- jm/jh 25/26
+S.F. _____ H.F. _____
+1 DIVISION X —— ESTIMATED TAX THRESHOLD. Under the bill,
+2 a taxpayer filing a return is required to make estimated
+3 tax payments if Iowa income tax liability can reasonably be
+4 expected to exceed $1,000 or more. Under current law, such
+5 a taxpayer filing a return is required to make estimated
+6 tax payments if Iowa income tax liability can reasonably be
+7 expected to exceed $200 or more.
+8 The division takes effect January 1, 2026, and applies to tax
+9 years beginning on or after that date.
+10 DIVISION XI —— TAX EXPENDITURE REVIEW. The bill specifies
+11 that the department administering a tax expenditure (tax
+12 credit) is not required to review the tax expenditure if the
+13 tax expenditure has been repealed or if a zero amount of the
+14 tax expenditure remains available to be awarded or claimed.
+15 The bill removes four tax expenditures from tax expenditure
+16 review: the Iowa fund of funds program in Code chapter 15E,
+17 the wind energy production tax credits under Code chapter 476B,
+18 the ethanol promotion tax credit in Code section 422.11N (Code
+19 2006), and the minimum tax credit under Code section 422.11B
+20 (Code 2018). The bill amends the Acts to align the review of
+21 the renewable chemical production tax credit in Code section
+22 2.48 with the future repeal of the renewable chemical tax
+23 credit program.
+LSB 1390XD (7) 91
+-26- jm/jh 26/26
+[DELETED: EFE_Y(DDTOEBBLFAnAtrgtoteanoftetxbytdtofrebymgpsrdtpli,p,ssadu,mrf,aiet,cgtxeer,aigeedeadreapBEITEDBYTEGLAYOFTESEOFIB1D()9]
+[DELETED: .__H._DNDEOFTXISn1.Sn4,sn2,Ce2,iadbysgtesnadiginltftef2.Tedtmynyf,s,orllweta,admydeserserni,seieinoati,orayorsei,toshl0eta,iftedthsint1isayoftef2Apniyfdafec,a3r,ororinwhittoeetxoro4ar,c,ororbtfmted5Apnfdtofearnwhittoee6txorfgr7Apnfdtopywhteittoeet8Apncdayatoronttisac9oeurapnoftsteadbyt0d1S.2.Sn4,sn3,Ce2,isa2tordasf33.Ngss40ad4,t4dtmydeser,ser5i,seieorati,ora6orseinaspdurtss7S.3.Sn4,sn3,pha,C82,isadtordasf9Usoeeypdbysn80sn1,sn9,sn6,sn41ss2,2,ad2,sn4,sn22ph,sn4,sn3,sn23sn3,sn6,ss3,4,444,4,4,ad4,ad5,sn25tss,orarpnofl,atxr,rB1D()9]
+[DELETED: .__H._i,orieoratinslnbeddtoaypnore,ortntetted,orilresefrueinamudtotxaS.4.Sn4,sn3,pha,C2,isadtordasfUsoeeypdbysn8sn1,sn9,sn6,sn4ss2,2,ad2,sn4,sn20ph,sn4,sn3,sn21sn3,sn6,ss3,4,424,4,ad4,adsn5,sn23tss,orarpnofl,atxr,r4i,orieoratinsln5beddtoaypnore,ortntet6ted,orilresefrueinam7udtotxa8S.5.EED.TsdnoftsA,b9ddofiei,tsetune0DNI1ALR2S.6.Sn4,sn2,phk,C32,isadbysgtep4S.7.Sn4,Ce2,isadtorda5f5Ss——p7Tedtslpeadphanalr8whsliessrya,w9rttoteonoftsc,iga0c,cnoft,adshorf1asaeddptadv.Tealrts2aoietersadinrdptt3sn4,sn2,ph4DNI5PYTX——CB1D()9]
+[DELETED: .__H._S.8.Sn4,sn3,Ce2,isatordasf3.Inceofs,a,orordyotectori,intejtoftedrofrortedrofhhadhns,asagdceesadtectrsane,tdrofhhadhnssmyedteteffgacmfrrtadtedrofrmyedtetefrfgacmfrc.H0ayfrtegdslntedbdDr31ofteyrfgteyrinwhtecmwsr2tobef.Csfdasartoftssns3befdwhtedrofhhadhnssort4drofr,asa,woslpefrt5rtoftecmtotec6S.9.Sn4,Ce2,isadtorda7f0Rgest9Tebdofsssldttecyt0tordtotetraytxorpnofatxfdt1hebneyoriyp,whali2f,adcsayp.Ardslntbeo3ormeusacmfrrdispdtoteb4wntoysoftedetetxwsd,orifa5totebdofr,tepyatalb6drofr,ordtc,wntoysoft7fld8S.1.EED.Tef,bgddo9iei,tsetune0TesnoftsdnoftsAtags142DNI3FMTYIETXE4S.1.Sn4,sn1,pha,C52,isadtordasfB1D()9]
+[DELETED: .__H._S,toteeti,ntierbyaneeilpttoafmtyacgrlpyhdbyteeeilftnormey,ifteeeilmpdinafgbsfrtnormeysintaS.1.Sn4,sn1,phf,C2,isadbyagtefgnwsNWS.()slbeddw0retotehgpdpsofsn13o1teIlReCeadteflrsp2t3DN4PHE5S.1.Sn4,sn2,Ce2,i6adtordasf72.FrtxysbgonorarJy1,2,a8astoapsorphesi9ofi,g,l,e,orc,oranatt0shisadtoaprtthsanitin1pporpheyfrterdyrb2tedtasartofaseppa,s3beddatteppllorphe4llintesemraspdbysn6)oft5IlReCeadterstrus6dtttissypdintst7Tepsofss6,6,ad67ofteI8ReCeadterstrslaoayt9apporpheyadisdtori0psintesemraspdinshssu1adtttissypdintst2Frpsofagshs,deatslb3mefrdsinfladIat.T4atpdbysn6)ofteIlR5CeslbeddaspdinshsnbtsB1D()9]
+[DELETED: .__H._bebdonIateieorortxasotepporpheyasddptotscrfrterdy.Tedtsieaneofattotepporpe.Shneslbetdasanatfrtpsofsn4,adteneslbeaetaspdinsn4,byteppopheypttoss48ad49aslbeidwntetepdpdbys04.Oeteastopdo1phedisorrsofi2g,l,e,c,adorasa3shpsfrterdyraefyd4tepporpheyadaydtp5oritpssltnbesttotep6ofsn4,sn1,ph,ads74Aintesemrasifteseppa8weaflpplla,adasiftef9seppatatweaflf0ppa.Tepyesins14,sn2,psad,slnta”“2toaseppa3S.1.EED.TsdnoftsA,b4ddofiei,tsetune5S.1.REA.Tsdnoft6AtasrytoJy1,27DNV8SSTXC9S.1.Sn4,sn1,phb,C02,isadtordasf1()Ssofbgm,s,ade2too,c,s,orbsfrt3enofbsortea,r,ori4ofrlpyaerlssofteplp5inwrqys.Weteo,cB1D()9]
+[DELETED: .__H._s,orbrisaoarrhgasoruetxptadtgrlssofbm,s,ade,tepnslpshisofteplpywtlyftetxifshpywlbesttotetxattteofreoratteteitiswnfmifrcnp.Tesstxslbedeintrgpdwntem,s,adeaewnfmiyfrcnpso0wnsdatr.Tetxslntbedewnm1aewnfmiyfrueincno2ofIaadtetxslntaytotep3pypdadcdbytemrasb4msintepebytemrori5srofcnoeofI.Teseo6cgisntaseofbgm.Teseo7cgtoo,c,s,orb8slbetdasteseofoytep9pyadsttotetxidurtss0adteuetxSsofbgmsadsst1c,s,orbsfrteeno2bsadorssorfrter3a,e,orrgofbsado4ssaerlssofteplp5Ssofbgmsadsstoc6s,orbsfrueinrstoorf7ininegbsadors8aepsfrr.Ssofbgett9c,s,orbsaerssso0teplp1()Weteo,c,s,orb2isaoarrhgassaduetxpta3tgrlssofbgm,s,a4e,tepnslpeshisoft5plpywtlyfrtetxifsB1D()9]
+[DELETED: .__H._pywlbesttosstxatteteofrorsttouetxatteteterrwshpyfmiyfruebyterriegbsadorssorfrra,e,orrgofbsados.Tetxslbedeintergpwntem,s,oretaewnfiyorwnsdatr.Tetxslntbedewmsadssaewnfmiyfruei0cnoeofI1()Teseofcgisntaseofb2m.Ssofcgtoo,c3s,orbsaerlssoft4plpyadsttot5S.1.Sn4,sn9,pha,C62,isadtordasf.“7Etaspdinph,p,u8adcsofteplp,sdd9p,oredsstdpttos0IIorIIoftscrorcr4Bmybea1pttorsadbyted,torttxo2dytotedtidoftetxbgc3adpdbytes.Toqyfradtpytxp4tep,u,orcrmtaeatxlyo5metnfrettddsintxurs6IIadIIinasymypdadmed7adferspttosn4.Tsa8slntbegdoredetunant9tedradtnoyariebytedrof0dtpytxp1DNV2MRFLT3S.1.Sn4,sn1,phb4udph1,Ce2,isadtorda5fB1D()9]
+[DELETED: .__H._OnadarJy1,2,aneetxoftycsiidonehgnofelbdgecasE5orh.BeJy1,2,tereofteetxonelbdgecdasE5orhslbebdontenrofgsofelbgecdasE5orhrttaedintsseasedasapeoftenrogsofmrflddintss,whirdtoastednp.Frp0oftsph,oyelbdgea1ndg,ntigang,slb2udindgtepebsfrteeet3Tedtsldetepebsfre4dnpdbgJy1adegDr35bdoninfmrssdtoted6frfgpttosn4.BeJe1,t7dtmyadtednpedeto8m,ifteisalertfdbyarld9totedtursn4,sn1,ori0tednpeisnta.Terefrt1eetxslayfrtepdbgJy1a2egJe30fgteedoftednp3BeJy1,2,tereofteeetxonehg4ofelbdgecdasE5orhrs5beasf6S.1.Sn4,sn3,pha7sh(,udph1,Ce2,isa8tordasf9Etasoepdintssnadint0s,tsshslaytoteeet1idonehgnofblbdflc2asB0orhrudfraypefrtepeo3ogmrvsintss.OnadarJy142,tereofteeetxonehgnofb5bdflcdasB0orhristoaB1D()9]
+[DELETED: .__H._fsc.BeJy1,2,tereofteetxonehgnofblbdflcdaB0orhrslbebdontenrofgsoblbdflcdasB0orhrttaddintsseasedasapeoftnrofgsofslflfrdlesofmvsddintss,whisrdtoatednp.Tedtsldtepebsfrehdnpdb0Jy1adegDr31bdoninf1rssdtotedtfrfgptt2sn4.BeJe1,tedtmyadt3dnpedetoam,ifteisal4rtfdbyarldrtotedturs54,sn1,oriftednpei6nta.Tereofteeetxslayfrt7pdbgJy1adegJe30fgteedo8tednp.BeJy1,2,tereoft9eetxonehgnofblbdflc0asB0orhrslbeasf1S.2.Sn4,sn5,Ce2,i2adtordasf35.Tedrmyieaclpyata4pnwofstotyfetersorkpter5rdurtss.Tepyslbeoeh6dsfrteftvnadsliebyo7hddsfrehalvnogint8cryrinwhteftvno9S.2.Sn4,sn2,u0ph1,Ce2,isadtordasf1OnorbeAl1tedtsldrar2totegradtelessa.B3Je1,tedtmyadtertdetoam4ifteisalertbyarldrurs51,oriftertisnta.TertslcB1D()9]
+[DELETED: .__H._inrdbyrldstotedtapdintssnadslatltiealoftfS.2.Sn4,sn5,pha,C2,isadtordasfFrtepeofdgteatoflfrteecflt,ehdradurslfewtedtntlrtnJy31frtepdbJy1adegJe3,adntlrtnJy3031frtepdbgJy1adegDr3031abltxrncdurpsfrf2c.Ternsls,whretoe3lnatwhflisddorpdbytedro4uriotebyororeysedeofa5ecmrvedgtentpgsxc6m,inasrdbyted.Ona7arJy1,2,tedtmyrebyret8shtxrsbefdq9S.2.Sn4,Ce2,isadbya0tefgnws1NWS.4.Ifecflissdord2franep,teprmycea3peanencepdbytedtt4teleh5DNV6IETX——FECECSDETOR7S.2.Sn1,sn3,Ce2,isa8tordasf93.SeFradhogbeJy1,2,s0ietxttofisinIae1sspsslbeaspdinsn4,s28.TssnslaytoalIaels3psegonorarJy1,14S.2.Sn1,sn3,Ce2,isa5tordasfB1D()9]
+[DELETED: .__H._3.SeFradhogbeJy1,2,sietxttofisinIaAEspsslbeaspdinsn4,sn9S.2.Sn1,sn3,Ce2,isatordasf3.SeFradhogbeJy1,2,sietxttofisinteqdApmwhwhtesehscdpttotsnslbeaspdinsn4,sn90S.2.Sn1,sn8,Ce2,isa1tordasf28.Bsidurtssnaeddtobei3franelpcadglpeadalb4idurtssnslbeetfmtnbyt5seofIaadteitontebsslbee6fmteseietxadteayseiet7S.2.Sn3,sn2,pha,C82,isadtordasf9Tepsedurtelsofdta0dntotepnadopofaveo1inweorinptbyadtwoddi,u2fganatsgteneaddeofdhoft3d,terttopnadopoftep4fgtea,adtttehsbnnoa5oftedse,whitmtaoc6anatbyteattoiycsoft7dtwowdbeedtolyenuntem8vetoteetofteveoftemrv,s9uncgwhteortetrrso0tsc,beidarncdfrted1itinteveadaceoftetot2v.Ifadtddt,adertewli3ntpdorisadtopewta4tepsedtotepnadopo5aveodinweorinptbytedtmB1D()9]
+[DELETED: .__H._feanata,uncgwhteorttrrsoftsc,slbeidrncdfrtedsitintevadaceoftetotev.TeamtcnteseinadiyaasisrdincsofiyurtssCr40isntFradhogbeJy12,artofcr40slntbecsdbytefgofteatpdfrint0s.I,fmtersinteoeoftec1t,teartobeaylsontev,t2ceoftemtcnastoftel3usteanisadbypreeo4tesnorenofshl.Eeo5enisbtisntldtoanatoft6atsgttasyitwsfda7pdincr5,ae9,pt6.Ted8slweteceoftefeadser9urss3,3,3,3,3,a03Aiftepnedtopnadopo1av,aspdintss,istes2seofad3S.2.Sn3,sn2,Ce2,i4adtordasf52.FdFrdsogbeJy1,26fdtotedrofreacyofayd,blo7s,orortrwhssttitismeori8toteetatorartedhoftepne9teitaspdinsn40S.3.Sn3,sn5,Ce2,i1adtordasf25.RtFrdsogbeJy1,23rtteseinlnrgtotei4txifrdbytedtofreaspdi5sn4B1D()9]
+[DELETED: .__H._S.3.Sn4,sn1,phdsh(,Ce2,isadtordasf()TtFradhogbeJy1,2ttanIaietxrnisfdfranewntelrofnemsfmtedeofdhorsdsfmtefgofadrbytebyofteergtotetepyorrtorititepS.3.Sn4,sn2,phc0sh(,Ce2,isadtordasf1()Ifteneofatordlofacmf2rdrstoatxrnfdpttos34,orpttocr40fradhogb4Jy1,2,bytetrwhdsani5asanadreoftetrwhrtt6ttr,orifaprofayhsbnfdwht7dtbytetrwhdsanila8anadreoftetrwhrtt9aytxttisidinteneofatord0ofacmfrr,acyoftenetrwha1alinrdtobesttotet2slbesttoteadreasw3S.3.Sn4,sn1,Ce2,isa4tordasf51.Aflatofaplr,asd6insn4,slntbeadbyayctust7ats,adtejeoftectf,ttalt8idbytssrunteplr9whhebep,hebnp,adttalt0whmybedeaesdbybdord,ora1oes.Teceofasoft2dtofreisceastoteptoft3txtoteetoftea.Tssnd4ntayifalpyinteeeofadti5hdinjttywhrtofspbyhB1D()9]
+[DELETED: .__H._adwea.Frpsoftssmsana,e,orteaehisddinsn6S.3.Sn4,sn6,phh,C2,isadtordasfNgtepsoftssptofayptoftepepefrssofddsrslntberdulteeorarofteddsrp0ayi,r,orordtfmayt1a,whisrynytoptt2cnatlyfraye,i,a3dhtst,orayietxfradho4beJy1,25S.3.Sn5,sn8,Ce2,i6adtordasf78.Asebkmyredsfmoeorm8pswhtepnttuntedhoft9dstedtatslbetepyoft0pnorpsddbytedddsa1snontedtatrsofteseb.A2ptbyteseb,tepsslrns3toteaydsoftedtadteayptofI4iet,ifayfradhogprtoJ51,2.Asebkpgtepnorpsd6slntbeleasartofttanfrayd7oftedtorfraye,i,ors8tswhmybedetss9S.3.Sn5,sn6,udp01,Ce2,isadtordasf1Anildtatcdina2whtssnisntsttotelsa3bspdbytscrbtissttoset4inaewhtepsofsn4,s51,adinaewhtepsofsn4B1D()9]
+[DELETED: .__H._sn6,fradhogbeJy1,2.AildtatmybecdfrayoftfgrS.3.Sn6,sn6,Ce2,iadtordasf6.Cyotdsrgtoteietxapdincr40frdsogbeJy12S.3.Sn6,Ce2,isadtorda0f1A’fsadr’fsfdbyr2Tedtjsofehjldtslbyr3fxtefsofper,adaop,ira4p,aumseofcnfri5txa,ora,b,adase6ateee7S.3.Sn6,sn2,pha,C82,isadtordasf9Frsspdinstfmp0pttoss42ad44frdso1beJy1,2$12S.4.Sn6,sn1,u3ph1,Ce2,isadtordasf4Wntegsveoftedsplp5ttwdoebeddbywlori6snisorhsb,atayteseted7d,fytddsorlsadteisnor8p,orfrdsogbeJy1,2,t9rlpypstopsetfmiet0asjttswhflrsofspptt1cr4,adiffydsheedsetedho2ted,asrasddinsn2m,b3fganatpdpttosn3o48,adwtpglsofa,doayoft5fgwhrttooeormeisofshpB1D()9]
+[DELETED: .__H._pS.4.Sn6,sn3,phash(,Ce2,isadtordasf()Tttegsveoftedsplpttwdoebeddbywlorisni,orhsbnataytesetedd,fytddsorlsadteisnorp,orfrdsogbeJy1,2,trlpypstopsetfmiet0asjttswhflrsofspptt1cr42S.4.Sn6,sn3,pha3sh(,Ce2,isadtordasf4()Ttnoieorortsaeodtot5dtofrefradhogprtoJy162,oriftsaeo,tttetswlbepdtot7etoffsrdpttotea8S.4.Sn6,sn9,Ce2,i9adtordasf09.Unrtofanatursn3a1repfursn5ofteiyofe2srsgdnbyveoftea3tehroftepysldetotea4wrteveoftepyhdbytehri,orh5bnataytesetedsd,fyt6dsorl.Anatfdfrtepeo7dgwrteveoftepyi,orh8bnataytesetedsd,fyt9dsorlsndntcntelerdu0sn3,ph,sh(,btsls1ttteatrybstttegsv2oftedsplpyttwdoeb3ddbywloriesni,orhsbna4aytesetedsd,fytdd5orlsadteisnorlpyorfrdsoB1D()9]
+[DELETED: .__H._beJy1,2,terlpypstopetfmietxasjttswhflrofsppttocr4S.4.Sn6,sn1,Ce2,iadtordasf1.Algofalori,whedvwhaesttoIaietxfrdsobeJy1,2,orfleetS.4.Sn6,Ce2,isadtorda0f5A2Pybgtoteeendntbea3usrdfrietxpsfrd4ogbeJy1,2,urtepsoft5pec,orbyorofc6S.4.Sn6,Ce2,isadtorda7f9Rtfra9Armgayshs,m,eeorl0ofrlp,teplreslm1avdrttftotec.Tects2eesdr,adifsdtttes,m3e,orlehsbnatapeadunt4astotee,a,inalr,mei5cywhl,adttitottobec,s6cmteseadorteplret7drad,m,leororpri8totepsedt;p,h,tti9teetsdrlpyhsbnsdatpes0wtanalfrietxpsfrad1ogbeJy1,2,orfrpeofshs2o,ifithsbnsoadadhsbnsdatp3sefrlstnteadvet,t,unt4fgofshr,tectmyeranorfg5teadpefrhgtnadpeaneoB1D()9]
+[DELETED: .__H._shhgtobesdunalidp,ayoofw,prtotetefdfrshh,myfwnostoteeyofanoragss.Ifntsdtttes,m,e,olehsbnmeincywhlwadttitistotbtisoftee,tectmyrttesm,e,orl,adershosastctmydmaS.4.Sn6,sn1,Ce2,i0adtordasf11.Astastowrorntals2rspgtotshebncdw3igwrtefleetxdehsbnp4wralncstoetfrayfleet5adwrietxwspdorarnwsfdi6tssefradhogbeJy1,27S.4.Sn6,sn2,pha8sh(,Ce2,isadtordasf9()Cewhsssn4,ads048frdsogbeJy1,2,heb1f2S.4.Sn6,Ce2,isadtorda3f1Cetocyrrfrtxpta6Wnaniyorrtisfdursn42f7dsogbeJy1,2,wta8ofteeeofted,tehrorhsa9slpeaddrtotecyrroftec0inwhterleeissdacep1toehplofrleeddinteiyo2r.Ayfsfrcsorrgfsr3bytssnorsn60slbeadasc4ofa.Tefsfrrgadigt5itslbeaspdinsn3.TecB1D()9]
+[DELETED: .__H._rrsldrtecstotecyaaspdinsn5S.5.Sn6,sn1,Ce2,isatordasf1.Teplreisrdtofetrtadiyfrwhpnismeins6,igalpeadnea.Tcrdsntetteplrefcgwhtersofsn4,404,6,or6,adteanofa1eewrcdtoorfmasleeslb2cdoepgpttosn6.F3adhogbeJy1,2,tscrd4ntetteplrefmcgwht5rsofsn42or46S.5.Sn6,sn1,phe,C72,isadtordasf8Astttalsyrspgt9tshebncdw,igwrfle0txdehsbnp,wralncstoetf1ayfleet,adwrietxwsp2oratxrnwsfdintssefradho3beJy1,24S.5.Sn6,sn2,Ce2,isa5tordasf62.Ifahdisd,tectsld7tefrmtveofteddhdb8tesss.Tectmyctwhtec9asadpttosn44frd0ogbeJy1,2,orwhoeorm1ita,todetefrmtveo2teddh3S.5.EED.TsdnoftsA,b4ddofiei,tsetune5S.5.REA.TsdnoftB1D()9]
+[DELETED: .__H._AtasrytoJy1,2,toteesodsdgonorarJy1,2DNILPSMDNOFRTIS.5.Sn4,sn7,Ce2,isatordasf7.Inantoteortsidbyts,atxisi,eturph,ontatofalpsmdnfrwhtetrh0edursn4)ofteIlReCet1besytdfrflietxpsfrt2txy.Tereoftxiseltotepto3tesefltxidonteatoftel4smd.Antislefrtstxo5onttpnoftelpsmdnaet6I.Tetlatoftelpsmdns7tosefltxslbeidinntief8psofdgeyurss2ad39asa,etteatoftelpsmd0etfmsetxinphslntbei1Teatofalpsmdnttisr2fmaglororpnorrtp3igddbtorddcnp4a,ilrta,psmdo5cdtobyane,ormdorc6tobyasdpnasane,add7cnpsorayesaetoted8cnpsisetfmsetxidu9phifrdbyapnwoisd,ori0feysofaeoro,oristesgseo1anilorisasrhganieiti2anilwowdheqdfrteenu3tssnfrtetxy4S.5.EED.TsdnoftsA,b5ddofiei,tsetuneB1D()9]
+[DELETED: .__H._S.5.REA.TsdnoftAtasrytoJy1,2,frtxybgonorarttdDNEDTXTS.5.Sn4,sn1,phash(,Ce2,isadtordasf()TsfgarnslmeedtpsiftrIaietxlycnryb0edtoattotohdoetddsorm1frtey2S.5.EED.TsdnoftsAtt3etJy1,24S.6.A.TsdnoftsAta5totxysbgonorarJy1,26DNX7TXEER8S.6.Sn2,sn2,pha9sh(,Ce2,isadtordasf0()Tedtagatxe1ddinsn3sleeinarwoftet2eebdunteseinsn3,ust3txeeisr.Frpsoftss4atxeeiscdrdifazoa5rsaetobea,i,orcdurl6Ifmedsartetxe,t7dsslceinter8S.6.Sn2,sn3,phb9sh(,Ce2,isadbysgt0s1S.6.Sn2,sn3,phd2ss()ad(,Ce2,aeadbys3tes4S.6.Sn2,sn3,phe5sh(,Ce2,isadbysgtB1D()9]
+[DELETED: .__H._sS.6.27IaA,cr2,sn1,isatordasfS.1.EED.TefgpnopsinDnIoftsAtteetJy1,221.TesnoftsAtagsn2,s3,ph“Eeinoftsendsntceatweessebytemsoftegla2Tsblrstoteanoftetxb3tedtofrebymgpsr4topli,p,ssadu,mrf5iet,adcgtxeer6DNI——DEOFTXI.Teb7ssadustecstedto8re()mydesetxrnada9intolwe.Teblaomsc0csrdtodeofsetxrni1totetrofsefrpsofdgo2ofadp3Tedntsetune4DNII——ALR.Teblsst5rttttedtayrttoteg6ayteasofrttrnewht7rsoftedtigayrsr8toten9DNII——PYTX——E.Urc0l,actmyaktedrofted,t1cyt,ortedroftedtofh2adhnssfranentocmar3frrtcgpytsinceofs4a,ord.Teblsstedroft5dtfmitinteenrtbytB1D()9]
+[DELETED: .__H._cUrctl,wnigardfranepytxpdbyat,tetrmthpdacmofrdtotebdofs,oria,acmtotepyatalordctwntoysoftefldnonteptso.Urteb,atriseetocardfranestxiftetrhdpadtecmfrardofanestxtot0drofrewntoysoftedsf1d.Tspntsetune2DNIV——FMTYIETXE3C,aneeilmyeeier4byteilpttoafmtycgr5pyhdbyteilfr10ormey,ift6ilmypdinafgbsf710ormey.Teblasteeeilt8eeshieurshc,iftei9mypdinafgbsfr10orm0ysintea.Teblfrsstet1“”istobeddbytehgpdpso2sn13ofteIlReCeadorf3rswhisiltoteueoftetm“4urtefgbseninCesn45DNV——PHE.Urctl6tedtmyieaneofat(to7t)toapporpheypttoC8sn4,adssttteneofa9isaepttoCess48ad40Teblssteneofatisnta1aeurtecspdinCes243Tedntsetunetada4rytoJy1,25DNVI——SSTXC.TeblmscstB1D()9]
+[DELETED: .__H._tecnofsstsonbgm,sadetweano,c,s,obrisaoarrhgassaduetxpUrshc,ifacrofterpsteplpyfmter,tblpsttshpywlntbesttostxiftepywlbesttosstxatreatlrdeoriftepywlbesttouetxattteterrwstepyfmiyfru0byterrinc.Teblmsorr1cstoeeteryoftep2Urctl,ap,u,adcro3tepyorssmybeadtortt4oddytotedtidoftetxb5cdadpdbytes.Teblsstti6ortoqyfrtedtpytxptshat7mtaeatxlyofmetn$0onam8b.C,shatrmtaeatxl9of$0onasybsinortoqyfrt0dtpytxp1DNVI——MRFLT.Urctlwa2beJy1,2,tedtdstereo3eetxidonehgnofelbdg4bduntednpecdinC5sn4,adteeetxreidone6gnofblbdflbdonted7pecdinCesn4.T8dtdstednpebdu9dafmrsfdpttoCesn4.T0blastedttoadteild1pedetoam,orifteisalertf2byarldrtoted,orted3peisnta4Teblcstededeofabltxr5rgtoecfltxdeinJybyoed,aB1D()9]
+[DELETED: .__H._mstebltxpdbyoedTeblasapnwousecflfrnepetopeanencettelehrsgordgtef,iftceispdbytedDNVI——IETX——FECECSDTOR.TeblcsnsCesstorterlofteietxbgfrteesodsdgonorarJy1,2.H,o0psofCecr40rgtotei1txhentbnr.Tedntsetu2etadasrytoteesofd3dgonorarJy1,24DNIX——LPSMDNOFRTI5Urctl,cgwhtxysbgono6arJy1,2,rtieisntstt7Iailiet.H,urctlwal8smdnfmartatissttoI9ietxurCesn4)atareof25p0oftefltxreidonteatoftelps1d2Teblpstttetnofalps3dnfmartatisaoetf4setnbyegtelpsmdnfr5pnwoisd,or55ysofaeoro,orwoi6tesgseofanilorisasrh7anieitinanilwowdheq8frteenfrtetxy9Teblestelpsmdnetf0setnfmbgidincgt1ilietxfgtsinCes24)ad(3Tedntsetunetada4rytotxysbgonorarJy152B1D()9]
+[DELETED: .__H._DNX——EDTXT.UrtebatrfgarnisrdtomeetxpsifIaietxlycnrybedtoed$0orm.Urctl,satrfgarnisrdtomeetxpsifIaietxlycnrybedtoed$0ormTedntsetJy1,2,adastotysbgonorarttd0DNXI——TXEER.Tebls1tttedtagatxee(2c)isntrdtorwtetxeeift3txeehsbnrdorifazoatoft4txeersaetobeadorc5Teblrsfrtxesfmtxe6r:teIafdoffspminCecr17tewdeypntxcsurCecr48teelpntxctinCesn4N(92,adtemmtxcturCesn40(e2.TeblasteAstoanterwo1tereclpntxctinCes228whteferloftereclt3ctpB1D()9]
+
+
+================================================================================
+
+Raw Text:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+REVENUE BILL)
+A BILL FOR
+1 An Act relating to the administration of the tax by the
+2 department of revenue by modifying provisions related to
+3 personal income, property, sales and use, motor fuel, and
+4 inheritance taxes, changing tax expenditure reviews, and
+5 including effective date and retroactive applicability
+6 provisions.
+7 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1390XD (7) 91
+jm/jh
+
+S.F. _____ H.F. _____
+1 DIVISION I
+2 DISCLOSURE OF TAX INFORMATION
+3 Section 1. Section 421.19, subsection 2, Code 2025, is
+4 amended by striking the subsection and inserting in lieu
+5 thereof the following:
+6 2. The department may notify federal, state, or local
+7 law enforcement agencies, and may disclose state returns,
+8 state return information, state investigative information or
+9 audit information, or any other state information, to such law
+10 enforcement agencies, if the department has information that
+11 indicates any of the following:
+12 a. A person intentionally filed a false claim, affidavit,
+13 return, or other information with intent to evade tax or obtain
+14 a refund, credit, or other benefit from the department.
+15 b. A person failed to file a return with intent to evade a
+16 tax or filing requirement.
+17 c. A person failed to pay with the intent to evade tax.
+18 d. A person committed any act or omission that is a criminal
+19 offense under a provision of this title administered by the
+20 department.
+21 Sec. 2. Section 421.19, subsection 3, Code 2025, is amended
+22 to read as follows:
+23 3. Notwithstanding sections 422.20 and 422.72, the
+24 department may disclose state returns, state return
+25 information, state investigative or audit information, or any
+26 other state information as provided under this section.
+27 Sec. 3. Section 422.20, subsection 3, paragraph a, Code
+28 2025, is amended to read as follows:
+29 a. Unless otherwise expressly permitted by section 8G.4,
+30 section 11.41, section 96.11, subsection 6, section 421.17,
+31 subsections 22, 23, and 26, section 421.17, subsection 27,
+32 paragraph “k”, section 421.17, subsection 31, section 252B.9,
+33 section 321.40, subsection 6, sections 321.120, 421.19, 421.28,
+34 421.59, 421.65, 422.72, and 452A.63, and 556.19, subsection 2,
+35 this section, or another provision of law, a tax return, return
+LSB 1390XD (7) 91
+-1- jm/jh 1/26
+
+S.F. _____ H.F. _____
+1 information, or investigative or audit information shall not
+2 be divulged to any person or entity, other than the taxpayer,
+3 the department, or internal revenue service for use in a matter
+4 unrelated to tax administration.
+5 Sec. 4. Section 422.72, subsection 3, paragraph a, Code
+6 2025, is amended to read as follows:
+7 a. Unless otherwise expressly permitted by section 8G.4,
+8 section 11.41, section 96.11, subsection 6, section 421.17,
+9 subsections 22, 23, and 26, section 421.17, subsection 27,
+10 paragraph “k”, section 421.17, subsection 31, section 252B.9,
+11 section 321.40, subsection 6, sections 321.120, 421.19, 421.28,
+12 421.65, 422.20, and 452A.63, and section 556.19, subsection 2,
+13 this section, or another provision of law, a tax return, return
+14 information, or investigative or audit information shall not
+15 be divulged to any person or entity, other than the taxpayer,
+16 the department, or internal revenue service for use in a matter
+17 unrelated to tax administration.
+18 Sec. 5. EFFECTIVE DATE. This division of this Act, being
+19 deemed of immediate importance, takes effect upon enactment.
+20 DIVISION II
+21 ANNUAL REPORTING
+22 Sec. 6. Section 421.60, subsection 2, paragraph k, Code
+23 2025, is amended by striking the paragraph.
+24 Sec. 7. Section 422.75, Code 2025, is amended to read as
+25 follows:
+26 422.75 Statistics —— publication.
+27 The department shall prepare and publish an annual report
+28 which shall include statistics reasonably available, with
+29 respect to the operation of this chapter, including amounts
+30 collected, classification of taxpayers, and such other facts
+31 as are deemed pertinent and valuable. The annual report shall
+32 also include the reports and information required pursuant to
+33 section 421.60, subsection 2, paragraph “k”.
+34 DIVISION III
+35 PROPERTY TAX —— CHANGES
+LSB 1390XD (7) 91
+-2- jm/jh 2/26
+
+S.F. _____ H.F. _____
+1 Sec. 8. Section 425.20, subsection 3, Code 2025, is amended
+2 to read as follows:
+3 3. In case of sickness, absence, or other disability of
+4 the claimant or if, in the judgment of the director of revenue
+5 or the director of health and human services, as applicable,
+6 good cause exists and the claimant requests an extension, the
+7 director of health and human services may extend the time for
+8 filing a claim for reimbursement and the director of revenue
+9 may extend the time for filing a claim for credit. However,
+10 any further time granted shall not extend beyond December 31
+11 of the year following the year in which the claim was required
+12 to be filed. Claims filed as a result of this subsection shall
+13 be filed with the director of health and human services or the
+14 director of revenue, as applicable, who shall provide for the
+15 reimbursement of the claim to the claimant.
+16 Sec. 9. Section 445.60, Code 2025, is amended to read as
+17 follows:
+18 445.60 Refunding erroneous tax.
+19 The board of supervisors shall direct the county treasurer
+20 to refund to the taxpayer any tax or portion of a tax found to
+21 have been erroneously or illegally paid, with all interest,
+22 fees, and costs actually paid. A refund shall not be ordered
+23 or made unless a claim for refund is presented to the board
+24 within two years of the date the tax was due, or if appealed
+25 to the board of review, the property assessment appeal board,
+26 director of revenue, or district court, within two years of the
+27 final decision.
+28 Sec. 10. EFFECTIVE DATE. The following, being deemed of
+29 immediate importance, takes effect upon enactment:
+30 The section of this division of this Act amending section
+31 445.60.
+32 DIVISION IV
+33 FARM TENANCY INCOME TAX EXCLUSION
+34 Sec. 11. Section 422.7, subsection 14, paragraph a, Code
+35 2025, is amended to read as follows:
+LSB 1390XD (7) 91
+-3- jm/jh 3/26
+
+S.F. _____ H.F. _____
+1 a. Subtract, to the extent included, net income received
+2 by an eligible individual pursuant to a farm tenancy agreement
+3 covering real property held by the eligible individual for
+4 ten or more years, if the eligible individual materially
+5 participated in a farming business for ten or more years in the
+6 aggregate.
+7 Sec. 12. Section 422.7, subsection 14, paragraph f, Code
+8 2025, is amended by adding the following new subparagraph:
+9 NEW SUBPARAGRAPH. (04) “Held” shall be determined with
+10 reference to the holding period provisions of section 1223 of
+11 the Internal Revenue Code and the federal regulations pursuant
+12 thereto.
+13 DIVISION V
+14 PASS-THROUGH ENTITIES
+15 Sec. 13. Section 422.25C, subsection 2, Code 2025, is
+16 amended to read as follows:
+17 2. For tax years beginning on or after January 1, 2020, any
+18 adjustments to a partnership’s or pass-through entity’s items
+19 of income, gain, loss, expense, or credit, or an adjustment to
+20 such items allocated to a partner that holds an interest in a
+21 partnership or pass-through entity for the reviewed year by
+22 the department as a result of a state partnership audit, shall
+23 be determined at the partnership level or pass-through entity
+24 level in the same manner as provided by section 6221(a) of the
+25 Internal Revenue Code and the regulations thereunder unless a
+26 different treatment is specifically provided in this title.
+27 The provisions of sections 6222, 6223, and 6227 of the Internal
+28 Revenue Code and the regulations thereunder shall also apply to
+29 a partnership or pass-through entity and its direct or indirect
+30 partners in the same manner as provided in such sections unless
+31 a different treatment is specifically provided in this title.
+32 For purposes of applying such sections, due account shall be
+33 made for differences in federal and Iowa terminology. The
+34 adjustment provided by section 6221(a) of the Internal Revenue
+35 Code shall be determined as provided in such section but shall
+LSB 1390XD (7) 91
+-4- jm/jh 4/26
+
+S.F. _____ H.F. _____
+1 be based on Iowa taxable income or other tax attributes of
+2 the partnership or pass-through entity as determined pursuant
+3 to this chapter for the reviewed year. The department shall
+4 issue a notice of adjustment to the partnership or pass-through
+5 entity. Such notice shall be treated as an assessment for the
+6 purposes of section 422.25, and the notice shall be appealable,
+7 except as provided in section 422.25, by the partnership or
+8 pass-through entity pursuant to sections 422.28 and 422.29 and
+9 shall be issued within the time period provided by section
+10 422.25. Once the adjustments to partnership-related or
+11 pass-through entity-related items or reallocations of income,
+12 gains, losses, expenses, credits, and other attributes among
+13 such partners for the reviewed year are finally determined,
+14 the partnership or pass-through entity and any direct partners
+15 or indirect partners shall then be subject to the provisions
+16 of section 422.25, subsection 1, paragraph “e”, and section
+17 422.25A in the same manner as if the state partnership audit
+18 were a federal partnership level audit, and as if the final
+19 state partnership audit adjustment were a final federal
+20 partnership adjustment. The penalty exceptions in section
+21 421.27, subsection 2, paragraphs “b” and “c”, shall not apply
+22 to a state partnership audit.
+23 Sec. 14. EFFECTIVE DATE. This division of this Act, being
+24 deemed of immediate importance, takes effect upon enactment.
+25 Sec. 15. RETROACTIVE APPLICABILITY. This division of this
+26 Act applies retroactively to January 1, 2024.
+27 DIVISION VI
+28 SALES TAX CHANGES
+29 Sec. 16. Section 423.2, subsection 1, paragraph b, Code
+30 2025, is amended to read as follows:
+31 b. (1) Sales of building materials, supplies, and equipment
+32 to owners, contractors, subcontractors, or builders for the
+33 erection of buildings or the alteration, repair, or improvement
+34 of real property are retail sales of tangible personal property
+35 in whatever quantity sold. Where the owner, contractor,
+LSB 1390XD (7) 91
+-5- jm/jh 5/26
+
+S.F. _____ H.F. _____
+1 subcontractor, or builder is also a retailer holding a sales
+2 or use tax permit and transacting retail sales of building
+3 materials, supplies, and equipment, the person shall purchase
+4 such items of tangible personal property without liability for
+5 the tax if such property will be subject to the tax at the
+6 time of resale or at the time it is withdrawn from inventory
+7 for construction purposes. The sales tax shall be due in the
+8 reporting period when the materials, supplies, and equipment
+9 are withdrawn from inventory for construction purposes or
+10 when sold at retail. The tax shall not be due when materials
+11 are withdrawn from inventory for use in construction outside
+12 of Iowa and the tax shall not apply to tangible personal
+13 property purchased and consumed by the manufacturer as building
+14 materials in the performance by the manufacturer or its
+15 subcontractor of construction outside of Iowa. The sale of
+16 carpeting is not a sale of building materials. The sale of
+17 carpeting to owners, contractors, subcontractors, or builders
+18 shall be treated as the sale of ordinary tangible personal
+19 property and subject to the tax imposed under this subsection
+20 and the use tax Sales of building materials and supplies to
+21 contractors, subcontractors, or builders for the erection of
+22 buildings and other structures or for the reconstruction,
+23 alteration, expansion, or remodeling of buildings and other
+24 structures are retail sales of tangible personal property.
+25 Sales of building materials and supplies to contractors,
+26 subcontractors, or builders for use in repairs to or for
+27 installation in existing buildings and other structures
+28 are purchases for resale. Sales of building equipment to
+29 contractors, subcontractors, or builders are retails sales of
+30 tangible personal property.
+31 (2) Where the owner, contractor, subcontractor, or builder
+32 is also a retailer holding a sales and use tax permit and
+33 transacting retail sales of building materials, supplies, and
+34 equipment, the person shall purchase such items of tangible
+35 personal property without liability for the tax if such
+LSB 1390XD (7) 91
+-6- jm/jh 6/26
+
+S.F. _____ H.F. _____
+1 property will be subject to sales tax at the time of resale
+2 or subject to use tax at the time the retailer withdraws
+3 such property from inventory for use by the retailer in
+4 erecting buildings and other structures or for reconstruction,
+5 alteration, expansion, or remodeling of buildings and other
+6 structures. The tax shall be due in the reporting period
+7 when the materials, supplies, or equipment are withdrawn from
+8 inventory or when sold at retail. The tax shall not be due when
+9 materials and supplies are withdrawn from inventory for use in
+10 construction outside of Iowa.
+11 (3) The sale of carpeting is not a sale of building
+12 materials. Sales of carpeting to owners, contractors,
+13 subcontractors, or builders are retail sales of tangible
+14 personal property and subject to tax.
+15 Sec. 17. Section 423.36, subsection 9, paragraph a, Code
+16 2025, is amended to read as follows:
+17 a. Except as provided in paragraph “b”, purchasers, users,
+18 and consumers of tangible personal property, specified digital
+19 products, or enumerated services taxed pursuant to subchapter
+20 II or III of this chapter or chapter 423B may be authorized,
+21 pursuant to rules adopted by the director, to remit tax owed
+22 directly to the department instead of the tax being collected
+23 and paid by the seller. To qualify for a direct pay tax permit,
+24 the purchaser, user, or consumer must accrue a tax liability of
+25 more than four eight thousand dollars in tax under subchapters
+26 II and III in a semimonthly monthly period and make deposits
+27 and file returns pursuant to section 423.31. This authority
+28 shall not be granted or exercised except upon application to
+29 the director and then only after issuance by the director of a
+30 direct pay tax permit.
+31 DIVISION VII
+32 MOTOR FUEL TAXES
+33 Sec. 18. Section 452A.3, subsection 1, paragraph b,
+34 unnumbered paragraph 1, Code 2025, is amended to read as
+35 follows:
+LSB 1390XD (7) 91
+-7- jm/jh 7/26
+
+S.F. _____ H.F. _____
+1 On and after July 1, 2030, an excise tax of thirty cents is
+2 imposed on each gallon of ethanol blended gasoline classified
+3 as E-15 or higher. Before July 1, 2030, the rate of the excise
+4 tax on ethanol blended gasoline classified as E-15 or higher
+5 shall be based on the number of gallons of ethanol blended
+6 gasoline classified as E-15 or higher that are distributed
+7 in this state as expressed as a percentage of the number of
+8 gallons of motor fuel distributed in this state, which is
+9 referred to as the distribution percentage. For purposes
+10 of this paragraph “b”, only ethanol blended gasoline and
+11 nonblended gasoline, not including aviation gasoline, shall be
+12 used in determining the percentage basis for the excise tax.
+13 The department shall determine the percentage basis for each
+14 determination period beginning January 1 and ending December 31
+15 based on information from reports submitted to the department
+16 for filing pursuant to section 452A.33. Before June 1, the
+17 department may amend the distribution percentage due to a
+18 mistake, if there is a late report filed by a retail dealer
+19 to the department under section 452A.33, subsection 1, or if
+20 the distribution percentage is not accurate. The rate for the
+21 excise tax shall apply for the period beginning July 1 and
+22 ending June 30 following the end of the determination period.
+23 Before July 1, 2030, the rate of the excise tax on each gallon
+24 of ethanol blended gasoline classified as E-15 or higher shall
+25 be as follows:
+26 Sec. 19. Section 452A.3, subsection 3, paragraph a,
+27 subparagraph (2), unnumbered paragraph 1, Code 2025, is amended
+28 to read as follows:
+29 Except as otherwise provided in this section and in this
+30 subchapter, this subparagraph shall apply to the excise tax
+31 imposed on each gallon of biodiesel blended fuel classified
+32 as B-20 or higher used for any purpose for the privilege of
+33 operating motor vehicles in this state. On and after July 1,
+34 2030, the rate of the excise tax on each gallon of biodiesel
+35 blended fuel classified as B-20 or higher is thirty-two and
+LSB 1390XD (7) 91
+-8- jm/jh 8/26
+
+S.F. _____ H.F. _____
+1 five-tenths cents. Before July 1, 2030, the rate of the excise
+2 tax on each gallon of biodiesel blended fuel classified as
+3 B-20 or higher shall be based on the number of gallons of
+4 biodiesel blended fuel classified as B-20 or higher that are
+5 distributed in this state as expressed as a percentage of the
+6 number of gallons of special fuel for diesel engines of motor
+7 vehicles distributed in this state, which is referred to as
+8 the distribution percentage. The department shall determine
+9 the percentage basis for each determination period beginning
+10 January 1 and ending December 31 based on information from
+11 reports submitted to the department for filing pursuant to
+12 section 452A.33. Before June 1, the department may amend the
+13 distribution percentage due to a mistake, if there is a late
+14 report filed by a retail dealer to the department under section
+15 452A.33, subsection 1, or if the distribution percentage is
+16 not accurate. The rate of the excise tax shall apply for the
+17 period beginning July 1 and ending June 30 following the end of
+18 the determination period. Before July 1, 2030, the rate of the
+19 excise tax on each gallon of biodiesel blended fuel classified
+20 as B-20 or higher shall be as follows:
+21 Sec. 20. Section 452A.15, subsection 5, Code 2025, is
+22 amended to read as follows:
+23 5. The director may impose a civil penalty against any
+24 person who fails to timely file the reports or keep the records
+25 required under this section. The penalty shall be one hundred
+26 dollars for the first violation and shall increase by one
+27 hundred dollars for each additional violation occurring in the
+28 calendar year in which the first violation occurred.
+29 Sec. 21. Section 452A.33, subsection 2, unnumbered
+30 paragraph 1, Code 2025, is amended to read as follows:
+31 On or before April 1 the department shall deliver a report
+32 to the governor and the legislative services agency. Before
+33 June 1, the department may amend the report due to a mistake,
+34 if there is a late report by a retail dealer under subsection
+35 1, or if the report is not accurate. The report shall compile
+LSB 1390XD (7) 91
+-9- jm/jh 9/26
+
+S.F. _____ H.F. _____
+1 information reported by retail dealers to the department as
+2 provided in this section and shall at least include all of the
+3 following:
+4 Sec. 22. Section 452A.41, subsection 5, paragraph a, Code
+5 2025, is amended to read as follows:
+6 a. For the purpose of determining the amount of liability
+7 for the electric fuel tax, each dealer and user shall file with
+8 the department not later than July 31 for the period beginning
+9 January 1 and ending June 30, and not later than January 30
+10 31 for the period beginning July 1 and ending December 30 31,
+11 a biannual tax return certified under penalties for false
+12 certification. The return shall show, with reference to each
+13 location at which fuel is delivered or placed by the dealer or
+14 user into the battery or other energy storage device of any
+15 electric motor vehicle during the next preceding six calendar
+16 months, information as required by the department. On and
+17 after January 1, 2026, the department may require by rule that
+18 such tax returns be filed quarterly.
+19 Sec. 23. Section 452A.44, Code 2025, is amended by adding
+20 the following new subsection:
+21 NEW SUBSECTION. 4. If electric fuel is sold or dispensed
+22 for a nontaxable purpose, the purchaser may complete and
+23 provide an exemption certificate produced by the department to
+24 the license holder.
+25 DIVISION VIII
+26 INHERITANCE TAX —— FUTURE CODE CHANGES DUE TO REPEAL
+27 Sec. 24. Section 12D.9, subsection 3, Code 2025, is amended
+28 to read as follows:
+29 3. State For a death occurring before January 1, 2025, state
+30 inheritance tax treatment of interests in Iowa educational
+31 savings plans shall be as provided in section 450.4, subsection
+32 8. This subsection shall apply to all Iowa educational savings
+33 plans existing on or after July 1, 1998.
+34 Sec. 25. Section 12I.8, subsection 3, Code 2025, is amended
+35 to read as follows:
+LSB 1390XD (7) 91
+-10- jm/jh 10/26
+
+S.F. _____ H.F. _____
+1 3. State For a death occurring before January 1, 2025, state
+2 inheritance tax treatment of interests in Iowa ABLE savings
+3 plans shall be as provided in section 450.4, subsection 9.
+4 Sec. 26. Section 12I.10, subsection 3, Code 2025, is amended
+5 to read as follows:
+6 3. State For a death occurring before January 1, 2025, state
+7 inheritance tax treatment of interests in the qualified ABLE
+8 program with which the state has contracted pursuant to this
+9 section shall be as provided in section 450.4, subsection 9.
+10 Sec. 27. Section 16.177, subsection 8, Code 2025, is amended
+11 to read as follows:
+12 8. Bonds issued under this section are declared to be issued
+13 for an essential public and governmental purpose and all bonds
+14 issued under this section shall be exempt from taxation by the
+15 state of Iowa and the interest on the bonds shall be exempt
+16 from the state income tax and the any state inheritance tax.
+17 Sec. 28. Section 321.47, subsection 2, paragraph a, Code
+18 2025, is amended to read as follows:
+19 a. The persons entitled under the laws of descent and
+20 distribution to the possession and ownership of a vehicle owned
+21 in whole or in part by a decedent who died intestate, upon
+22 filing an affidavit stating the name and date of death of the
+23 decedent, the right to possession and ownership of the persons
+24 filing the affidavit, and that there has been no administration
+25 of the decedent’s estate, which instrument must also contain
+26 an agreement by the affiant to indemnify creditors of the
+27 decedent who would be entitled to levy execution upon the motor
+28 vehicle to the extent of the value of the motor vehicle, shall,
+29 upon complying with the other title transfer requirements of
+30 this chapter, be issued a registration card for the decedent’s
+31 interest in the vehicle and a certificate of title to the
+32 vehicle. If a decedent died testate, and either the will is
+33 not probated or is admitted to probate without administration,
+34 the persons entitled to the possession and ownership of
+35 a vehicle owned in whole or in part by the decedent may
+LSB 1390XD (7) 91
+-11- jm/jh 11/26
+
+S.F. _____ H.F. _____
+1 file an affidavit and, upon complying with the other title
+2 transfer requirements of this chapter, shall be issued a
+3 registration card for the decedent’s interest in the vehicle
+4 and a certificate of title to the vehicle. The affidavit
+5 must contain the same information and indemnity agreement
+6 as is required in cases of intestacy under this subsection.
+7 Chapter 450 is not For a death occurring before January 1,
+8 2025, a requirement of chapter 450 shall not be considered
+9 satisfied by the filing of the affidavit provided for in this
+10 subsection. If, from the records in the office of the county
+11 treasurer, there appear to be any liens on the vehicle, the
+12 certificate of title must contain a statement of the liens
+13 unless the application is accompanied by proper evidence of
+14 the satisfaction or extinction of such liens. Evidence of
+15 extinction includes but is not limited to an affidavit of the
+16 applicant stating that a security interest was foreclosed as
+17 provided in chapter 554, article 9, part 6. The department
+18 shall waive the certificate of title fee and surcharge required
+19 under sections 321.20, 321.20A, 321.23, 321.46, 321.52, and
+20 321.52A if the person entitled to possession and ownership of
+21 a vehicle, as provided in this subsection, is the surviving
+22 spouse of a decedent.
+23 Sec. 29. Section 331.602, subsection 23, Code 2025, is
+24 amended to read as follows:
+25 23. Forward For deaths occurring before January 1, 2025,
+26 forward to the director of revenue a copy of any deed, bill of
+27 sale, or other transfer which shows that it is made or intended
+28 to take effect at or after the death of the person executing
+29 the instrument as provided in section 450.81.
+30 Sec. 30. Section 331.756, subsection 57, Code 2025, is
+31 amended to read as follows:
+32 57. Represent For deaths occurring before January 1, 2025,
+33 represent the state in litigation relating to the inheritance
+34 tax if requested by the department of revenue as provided in
+35 section 450.1.
+LSB 1390XD (7) 91
+-12- jm/jh 12/26
+
+S.F. _____ H.F. _____
+1 Sec. 31. Section 421.27, subsection 1, paragraph d,
+2 subparagraph (13), Code 2025, is amended to read as follows:
+3 (13) That For a death occurring before January 1, 2025,
+4 that an Iowa inheritance tax return is filed for an estate
+5 within the later of nine months from the date of death or sixty
+6 days from the filing of a disclaimer by the beneficiary of the
+7 estate refusing to take the property or right or interest in
+8 the property.
+9 Sec. 32. Section 421.60, subsection 2, paragraph c,
+10 subparagraph (1), Code 2025, is amended to read as follows:
+11 (1) If the notice of assessment or denial of a claim for
+12 refund relates to a tax return filed pursuant to section
+13 422.14, or pursuant to chapter 450 for a death occurring before
+14 January 1, 2025, by the taxpayer which designates an individual
+15 as an authorized representative of the taxpayer with respect to
+16 that return, or if a power of attorney has been filed with the
+17 department by the taxpayer which designates an individual as
+18 an authorized representative of the taxpayer with respect to
+19 any tax that is included in the notice of assessment or denial
+20 of a claim for refund, a copy of the notice together with any
+21 additional information required to be sent to the taxpayer
+22 shall be sent to the authorized representative as well.
+23 Sec. 33. Section 422.27, subsection 1, Code 2025, is amended
+24 to read as follows:
+25 1. A final account of a personal representative, as defined
+26 in section 450.1, shall not be allowed by any court unless the
+27 account shows, and the judge of the court finds, that all taxes
+28 imposed by this subchapter upon the personal representative,
+29 which have become payable, have been paid, and that all taxes
+30 which may become due are secured by bond or deposit, or are
+31 otherwise secured. The certificate of acquittances of the
+32 department of revenue is conclusive as to the payment of the
+33 tax to the extent of the acquittance. This subsection does
+34 not apply if all property in the estate of a decedent is
+35 held in joint tenancy with right of survivorship by husband
+LSB 1390XD (7) 91
+-13- jm/jh 13/26
+
+S.F. _____ H.F. _____
+1 and wife alone. For purposes of this subsection, “personal
+2 representative” means an administrator, executor, or trustee as
+3 each is defined in section 633.3.
+4 Sec. 34. Section 496C.14, subsection 6, paragraph h, Code
+5 2025, is amended to read as follows:
+6 h. Notwithstanding the provisions of this section,
+7 payment of any part of the purchase price for shares of a
+8 deceased shareholder shall not be required until the executor
+9 or administrator of the deceased shareholder provides
+10 any indemnity, release, or other document from any taxing
+11 authority, which is reasonably necessary to protect the
+12 corporation against liability for any estate, inheritance, and
+13 death taxes tax, or any inheritance tax for a death occurring
+14 before January 1, 2025.
+15 Sec. 35. Section 524.805, subsection 8, Code 2025, is
+16 amended to read as follows:
+17 8. A state bank may receive deposits from one or more
+18 persons with the provision that upon the death of the
+19 depositors the deposit account shall be the property of the
+20 person or persons designated by the deceased depositors as
+21 shown on the deposit account records of the state bank. After
+22 payment by the state bank, the proceeds shall remain subject
+23 to the any debts of the decedent and the any payment of Iowa
+24 inheritance tax, if any for a death occurring prior to January
+25 1, 2025. A state bank paying the person or persons designated
+26 shall not be liable as a result of that action for any debts
+27 of the decedent or for any estate, inheritance, or succession
+28 taxes which may be due this state.
+29 Sec. 36. Section 541A.2, subsection 6, unnumbered paragraph
+30 1, Code 2025, is amended to read as follows:
+31 An individual development account closed in accordance
+32 with this subsection is not subject to the limitations and
+33 benefits provided by this chapter but is subject to state tax
+34 in accordance with the provisions of section 422.7, subsection
+35 17, and in accordance with the provisions of section 450.4,
+LSB 1390XD (7) 91
+-14- jm/jh 14/26
+
+S.F. _____ H.F. _____
+1 subsection 6, for a death occurring before January 1, 2025. An
+2 individual development account may be closed for any of the
+3 following reasons:
+4 Sec. 37. Section 602.8102, subsection 63, Code 2025, is
+5 amended to read as follows:
+6 63. Carry out duties relating to the inheritance tax as
+7 provided in chapter 450 for deaths occurring before January 1,
+8 2025.
+9 Sec. 38. Section 633.21, Code 2025, is amended to read as
+10 follows:
+11 633.21 Appraisers’ fees and referees’ fees fixed by rule.
+12 The district judges of each judicial district shall by rule
+13 fix the fees of probate referees, and also provide, insofar as
+14 practicable, a uniform schedule of compensation for inheritance
+15 tax appraisers, other appraisers, brokers, and agents employed
+16 at estate expense.
+17 Sec. 39. Section 633.31, subsection 2, paragraph a, Code
+18 2025, is amended to read as follows:
+19 a. For services performed in short form probates
+20 pursuant to sections 450.22 and 450.44 for deaths occurring
+21 before January 1, 2025..................................$ 15.00
+22 Sec. 40. Section 633.356, subsection 1, unnumbered
+23 paragraph 1, Code 2025, is amended to read as follows:
+24 When the gross value of the decedent’s personal property
+25 that would otherwise be distributed by will or intestate
+26 succession is or has been, at any time since the decedent’s
+27 death, fifty thousand dollars or less and there is no real
+28 property, or for deaths occurring before January 1, 2025, the
+29 real property passes to persons exempt from inheritance tax
+30 as joint tenants with full rights of survivorship pursuant to
+31 chapter 450, and if forty days have elapsed since the death of
+32 the decedent, a successor as defined in subsection 2 may, by
+33 furnishing an affidavit prepared pursuant to subsection 3 or
+34 8, and without procuring letters of appointment, do any of the
+35 following with respect to one or more items of such personal
+LSB 1390XD (7) 91
+-15- jm/jh 15/26
+
+S.F. _____ H.F. _____
+1 property:
+2 Sec. 41. Section 633.356, subsection 3, paragraph a,
+3 subparagraph (3), Code 2025, is amended to read as follows:
+4 (3) That the gross value of the decedent’s personal property
+5 that would otherwise be distributed by will or intestate
+6 succession is, or has been at any time since the decedent’s
+7 death, fifty thousand dollars or less and there is no real
+8 property, or for deaths occurring before January 1, 2025, the
+9 real property passes to persons exempt from inheritance tax
+10 as joint tenants with full rights of survivorship pursuant to
+11 chapter 450.
+12 Sec. 42. Section 633.356, subsection 3, paragraph a,
+13 subparagraph (10), Code 2025, is amended to read as follows:
+14 (10) That no inheritance or other taxes are owed to the
+15 department of revenue for a death occurring prior to January 1,
+16 2025, or if taxes are owed, that the taxes will be paid to the
+17 extent of funds received pursuant to the affidavit.
+18 Sec. 43. Section 633.356, subsection 9, Code 2025, is
+19 amended to read as follows:
+20 9. Upon receipt of an affidavit under subsection 3 and
+21 reasonable proof under subsection 5 of the identity of each
+22 successor seeking distribution by virtue of the affidavit,
+23 the holder of the property shall disclose to the affiant
+24 whether the value of the property held by the holder is, or has
+25 been at any time since the decedent’s death, fifty thousand
+26 dollars or less. An affidavit furnished for the purpose of
+27 determining whether the value of the property is, or has
+28 been at any time since the decedent’s death, fifty thousand
+29 dollars or less need not contain the language required under
+30 subsection 3, paragraph “a”, subparagraph (3), but shall state
+31 that the affiant reasonably believes that the gross value
+32 of the decedent’s personal property that would otherwise be
+33 distributed by will or intestate succession is, or has been at
+34 any time since the decedent’s death, fifty thousand dollars
+35 or less and there is no real property or for deaths occurring
+LSB 1390XD (7) 91
+-16- jm/jh 16/26
+
+S.F. _____ H.F. _____
+1 before January 1, 2025, the real property passes to persons
+2 exempt from inheritance tax as joint tenants with full rights
+3 of survivorship pursuant to chapter 450.
+4 Sec. 44. Section 633.361, subsection 12, Code 2025, is
+5 amended to read as follows:
+6 12. A listing of all other items, with estimated values,
+7 which are subject to Iowa inheritance tax for deaths occurring
+8 before January 1, 2025, or federal estate tax.
+9 Sec. 45. Section 633.365, Code 2025, is amended to read as
+10 follows:
+11 633.365 Appraisement.
+12 Property belonging to the estate need not be appraised
+13 unless required for inheritance tax purposes for deaths
+14 occurring before January 1, 2025, under the provisions of this
+15 probate code, or by order of court.
+16 Sec. 46. Section 633.399, Code 2025, is amended to read as
+17 follows:
+18 633.399 Report for approval.
+19 After making any such sale, mortgage, exchange or lease
+20 of real property, the personal representative shall make
+21 a verified report thereof to the court. The court shall
+22 examine said report, and if satisfied that the sale, mortgage,
+23 exchange, or lease has been at a price and upon terms
+24 advantageous to the estate, and, in all respects, made in
+25 conformity with law, and that it ought to be confirmed, shall
+26 confirm the same and order the personal representative to
+27 deliver a deed, mortgage, lease or other proper instruments
+28 to the persons entitled thereto; provided, however, that in
+29 the event said real property has been sold at private sale
+30 without an appraisal for inheritance tax purposes for a death
+31 occurring before January 1, 2025, or for purpose of such sale,
+32 or, if it has been so appraised and has been sold at private
+33 sale for less than the appraised value thereof, then, upon the
+34 filing of such report, the court may enter an order fixing a
+35 time and place for hearing thereon and prescribe a notice of
+LSB 1390XD (7) 91
+-17- jm/jh 17/26
+
+S.F. _____ H.F. _____
+1 such hearing to be served upon all interested persons, any one
+2 of whom, prior to the time fixed for such hearing, may file
+3 written objections to the entry of an order approving said
+4 sale. If not satisfied that the sale, mortgage, exchange, or
+5 lease has been made in conformity with law and that it is to the
+6 best interests of the estate, the court may reject the sale,
+7 mortgage, exchange, or lease, and enter such orders as the
+8 court may deem advisable.
+9 Sec. 47. Section 633.477, subsection 10, Code 2025, is
+10 amended to read as follows:
+11 10. A statement as to whether or not all statutory
+12 requirements pertaining to taxes have been complied with
+13 including whether the federal estate tax due has been paid,
+14 whether a lien continues to exist for any federal estate tax,
+15 and whether inheritance tax was paid or a return was filed in
+16 this state for a death occurring before January 1, 2025.
+17 Sec. 48. Section 633.479, subsection 2, paragraph a,
+18 subparagraph (5), Code 2025, is amended to read as follows:
+19 (5) Compliance with sections section 422.27, and section
+20 450.58 for deaths occurring before January 1, 2025, have been
+21 fulfilled.
+22 Sec. 49. Section 633.481, Code 2025, is amended to read as
+23 follows:
+24 633.481 Certificate to county recorder for tax purposes
+25 without administration.
+26 When an inventory or report is filed under section 450.22 for
+27 deaths occurring before January 1, 2025, without administration
+28 of the estate of the decedent, the heir or heir’s attorney
+29 shall prepare and deliver to the county recorder of the county
+30 in which the real estate is situated a certificate pertaining
+31 to each parcel of real estate described in the inventory or
+32 report. Any fees for certificates or recording fees required
+33 by this section or section 633.480 shall be assessed as costs
+34 of administration. The fees for recording and indexing the
+35 instrument shall be as provided in section 331.604. The county
+LSB 1390XD (7) 91
+-18- jm/jh 18/26
+
+S.F. _____ H.F. _____
+1 recorder shall deliver the certificates to the county auditor
+2 as provided in section 558.58.
+3 Sec. 50. Section 635.7, subsection 1, Code 2025, is amended
+4 to read as follows:
+5 1. The personal representative is required to file the
+6 report and inventory for which provision is made in section
+7 633.361, including all probate and nonprobate assets. This
+8 chapter does not exempt the personal representative from
+9 complying with the requirements of section 422.27, 450.22,
+10 450.58, 633.480, or 633.481, and the administration of an
+11 estate whether converted to or from a small estate shall be
+12 considered one proceeding pursuant to section 633.330. For
+13 a death occurring before January 1, 2025, this chapter does
+14 not exempt the personal representative from complying with the
+15 requirements of section 450.22 or 450.58.
+16 Sec. 51. Section 635.8, subsection 1, paragraph e, Code
+17 2025, is amended to read as follows:
+18 e. A statement that all statutory requirements pertaining to
+19 taxes have been complied with, including whether federal estate
+20 tax due has been paid, whether a lien continues to exist for
+21 any federal estate tax, and whether inheritance tax was paid
+22 or a tax return was filed in this state for a death occurring
+23 before January 1, 2025.
+24 Sec. 52. Section 654.16, subsection 2, Code 2025, is amended
+25 to read as follows:
+26 2. If a homestead is designated, the court shall determine
+27 the fair market value of the designated homestead before
+28 the sheriff’s sale. The court may consult with the county
+29 appraisers appointed pursuant to section 450.24 for deaths
+30 occurring before January 1, 2025, or with one or more
+31 independent appraisers, to determine the fair market value of
+32 the designated homestead.
+33 Sec. 53. EFFECTIVE DATE. This division of this Act, being
+34 deemed of immediate importance, takes effect upon enactment.
+35 Sec. 54. RETROACTIVE APPLICABILITY. This division of this
+LSB 1390XD (7) 91
+-19- jm/jh 19/26
+
+S.F. _____ H.F. _____
+1 Act applies retroactively to January 1, 2025, to the estates of
+2 decedents dying on or after January 1, 2025.
+3 DIVISION IX
+4 LUMP SUM DISTRIBUTION OF RETIREMENT INCOME
+5 Sec. 55. Section 422.5, subsection 7, Code 2025, is amended
+6 to read as follows:
+7 7. a. In addition to the other taxes imposed by this
+8 section, a tax is imposed, except under paragraph “b”, on the
+9 amount of a lump sum distribution for which the taxpayer has
+10 elected under section 402(e) of the Internal Revenue Code to
+11 be separately taxed for federal income tax purposes for the
+12 tax year. The rate of tax is equal to twenty-five percent of
+13 the separate federal tax imposed on the amount of the lump
+14 sum distribution. A nonresident is liable for this tax only
+15 on that portion of the lump sum distribution allocable to
+16 Iowa. The total amount of the lump sum distribution subject
+17 to separate federal tax shall be included in net income for
+18 purposes of determining eligibility under subsections 2 and 3,
+19 as applicable, except the amount of the lump sum distribution
+20 exempt from state tax in paragraph “b” shall not be included.
+21 b. The amount of a lump sum distribution that is received
+22 from a governmental or other pension or retirement plan,
+23 including defined benefit or defined contribution plans,
+24 annuities, individual retirement accounts, plans maintained or
+25 contributed to by an employer, or maintained or contributed
+26 to by a self-employed person as an employer, and deferred
+27 compensation plans or any earnings attributable to the deferred
+28 compensation plans is exempt from state tax imposed under
+29 paragraph “a” if received by a person who is disabled, or is
+30 fifty-five years of age or older, or is the surviving spouse of
+31 an individual or is a survivor having an insurable interest in
+32 an individual who would have qualified for the exemption under
+33 this subsection for the tax year.
+34 Sec. 56. EFFECTIVE DATE. This division of this Act, being
+35 deemed of immediate importance, takes effect upon enactment.
+LSB 1390XD (7) 91
+-20- jm/jh 20/26
+
+S.F. _____ H.F. _____
+1 Sec. 57. RETROACTIVE APPLICABILITY. This division of this
+2 Act applies retroactively to January 1, 2025, for tax years
+3 beginning on or after that date.
+4 DIVISION X
+5 ESTIMATED TAX THRESHOLD
+6 Sec. 58. Section 422.16, subsection 12, paragraph a,
+7 subparagraph (1), Code 2025, is amended to read as follows:
+8 (1) Taxpayers filing a return shall make estimated tax
+9 payments if their Iowa income tax liability can reasonably be
+10 expected to amount to two hundred one thousand dollars or more
+11 for the year.
+12 Sec. 59. EFFECTIVE DATE. This division of this Act takes
+13 effect January 1, 2026.
+14 Sec. 60. APPLICABILITY. This division of this Act applies
+15 to tax years beginning on or after January 1, 2026.
+16 DIVISION XI
+17 TAX EXPENDITURE REVIEW
+18 Sec. 61. Section 2.48, subsection 2, paragraph a,
+19 subparagraph (1), Code 2025, is amended to read as follows:
+20 (1) The department administering a tax expenditure
+21 described in subsection 3 shall engage in a review of the tax
+22 expenditure based upon the schedule in subsection 3, unless the
+23 tax expenditure is repealed. For purposes of this section,
+24 a tax expenditure is considered repealed if a zero amount
+25 remains available to be awarded, issued, or claimed under law.
+26 If multiple departments administer the tax expenditure, the
+27 departments shall cooperate in the review.
+28 Sec. 62. Section 2.48, subsection 3, paragraph b,
+29 subparagraph (1), Code 2025, is amended by striking the
+30 subparagraph.
+31 Sec. 63. Section 2.48, subsection 3, paragraph d,
+32 subparagraphs (3) and (5), Code 2025, are amended by striking
+33 the subparagraphs.
+34 Sec. 64. Section 2.48, subsection 3, paragraph e,
+35 subparagraph (4), Code 2025, is amended by striking the
+LSB 1390XD (7) 91
+-21- jm/jh 21/26
+
+S.F. _____ H.F. _____
+1 subparagraph.
+2 Sec. 65. 2017 Iowa Acts, chapter 29, section 169, is amended
+3 to read as follows:
+4 SEC. 169. EFFECTIVE DATE. The following provision or
+5 provisions in Division I of this Act take effect July 1, 2030
+6 2039:
+7 1. The section of this Act amending section 2.48, subsection
+8 3, paragraph “h”.
+9 EXPLANATION
+10 The inclusion of this explanation does not constitute agreement with
+11 the explanation’s substance by the members of the general assembly.
+12 This bill relates to the administration of the tax by
+13 the department of revenue by modifying provisions related
+14 to personal income, property, sales and use, motor fuel,
+15 inheritance tax, and changing tax expenditure reviews.
+16 DIVISION I —— DISCLOSURE OF TAX INFORMATION. The bill
+17 specifies and updates the circumstances the department of
+18 revenue (department) may disclose state tax return and audit
+19 information to law enforcement. The bill also makes conforming
+20 changes related to disclosure of state tax return information
+21 to the treasurer of state for purposes of determining ownership
+22 of abandoned property.
+23 The division takes effect upon enactment.
+24 DIVISION II —— ANNUAL REPORTING. The bill strikes the
+25 requirement that the department annually report to the general
+26 assembly the areas of recurrent taxpayer noncompliance with the
+27 rules of the department including any recommendations relating
+28 to the noncompliance.
+29 DIVISION III —— PROPERTY TAX —— EXTENSIONS. Under current
+30 law, a claimant may ask the director of the department, the
+31 county treasurer, or the director of the department of health
+32 and human services for an extension to claim a reimbursement
+33 for rent constituting property taxes in case of sickness,
+34 absence, or disability. The bill strikes the director of the
+35 department from involvement in the extension request by the
+LSB 1390XD (7) 91
+-22- jm/jh 22/26
+
+S.F. _____ H.F. _____
+1 claimant.
+2 Under current law, when issuing a refund for an erroneous
+3 property tax paid by a taxpayer, the taxpayer must have
+4 presented a claim of refund to the board of supervisors, or if
+5 appealed, a claim to the property assessment appeal or district
+6 court within two years of the final decision on the property
+7 taxes owed. Under the bill, a taxpayer is eligible to claim
+8 a refund for an erroneous tax if the taxpayer had previously
+9 appealed the claim for a refund of an erroneous tax to the
+10 director of revenue within two years of the director’s final
+11 decision. This provision takes effect upon enactment.
+12 DIVISION IV —— FARM TENANCY INCOME TAX EXCLUSION.
+13 Currently, an eligible individual may exclude income received
+14 by the individual pursuant to a farm tenancy covering real
+15 property held by the individual for 10 or more years, if the
+16 individual materially participated in a farming business for
+17 10 or more years. The bill allows the eligible individual to
+18 exclude such income under such circumstances, if the individual
+19 materially participated in a farming business for 10 or more
+20 years in the aggregate. The bill further specifies the term
+21 “held” is to be determined by the holding period provisions of
+22 section 1223 of the Internal Revenue Code and other federal
+23 regulations which is identical to the use of the term “held”
+24 under the farming business exclusion in Code section 422.7(13).
+25 DIVISION V —— PASS-THROUGH ENTITIES. Under current law,
+26 the department may issue a notice of adjustment (adjustment of
+27 tax) to a partnership or pass-through entity pursuant to Code
+28 section 422.25C, and specifies that the notice of adjustment
+29 is appealable pursuant to Code sections 422.28 and 422.29.
+30 The bill specifies the notice of adjustment is not always
+31 appealable under the circumstances provided in Code section
+32 422.25.
+33 The division takes effect upon enactment and applies
+34 retroactively to January 1, 2024.
+35 DIVISION VI —— SALES TAX CHANGES. The bill makes changes to
+LSB 1390XD (7) 91
+-23- jm/jh 23/26
+
+S.F. _____ H.F. _____
+1 the collection of sales taxes on building materials, supplies,
+2 and equipment where an owner, contractor, subcontractor, or
+3 builder is also a retailer holding a sales and use tax permit.
+4 Under such circumstances, if a customer of the retailer
+5 purchases tangible personal property from the retailer, the
+6 bill provides that such property will not be subject to sales
+7 tax if the property will be subject to sales tax at resale at a
+8 later date or if the property will be subject to use tax at the
+9 time the retailer withdraws the property from inventory for use
+10 by the retailer in construction. The bill makes other related
+11 changes to enhance the readability of the provision.
+12 Under current law, a purchaser, user, and consumer of
+13 taxable property or services may be authorized to remit tax
+14 owed directly to the department instead of the tax being
+15 collected and paid by the seller. The bill specifies that in
+16 order to qualify for the direct pay tax permit such a taxpayer
+17 must accrue a tax liability of more than $8,000 on a monthly
+18 basis. Currently, such a taxpayer must accrue a tax liability
+19 of $4,000 on a semimonthly basis in order to qualify for the
+20 direct pay tax permit.
+21 DIVISION VII —— MOTOR FUEL TAXES. Under current law and
+22 before July 1, 2026, the department determines the rate of
+23 excise tax imposed on each gallon of ethanol blended gasoline
+24 based upon the distribution percentage calculated in Code
+25 section 452A.3(1)(b), and the excise tax rate imposed on each
+26 gallon of biodiesel blended fuel based on the distribution
+27 percentage calculated in Code section 453A.3(3)(a)(2). The
+28 department determines the distribution percentage based upon
+29 data from reports filed pursuant to Code section 452A.33. The
+30 bill allows the department to amend the initial distribution
+31 percentage due to a mistake, or if there is a late report filed
+32 by a retail dealer to the department, or the distribution
+33 percentage is not accurate.
+34 The bill changes the due date of a biannual tax return
+35 relating to electric fuel tax due in January by one day, and
+LSB 1390XD (7) 91
+-24- jm/jh 24/26
+
+S.F. _____ H.F. _____
+1 modifies the biannual tax period by one day.
+2 The bill allows a person who uses electric fuel for a
+3 nontaxable purpose to provide an exemption certificate to
+4 the license holder selling or dispensing the fuel, if the
+5 certificate is produced by the department.
+6 DIVISION VIII —— INHERITANCE TAX —— FUTURE CODE CHANGES DUE
+7 TO REPEAL. The bill changes numerous Code sections to reflect
+8 the repeal of the inheritance tax beginning for the estates of
+9 decedents dying on or after January 1, 2025. However, other
+10 provisions of Code chapter 450 relating to the inheritance
+11 tax have not been repealed. The division takes effect upon
+12 enactment and applies retroactively to the estates of decedents
+13 dying on or after January 1, 2025.
+14 DIVISION IX —— LUMP SUM DISTRIBUTION OF RETIREMENT INCOME.
+15 Under current law, commencing with tax years beginning on or
+16 after January 1, 2023, retirement income is not subject to
+17 Iowa individual income tax. However, under current law a lump
+18 sum distribution from a retirement account is subject to Iowa
+19 income tax under Code section 422.5(8) at a rate of 25 percent
+20 of the federal tax rate imposed on the amount of the lump sum
+21 distribution.
+22 The bill provides that the taxation of a lump sum
+23 distribution from a retirement account is also exempt from
+24 state taxation by exempting the lump sum distribution for a
+25 person who is disabled, or 55 years of age or older, or who is
+26 the surviving spouse of an individual or is a survivor having
+27 an insurable interest in an individual who would have qualified
+28 for the exemption for the tax year.
+29 The bill excludes the lump sum distribution exempt from
+30 state taxation from being included in calculating the
+31 individual income tax filing thresholds in Code section
+32 422.5(2) and (3).
+33 The division takes effect upon enactment and applies
+34 retroactively to tax years beginning on or after January 1,
+35 2025.
+LSB 1390XD (7) 91
+-25- jm/jh 25/26
+
+S.F. _____ H.F. _____
+1 DIVISION X —— ESTIMATED TAX THRESHOLD. Under the bill,
+2 a taxpayer filing a return is required to make estimated
+3 tax payments if Iowa income tax liability can reasonably be
+4 expected to exceed $1,000 or more. Under current law, such
+5 a taxpayer filing a return is required to make estimated
+6 tax payments if Iowa income tax liability can reasonably be
+7 expected to exceed $200 or more.
+8 The division takes effect January 1, 2026, and applies to tax
+9 years beginning on or after that date.
+10 DIVISION XI —— TAX EXPENDITURE REVIEW. The bill specifies
+11 that the department administering a tax expenditure (tax
+12 credit) is not required to review the tax expenditure if the
+13 tax expenditure has been repealed or if a zero amount of the
+14 tax expenditure remains available to be awarded or claimed.
+15 The bill removes four tax expenditures from tax expenditure
+16 review: the Iowa fund of funds program in Code chapter 15E,
+17 the wind energy production tax credits under Code chapter 476B,
+18 the ethanol promotion tax credit in Code section 422.11N (Code
+19 2006), and the minimum tax credit under Code section 422.11B
+20 (Code 2018). The bill amends the Acts to align the review of
+21 the renewable chemical production tax credit in Code section
+22 2.48 with the future repeal of the renewable chemical tax
+23 credit program.
+LSB 1390XD (7) 91
+-26- jm/jh 26/26
+
+[DELETED: EFE_Y(DDTOEBBLFAnAtrgtoteanoftetxbytdtofrebymgpsrdtpli,p,ssadu,mrf,aiet,cgtxeer,aigeedeadreapBEITEDBYTEGLAYOFTESEOFIB1D()9]
+[DELETED: .__H._DNDEOFTXISn1.Sn4,sn2,Ce2,iadbysgtesnadiginltftef2.Tedtmynyf,s,orllweta,admydeserserni,seieinoati,orayorsei,toshl0eta,iftedthsint1isayoftef2Apniyfdafec,a3r,ororinwhittoeetxoro4ar,c,ororbtfmted5Apnfdtofearnwhittoee6txorfgr7Apnfdtopywhteittoeet8Apncdayatoronttisac9oeurapnoftsteadbyt0d1S.2.Sn4,sn3,Ce2,isa2tordasf33.Ngss40ad4,t4dtmydeser,ser5i,seieorati,ora6orseinaspdurtss7S.3.Sn4,sn3,pha,C82,isadtordasf9Usoeeypdbysn80sn1,sn9,sn6,sn41ss2,2,ad2,sn4,sn22ph,sn4,sn3,sn23sn3,sn6,ss3,4,444,4,4,ad4,ad5,sn25tss,orarpnofl,atxr,rB1D()9]
+[DELETED: .__H._i,orieoratinslnbeddtoaypnore,ortntetted,orilresefrueinamudtotxaS.4.Sn4,sn3,pha,C2,isadtordasfUsoeeypdbysn8sn1,sn9,sn6,sn4ss2,2,ad2,sn4,sn20ph,sn4,sn3,sn21sn3,sn6,ss3,4,424,4,ad4,adsn5,sn23tss,orarpnofl,atxr,r4i,orieoratinsln5beddtoaypnore,ortntet6ted,orilresefrueinam7udtotxa8S.5.EED.TsdnoftsA,b9ddofiei,tsetune0DNI1ALR2S.6.Sn4,sn2,phk,C32,isadbysgtep4S.7.Sn4,Ce2,isadtorda5f5Ss——p7Tedtslpeadphanalr8whsliessrya,w9rttoteonoftsc,iga0c,cnoft,adshorf1asaeddptadv.Tealrts2aoietersadinrdptt3sn4,sn2,ph4DNI5PYTX——CB1D()9]
+[DELETED: .__H._S.8.Sn4,sn3,Ce2,isatordasf3.Inceofs,a,orordyotectori,intejtoftedrofrortedrofhhadhns,asagdceesadtectrsane,tdrofhhadhnssmyedteteffgacmfrrtadtedrofrmyedtetefrfgacmfrc.H0ayfrtegdslntedbdDr31ofteyrfgteyrinwhtecmwsr2tobef.Csfdasartoftssns3befdwhtedrofhhadhnssort4drofr,asa,woslpefrt5rtoftecmtotec6S.9.Sn4,Ce2,isadtorda7f0Rgest9Tebdofsssldttecyt0tordtotetraytxorpnofatxfdt1hebneyoriyp,whali2f,adcsayp.Ardslntbeo3ormeusacmfrrdispdtoteb4wntoysoftedetetxwsd,orifa5totebdofr,tepyatalb6drofr,ordtc,wntoysoft7fld8S.1.EED.Tef,bgddo9iei,tsetune0TesnoftsdnoftsAtags142DNI3FMTYIETXE4S.1.Sn4,sn1,pha,C52,isadtordasfB1D()9]
+[DELETED: .__H._S,toteeti,ntierbyaneeilpttoafmtyacgrlpyhdbyteeeilftnormey,ifteeeilmpdinafgbsfrtnormeysintaS.1.Sn4,sn1,phf,C2,isadbyagtefgnwsNWS.()slbeddw0retotehgpdpsofsn13o1teIlReCeadteflrsp2t3DN4PHE5S.1.Sn4,sn2,Ce2,i6adtordasf72.FrtxysbgonorarJy1,2,a8astoapsorphesi9ofi,g,l,e,orc,oranatt0shisadtoaprtthsanitin1pporpheyfrterdyrb2tedtasartofaseppa,s3beddatteppllorphe4llintesemraspdbysn6)oft5IlReCeadterstrus6dtttissypdintst7Tepsofss6,6,ad67ofteI8ReCeadterstrslaoayt9apporpheyadisdtori0psintesemraspdinshssu1adtttissypdintst2Frpsofagshs,deatslb3mefrdsinfladIat.T4atpdbysn6)ofteIlR5CeslbeddaspdinshsnbtsB1D()9]
+[DELETED: .__H._bebdonIateieorortxasotepporpheyasddptotscrfrterdy.Tedtsieaneofattotepporpe.Shneslbetdasanatfrtpsofsn4,adteneslbeaetaspdinsn4,byteppopheypttoss48ad49aslbeidwntetepdpdbys04.Oeteastopdo1phedisorrsofi2g,l,e,c,adorasa3shpsfrterdyraefyd4tepporpheyadaydtp5oritpssltnbesttotep6ofsn4,sn1,ph,ads74Aintesemrasifteseppa8weaflpplla,adasiftef9seppatatweaflf0ppa.Tepyesins14,sn2,psad,slnta”“2toaseppa3S.1.EED.TsdnoftsA,b4ddofiei,tsetune5S.1.REA.Tsdnoft6AtasrytoJy1,27DNV8SSTXC9S.1.Sn4,sn1,phb,C02,isadtordasf1()Ssofbgm,s,ade2too,c,s,orbsfrt3enofbsortea,r,ori4ofrlpyaerlssofteplp5inwrqys.Weteo,cB1D()9]
+[DELETED: .__H._s,orbrisaoarrhgasoruetxptadtgrlssofbm,s,ade,tepnslpshisofteplpywtlyftetxifshpywlbesttotetxattteofreoratteteitiswnfmifrcnp.Tesstxslbedeintrgpdwntem,s,adeaewnfmiyfrcnpso0wnsdatr.Tetxslntbedewnm1aewnfmiyfrueincno2ofIaadtetxslntaytotep3pypdadcdbytemrasb4msintepebytemrori5srofcnoeofI.Teseo6cgisntaseofbgm.Teseo7cgtoo,c,s,orb8slbetdasteseofoytep9pyadsttotetxidurtss0adteuetxSsofbgmsadsst1c,s,orbsfrteeno2bsadorssorfrter3a,e,orrgofbsado4ssaerlssofteplp5Ssofbgmsadsstoc6s,orbsfrueinrstoorf7ininegbsadors8aepsfrr.Ssofbgett9c,s,orbsaerssso0teplp1()Weteo,c,s,orb2isaoarrhgassaduetxpta3tgrlssofbgm,s,a4e,tepnslpeshisoft5plpywtlyfrtetxifsB1D()9]
+[DELETED: .__H._pywlbesttosstxatteteofrorsttouetxatteteterrwshpyfmiyfruebyterriegbsadorssorfrra,e,orrgofbsados.Tetxslbedeintergpwntem,s,oretaewnfiyorwnsdatr.Tetxslntbedewmsadssaewnfmiyfruei0cnoeofI1()Teseofcgisntaseofb2m.Ssofcgtoo,c3s,orbsaerlssoft4plpyadsttot5S.1.Sn4,sn9,pha,C62,isadtordasf.“7Etaspdinph,p,u8adcsofteplp,sdd9p,oredsstdpttos0IIorIIoftscrorcr4Bmybea1pttorsadbyted,torttxo2dytotedtidoftetxbgc3adpdbytes.Toqyfradtpytxp4tep,u,orcrmtaeatxlyo5metnfrettddsintxurs6IIadIIinasymypdadmed7adferspttosn4.Tsa8slntbegdoredetunant9tedradtnoyariebytedrof0dtpytxp1DNV2MRFLT3S.1.Sn4,sn1,phb4udph1,Ce2,isadtorda5fB1D()9]
+[DELETED: .__H._OnadarJy1,2,aneetxoftycsiidonehgnofelbdgecasE5orh.BeJy1,2,tereofteetxonelbdgecdasE5orhslbebdontenrofgsofelbgecdasE5orhrttaedintsseasedasapeoftenrogsofmrflddintss,whirdtoastednp.Frp0oftsph,oyelbdgea1ndg,ntigang,slb2udindgtepebsfrteeet3Tedtsldetepebsfre4dnpdbgJy1adegDr35bdoninfmrssdtoted6frfgpttosn4.BeJe1,t7dtmyadtednpedeto8m,ifteisalertfdbyarld9totedtursn4,sn1,ori0tednpeisnta.Terefrt1eetxslayfrtepdbgJy1a2egJe30fgteedoftednp3BeJy1,2,tereofteeetxonehg4ofelbdgecdasE5orhrs5beasf6S.1.Sn4,sn3,pha7sh(,udph1,Ce2,isa8tordasf9Etasoepdintssnadint0s,tsshslaytoteeet1idonehgnofblbdflc2asB0orhrudfraypefrtepeo3ogmrvsintss.OnadarJy142,tereofteeetxonehgnofb5bdflcdasB0orhristoaB1D()9]
+[DELETED: .__H._fsc.BeJy1,2,tereofteetxonehgnofblbdflcdaB0orhrslbebdontenrofgsoblbdflcdasB0orhrttaddintsseasedasapeoftnrofgsofslflfrdlesofmvsddintss,whisrdtoatednp.Tedtsldtepebsfrehdnpdb0Jy1adegDr31bdoninf1rssdtotedtfrfgptt2sn4.BeJe1,tedtmyadt3dnpedetoam,ifteisal4rtfdbyarldrtotedturs54,sn1,oriftednpei6nta.Tereofteeetxslayfrt7pdbgJy1adegJe30fgteedo8tednp.BeJy1,2,tereoft9eetxonehgnofblbdflc0asB0orhrslbeasf1S.2.Sn4,sn5,Ce2,i2adtordasf35.Tedrmyieaclpyata4pnwofstotyfetersorkpter5rdurtss.Tepyslbeoeh6dsfrteftvnadsliebyo7hddsfrehalvnogint8cryrinwhteftvno9S.2.Sn4,sn2,u0ph1,Ce2,isadtordasf1OnorbeAl1tedtsldrar2totegradtelessa.B3Je1,tedtmyadtertdetoam4ifteisalertbyarldrurs51,oriftertisnta.TertslcB1D()9]
+[DELETED: .__H._inrdbyrldstotedtapdintssnadslatltiealoftfS.2.Sn4,sn5,pha,C2,isadtordasfFrtepeofdgteatoflfrteecflt,ehdradurslfewtedtntlrtnJy31frtepdbJy1adegJe3,adntlrtnJy3031frtepdbgJy1adegDr3031abltxrncdurpsfrf2c.Ternsls,whretoe3lnatwhflisddorpdbytedro4uriotebyororeysedeofa5ecmrvedgtentpgsxc6m,inasrdbyted.Ona7arJy1,2,tedtmyrebyret8shtxrsbefdq9S.2.Sn4,Ce2,isadbya0tefgnws1NWS.4.Ifecflissdord2franep,teprmycea3peanencepdbytedtt4teleh5DNV6IETX——FECECSDETOR7S.2.Sn1,sn3,Ce2,isa8tordasf93.SeFradhogbeJy1,2,s0ietxttofisinIae1sspsslbeaspdinsn4,s28.TssnslaytoalIaels3psegonorarJy1,14S.2.Sn1,sn3,Ce2,isa5tordasfB1D()9]
+[DELETED: .__H._3.SeFradhogbeJy1,2,sietxttofisinIaAEspsslbeaspdinsn4,sn9S.2.Sn1,sn3,Ce2,isatordasf3.SeFradhogbeJy1,2,sietxttofisinteqdApmwhwhtesehscdpttotsnslbeaspdinsn4,sn90S.2.Sn1,sn8,Ce2,isa1tordasf28.Bsidurtssnaeddtobei3franelpcadglpeadalb4idurtssnslbeetfmtnbyt5seofIaadteitontebsslbee6fmteseietxadteayseiet7S.2.Sn3,sn2,pha,C82,isadtordasf9Tepsedurtelsofdta0dntotepnadopofaveo1inweorinptbyadtwoddi,u2fganatsgteneaddeofdhoft3d,terttopnadopoftep4fgtea,adtttehsbnnoa5oftedse,whitmtaoc6anatbyteattoiycsoft7dtwowdbeedtolyenuntem8vetoteetofteveoftemrv,s9uncgwhteortetrrso0tsc,beidarncdfrted1itinteveadaceoftetot2v.Ifadtddt,adertewli3ntpdorisadtopewta4tepsedtotepnadopo5aveodinweorinptbytedtmB1D()9]
+[DELETED: .__H._feanata,uncgwhteorttrrsoftsc,slbeidrncdfrtedsitintevadaceoftetotev.TeamtcnteseinadiyaasisrdincsofiyurtssCr40isntFradhogbeJy12,artofcr40slntbecsdbytefgofteatpdfrint0s.I,fmtersinteoeoftec1t,teartobeaylsontev,t2ceoftemtcnastoftel3usteanisadbypreeo4tesnorenofshl.Eeo5enisbtisntldtoanatoft6atsgttasyitwsfda7pdincr5,ae9,pt6.Ted8slweteceoftefeadser9urss3,3,3,3,3,a03Aiftepnedtopnadopo1av,aspdintss,istes2seofad3S.2.Sn3,sn2,Ce2,i4adtordasf52.FdFrdsogbeJy1,26fdtotedrofreacyofayd,blo7s,orortrwhssttitismeori8toteetatorartedhoftepne9teitaspdinsn40S.3.Sn3,sn5,Ce2,i1adtordasf25.RtFrdsogbeJy1,23rtteseinlnrgtotei4txifrdbytedtofreaspdi5sn4B1D()9]
+[DELETED: .__H._S.3.Sn4,sn1,phdsh(,Ce2,isadtordasf()TtFradhogbeJy1,2ttanIaietxrnisfdfranewntelrofnemsfmtedeofdhorsdsfmtefgofadrbytebyofteergtotetepyorrtorititepS.3.Sn4,sn2,phc0sh(,Ce2,isadtordasf1()Ifteneofatordlofacmf2rdrstoatxrnfdpttos34,orpttocr40fradhogb4Jy1,2,bytetrwhdsani5asanadreoftetrwhrtt6ttr,orifaprofayhsbnfdwht7dtbytetrwhdsanila8anadreoftetrwhrtt9aytxttisidinteneofatord0ofacmfrr,acyoftenetrwha1alinrdtobesttotet2slbesttoteadreasw3S.3.Sn4,sn1,Ce2,isa4tordasf51.Aflatofaplr,asd6insn4,slntbeadbyayctust7ats,adtejeoftectf,ttalt8idbytssrunteplr9whhebep,hebnp,adttalt0whmybedeaesdbybdord,ora1oes.Teceofasoft2dtofreisceastoteptoft3txtoteetoftea.Tssnd4ntayifalpyinteeeofadti5hdinjttywhrtofspbyhB1D()9]
+[DELETED: .__H._adwea.Frpsoftssmsana,e,orteaehisddinsn6S.3.Sn4,sn6,phh,C2,isadtordasfNgtepsoftssptofayptoftepepefrssofddsrslntberdulteeorarofteddsrp0ayi,r,orordtfmayt1a,whisrynytoptt2cnatlyfraye,i,a3dhtst,orayietxfradho4beJy1,25S.3.Sn5,sn8,Ce2,i6adtordasf78.Asebkmyredsfmoeorm8pswhtepnttuntedhoft9dstedtatslbetepyoft0pnorpsddbytedddsa1snontedtatrsofteseb.A2ptbyteseb,tepsslrns3toteaydsoftedtadteayptofI4iet,ifayfradhogprtoJ51,2.Asebkpgtepnorpsd6slntbeleasartofttanfrayd7oftedtorfraye,i,ors8tswhmybedetss9S.3.Sn5,sn6,udp01,Ce2,isadtordasf1Anildtatcdina2whtssnisntsttotelsa3bspdbytscrbtissttoset4inaewhtepsofsn4,s51,adinaewhtepsofsn4B1D()9]
+[DELETED: .__H._sn6,fradhogbeJy1,2.AildtatmybecdfrayoftfgrS.3.Sn6,sn6,Ce2,iadtordasf6.Cyotdsrgtoteietxapdincr40frdsogbeJy12S.3.Sn6,Ce2,isadtorda0f1A’fsadr’fsfdbyr2Tedtjsofehjldtslbyr3fxtefsofper,adaop,ira4p,aumseofcnfri5txa,ora,b,adase6ateee7S.3.Sn6,sn2,pha,C82,isadtordasf9Frsspdinstfmp0pttoss42ad44frdso1beJy1,2$12S.4.Sn6,sn1,u3ph1,Ce2,isadtordasf4Wntegsveoftedsplp5ttwdoebeddbywlori6snisorhsb,atayteseted7d,fytddsorlsadteisnor8p,orfrdsogbeJy1,2,t9rlpypstopsetfmiet0asjttswhflrsofspptt1cr4,adiffydsheedsetedho2ted,asrasddinsn2m,b3fganatpdpttosn3o48,adwtpglsofa,doayoft5fgwhrttooeormeisofshpB1D()9]
+[DELETED: .__H._pS.4.Sn6,sn3,phash(,Ce2,isadtordasf()Tttegsveoftedsplpttwdoebeddbywlorisni,orhsbnataytesetedd,fytddsorlsadteisnorp,orfrdsogbeJy1,2,trlpypstopsetfmiet0asjttswhflrsofspptt1cr42S.4.Sn6,sn3,pha3sh(,Ce2,isadtordasf4()Ttnoieorortsaeodtot5dtofrefradhogprtoJy162,oriftsaeo,tttetswlbepdtot7etoffsrdpttotea8S.4.Sn6,sn9,Ce2,i9adtordasf09.Unrtofanatursn3a1repfursn5ofteiyofe2srsgdnbyveoftea3tehroftepysldetotea4wrteveoftepyhdbytehri,orh5bnataytesetedsd,fyt6dsorl.Anatfdfrtepeo7dgwrteveoftepyi,orh8bnataytesetedsd,fyt9dsorlsndntcntelerdu0sn3,ph,sh(,btsls1ttteatrybstttegsv2oftedsplpyttwdoeb3ddbywloriesni,orhsbna4aytesetedsd,fytdd5orlsadteisnorlpyorfrdsoB1D()9]
+[DELETED: .__H._beJy1,2,terlpypstopetfmietxasjttswhflrofsppttocr4S.4.Sn6,sn1,Ce2,iadtordasf1.Algofalori,whedvwhaesttoIaietxfrdsobeJy1,2,orfleetS.4.Sn6,Ce2,isadtorda0f5A2Pybgtoteeendntbea3usrdfrietxpsfrd4ogbeJy1,2,urtepsoft5pec,orbyorofc6S.4.Sn6,Ce2,isadtorda7f9Rtfra9Armgayshs,m,eeorl0ofrlp,teplreslm1avdrttftotec.Tects2eesdr,adifsdtttes,m3e,orlehsbnatapeadunt4astotee,a,inalr,mei5cywhl,adttitottobec,s6cmteseadorteplret7drad,m,leororpri8totepsedt;p,h,tti9teetsdrlpyhsbnsdatpes0wtanalfrietxpsfrad1ogbeJy1,2,orfrpeofshs2o,ifithsbnsoadadhsbnsdatp3sefrlstnteadvet,t,unt4fgofshr,tectmyeranorfg5teadpefrhgtnadpeaneoB1D()9]
+[DELETED: .__H._shhgtobesdunalidp,ayoofw,prtotetefdfrshh,myfwnostoteeyofanoragss.Ifntsdtttes,m,e,olehsbnmeincywhlwadttitistotbtisoftee,tectmyrttesm,e,orl,adershosastctmydmaS.4.Sn6,sn1,Ce2,i0adtordasf11.Astastowrorntals2rspgtotshebncdw3igwrtefleetxdehsbnp4wralncstoetfrayfleet5adwrietxwspdorarnwsfdi6tssefradhogbeJy1,27S.4.Sn6,sn2,pha8sh(,Ce2,isadtordasf9()Cewhsssn4,ads048frdsogbeJy1,2,heb1f2S.4.Sn6,Ce2,isadtorda3f1Cetocyrrfrtxpta6Wnaniyorrtisfdursn42f7dsogbeJy1,2,wta8ofteeeofted,tehrorhsa9slpeaddrtotecyrroftec0inwhterleeissdacep1toehplofrleeddinteiyo2r.Ayfsfrcsorrgfsr3bytssnorsn60slbeadasc4ofa.Tefsfrrgadigt5itslbeaspdinsn3.TecB1D()9]
+[DELETED: .__H._rrsldrtecstotecyaaspdinsn5S.5.Sn6,sn1,Ce2,isatordasf1.Teplreisrdtofetrtadiyfrwhpnismeins6,igalpeadnea.Tcrdsntetteplrefcgwhtersofsn4,404,6,or6,adteanofa1eewrcdtoorfmasleeslb2cdoepgpttosn6.F3adhogbeJy1,2,tscrd4ntetteplrefmcgwht5rsofsn42or46S.5.Sn6,sn1,phe,C72,isadtordasf8Astttalsyrspgt9tshebncdw,igwrfle0txdehsbnp,wralncstoetf1ayfleet,adwrietxwsp2oratxrnwsfdintssefradho3beJy1,24S.5.Sn6,sn2,Ce2,isa5tordasf62.Ifahdisd,tectsld7tefrmtveofteddhdb8tesss.Tectmyctwhtec9asadpttosn44frd0ogbeJy1,2,orwhoeorm1ita,todetefrmtveo2teddh3S.5.EED.TsdnoftsA,b4ddofiei,tsetune5S.5.REA.TsdnoftB1D()9]
+[DELETED: .__H._AtasrytoJy1,2,toteesodsdgonorarJy1,2DNILPSMDNOFRTIS.5.Sn4,sn7,Ce2,isatordasf7.Inantoteortsidbyts,atxisi,eturph,ontatofalpsmdnfrwhtetrh0edursn4)ofteIlReCet1besytdfrflietxpsfrt2txy.Tereoftxiseltotepto3tesefltxidonteatoftel4smd.Antislefrtstxo5onttpnoftelpsmdnaet6I.Tetlatoftelpsmdns7tosefltxslbeidinntief8psofdgeyurss2ad39asa,etteatoftelpsmd0etfmsetxinphslntbei1Teatofalpsmdnttisr2fmaglororpnorrtp3igddbtorddcnp4a,ilrta,psmdo5cdtobyane,ormdorc6tobyasdpnasane,add7cnpsorayesaetoted8cnpsisetfmsetxidu9phifrdbyapnwoisd,ori0feysofaeoro,oristesgseo1anilorisasrhganieiti2anilwowdheqdfrteenu3tssnfrtetxy4S.5.EED.TsdnoftsA,b5ddofiei,tsetuneB1D()9]
+[DELETED: .__H._S.5.REA.TsdnoftAtasrytoJy1,2,frtxybgonorarttdDNEDTXTS.5.Sn4,sn1,phash(,Ce2,isadtordasf()TsfgarnslmeedtpsiftrIaietxlycnryb0edtoattotohdoetddsorm1frtey2S.5.EED.TsdnoftsAtt3etJy1,24S.6.A.TsdnoftsAta5totxysbgonorarJy1,26DNX7TXEER8S.6.Sn2,sn2,pha9sh(,Ce2,isadtordasf0()Tedtagatxe1ddinsn3sleeinarwoftet2eebdunteseinsn3,ust3txeeisr.Frpsoftss4atxeeiscdrdifazoa5rsaetobea,i,orcdurl6Ifmedsartetxe,t7dsslceinter8S.6.Sn2,sn3,phb9sh(,Ce2,isadbysgt0s1S.6.Sn2,sn3,phd2ss()ad(,Ce2,aeadbys3tes4S.6.Sn2,sn3,phe5sh(,Ce2,isadbysgtB1D()9]
+[DELETED: .__H._sS.6.27IaA,cr2,sn1,isatordasfS.1.EED.TefgpnopsinDnIoftsAtteetJy1,221.TesnoftsAtagsn2,s3,ph“Eeinoftsendsntceatweessebytemsoftegla2Tsblrstoteanoftetxb3tedtofrebymgpsr4topli,p,ssadu,mrf5iet,adcgtxeer6DNI——DEOFTXI.Teb7ssadustecstedto8re()mydesetxrnada9intolwe.Teblaomsc0csrdtodeofsetxrni1totetrofsefrpsofdgo2ofadp3Tedntsetune4DNII——ALR.Teblsst5rttttedtayrttoteg6ayteasofrttrnewht7rsoftedtigayrsr8toten9DNII——PYTX——E.Urc0l,actmyaktedrofted,t1cyt,ortedroftedtofh2adhnssfranentocmar3frrtcgpytsinceofs4a,ord.Teblsstedroft5dtfmitinteenrtbytB1D()9]
+[DELETED: .__H._cUrctl,wnigardfranepytxpdbyat,tetrmthpdacmofrdtotebdofs,oria,acmtotepyatalordctwntoysoftefldnonteptso.Urteb,atriseetocardfranestxiftetrhdpadtecmfrardofanestxtot0drofrewntoysoftedsf1d.Tspntsetune2DNIV——FMTYIETXE3C,aneeilmyeeier4byteilpttoafmtycgr5pyhdbyteilfr10ormey,ift6ilmypdinafgbsf710ormey.Teblasteeeilt8eeshieurshc,iftei9mypdinafgbsfr10orm0ysintea.Teblfrsstet1“”istobeddbytehgpdpso2sn13ofteIlReCeadorf3rswhisiltoteueoftetm“4urtefgbseninCesn45DNV——PHE.Urctl6tedtmyieaneofat(to7t)toapporpheypttoC8sn4,adssttteneofa9isaepttoCess48ad40Teblssteneofatisnta1aeurtecspdinCes243Tedntsetunetada4rytoJy1,25DNVI——SSTXC.TeblmscstB1D()9]
+[DELETED: .__H._tecnofsstsonbgm,sadetweano,c,s,obrisaoarrhgassaduetxpUrshc,ifacrofterpsteplpyfmter,tblpsttshpywlntbesttostxiftepywlbesttosstxatreatlrdeoriftepywlbesttouetxattteterrwstepyfmiyfru0byterrinc.Teblmsorr1cstoeeteryoftep2Urctl,ap,u,adcro3tepyorssmybeadtortt4oddytotedtidoftetxb5cdadpdbytes.Teblsstti6ortoqyfrtedtpytxptshat7mtaeatxlyofmetn$0onam8b.C,shatrmtaeatxl9of$0onasybsinortoqyfrt0dtpytxp1DNVI——MRFLT.Urctlwa2beJy1,2,tedtdstereo3eetxidonehgnofelbdg4bduntednpecdinC5sn4,adteeetxreidone6gnofblbdflbdonted7pecdinCesn4.T8dtdstednpebdu9dafmrsfdpttoCesn4.T0blastedttoadteild1pedetoam,orifteisalertf2byarldrtoted,orted3peisnta4Teblcstededeofabltxr5rgtoecfltxdeinJybyoed,aB1D()9]
+[DELETED: .__H._mstebltxpdbyoedTeblasapnwousecflfrnepetopeanencettelehrsgordgtef,iftceispdbytedDNVI——IETX——FECECSDTOR.TeblcsnsCesstorterlofteietxbgfrteesodsdgonorarJy1,2.H,o0psofCecr40rgtotei1txhentbnr.Tedntsetu2etadasrytoteesofd3dgonorarJy1,24DNIX——LPSMDNOFRTI5Urctl,cgwhtxysbgono6arJy1,2,rtieisntstt7Iailiet.H,urctlwal8smdnfmartatissttoI9ietxurCesn4)atareof25p0oftefltxreidonteatoftelps1d2Teblpstttetnofalps3dnfmartatisaoetf4setnbyegtelpsmdnfr5pnwoisd,or55ysofaeoro,orwoi6tesgseofanilorisasrh7anieitinanilwowdheq8frteenfrtetxy9Teblestelpsmdnetf0setnfmbgidincgt1ilietxfgtsinCes24)ad(3Tedntsetunetada4rytotxysbgonorarJy152B1D()9]
+[DELETED: .__H._DNX——EDTXT.UrtebatrfgarnisrdtomeetxpsifIaietxlycnrybedtoed$0orm.Urctl,satrfgarnisrdtomeetxpsifIaietxlycnrybedtoed$0ormTedntsetJy1,2,adastotysbgonorarttd0DNXI——TXEER.Tebls1tttedtagatxee(2c)isntrdtorwtetxeeift3txeehsbnrdorifazoatoft4txeersaetobeadorc5Teblrsfrtxesfmtxe6r:teIafdoffspminCecr17tewdeypntxcsurCecr48teelpntxctinCesn4N(92,adtemmtxcturCesn40(e2.TeblasteAstoanterwo1tereclpntxctinCes228whteferloftereclt3ctpB1D()9]

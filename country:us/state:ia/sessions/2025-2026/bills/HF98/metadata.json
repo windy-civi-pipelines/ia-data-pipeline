@@ -140,6 +140,7 @@
     "division_id": "ocd-division/country:us/state:ia"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-24T05:05:06Z"
+    "logs_latest_update": "2025-10-24T05:05:06Z",
+    "text_extraction_latest_update": "2025-10-24T19:54:10.975319Z"
   }
 }

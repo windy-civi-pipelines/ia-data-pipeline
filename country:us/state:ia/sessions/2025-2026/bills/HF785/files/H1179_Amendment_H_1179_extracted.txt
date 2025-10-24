@@ -1,0 +1,39 @@
+Title: 3 2. Title page, by striking lines 1 through 5 and inserting
+Official Title: 3 2. Title page, by striking lines 1 through 5 and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1179
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 785
+H-1179
+1 Amend House File 785 as follows:
+2 1. Page 1, by striking lines 10 through 26.
+4 <An Act modifying provisions related to charter school board
+5 member requirements.>
+______________________________
+WHEELER of Sioux
+HF 785.1216 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe7AdHeFe75asf1.Pe1,bysgls10th22.Tep,bysgls1th5adi<nAtmgpsrdtocrslbmrrRofSF76()9]
+
+
+================================================================================
+
+Raw Text:
+House File 785
+H-1179
+1 Amend House File 785 as follows:
+2 1. Page 1, by striking lines 10 through 26.
+3 2. Title page, by striking lines 1 through 5 and inserting
+4 <An Act modifying provisions related to charter school board
+5 member requirements.>
+______________________________
+WHEELER of Sioux
+HF 785.1216 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe7AdHeFe75asf1.Pe1,bysgls10th22.Tep,bysgls1th5adi<nAtmgpsrdtocrslbmrrRofSF76()9]

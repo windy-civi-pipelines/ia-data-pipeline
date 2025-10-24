@@ -1,0 +1,61 @@
+Title: 3 2. Page 1, line 14, by striking <as provided in section
+Official Title: 3 2. Page 1, line 14, by striking <as provided in section
+Number of Sections: 1
+Source: versions - Amendment S-3023
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 460
+S-3023
+1 Amend Senate File 460 as follows:
+2 1. Page 1, by striking lines 1 through 10.
+4 558A.4, subsection 2,>
+5 3. Page 1, line 15, after <inspector,> by inserting <a
+6 person who holds a license or registration in good standing to
+7 perform home inspections in another state,>
+8 4. Page 4, line 18, after <inspector,> by inserting <a
+9 person who holds a license or registration in good standing to
+10 perform home inspections in another state,>
+11 5. Page 4, line 31, after <inspector,> by inserting <a
+12 person who holds a license or registration in good standing to
+13 perform home inspections in another state,>
+14 6. Page 6, lines 8 and 9, by striking <recognized or
+15 accredited> and inserting <psychometrically sound>
+16 7. By renumbering as necessary.
+______________________________
+SCOTT WEBSTER
+SF 460.827 (2) 91
+-1- ss/ns 1/1
+[DELETED: eFe4AdSeFe40asf1.Pe1,bysgls1th12.Pe1,le1,bysg<spdins5,sn23.Pe1,le1,ar<>byig<pnwohsaleorrningdsgtpmheisinars4.Pe4,le1,ar<>byig<pnwohsaleorrningdsgt0pmheisinars15.Pe4,le3,ar<>byig<2pnwohsaleorrningdsgt3pmheisinars46.Pe6,ls8ad9,bysg<do5a>adig<ys67.ByrgasnTWF47()9s1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 460
+S-3023
+1 Amend Senate File 460 as follows:
+2 1. Page 1, by striking lines 1 through 10.
+3 2. Page 1, line 14, by striking <as provided in section
+4 558A.4, subsection 2,>
+5 3. Page 1, line 15, after <inspector,> by inserting <a
+6 person who holds a license or registration in good standing to
+7 perform home inspections in another state,>
+8 4. Page 4, line 18, after <inspector,> by inserting <a
+9 person who holds a license or registration in good standing to
+10 perform home inspections in another state,>
+11 5. Page 4, line 31, after <inspector,> by inserting <a
+12 person who holds a license or registration in good standing to
+13 perform home inspections in another state,>
+14 6. Page 6, lines 8 and 9, by striking <recognized or
+15 accredited> and inserting <psychometrically sound>
+16 7. By renumbering as necessary.
+______________________________
+SCOTT WEBSTER
+SF 460.827 (2) 91
+-1- ss/ns 1/1
+
+[DELETED: eFe4AdSeFe40asf1.Pe1,bysgls1th12.Pe1,le1,bysg<spdins5,sn23.Pe1,le1,ar<>byig<pnwohsaleorrningdsgtpmheisinars4.Pe4,le1,ar<>byig<pnwohsaleorrningdsgt0pmheisinars15.Pe4,le3,ar<>byig<2pnwohsaleorrningdsgt3pmheisinars46.Pe6,ls8ad9,bysg<do5a>adig<ys67.ByrgasnTWF47()9s1]

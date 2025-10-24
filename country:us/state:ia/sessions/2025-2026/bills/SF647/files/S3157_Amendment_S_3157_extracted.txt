@@ -1,0 +1,33 @@
+Title: 1 Amend the amendment, S-3144, to Senate File 647, as follows:
+Official Title: 1 Amend the amendment, S-3144, to Senate File 647, as follows:
+Number of Sections: 1
+Source: versions - Amendment S-3157
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 647
+S-3157
+2 1. Page 25, by striking lines 5 through 9.
+______________________________
+JESSE GREEN
+S 3144.1944 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe6Adtea,S,toSeFe6,asf1.Pe2,bysgls5th9EG34()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 647
+S-3157
+1 Amend the amendment, S-3144, to Senate File 647, as follows:
+2 1. Page 25, by striking lines 5 through 9.
+______________________________
+JESSE GREEN
+S 3144.1944 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe6Adtea,S,toSeFe6,asf1.Pe2,bysgls5th9EG34()9]

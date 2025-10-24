@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, by striking lines 12 and 13 and inserting:
+Official Title: 2 1. Page 1, by striking lines 12 and 13 and inserting:
+Number of Sections: 1
+Source: versions - Amendment H-1068
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 644
+H-1068
+1 Amend House File 644 as follows:
+3 <(a) Preventative care, also known as wellness care.>
+______________________________
+BAETH of Polk
+HF 644.601 (2) 91
+-1- dg/ko 1/1
+[DELETED: eFe6AdHeFe64asf1.Pe1,bysgls12ad13adi<)Pec,aoknaswscHofPF61()9]
+
+
+================================================================================
+
+Raw Text:
+House File 644
+H-1068
+1 Amend House File 644 as follows:
+2 1. Page 1, by striking lines 12 and 13 and inserting:
+3 <(a) Preventative care, also known as wellness care.>
+______________________________
+BAETH of Polk
+HF 644.601 (2) 91
+-1- dg/ko 1/1
+
+[DELETED: eFe6AdHeFe64asf1.Pe1,bysgls12ad13adi<)Pec,aoknaswscHofPF61()9]

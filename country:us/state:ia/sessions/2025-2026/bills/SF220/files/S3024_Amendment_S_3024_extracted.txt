@@ -1,0 +1,37 @@
+Title: 2 1. Page 3, line 33, after <payor’s> by inserting <good
+Official Title: 2 1. Page 3, line 33, after <payor’s> by inserting <good
+Number of Sections: 1
+Source: versions - Amendment S-3024
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 220
+S-3024
+1 Amend Senate File 220 as follows:
+3 faith>
+4 2. Page 4, line 1, after <the> by inserting <good faith>
+______________________________
+JEFF TAYLOR
+SF 220.877 (1) 91
+-1- lh/ko 1/1
+[DELETED: eFe2AdSeFe20asf1.Pe3,le3,ar<>byig<f2.Pe4,le1,ar<>byig<dfFTF27()9o1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 220
+S-3024
+1 Amend Senate File 220 as follows:
+2 1. Page 3, line 33, after <payor’s> by inserting <good
+3 faith>
+4 2. Page 4, line 1, after <the> by inserting <good faith>
+______________________________
+JEFF TAYLOR
+SF 220.877 (1) 91
+-1- lh/ko 1/1
+
+[DELETED: eFe2AdSeFe20asf1.Pe3,le3,ar<>byig<f2.Pe4,le1,ar<>byig<dfFTF27()9o1]

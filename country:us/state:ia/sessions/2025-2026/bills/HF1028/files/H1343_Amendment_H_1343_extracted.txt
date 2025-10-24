@@ -1,0 +1,1034 @@
+Title: 1 Amend House File 1028, as amended, passed, and reprinted by
+Official Title: 1 Amend House File 1028, as amended, passed, and reprinted by
+Number of Sections: 1
+Source: versions - Amendment H-1343
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+Senate Amendment to
+House File 1028
+H-1343
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 8.57C, subsections 2, 3, and 4, Code
+6 2025, are amended to read as follows:
+7 2. Moneys in the fund in a fiscal year shall be used as
+8 appropriated by the general assembly for the acquisition
+9 of computer hardware and software, software development,
+10 telecommunications equipment, and maintenance and lease
+11 agreements associated with technology components and for the
+12 purchase of equipment intended to provide an uninterruptible
+13 power supply to the department of management to provide
+14 a stable funding source for implementation costs of state
+15 information technology projects that enhance the state’s
+16 technology infrastructure, improve government services,
+17 and promote innovation and economic development, including
+18 but not limited to new information technology projects
+19 and infrastructure replacement efforts of a department or
+20 establishment.
+21 3. a. The department of management shall prioritize
+22 proposed projects based on all of the following considerations:
+23 (1) Whether the project aligns with the state’s strategic
+24 priorities.
+25 (2) Whether the project promotes or introduces new
+26 technology or significantly improves an existing system.
+27 (3) Whether the project is feasible and whether the
+28 department or establishment has established readiness for the
+29 project to proceed, including a clear assessment of timelines,
+30 budgets, and measurable outcomes.
+31 (4) Whether the project includes a clear change management
+32 strategy to support user adoption and aligns with lean
+33 enterprise principles to maximize value, minimize waste, and
+34 ensure continuous improvement.
+35 (5) Whether the project provides a positive return on
+HF 1028.2029.S (1) 91
+-1- mb 1/14
+1 investment, considering both financial returns and nonfinancial
+2 benefits such as improved public safety, education, or health
+3 care.
+4 (6) Whether the project results in infrastructure that is
+5 scalable across the state enterprise.
+6 (7) Whether the department or establishment has identified
+7 how the completed project will be sustained beyond the initial
+8 funding period.
+9 (8) Whether the project improves access to governmental
+10 services, particularly in rural communities.
+11 (9) Whether the project involves an infrastructure project
+12 as opposed to maintenance or standard upgrades of existing
+13 technology.
+14 b. The department of management shall provide a prioritized
+15 list of proposed projects for funding to the governor, who
+16 shall use the list in developing a budgetary recommendation
+17 for the general assembly pursuant to section 8.21 for the
+18 fiscal year beginning July 1, 2026, and for each fiscal year
+19 thereafter.
+20 3. a. There is appropriated from the general fund of the
+21 state to the technology reinvestment fund for the fiscal year
+22 beginning July 1, 2025, and for each subsequent fiscal year
+23 thereafter, the sum of seventeen million five hundred thousand
+24 dollars.
+25 b. There is appropriated from the rebuild Iowa
+26 infrastructure fund for the fiscal year beginning July 1, 2023,
+27 and ending June 30, 2024, the sum of eighteen million three
+28 hundred ninety thousand two hundred ninety dollars to the
+29 technology reinvestment fund, notwithstanding section 8.57,
+30 subsection 3, paragraph “c”.
+31 c. There is appropriated from the rebuild Iowa
+32 infrastructure fund for the fiscal year beginning July 1, 2024,
+33 and ending June 30, 2025, the sum of twenty-one million one
+34 hundred thirty-one thousand eight hundred seventy-three dollars
+35 to the technology reinvestment fund, notwithstanding section
+HF 1028.2029.S (1) 91
+-2- mb 2/14
+1 8.57, subsection 3, paragraph “c”.
+2 c. Notwithstanding section 8.33, moneys in the technology
+3 reinvestment fund that remain unencumbered or unobligated at
+4 the close of a fiscal year shall not revert but shall remain
+5 available for expenditure for the purposes designated until
+6 the close of the fiscal year that ends two years after the
+7 end of the fiscal year for which the appropriation was made.
+8 Notwithstanding section 12C.7, subsection 2, interest or
+9 earnings on moneys in the fund shall be credited to the fund.
+10 4. Annually, on On or before January 15 of each year, a
+11 state agency that received an appropriation from this fund
+12 the department of management shall report to the legislative
+13 services agency and the department of management general
+14 assembly the status of all projects funded under this section
+15 that have been completed since the previous report was
+16 submitted or that are in progress. The report shall must
+17 include a description of the project, the progress of work
+18 completed, the total estimated cost of the project, a list of
+19 all revenue sources being used to fund the project, the amount
+20 of funds moneys expended, the amount of funds moneys obligated,
+21 and the date the project was completed or an estimated
+22 completion date of the project, where applicable.
+23 Sec. 2. Section 8.78, Code 2025, is amended to read as
+24 follows:
+25 8.78 Background checks.
+26 An applicant for employment with the department, or
+27 an applicant for employment with a supported entity for a
+28 position as information technology staff, may be subject to a
+29 background investigation by the department. The background
+30 investigation may include, without limitation, a work history,
+31 financial review, request for criminal history data, and
+32 national criminal history check through the federal bureau of
+33 investigation. In addition, a contractor, vendor, employee, or
+34 any other individual performing work for the department, or an
+35 individual on the information technology staff of a supported
+HF 1028.2029.S (1) 91
+-3- mb 3/14
+1 entity, may be subject to a national criminal history check
+2 through the federal bureau of investigation at least once
+3 every ten five years, including, without limitation, any time
+4 the department or supported entity has reason to believe an
+5 individual has been convicted of a crime. The department may
+6 request the national criminal history check and, if requested,
+7 shall provide the individual’s fingerprints to the department
+8 of public safety for submission through the state criminal
+9 history repository to the federal bureau of investigation.
+10 The individual shall authorize release of the results of the
+11 national criminal history check to the department and the
+12 applicable supported entity. The department shall pay the
+13 actual cost of the fingerprinting and national criminal history
+14 check, if any, unless otherwise agreed as part of a contract
+15 between the department or supported entity and a vendor or
+16 contractor performing work for the department or supported
+17 entity. The results of a criminal history check conducted
+18 pursuant to this section shall not be considered a public
+19 record under chapter 22.
+20 Sec. 3. NEW SECTION. 8.94 Contracts —— prohibited terms.
+21 Provisions included in a contract entered into pursuant to
+22 this subchapter that impose terms or conditions prohibited by
+23 this section are void as contrary to public policy. Such a
+24 contract shall be interpreted and enforced as if the contract
+25 did not include the prohibited terms or conditions. Prohibited
+26 terms and conditions include all of the following:
+27 1. A provision requiring the department or a supported
+28 entity to defend, indemnify, hold harmless another person, or
+29 otherwise assume the debt or liability of another person in
+30 violation of Article VII, section 1, of the Constitution of the
+31 State of Iowa.
+32 2. A provision that seeks to impose a term that is unknown
+33 to the department or supported entity at the time of signing
+34 the contract or that can be unilaterally changed by an entity
+35 other than the department or a supported entity.
+HF 1028.2029.S (1) 91
+-4- mb 4/14
+1 3. A provision that violates chapter 13 by not allowing
+2 the department or a supported entity to participate in its own
+3 defense through representation by the attorney general.
+4 4. A provision that grants to a person other than the
+5 attorney general the authority to convey to a court or litigant
+6 the state’s consent to any settlement of a suit involving the
+7 contract when such settlement could impose liability on the
+8 state.
+9 5. A provision that specifies that the contract is governed
+10 by the laws of a foreign state or nation.
+11 6. A provision that claims blanket confidentiality of the
+12 contract’s terms.
+13 7. A provision that claims that payment terms, including but
+14 not limited to cost proposals or other pricing information, of
+15 the contract are confidential.
+16 8. A provision that authorizes or requires a venue for
+17 litigation other than an appropriate state or federal court
+18 sitting in Iowa.
+19 9. A provision that requires the department or a supported
+20 entity to pay attorney fees, court costs, or other litigation
+21 expenses in the event of a contractual dispute.
+22 10. A provision that imposes on the department or a
+23 supported entity binding arbitration or any other binding
+24 extrajudicial dispute resolution process in which the final
+25 resolution is not determined by the state.
+26 11. A provision that waives the department’s or a supported
+27 entity’s right to a jury trial.
+28 12. A provision that obligates the department or a supported
+29 entity to pay late payment charges not consistent with section
+30 8A.514, interest greater than allowed under section 8A.514 or
+31 other applicable law, or any cancellation charges, as such
+32 charges constitute pledges of the state’s credit.
+33 13. A provision that obligates the department or a supported
+34 entity to pay a tax.
+35 14. A provision that imposes a prior notice obligation
+HF 1028.2029.S (1) 91
+-5- mb 5/14
+1 on the department or a supported entity as a condition for
+2 the automatic renewal of a software license. The department
+3 or a supported entity may provide notice of its intent to
+4 terminate a software license at any time before the renewal
+5 date established in the contract.
+6 15. A provision that obligates the department or a supported
+7 entity to accept risk of loss before the receipt of items or
+8 goods.
+9 16. A provision that obligates the department or a supported
+10 entity to have commercial insurance.
+11 17. A provision that obligates the department or a supported
+12 entity to grant to a nongovernmental entity full or partial
+13 ownership of intellectual property developed pursuant to the
+14 contract when the intellectual property is developed in whole
+15 or in part using federal funding.
+16 18. A provision that limits the time in which the department
+17 or a supported entity may bring a legal claim under the
+18 contract to a period shorter than that provided in Iowa law.
+19 19. A boilerplate provision included in transactional
+20 documents received by the department or a supported entity that
+21 seeks to alter the terms of the contract or to impose new terms
+22 in the contract.
+23 Sec. 4. NEW SECTION. 8.95 Contracts —— required terms.
+24 All of the following provisions shall be deemed to be
+25 included in a contract entered into by the department or a
+26 supported entity under this subchapter:
+27 1. Governing law. The contract shall be governed by
+28 the laws of the state of Iowa, without giving effect to any
+29 conflicts of law principles of Iowa law that may require the
+30 application of another jurisdiction’s law.
+31 2. Venue. Any litigation commenced in connection with the
+32 contract shall be brought and maintained in an appropriate
+33 state or federal court sitting in Iowa.
+34 Sec. 5. NEW SECTION. 8.96 Contracts —— limitation of
+35 liability —— prohibited terms.
+HF 1028.2029.S (1) 91
+-6- mb 6/14
+1 Notwithstanding section 8A.311, subsection 22, and rules
+2 adopted pursuant to that subsection, the director may include
+3 a contractual limitation of vendor liability in information
+4 technology goods and services contracts. A contractual
+5 limitation of vendor liability must take into consideration the
+6 public interest and the mitigation of risks associated with the
+7 use of information technology goods or services. Any portion
+8 of a contractual limitation of vendor liability that includes
+9 a repudiation of all liability for cybersecurity incidents or
+10 a limitation on the vendor’s liability for intentional torts,
+11 criminal acts, fraudulent conduct, intentional or willful
+12 misconduct, gross negligence, death, bodily injury, damage to
+13 real or personal property, intellectual property violations,
+14 liquidated damages, compliance with applicable laws, violations
+15 of confidential information obligations, or contractual
+16 obligations of the vendor pertaining to indemnification shall
+17 be void as a matter of law as contrary to public policy. A
+18 contractual limit of vendor liability that does not apply
+19 equally to the contracted parties or that limits a vendor’s
+20 liability to less than the contract value inclusive of all
+21 possible extensions is void as a matter of law as contrary to
+22 public policy.
+23 Sec. 6. NEW SECTION. 8.97 Confidentiality of communications
+24 with chief information security officer.
+25 In the interest of facilitating communication between
+26 the chief information security officer and other entities
+27 concerning security incidents and security breaches, all such
+28 communications and any documents generated based in whole or in
+29 part on such communications are confidential. Notwithstanding
+30 chapter 22 or any other provision of law to the contrary, the
+31 department shall not release such communications pursuant to
+32 state open records laws, and such communications shall not be
+33 received into evidence, subject to discovery, or otherwise
+34 used in a trial, hearing, or other proceeding in or before any
+35 court, regulatory body, or other authority of the state or a
+HF 1028.2029.S (1) 91
+-7- mb 7/14
+1 political subdivision of the state, unless the communications
+2 are subject to a protective order that prohibits further
+3 disclosure of such communications and requires any court
+4 filings of such communications to be made under seal. It is
+5 the intent of the general assembly that these prohibitions and
+6 restrictions also apply to federal courts, regulatory bodies,
+7 and other authorities and for purposes of federal open records
+8 laws, to the extent allowed by federal law and court rules.
+9 The chief information security officer shall not release such
+10 communications other than for any of the following purposes:
+11 1. Identifying a cybersecurity threat, including the source
+12 of the cybersecurity threat, or a security vulnerability, and
+13 then only to government officials for purposes of addressing
+14 the threat.
+15 2. Responding to, or otherwise preventing or mitigating,
+16 a specific threat of death, serious bodily harm, or serious
+17 economic harm.
+18 3. Responding to, investigating, prosecuting, or otherwise
+19 preventing or mitigating a serious threat to a minor, including
+20 sexual exploitation and threats to physical safety.
+21 4. Preventing, investigating, disrupting, or prosecuting an
+22 offense under state or federal law.
+23 5. Providing a confidential cybersecurity briefing to the
+24 governor or a member of the general assembly.
+25 Sec. 7. NEW SECTION. 8.98 Criminal justice information.
+26 1. The department is authorized to maintain an integrated
+27 information system that enables automated data sharing among
+28 the executive branch, judicial branch, and local agencies.
+29 2. The department is designated as the Iowa statistical
+30 analysis center for the purpose of coordinating with data
+31 resource agencies to provide data and analytical information
+32 to federal, state, and local governments. Notwithstanding any
+33 other provision of state law to the contrary, unless prohibited
+34 by federal law or regulation, the department shall be granted
+35 access, for purposes of research and evaluation, to all of
+HF 1028.2029.S (1) 91
+-8- mb 8/14
+1 the data listed in this subsection, except that intelligence
+2 data and peace officer investigative reports maintained
+3 by the department of public safety shall not be considered
+4 data for the purposes of this section. The department of
+5 management and any record, data, or information obtained by the
+6 department under this subsection is subject to the federal and
+7 state confidentiality laws and rules, including as described
+8 in chapter 22, applicable to the original record, data, or
+9 information, and to the original custodian of the record,
+10 data, or information. Authorized access under this subsection
+11 includes but is not limited to all of the following:
+12 a. Juvenile court records and all other information
+13 maintained under sections 232.147 through 232.151.
+14 b. Child abuse information under sections 235A.15 through
+15 235A.19.
+16 c. Dependent adult abuse records maintained under chapter
+17 235B.
+18 d. Criminal history data maintained under chapter 692.
+19 e. Sex offender registry information maintained under
+20 chapter 692A.
+21 f. Presentence investigation reports maintained under
+22 section 901.4.
+23 g. Corrections records maintained under sections 904.601 and
+24 904.602.
+25 h. Community-based correctional program records maintained
+26 under chapter 904.
+27 i. Parole records maintained under chapter 906.
+28 j. Deferred judgment, deferred or suspended sentence, and
+29 probation records maintained under chapter 907.
+30 k. Violation of parole or probation records maintained under
+31 chapter 908.
+32 l. Fine and victim restitution records maintained under
+33 chapters 909 and 910.
+34 m. Child welfare records maintained under chapter 235.
+35 3. The department is authorized to provide data analysis and
+HF 1028.2029.S (1) 91
+-9- mb 9/14
+1 reporting on issues that may affect the state’s correctional
+2 population and various subgroups of the population. This
+3 reporting may include the review of filed, public legislative
+4 bills, joint resolutions, and amendments, and compiling
+5 criminal justice data for completion of correctional impact
+6 statements under section 2.56, racial impact statements, and an
+7 annual prison population forecast.
+8 4. The department is authorized to maintain a multiagency
+9 information system to track the progress of juveniles and
+10 adults who have been charged with a criminal offense in
+11 the court system through various state and local agencies
+12 and programs. This system must utilize existing databases,
+13 including the Iowa court information system, the Iowa
+14 corrections offender network, the child welfare information
+15 system of the department of health and human services,
+16 the federally mandated national adoption and foster care
+17 information system, and other state and local databases
+18 pertaining to juveniles and to adults who have been charged
+19 with a criminal offense in the court system, to the extent
+20 practicable.
+21 5. The multiagency information system is authorized to
+22 count and track decision points for juveniles in the juvenile
+23 justice system and minors in the child welfare system, evaluate
+24 the experiences of the juveniles and minors, and evaluate
+25 the success of the services provided. The system is also
+26 authorized to count and track decision points for adults who
+27 have been charged with a criminal offense in the court system,
+28 including but not limited to dismissed charges, convictions,
+29 deferred judgments, and sentence information.
+30 6. If the department has insufficient moneys or resources
+31 to implement this section, the department is authorized to
+32 determine which portion of this section may be implemented, if
+33 any, and the remainder of this section shall not apply.
+34 Sec. 8. NEW SECTION. 8.99 Confidentiality of data.
+35 1. For purposes of chapter 22, the department shall not be
+HF 1028.2029.S (1) 91
+-10- mb 10/14
+1 deemed to be the lawful custodian of records the department
+2 maintains for another department or establishment under this
+3 subchapter, to the extent the records in question are held
+4 by the department as an automated data processing unit of
+5 government or held by the department solely for storage for
+6 another department or establishment. Such records include but
+7 are not limited to all of the following:
+8 a. Electronic messaging system data.
+9 b. Mainframe data.
+10 c. Storage solutions or other electronic information, such
+11 as on-premises server data storage and cloud data storage.
+12 2. If the department receives a request pursuant to chapter
+13 22 for records over which the department has determined it is
+14 not the lawful custodian, the department shall deny the request
+15 and inform the requester to seek the information from the
+16 lawful custodian as provided in chapter 22. The department’s
+17 determination that it is not the lawful custodian of records is
+18 presumed valid. The presumption may be rebutted by clear and
+19 convincing evidence to the contrary.
+20 3. The department shall provide assistance to the lawful
+21 custodian of records held by the department so that the lawful
+22 custodian can comply with the production obligations of chapter
+23 22.
+24 4. If the department receives a subpoena in an
+25 administrative, civil, or criminal case for records for which
+26 the department is not the lawful custodian, the department
+27 shall notify the lawful custodian and the attorney general’s
+28 office and cooperate in any efforts to resist the subpoena.
+29 Sec. 9. Section 216A.131A, Code 2025, is amended to read as
+30 follows:
+31 216A.131A Criminal and juvenile justice planning.
+32 The department shall fulfill the responsibilities of
+33 this subchapter, including the duties specified in sections
+34 216A.133, 216A.135, 216A.136, 216A.137, 216A.138, and 216A.140.
+35 Sec. 10. Section 216A.133, subsection 1, paragraphs d, e, f,
+HF 1028.2029.S (1) 91
+-11- mb 11/14
+1 l, and t, Code 2025, are amended by striking the paragraphs.
+2 Sec. 11. Section 216A.133, subsection 1, paragraph q,
+3 subparagraphs (1) and (6), Code 2025, are amended by striking
+4 the subparagraphs.
+5 Sec. 12. Section 216A.133, subsection 1, paragraph s, Code
+6 2025, is amended to read as follows:
+7 s. Provide expertise and advice to the legislative
+8 services agency, the department of management, the department
+9 of corrections, the judicial branch, and others charged
+10 with formulating fiscal, correctional, or minority impact
+11 statements.
+12 Sec. 13. Section 216A.135, subsection 2, paragraph e, Code
+13 2025, is amended by striking the paragraph.
+14 Sec. 14. Section 232.147, subsection 2, paragraph i, Code
+15 2025, is amended to read as follows:
+16 i. The statistical analysis center for the purposes stated
+17 in section 216A.136 8.98.
+18 Sec. 15. Section 232.147, subsection 3, paragraph n, Code
+19 2025, is amended to read as follows:
+20 n. The statistical analysis center for the purposes stated
+21 in section 216A.136 8.98.
+22 Sec. 16. Section 232.147, subsection 4, paragraph i, Code
+23 2025, is amended to read as follows:
+24 i. The statistical analysis center for the purposes stated
+25 in section 216A.136 8.98.
+26 Sec. 17. Section 232.149, subsection 5, paragraph f, Code
+27 2025, is amended to read as follows:
+28 f. The statistical analysis center for the purposes stated
+29 in section 216A.136 8.98.
+30 Sec. 18. Section 232.149A, subsection 3, paragraph m, Code
+31 2025, is amended to read as follows:
+32 m. The statistical analysis center for the purposes stated
+33 in section 216A.136 8.98.
+34 Sec. 19. Section 513C.10, subsection 1, paragraph a, Code
+35 2025, is amended to read as follows:
+HF 1028.2029.S (1) 91
+-12- mb 12/14
+1 a. All persons that provide health benefit plans in this
+2 state including insurers providing accident and sickness
+3 insurance under chapter 509, 514, or 514A, whether on an
+4 individual or group basis; fraternal benefit societies
+5 providing hospital, medical, or nursing benefits under chapter
+6 512B; and health maintenance organizations, other entities
+7 providing health insurance or health benefits subject to state
+8 insurance regulation, and all other insurers as designated
+9 by the board of directors of the Iowa comprehensive health
+10 insurance association with the approval of the commissioner
+11 shall be members of the association. However, the state,
+12 including an institution under the control of the state board
+13 of regents, shall not be a member of the association.
+14 Sec. 20. REPEAL. Sections 216A.136, 216A.137, and
+15 216A.138, Code 2025, are repealed.
+16 Sec. 21. EFFECTIVE DATE. The following, being deemed of
+17 immediate importance, takes effect upon enactment:
+18 The section of this Act amending section 513C.10, subsection
+19 1, paragraph “a”.
+20 Sec. 22. EFFECTIVE DATE. The following take effect July 1,
+21 2026:
+22 The portions of the section of this Act amending section
+23 8.57C, subsections 2 and 4.
+24 Sec. 23. APPLICABILITY. The following apply to contracts
+25 entered into or renewed on or after July 1, 2025:
+26 1. The section of this Act enacting section 8.94.
+27 2. The section of this Act enacting section 8.95.
+28 3. The section of this Act enacting section 8.96.
+29 Sec. 24. RETROACTIVE APPLICABILITY. The following applies
+30 retroactively to January 1, 2020:
+31 The section of this Act amending section 513C.10, subsection
+32 1, paragraph “a”.>
+33 2. Title page, by striking lines 1 through 2 and inserting
+34 <An Act relating to state government, including matters
+35 under the purview of the department of management and state
+HF 1028.2029.S (1) 91
+-13- mb 13/14
+1 membership in the Iowa individual health benefit reinsurance
+2 association, and including effective date, applicability, and
+3 retroactive>
+HF 1028.2029.S (1) 91
+-14- mb 14/14
+[DELETED: eAtteFe1AdHeFe1,asa,p,adrdbteH,asf1.Bysgegarteegceai<n1.Sn8,ss2,3,ad4,C2,aeadtordasf2.Msintefdinaflyrslbeudaadbyteglayfrteaofcrheads,sed0tse,admeadl1asadwhtycsadfrt2peofetidtopeanu3prsytotedtofmttop4asefgsefrincsofs5intypstteetes6tyi,iegts7adpeinadecd,i8btntldtonwintyp9adiertesofadto0e13.Tedtofmtslp2pdpsbdonaloftefgc3()Wrteptaswhtesss4p5()Wrteptpsorisn6tyorsyisanegs7()Wrteptisfeadwrt8dtorethsedrsfrt9pttop,igacratoft0b,admeo1()Wrteptisacrcem2sytosturanadaswhl3eepstomev,mew,a4eecsi5()WrteptpsapernoF1S()9]
+[DELETED: i,cgbhflrsadnbsshasidpcs,e,orhc()Wrteptrsiniettiseastesee()Wrtedtorethsihwtecdptwlbesdbdteifgp()Wrteptisastog0s,pyinrlc1()Wrteptisaniep2asodtomeorsdusofe3t4Tedtofmtslpeap5ltofpdpsfrfgtoteg,w6slueteltindgabyr7frteglaypttosn81frt8flyrbgJy1,2,adfrehfly9t03.Teisadfmteglfdoft1setotetyrtfdfrtefly2bgJy1,2,adfrehstfly3t,tesmofsnmnfehdt4d5TeisadfmterdI6iefdfrteflyrbgJy1,27adegJe3,2,tesmofenmnt8hdnytdtohdnydstot9tyrtf,ngsn80sn3,ph1TeisadfmterdI2iefdfrteflyrbgJy1,23adegJe3,2,tesmoftemno4hdtetdethdsed5totetyrtf,ngsF1S()9]
+[DELETED: 8,sn3,phNgsn8,msintetrtfdttrnudorudateceofaflyrslntrtbtslraefreefrtepsdduteceofteflyrttestoysartedofteflyrfrwhteanwsmNgsn1,sn2,itoesonmsintefdslbecdtotef04.A,onOnorbeJy15ofehy,1seayttrdananfmtsf2tedtofmtslrttotel3ssayadtedtofmtg4aytessofalpsfdurtss5tthebncdsetepsrtw6sdorttaeinp.Tertslm7ieadnoftep,tepsofw8c,tetledctoftep,alto9alressbgudtofdtep,tea0offsmse,teatoffsmso1adtedeteptwscdorane2cndeoftep,wea3S.2.Sn8,Ce2,isadtorda4f8Bdc6Anatfretwhted,o7anatfretwhasdeyfr8pnasintys,mybestto9bdinbyted.Teb0inmyi,wtl,awkh1flr,rtfrclhyd,a2nlclhyckthteflbuo3i.Ina,ac,v,e,o4ayorilpgwkfrted,ora5ilonteintysfofasF1S()9]
+[DELETED: e,mybesttoanlclhycthteflbuofinatltoeytnfey,i,wtl,ayttedtorsdeyhsrntobeailhsbncdofac.Tedtmrttenlclhycka,ifrslpeteisfstotedofpcsyfrsnthtesechyrytoteflbuofi0Teilslaereoftersoft1nlclhycktotedtadt2aesde.Tedtslpyt3alctoftefgadnlclh4c,ifa,usoeadasptofac5bntedtorsdeyadavro6crpgwkfrtedtors7e.Tersofaclhyckc8pttotssnslntbecdap9rdurcr20S.3.NWS4Cs——pdt1Psidinactedioptt2tssrttietsorcspdb3tssnaevdascytopcp.Sh4ctslbeidadedasiftec5ddntietepdtsorc.P6tsadcsiealoftef71.Apnrgtedtoras8eytod,i,hdhsarp,o9oeaetedtorlyofarpni0vnofAeV,sn1,ofteCnoft1SeofI22.Apnttsstoieatmttisu3totedtorsdeyatteteofs4tectorttcnbeuycdbyane5ortntedtorasdeF1S()9]
+[DELETED: 3.Apnttvscr13byntatedtorasdeytopeinisodethrnbyteayg4.Apnttgstoapnortntayglteaytocytoactorltesscttoaystofastigtctwnshstcdielyonts5.Apnttsstttectisg0bytelsofafnseorn16.Apnttcsbtcyoft2cst37.Apnttcsttptt,igb4ntldtoctpsororpgi,o5tectaec68.Apnttasorrsavef7lnortnanaeseorflc8sginI99.Apnttrstedtoras0eytopyayf,ctc,ororl1esinteetofacld21.Apnttisontedtor3sdeybganorayorb4eldernpsinwhtef5rnisntddbytes61.Apnttwstedsoras7esrttoajyt81.Apnttostedtoras9eytopyleptcsntctwhs08,itgrtnadursn84o1orael,oraycnc,ass2cscepsoftessc31.Apnttostedtoras4eytopyat51.ApnttisaprneoF1S()9]
+[DELETED: ontedtorasdeyasacnfteacrlofasel.Tedorasdeymypeneofisittteaseleataytebeterdeedintec1.Apnttostedtoraseytoatrkoflsbetertofisog1.Apnttostedtoras0eytohecli11.Apnttostedtoras2eytogttoanleyflorp3opofilpyddpttot4ctwnteilpyisddinw5orinptugflf61.Apnttlsteteinwhted7orasdeymybgallcmurt8cttoapdsrtnttpdinIal91.Abepnidint0dsrdbytedtorasdeyt1sstoartetsoftectortoienwt2intec3S.4.NWS5Cs——rdt4Aloftefgpsslbeddtob5idinactediobytedtor6sdeyurtss71.Tectslbegdbgl8telsofteseofI,wtggettoa9csoflwpsofIalwttmyret0anofarjsl12.Aylncdincnwht2ctslbebtadmdinana3seorflctsginI4S.5.NWS6Cs——lnoy——pdtF1S()9]
+[DELETED: Ngsn8,sn2,adradpttotts,tedrmyiacllnofvrlyinitygsadssc.Aclnofvrlymtteiocntpcitadtemnofrsadwhtueofintygsors.Aypofacllnofvrlyttiarnofallyfrcyiso0alnontevslyfrilt1cla,ftc,ilorw2m,gsn,d,byi,det3rlorplp,ilpyv4ldd,cewhael,v5ofclino,orc6osoftevrpgtoins7bevdasamroflwascytopcp.8clltofvrlyttdsnta9eytotecdpsorttlsav0lytolstntectveieofa1peesisvdasamroflwascyt2pcp3S.6.NWS7Cyofchcfinsyo5Inteitoffgcnb6tecfinsyoradore7cgsyisadsyb,als8csadaydsgdbdinweori9ptonshcsaec.N0cr22orayorpnoflwtotec,t1dtslntreshcsptt2seonrsl,adshcsslntb3rdioe,sttod,oro4udinat,h,ororpginorbea5c,ryb,ororayofteseorF1S()9]
+[DELETED: plsnoftes,ustecaesttoapeorttpsfdeofshcsadrsaycfsofshcstobemeurs.Ititeitofteglaytttepsarsaoaytoflc,rybadorasadfrpsofflonrl,toteetadbyfllwadctrTecfinsyorslntres0csortnfrayoftefgp11.Igacyt,igtes2oftecyt,orasyv,a3tnoytogtosfrpsofa4tet52.Rgt,oroepgorm6ascttofd,ssbyh,ors7ech83.Rgt,i,p,oro9pgormgasstttoam,i0slenadtstopls14.P,i,d,orpga2oeurseorfll35.Pgaclcybgtot4groramroftegla5S.7.NWS8Cljei61.Tedtisadtomnani7insmttesaddasga8teeeb,jlb,adlla92.TedtisddasteIas0ascrfrtepeofcgwhd1reastopedaadali2tof,s,adllg.Nga3orpnofselwtotec,usp4byfllworr,tedtslbeg5a,frpsofrhade,toaloF1S()9]
+[DELETED: tedaldintss,etttidaadpeoriersmbytedtofpcsyslntbecdafrtepsoftss.Tedtomtadayr,d,orinodbytdturtssnissttoteflasecylsadr,igasdincr2,aetoteolr,d,oi,adtoteolcnofter0d,ori.Adasurtss1isbtisntldtoaloftef2Jectrsadalori3mdurss27th24Cdaeinurss25t526Dtataersmdurc728Clhydamdurcr69Sxorryinmdu0cr61Peinrsmdu2sn93Csrsmdurss91a495Cdclpmrsm6urcr97Persmdurcr98Ddj,ddorsds,a9pnrsmdurcr90Vnofpeorpnrsmdu1cr92Feadvmrnrsmdu3cs99ad94Cdwersmdurcr253.TedtisadtopedaasaF1S()9]
+[DELETED: rgonisttmyattesscpnadvsssoftep.Trgmyieterwoff,pclb,jtr,ada,adccljedafrcnofclissursn2,rlits,adaalpnpnf4.Tedtisadtomnaminsmtotktepsofjsa0aswohebncdwhacloei1tectsmthvsseadlla2adp.Tssmmtueegd3igteIactins,teI4csorn,tecdwei5smoftedtofhhadhns6tefymdnlanadfrc7ins,adorseadlld8pgtojsadtoaswohebnc9whacloeintects,totee0p15.Temyinsmisadt2ctadtkdnpsfrjsintej3jesmadmsintecdwes,e4teesoftejsadm,ade5tessoftessp.Tesmisa6adtoctadtkdnpsfrasw7hebncdwhacloeintects8igbtntldtoddc,c9ddj,adsei06.Iftedthsitmsorr1toittss,tedtisadt2dewhpnoftssnmybei,i3a,adterroftssnslnta4S.8.NWS9Cyofd51.Frpsofcr2,tedtslntbF1S()9]
+[DELETED: ddtobetellcnofrstedmsfrardtoreturts,toteettersinqnaehbytedtasanaddapgutogtorhdbytedtsyfrsefardtore.ShrsiebaentldtoaloftefEcmgsmdMed0Sessororeci,s1asossrdaseadcddas22.Iftedtrsartpttoc322frrsorwhtedthsdditi4nttellc,tedtsldyter5adimterrtoskteinfmt6llcnaspdincr2.Ted7dnttitisnttellcnofrsi8pdv.Tepnmyberdbycra9cgeetotec03.Tedtslpeaetotel1cnofrshdbytedtsotttel2cncncywhtepnosofc3244.Iftedtrsasaina5a,c,orclcefrrsfrw6tedtisnttellc,ted7slnytellcnadteayg8oeadceinayestorttes9S.9.Sn2,Ce2,isadtorda0fACladjejep2Tedtslflterso3tss,igtedssdins42,2,2,2,2,ad25S.1.Sn2,sn1,psd,e,fF1S()9]
+[DELETED: l,adt,Ce2,aeadbysgtepS.1.Sn2,sn1,phqss()ad(,Ce2,aeadbystesS.1.Sn2,sn1,phs,C2,isadtordasfPeeeadaetotelssa,tedtofm,tedofc,tejlb,adosc0whfgf,c,ormyi1s2S.1.Sn2,sn2,phe,C32,isadbysgtep4S.1.Sn2,sn2,phi,C52,isadtordasf6Teslascrfrtepss7insn2688S.1.Sn2,sn3,phn,C92,isadtordasf0Teslascrfrtepss1insn2682S.1.Sn2,sn4,phi,C32,isadtordasf4Teslascrfrtepss5insn2686S.1.Sn2,sn5,phf,C72,isadtordasf8Teslascrfrtepss9insn2680S.1.Sn2,sn3,phm,C12,isadtordasf2Teslascrfrtepss3insn2684S.1.Sn5,sn1,pha,C52,isadtordasfF1S()9]
+[DELETED: Alpsttpehhbtpsintseigispgatadsieurcr5,5,or5,wronailorgpb;flbtspgh,m,orngbsurc5;adhhmeo,orepghhieorhhbssttosier,adalorisasdbytebdofdsofteIaceh0ieanwhtealoftec1slbemsoftea.H,tes2iganinurteclofteseb3ofr,slntbeamroftea4S.2.R.Ss2,2,a52,Ce2,aer6S.2.EED.Tef,bgddo7iei,tsetune8TesnoftsAtagsn5,s91,ph“0S.2.EED.TefgteetJy1122TepsoftesnoftsAtags38,ss2ad44S.2.A.Tefgaytoc5edioorrdonorarJy1,261.TesnoftsAtegsn872.TesnoftsAtegsn883.TesnoftsAtegsn89S.2.REA.Tefga0rytoJy1,21TesnoftsAtagsn5,s21,ph“32.Tep,bysgls1th2adi4<nAtrgtoseg,igm5urtepwoftedtofmtadsF1S()9]
+[DELETED: mpinteIailhhbtra,adigeed,a,arF1S()9]
+
+
+================================================================================
+
+Raw Text:
+Senate Amendment to
+House File 1028
+H-1343
+1 Amend House File 1028, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking everything after the enacting clause and
+4 inserting:
+5 <Section 1. Section 8.57C, subsections 2, 3, and 4, Code
+6 2025, are amended to read as follows:
+7 2. Moneys in the fund in a fiscal year shall be used as
+8 appropriated by the general assembly for the acquisition
+9 of computer hardware and software, software development,
+10 telecommunications equipment, and maintenance and lease
+11 agreements associated with technology components and for the
+12 purchase of equipment intended to provide an uninterruptible
+13 power supply to the department of management to provide
+14 a stable funding source for implementation costs of state
+15 information technology projects that enhance the state’s
+16 technology infrastructure, improve government services,
+17 and promote innovation and economic development, including
+18 but not limited to new information technology projects
+19 and infrastructure replacement efforts of a department or
+20 establishment.
+21 3. a. The department of management shall prioritize
+22 proposed projects based on all of the following considerations:
+23 (1) Whether the project aligns with the state’s strategic
+24 priorities.
+25 (2) Whether the project promotes or introduces new
+26 technology or significantly improves an existing system.
+27 (3) Whether the project is feasible and whether the
+28 department or establishment has established readiness for the
+29 project to proceed, including a clear assessment of timelines,
+30 budgets, and measurable outcomes.
+31 (4) Whether the project includes a clear change management
+32 strategy to support user adoption and aligns with lean
+33 enterprise principles to maximize value, minimize waste, and
+34 ensure continuous improvement.
+35 (5) Whether the project provides a positive return on
+HF 1028.2029.S (1) 91
+-1- mb 1/14
+
+1 investment, considering both financial returns and nonfinancial
+2 benefits such as improved public safety, education, or health
+3 care.
+4 (6) Whether the project results in infrastructure that is
+5 scalable across the state enterprise.
+6 (7) Whether the department or establishment has identified
+7 how the completed project will be sustained beyond the initial
+8 funding period.
+9 (8) Whether the project improves access to governmental
+10 services, particularly in rural communities.
+11 (9) Whether the project involves an infrastructure project
+12 as opposed to maintenance or standard upgrades of existing
+13 technology.
+14 b. The department of management shall provide a prioritized
+15 list of proposed projects for funding to the governor, who
+16 shall use the list in developing a budgetary recommendation
+17 for the general assembly pursuant to section 8.21 for the
+18 fiscal year beginning July 1, 2026, and for each fiscal year
+19 thereafter.
+20 3. a. There is appropriated from the general fund of the
+21 state to the technology reinvestment fund for the fiscal year
+22 beginning July 1, 2025, and for each subsequent fiscal year
+23 thereafter, the sum of seventeen million five hundred thousand
+24 dollars.
+25 b. There is appropriated from the rebuild Iowa
+26 infrastructure fund for the fiscal year beginning July 1, 2023,
+27 and ending June 30, 2024, the sum of eighteen million three
+28 hundred ninety thousand two hundred ninety dollars to the
+29 technology reinvestment fund, notwithstanding section 8.57,
+30 subsection 3, paragraph “c”.
+31 c. There is appropriated from the rebuild Iowa
+32 infrastructure fund for the fiscal year beginning July 1, 2024,
+33 and ending June 30, 2025, the sum of twenty-one million one
+34 hundred thirty-one thousand eight hundred seventy-three dollars
+35 to the technology reinvestment fund, notwithstanding section
+HF 1028.2029.S (1) 91
+-2- mb 2/14
+
+1 8.57, subsection 3, paragraph “c”.
+2 c. Notwithstanding section 8.33, moneys in the technology
+3 reinvestment fund that remain unencumbered or unobligated at
+4 the close of a fiscal year shall not revert but shall remain
+5 available for expenditure for the purposes designated until
+6 the close of the fiscal year that ends two years after the
+7 end of the fiscal year for which the appropriation was made.
+8 Notwithstanding section 12C.7, subsection 2, interest or
+9 earnings on moneys in the fund shall be credited to the fund.
+10 4. Annually, on On or before January 15 of each year, a
+11 state agency that received an appropriation from this fund
+12 the department of management shall report to the legislative
+13 services agency and the department of management general
+14 assembly the status of all projects funded under this section
+15 that have been completed since the previous report was
+16 submitted or that are in progress. The report shall must
+17 include a description of the project, the progress of work
+18 completed, the total estimated cost of the project, a list of
+19 all revenue sources being used to fund the project, the amount
+20 of funds moneys expended, the amount of funds moneys obligated,
+21 and the date the project was completed or an estimated
+22 completion date of the project, where applicable.
+23 Sec. 2. Section 8.78, Code 2025, is amended to read as
+24 follows:
+25 8.78 Background checks.
+26 An applicant for employment with the department, or
+27 an applicant for employment with a supported entity for a
+28 position as information technology staff, may be subject to a
+29 background investigation by the department. The background
+30 investigation may include, without limitation, a work history,
+31 financial review, request for criminal history data, and
+32 national criminal history check through the federal bureau of
+33 investigation. In addition, a contractor, vendor, employee, or
+34 any other individual performing work for the department, or an
+35 individual on the information technology staff of a supported
+HF 1028.2029.S (1) 91
+-3- mb 3/14
+
+1 entity, may be subject to a national criminal history check
+2 through the federal bureau of investigation at least once
+3 every ten five years, including, without limitation, any time
+4 the department or supported entity has reason to believe an
+5 individual has been convicted of a crime. The department may
+6 request the national criminal history check and, if requested,
+7 shall provide the individual’s fingerprints to the department
+8 of public safety for submission through the state criminal
+9 history repository to the federal bureau of investigation.
+10 The individual shall authorize release of the results of the
+11 national criminal history check to the department and the
+12 applicable supported entity. The department shall pay the
+13 actual cost of the fingerprinting and national criminal history
+14 check, if any, unless otherwise agreed as part of a contract
+15 between the department or supported entity and a vendor or
+16 contractor performing work for the department or supported
+17 entity. The results of a criminal history check conducted
+18 pursuant to this section shall not be considered a public
+19 record under chapter 22.
+20 Sec. 3. NEW SECTION. 8.94 Contracts —— prohibited terms.
+21 Provisions included in a contract entered into pursuant to
+22 this subchapter that impose terms or conditions prohibited by
+23 this section are void as contrary to public policy. Such a
+24 contract shall be interpreted and enforced as if the contract
+25 did not include the prohibited terms or conditions. Prohibited
+26 terms and conditions include all of the following:
+27 1. A provision requiring the department or a supported
+28 entity to defend, indemnify, hold harmless another person, or
+29 otherwise assume the debt or liability of another person in
+30 violation of Article VII, section 1, of the Constitution of the
+31 State of Iowa.
+32 2. A provision that seeks to impose a term that is unknown
+33 to the department or supported entity at the time of signing
+34 the contract or that can be unilaterally changed by an entity
+35 other than the department or a supported entity.
+HF 1028.2029.S (1) 91
+-4- mb 4/14
+
+1 3. A provision that violates chapter 13 by not allowing
+2 the department or a supported entity to participate in its own
+3 defense through representation by the attorney general.
+4 4. A provision that grants to a person other than the
+5 attorney general the authority to convey to a court or litigant
+6 the state’s consent to any settlement of a suit involving the
+7 contract when such settlement could impose liability on the
+8 state.
+9 5. A provision that specifies that the contract is governed
+10 by the laws of a foreign state or nation.
+11 6. A provision that claims blanket confidentiality of the
+12 contract’s terms.
+13 7. A provision that claims that payment terms, including but
+14 not limited to cost proposals or other pricing information, of
+15 the contract are confidential.
+16 8. A provision that authorizes or requires a venue for
+17 litigation other than an appropriate state or federal court
+18 sitting in Iowa.
+19 9. A provision that requires the department or a supported
+20 entity to pay attorney fees, court costs, or other litigation
+21 expenses in the event of a contractual dispute.
+22 10. A provision that imposes on the department or a
+23 supported entity binding arbitration or any other binding
+24 extrajudicial dispute resolution process in which the final
+25 resolution is not determined by the state.
+26 11. A provision that waives the department’s or a supported
+27 entity’s right to a jury trial.
+28 12. A provision that obligates the department or a supported
+29 entity to pay late payment charges not consistent with section
+30 8A.514, interest greater than allowed under section 8A.514 or
+31 other applicable law, or any cancellation charges, as such
+32 charges constitute pledges of the state’s credit.
+33 13. A provision that obligates the department or a supported
+34 entity to pay a tax.
+35 14. A provision that imposes a prior notice obligation
+HF 1028.2029.S (1) 91
+-5- mb 5/14
+
+1 on the department or a supported entity as a condition for
+2 the automatic renewal of a software license. The department
+3 or a supported entity may provide notice of its intent to
+4 terminate a software license at any time before the renewal
+5 date established in the contract.
+6 15. A provision that obligates the department or a supported
+7 entity to accept risk of loss before the receipt of items or
+8 goods.
+9 16. A provision that obligates the department or a supported
+10 entity to have commercial insurance.
+11 17. A provision that obligates the department or a supported
+12 entity to grant to a nongovernmental entity full or partial
+13 ownership of intellectual property developed pursuant to the
+14 contract when the intellectual property is developed in whole
+15 or in part using federal funding.
+16 18. A provision that limits the time in which the department
+17 or a supported entity may bring a legal claim under the
+18 contract to a period shorter than that provided in Iowa law.
+19 19. A boilerplate provision included in transactional
+20 documents received by the department or a supported entity that
+21 seeks to alter the terms of the contract or to impose new terms
+22 in the contract.
+23 Sec. 4. NEW SECTION. 8.95 Contracts —— required terms.
+24 All of the following provisions shall be deemed to be
+25 included in a contract entered into by the department or a
+26 supported entity under this subchapter:
+27 1. Governing law. The contract shall be governed by
+28 the laws of the state of Iowa, without giving effect to any
+29 conflicts of law principles of Iowa law that may require the
+30 application of another jurisdiction’s law.
+31 2. Venue. Any litigation commenced in connection with the
+32 contract shall be brought and maintained in an appropriate
+33 state or federal court sitting in Iowa.
+34 Sec. 5. NEW SECTION. 8.96 Contracts —— limitation of
+35 liability —— prohibited terms.
+HF 1028.2029.S (1) 91
+-6- mb 6/14
+
+1 Notwithstanding section 8A.311, subsection 22, and rules
+2 adopted pursuant to that subsection, the director may include
+3 a contractual limitation of vendor liability in information
+4 technology goods and services contracts. A contractual
+5 limitation of vendor liability must take into consideration the
+6 public interest and the mitigation of risks associated with the
+7 use of information technology goods or services. Any portion
+8 of a contractual limitation of vendor liability that includes
+9 a repudiation of all liability for cybersecurity incidents or
+10 a limitation on the vendor’s liability for intentional torts,
+11 criminal acts, fraudulent conduct, intentional or willful
+12 misconduct, gross negligence, death, bodily injury, damage to
+13 real or personal property, intellectual property violations,
+14 liquidated damages, compliance with applicable laws, violations
+15 of confidential information obligations, or contractual
+16 obligations of the vendor pertaining to indemnification shall
+17 be void as a matter of law as contrary to public policy. A
+18 contractual limit of vendor liability that does not apply
+19 equally to the contracted parties or that limits a vendor’s
+20 liability to less than the contract value inclusive of all
+21 possible extensions is void as a matter of law as contrary to
+22 public policy.
+23 Sec. 6. NEW SECTION. 8.97 Confidentiality of communications
+24 with chief information security officer.
+25 In the interest of facilitating communication between
+26 the chief information security officer and other entities
+27 concerning security incidents and security breaches, all such
+28 communications and any documents generated based in whole or in
+29 part on such communications are confidential. Notwithstanding
+30 chapter 22 or any other provision of law to the contrary, the
+31 department shall not release such communications pursuant to
+32 state open records laws, and such communications shall not be
+33 received into evidence, subject to discovery, or otherwise
+34 used in a trial, hearing, or other proceeding in or before any
+35 court, regulatory body, or other authority of the state or a
+HF 1028.2029.S (1) 91
+-7- mb 7/14
+
+1 political subdivision of the state, unless the communications
+2 are subject to a protective order that prohibits further
+3 disclosure of such communications and requires any court
+4 filings of such communications to be made under seal. It is
+5 the intent of the general assembly that these prohibitions and
+6 restrictions also apply to federal courts, regulatory bodies,
+7 and other authorities and for purposes of federal open records
+8 laws, to the extent allowed by federal law and court rules.
+9 The chief information security officer shall not release such
+10 communications other than for any of the following purposes:
+11 1. Identifying a cybersecurity threat, including the source
+12 of the cybersecurity threat, or a security vulnerability, and
+13 then only to government officials for purposes of addressing
+14 the threat.
+15 2. Responding to, or otherwise preventing or mitigating,
+16 a specific threat of death, serious bodily harm, or serious
+17 economic harm.
+18 3. Responding to, investigating, prosecuting, or otherwise
+19 preventing or mitigating a serious threat to a minor, including
+20 sexual exploitation and threats to physical safety.
+21 4. Preventing, investigating, disrupting, or prosecuting an
+22 offense under state or federal law.
+23 5. Providing a confidential cybersecurity briefing to the
+24 governor or a member of the general assembly.
+25 Sec. 7. NEW SECTION. 8.98 Criminal justice information.
+26 1. The department is authorized to maintain an integrated
+27 information system that enables automated data sharing among
+28 the executive branch, judicial branch, and local agencies.
+29 2. The department is designated as the Iowa statistical
+30 analysis center for the purpose of coordinating with data
+31 resource agencies to provide data and analytical information
+32 to federal, state, and local governments. Notwithstanding any
+33 other provision of state law to the contrary, unless prohibited
+34 by federal law or regulation, the department shall be granted
+35 access, for purposes of research and evaluation, to all of
+HF 1028.2029.S (1) 91
+-8- mb 8/14
+
+1 the data listed in this subsection, except that intelligence
+2 data and peace officer investigative reports maintained
+3 by the department of public safety shall not be considered
+4 data for the purposes of this section. The department of
+5 management and any record, data, or information obtained by the
+6 department under this subsection is subject to the federal and
+7 state confidentiality laws and rules, including as described
+8 in chapter 22, applicable to the original record, data, or
+9 information, and to the original custodian of the record,
+10 data, or information. Authorized access under this subsection
+11 includes but is not limited to all of the following:
+12 a. Juvenile court records and all other information
+13 maintained under sections 232.147 through 232.151.
+14 b. Child abuse information under sections 235A.15 through
+15 235A.19.
+16 c. Dependent adult abuse records maintained under chapter
+17 235B.
+18 d. Criminal history data maintained under chapter 692.
+19 e. Sex offender registry information maintained under
+20 chapter 692A.
+21 f. Presentence investigation reports maintained under
+22 section 901.4.
+23 g. Corrections records maintained under sections 904.601 and
+24 904.602.
+25 h. Community-based correctional program records maintained
+26 under chapter 904.
+27 i. Parole records maintained under chapter 906.
+28 j. Deferred judgment, deferred or suspended sentence, and
+29 probation records maintained under chapter 907.
+30 k. Violation of parole or probation records maintained under
+31 chapter 908.
+32 l. Fine and victim restitution records maintained under
+33 chapters 909 and 910.
+34 m. Child welfare records maintained under chapter 235.
+35 3. The department is authorized to provide data analysis and
+HF 1028.2029.S (1) 91
+-9- mb 9/14
+
+1 reporting on issues that may affect the state’s correctional
+2 population and various subgroups of the population. This
+3 reporting may include the review of filed, public legislative
+4 bills, joint resolutions, and amendments, and compiling
+5 criminal justice data for completion of correctional impact
+6 statements under section 2.56, racial impact statements, and an
+7 annual prison population forecast.
+8 4. The department is authorized to maintain a multiagency
+9 information system to track the progress of juveniles and
+10 adults who have been charged with a criminal offense in
+11 the court system through various state and local agencies
+12 and programs. This system must utilize existing databases,
+13 including the Iowa court information system, the Iowa
+14 corrections offender network, the child welfare information
+15 system of the department of health and human services,
+16 the federally mandated national adoption and foster care
+17 information system, and other state and local databases
+18 pertaining to juveniles and to adults who have been charged
+19 with a criminal offense in the court system, to the extent
+20 practicable.
+21 5. The multiagency information system is authorized to
+22 count and track decision points for juveniles in the juvenile
+23 justice system and minors in the child welfare system, evaluate
+24 the experiences of the juveniles and minors, and evaluate
+25 the success of the services provided. The system is also
+26 authorized to count and track decision points for adults who
+27 have been charged with a criminal offense in the court system,
+28 including but not limited to dismissed charges, convictions,
+29 deferred judgments, and sentence information.
+30 6. If the department has insufficient moneys or resources
+31 to implement this section, the department is authorized to
+32 determine which portion of this section may be implemented, if
+33 any, and the remainder of this section shall not apply.
+34 Sec. 8. NEW SECTION. 8.99 Confidentiality of data.
+35 1. For purposes of chapter 22, the department shall not be
+HF 1028.2029.S (1) 91
+-10- mb 10/14
+
+1 deemed to be the lawful custodian of records the department
+2 maintains for another department or establishment under this
+3 subchapter, to the extent the records in question are held
+4 by the department as an automated data processing unit of
+5 government or held by the department solely for storage for
+6 another department or establishment. Such records include but
+7 are not limited to all of the following:
+8 a. Electronic messaging system data.
+9 b. Mainframe data.
+10 c. Storage solutions or other electronic information, such
+11 as on-premises server data storage and cloud data storage.
+12 2. If the department receives a request pursuant to chapter
+13 22 for records over which the department has determined it is
+14 not the lawful custodian, the department shall deny the request
+15 and inform the requester to seek the information from the
+16 lawful custodian as provided in chapter 22. The department’s
+17 determination that it is not the lawful custodian of records is
+18 presumed valid. The presumption may be rebutted by clear and
+19 convincing evidence to the contrary.
+20 3. The department shall provide assistance to the lawful
+21 custodian of records held by the department so that the lawful
+22 custodian can comply with the production obligations of chapter
+23 22.
+24 4. If the department receives a subpoena in an
+25 administrative, civil, or criminal case for records for which
+26 the department is not the lawful custodian, the department
+27 shall notify the lawful custodian and the attorney general’s
+28 office and cooperate in any efforts to resist the subpoena.
+29 Sec. 9. Section 216A.131A, Code 2025, is amended to read as
+30 follows:
+31 216A.131A Criminal and juvenile justice planning.
+32 The department shall fulfill the responsibilities of
+33 this subchapter, including the duties specified in sections
+34 216A.133, 216A.135, 216A.136, 216A.137, 216A.138, and 216A.140.
+35 Sec. 10. Section 216A.133, subsection 1, paragraphs d, e, f,
+HF 1028.2029.S (1) 91
+-11- mb 11/14
+
+1 l, and t, Code 2025, are amended by striking the paragraphs.
+2 Sec. 11. Section 216A.133, subsection 1, paragraph q,
+3 subparagraphs (1) and (6), Code 2025, are amended by striking
+4 the subparagraphs.
+5 Sec. 12. Section 216A.133, subsection 1, paragraph s, Code
+6 2025, is amended to read as follows:
+7 s. Provide expertise and advice to the legislative
+8 services agency, the department of management, the department
+9 of corrections, the judicial branch, and others charged
+10 with formulating fiscal, correctional, or minority impact
+11 statements.
+12 Sec. 13. Section 216A.135, subsection 2, paragraph e, Code
+13 2025, is amended by striking the paragraph.
+14 Sec. 14. Section 232.147, subsection 2, paragraph i, Code
+15 2025, is amended to read as follows:
+16 i. The statistical analysis center for the purposes stated
+17 in section 216A.136 8.98.
+18 Sec. 15. Section 232.147, subsection 3, paragraph n, Code
+19 2025, is amended to read as follows:
+20 n. The statistical analysis center for the purposes stated
+21 in section 216A.136 8.98.
+22 Sec. 16. Section 232.147, subsection 4, paragraph i, Code
+23 2025, is amended to read as follows:
+24 i. The statistical analysis center for the purposes stated
+25 in section 216A.136 8.98.
+26 Sec. 17. Section 232.149, subsection 5, paragraph f, Code
+27 2025, is amended to read as follows:
+28 f. The statistical analysis center for the purposes stated
+29 in section 216A.136 8.98.
+30 Sec. 18. Section 232.149A, subsection 3, paragraph m, Code
+31 2025, is amended to read as follows:
+32 m. The statistical analysis center for the purposes stated
+33 in section 216A.136 8.98.
+34 Sec. 19. Section 513C.10, subsection 1, paragraph a, Code
+35 2025, is amended to read as follows:
+HF 1028.2029.S (1) 91
+-12- mb 12/14
+
+1 a. All persons that provide health benefit plans in this
+2 state including insurers providing accident and sickness
+3 insurance under chapter 509, 514, or 514A, whether on an
+4 individual or group basis; fraternal benefit societies
+5 providing hospital, medical, or nursing benefits under chapter
+6 512B; and health maintenance organizations, other entities
+7 providing health insurance or health benefits subject to state
+8 insurance regulation, and all other insurers as designated
+9 by the board of directors of the Iowa comprehensive health
+10 insurance association with the approval of the commissioner
+11 shall be members of the association. However, the state,
+12 including an institution under the control of the state board
+13 of regents, shall not be a member of the association.
+14 Sec. 20. REPEAL. Sections 216A.136, 216A.137, and
+15 216A.138, Code 2025, are repealed.
+16 Sec. 21. EFFECTIVE DATE. The following, being deemed of
+17 immediate importance, takes effect upon enactment:
+18 The section of this Act amending section 513C.10, subsection
+19 1, paragraph “a”.
+20 Sec. 22. EFFECTIVE DATE. The following take effect July 1,
+21 2026:
+22 The portions of the section of this Act amending section
+23 8.57C, subsections 2 and 4.
+24 Sec. 23. APPLICABILITY. The following apply to contracts
+25 entered into or renewed on or after July 1, 2025:
+26 1. The section of this Act enacting section 8.94.
+27 2. The section of this Act enacting section 8.95.
+28 3. The section of this Act enacting section 8.96.
+29 Sec. 24. RETROACTIVE APPLICABILITY. The following applies
+30 retroactively to January 1, 2020:
+31 The section of this Act amending section 513C.10, subsection
+32 1, paragraph “a”.>
+33 2. Title page, by striking lines 1 through 2 and inserting
+34 <An Act relating to state government, including matters
+35 under the purview of the department of management and state
+HF 1028.2029.S (1) 91
+-13- mb 13/14
+
+1 membership in the Iowa individual health benefit reinsurance
+2 association, and including effective date, applicability, and
+3 retroactive>
+HF 1028.2029.S (1) 91
+-14- mb 14/14
+
+[DELETED: eAtteFe1AdHeFe1,asa,p,adrdbteH,asf1.Bysgegarteegceai<n1.Sn8,ss2,3,ad4,C2,aeadtordasf2.Msintefdinaflyrslbeudaadbyteglayfrteaofcrheads,sed0tse,admeadl1asadwhtycsadfrt2peofetidtopeanu3prsytotedtofmttop4asefgsefrincsofs5intypstteetes6tyi,iegts7adpeinadecd,i8btntldtonwintyp9adiertesofadto0e13.Tedtofmtslp2pdpsbdonaloftefgc3()Wrteptaswhtesss4p5()Wrteptpsorisn6tyorsyisanegs7()Wrteptisfeadwrt8dtorethsedrsfrt9pttop,igacratoft0b,admeo1()Wrteptisacrcem2sytosturanadaswhl3eepstomev,mew,a4eecsi5()WrteptpsapernoF1S()9]
+[DELETED: i,cgbhflrsadnbsshasidpcs,e,orhc()Wrteptrsiniettiseastesee()Wrtedtorethsihwtecdptwlbesdbdteifgp()Wrteptisastog0s,pyinrlc1()Wrteptisaniep2asodtomeorsdusofe3t4Tedtofmtslpeap5ltofpdpsfrfgtoteg,w6slueteltindgabyr7frteglaypttosn81frt8flyrbgJy1,2,adfrehfly9t03.Teisadfmteglfdoft1setotetyrtfdfrtefly2bgJy1,2,adfrehstfly3t,tesmofsnmnfehdt4d5TeisadfmterdI6iefdfrteflyrbgJy1,27adegJe3,2,tesmofenmnt8hdnytdtohdnydstot9tyrtf,ngsn80sn3,ph1TeisadfmterdI2iefdfrteflyrbgJy1,23adegJe3,2,tesmoftemno4hdtetdethdsed5totetyrtf,ngsF1S()9]
+[DELETED: 8,sn3,phNgsn8,msintetrtfdttrnudorudateceofaflyrslntrtbtslraefreefrtepsdduteceofteflyrttestoysartedofteflyrfrwhteanwsmNgsn1,sn2,itoesonmsintefdslbecdtotef04.A,onOnorbeJy15ofehy,1seayttrdananfmtsf2tedtofmtslrttotel3ssayadtedtofmtg4aytessofalpsfdurtss5tthebncdsetepsrtw6sdorttaeinp.Tertslm7ieadnoftep,tepsofw8c,tetledctoftep,alto9alressbgudtofdtep,tea0offsmse,teatoffsmso1adtedeteptwscdorane2cndeoftep,wea3S.2.Sn8,Ce2,isadtorda4f8Bdc6Anatfretwhted,o7anatfretwhasdeyfr8pnasintys,mybestto9bdinbyted.Teb0inmyi,wtl,awkh1flr,rtfrclhyd,a2nlclhyckthteflbuo3i.Ina,ac,v,e,o4ayorilpgwkfrted,ora5ilonteintysfofasF1S()9]
+[DELETED: e,mybesttoanlclhycthteflbuofinatltoeytnfey,i,wtl,ayttedtorsdeyhsrntobeailhsbncdofac.Tedtmrttenlclhycka,ifrslpeteisfstotedofpcsyfrsnthtesechyrytoteflbuofi0Teilslaereoftersoft1nlclhycktotedtadt2aesde.Tedtslpyt3alctoftefgadnlclh4c,ifa,usoeadasptofac5bntedtorsdeyadavro6crpgwkfrtedtors7e.Tersofaclhyckc8pttotssnslntbecdap9rdurcr20S.3.NWS4Cs——pdt1Psidinactedioptt2tssrttietsorcspdb3tssnaevdascytopcp.Sh4ctslbeidadedasiftec5ddntietepdtsorc.P6tsadcsiealoftef71.Apnrgtedtoras8eytod,i,hdhsarp,o9oeaetedtorlyofarpni0vnofAeV,sn1,ofteCnoft1SeofI22.Apnttsstoieatmttisu3totedtorsdeyatteteofs4tectorttcnbeuycdbyane5ortntedtorasdeF1S()9]
+[DELETED: 3.Apnttvscr13byntatedtorasdeytopeinisodethrnbyteayg4.Apnttgstoapnortntayglteaytocytoactorltesscttoaystofastigtctwnshstcdielyonts5.Apnttsstttectisg0bytelsofafnseorn16.Apnttcsbtcyoft2cst37.Apnttcsttptt,igb4ntldtoctpsororpgi,o5tectaec68.Apnttasorrsavef7lnortnanaeseorflc8sginI99.Apnttrstedtoras0eytopyayf,ctc,ororl1esinteetofacld21.Apnttisontedtor3sdeybganorayorb4eldernpsinwhtef5rnisntddbytes61.Apnttwstedsoras7esrttoajyt81.Apnttostedtoras9eytopyleptcsntctwhs08,itgrtnadursn84o1orael,oraycnc,ass2cscepsoftessc31.Apnttostedtoras4eytopyat51.ApnttisaprneoF1S()9]
+[DELETED: ontedtorasdeyasacnfteacrlofasel.Tedorasdeymypeneofisittteaseleataytebeterdeedintec1.Apnttostedtoraseytoatrkoflsbetertofisog1.Apnttostedtoras0eytohecli11.Apnttostedtoras2eytogttoanleyflorp3opofilpyddpttot4ctwnteilpyisddinw5orinptugflf61.Apnttlsteteinwhted7orasdeymybgallcmurt8cttoapdsrtnttpdinIal91.Abepnidint0dsrdbytedtorasdeyt1sstoartetsoftectortoienwt2intec3S.4.NWS5Cs——rdt4Aloftefgpsslbeddtob5idinactediobytedtor6sdeyurtss71.Tectslbegdbgl8telsofteseofI,wtggettoa9csoflwpsofIalwttmyret0anofarjsl12.Aylncdincnwht2ctslbebtadmdinana3seorflctsginI4S.5.NWS6Cs——lnoy——pdtF1S()9]
+[DELETED: Ngsn8,sn2,adradpttotts,tedrmyiacllnofvrlyinitygsadssc.Aclnofvrlymtteiocntpcitadtemnofrsadwhtueofintygsors.Aypofacllnofvrlyttiarnofallyfrcyiso0alnontevslyfrilt1cla,ftc,ilorw2m,gsn,d,byi,det3rlorplp,ilpyv4ldd,cewhael,v5ofclino,orc6osoftevrpgtoins7bevdasamroflwascytopcp.8clltofvrlyttdsnta9eytotecdpsorttlsav0lytolstntectveieofa1peesisvdasamroflwascyt2pcp3S.6.NWS7Cyofchcfinsyo5Inteitoffgcnb6tecfinsyoradore7cgsyisadsyb,als8csadaydsgdbdinweori9ptonshcsaec.N0cr22orayorpnoflwtotec,t1dtslntreshcsptt2seonrsl,adshcsslntb3rdioe,sttod,oro4udinat,h,ororpginorbea5c,ryb,ororayofteseorF1S()9]
+[DELETED: plsnoftes,ustecaesttoapeorttpsfdeofshcsadrsaycfsofshcstobemeurs.Ititeitofteglaytttepsarsaoaytoflc,rybadorasadfrpsofflonrl,toteetadbyfllwadctrTecfinsyorslntres0csortnfrayoftefgp11.Igacyt,igtes2oftecyt,orasyv,a3tnoytogtosfrpsofa4tet52.Rgt,oroepgorm6ascttofd,ssbyh,ors7ech83.Rgt,i,p,oro9pgormgasstttoam,i0slenadtstopls14.P,i,d,orpga2oeurseorfll35.Pgaclcybgtot4groramroftegla5S.7.NWS8Cljei61.Tedtisadtomnani7insmttesaddasga8teeeb,jlb,adlla92.TedtisddasteIas0ascrfrtepeofcgwhd1reastopedaadali2tof,s,adllg.Nga3orpnofselwtotec,usp4byfllworr,tedtslbeg5a,frpsofrhade,toaloF1S()9]
+[DELETED: tedaldintss,etttidaadpeoriersmbytedtofpcsyslntbecdafrtepsoftss.Tedtomtadayr,d,orinodbytdturtssnissttoteflasecylsadr,igasdincr2,aetoteolr,d,oi,adtoteolcnofter0d,ori.Adasurtss1isbtisntldtoaloftef2Jectrsadalori3mdurss27th24Cdaeinurss25t526Dtataersmdurc728Clhydamdurcr69Sxorryinmdu0cr61Peinrsmdu2sn93Csrsmdurss91a495Cdclpmrsm6urcr97Persmdurcr98Ddj,ddorsds,a9pnrsmdurcr90Vnofpeorpnrsmdu1cr92Feadvmrnrsmdu3cs99ad94Cdwersmdurcr253.TedtisadtopedaasaF1S()9]
+[DELETED: rgonisttmyattesscpnadvsssoftep.Trgmyieterwoff,pclb,jtr,ada,adccljedafrcnofclissursn2,rlits,adaalpnpnf4.Tedtisadtomnaminsmtotktepsofjsa0aswohebncdwhacloei1tectsmthvsseadlla2adp.Tssmmtueegd3igteIactins,teI4csorn,tecdwei5smoftedtofhhadhns6tefymdnlanadfrc7ins,adorseadlld8pgtojsadtoaswohebnc9whacloeintects,totee0p15.Temyinsmisadt2ctadtkdnpsfrjsintej3jesmadmsintecdwes,e4teesoftejsadm,ade5tessoftessp.Tesmisa6adtoctadtkdnpsfrasw7hebncdwhacloeintects8igbtntldtoddc,c9ddj,adsei06.Iftedthsitmsorr1toittss,tedtisadt2dewhpnoftssnmybei,i3a,adterroftssnslnta4S.8.NWS9Cyofd51.Frpsofcr2,tedtslntbF1S()9]
+[DELETED: ddtobetellcnofrstedmsfrardtoreturts,toteettersinqnaehbytedtasanaddapgutogtorhdbytedtsyfrsefardtore.ShrsiebaentldtoaloftefEcmgsmdMed0Sessororeci,s1asossrdaseadcddas22.Iftedtrsartpttoc322frrsorwhtedthsdditi4nttellc,tedtsldyter5adimterrtoskteinfmt6llcnaspdincr2.Ted7dnttitisnttellcnofrsi8pdv.Tepnmyberdbycra9cgeetotec03.Tedtslpeaetotel1cnofrshdbytedtsotttel2cncncywhtepnosofc3244.Iftedtrsasaina5a,c,orclcefrrsfrw6tedtisnttellc,ted7slnytellcnadteayg8oeadceinayestorttes9S.9.Sn2,Ce2,isadtorda0fACladjejep2Tedtslflterso3tss,igtedssdins42,2,2,2,2,ad25S.1.Sn2,sn1,psd,e,fF1S()9]
+[DELETED: l,adt,Ce2,aeadbysgtepS.1.Sn2,sn1,phqss()ad(,Ce2,aeadbystesS.1.Sn2,sn1,phs,C2,isadtordasfPeeeadaetotelssa,tedtofm,tedofc,tejlb,adosc0whfgf,c,ormyi1s2S.1.Sn2,sn2,phe,C32,isadbysgtep4S.1.Sn2,sn2,phi,C52,isadtordasf6Teslascrfrtepss7insn2688S.1.Sn2,sn3,phn,C92,isadtordasf0Teslascrfrtepss1insn2682S.1.Sn2,sn4,phi,C32,isadtordasf4Teslascrfrtepss5insn2686S.1.Sn2,sn5,phf,C72,isadtordasf8Teslascrfrtepss9insn2680S.1.Sn2,sn3,phm,C12,isadtordasf2Teslascrfrtepss3insn2684S.1.Sn5,sn1,pha,C52,isadtordasfF1S()9]
+[DELETED: Alpsttpehhbtpsintseigispgatadsieurcr5,5,or5,wronailorgpb;flbtspgh,m,orngbsurc5;adhhmeo,orepghhieorhhbssttosier,adalorisasdbytebdofdsofteIaceh0ieanwhtealoftec1slbemsoftea.H,tes2iganinurteclofteseb3ofr,slntbeamroftea4S.2.R.Ss2,2,a52,Ce2,aer6S.2.EED.Tef,bgddo7iei,tsetune8TesnoftsAtagsn5,s91,ph“0S.2.EED.TefgteetJy1122TepsoftesnoftsAtags38,ss2ad44S.2.A.Tefgaytoc5edioorrdonorarJy1,261.TesnoftsAtegsn872.TesnoftsAtegsn883.TesnoftsAtegsn89S.2.REA.Tefga0rytoJy1,21TesnoftsAtagsn5,s21,ph“32.Tep,bysgls1th2adi4<nAtrgtoseg,igm5urtepwoftedtofmtadsF1S()9]
+[DELETED: mpinteIailhhbtra,adigeed,a,arF1S()9]

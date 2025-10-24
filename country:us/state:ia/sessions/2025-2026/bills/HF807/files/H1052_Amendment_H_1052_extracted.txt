@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, line 10, after <148,> by inserting <a physician
+Official Title: 2 1. Page 1, line 10, after <148,> by inserting <a physician
+Number of Sections: 1
+Source: versions - Amendment H-1052
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 807
+H-1052
+1 Amend House File 807 as follows:
+3 assistant licensed pursuant to chapter 148C,>
+______________________________
+GEHLBACH of Dallas
+HF 807.803 (1) 91
+-1- lh/ko 1/1
+[DELETED: eFe8AdHeFe87asf1.Pe1,le1,ar<>byig<apatldpttocr1HofDF83()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 807
+H-1052
+1 Amend House File 807 as follows:
+2 1. Page 1, line 10, after <148,> by inserting <a physician
+3 assistant licensed pursuant to chapter 148C,>
+______________________________
+GEHLBACH of Dallas
+HF 807.803 (1) 91
+-1- lh/ko 1/1
+
+[DELETED: eFe8AdHeFe87asf1.Pe1,le1,ar<>byig<apatldpttocr1HofDF83()9o1]

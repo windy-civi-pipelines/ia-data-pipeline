@@ -1,0 +1,35 @@
+Title: 2 1. Page 1, line 3, by striking <reasonable> and inserting
+Official Title: 2 1. Page 1, line 3, by striking <reasonable> and inserting
+Number of Sections: 1
+Source: versions - Amendment S-3120
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 426
+S-3120
+1 Amend Senate File 426 as follows:
+3 <excessive and extraordinary>
+______________________________
+ANNETTE SWEENEY
+SF 426.821 (1) 91
+-1- sb/js 1/1
+[DELETED: eFe4AdSeFe46asf1.Pe1,le3,bysg<>adi<eadeESF41()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 426
+S-3120
+1 Amend Senate File 426 as follows:
+2 1. Page 1, line 3, by striking <reasonable> and inserting
+3 <excessive and extraordinary>
+______________________________
+ANNETTE SWEENEY
+SF 426.821 (1) 91
+-1- sb/js 1/1
+
+[DELETED: eFe4AdSeFe46asf1.Pe1,le3,bysg<>adi<eadeESF41()9]

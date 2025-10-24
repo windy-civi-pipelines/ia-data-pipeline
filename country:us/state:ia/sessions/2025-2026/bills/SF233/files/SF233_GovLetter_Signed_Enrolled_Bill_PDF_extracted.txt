@@ -1,0 +1,683 @@
+Title: Senate File 233, an Act relating to the right to try Act.
+Official Title: Senate File 233, an Act relating to the right to try Act.
+Number of Sections: 17
+Source: versions - Signed Enrolled Bill (PDF)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+STATE OF IOWA
+KIM REYNOLDS
+GOVERNOR
+May 19, 2025
+The Honorable Paul Pate
+Secretary of State of Iowa
+State Capitol
+Des Moines, Iowa 50319
+Dear Mr. Secretary,
+I hereby transmit:
+The above Senate File is hereby approved on this date.
+Sincgely,
+nolds
+Governor of Iowa
+cc: Secretary of the Senate
+Clerk of the House
+STATE CAPITOL DES MOINES, IOWA 50319 515.281.5211 PAX 515.725.3527 WWW.GOVERNOR.IOWA.GOV
+fi 1111 It III I111111111111 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIÎiIIN•"•
+i
+I
+.•IIIIIIIIIII111IIil•"'111I1111: .IÎIIIII••'ÎIIIÎIIIIII11111111.. •+ iIII111111111111111//W
+• r ,11
+0
+01
+S1;PI➢i➢PIPI1111111U111111 IIII III 1I "Vi III116ECIIIIIIlI1111111111111111111111111111 1111 11 11101111111111111111➢11111
+Ci1••NI IZAL. zXSS1',N'I 13I h' il
+9,.^.!Idaû III 11III1111I11111,.LIDBI III IIiIiIII III 111?IBIISI191111111IIIIIIIIIIII@1111IIIIIIIIIIIIIIIIIIIIIIIIIII011111III".E!IIIIIIIIIIIII III] IIFIORFI!IIIIIIIIIIIIIIIIIIIIIIAlI1111111I111111➢1111111111!1
+Senate File 233
+AN ACT
+RELATING TO THE RIGHT TO TRY ACT.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+
+Section 2:
+Section 1. Section 144E.2, Code 2025, is amended to read as
+follows:
+144E.2 Definitions.
+As used in this chapter:
+
+Section 3:
+1. 'Eligible facility"" means an institution operating under
+a federalwide assurance for the protection of human subjects
+pursuant to 42 U.S.C. §289(a) and 45 C.F.R. pt. 46, and
+subject to the federalwide assurance laws, rules, policies, and
+guidelines including renewals and updates.
+
+Section 4:
+2. 'Eligible patient"" means an individual who meets all
+of the following conditions specified under paragraph 'a"" or
+"b"
+a. (1) Has a terminal illness, attested to by the patient's
+treating physician.
+(2) Has considered and rejected or has tried and failed
+to respond to all other treatment options approved by the
+United States food and drug administration.
+e- (3) Has received a recommendation from the individual's
+physician for an investigational drug, biological product, or
+device.
+Senate File 233, p. 2
+d• ( 4) Has given written informed consent for the use of
+the investigational drug, biological product, or device.
+e: (5) Has documentation from the individuals physician
+that the individual meets the requirements of this oub3cction
+paragraph "a
+b. ( 1) Has a life-threatening or severely debilitating
+illness, attested to by the patient's treating physician.
+(2) Has exhausted all other United States food and drug
+administration-approved treatment options by contraindication,
+potential or previous treatment failure, or actual or potential
+adverse reaction.
+(3) Has received a recommendation from the individual's
+physician for an individualized investigational treatment,
+based on an analysis of the patients genomic sequence, human
+chromosomes, deoxyribonucleic acid, ribonucleic acid, genes,
+gene products such as enzymes and other types of proteins, or
+metabolites.
+(4) Has given written informed consent for the use of the
+individualized investigational treatment.
+(5) Has documentation from the individual's physician that
+the individual meets the requirements of this paragraph "b-.
+
+Section 5:
+3. -Individualized investigational treatment - means a drug,
+biological product, or device that is unique to, and produced
+exclusively for use by, an individual patient, based on the
+individual patient's own genetic profile, and is provided in a
+manner that is consistent with a federalwide assurance for the
+protection of human subjects. -Individualized investigational
+treatment" includes but is not limited to individualized
+gene therapy, antisense oligonucleotides, and individualized
+neoantigen vaccines.
+
+Section 6:
+4. -investigational drug, biological product, or
+device - means a drug, biological product, or device that has
+successfully completed phase 1 of a United States food and drug
+administration-approved clinical trial but has not yet been
+approved for general use by the United States food and drug
+administration and remains under investigation in a United
+States food and drug administration-approved clinical trial.
+
+Section 7:
+3. 5. -Terminal illness - means a progressive disease
+or medical or surgical condition that entails significant
+Senate File 233, p. 3
+functional impairment, that is not considered by a treating
+physician to be reversible even with administration of
+treatments approved by the United States food and drug
+administration, and that, without life-sustaining procedures,
+will result in death.
+•- 6. "Written informed consent" means a written document
+that is signed by the patient, a parent of a minor patient, or a
+legal guardian or other legal representative of the patient and
+attested to by the patient's treating physician and a witness
+and that includes, at a minimum, all of the following:
+a. If the patient is an eligible patient as specified in
+subsection 2, paragraph -a-:
+(1) An explanation of the products and treatments approved
+by the United States food and drug administration for the
+disease or condition from which the patient suffers.
+b-,- (2) An attestation that the patient concurs with the
+patients treating physician in believing that all products
+and treatments approved by the United States food and drug
+administration are unlikely to prolong the patient's life.
+e: (3) Clear identification of the specific proposed
+investigational drug, biological product, or device that the
+patient is seeking to use.
+(4) A description of the best and worst potential
+outcomes of using the investigational drug, biological product,
+or device and a realistic description of the most likely
+outcome. The description shall include the possibility that
+new, unanticipated, different, or worse symptoms might result
+and that death could be hastened by use of the proposed
+investigational drug, biological product, or device. The
+description shall be based on the treating physician's
+knowledge of the proposed investigational drug, biological
+product, or device in conjunction with an awareness of the
+patient's condition.
+(5) A statement that the patient's health plan or
+third-party administrator and provider are not obligated to
+pay for any care or treatments consequent to the use of the
+investigational drug, biological product, or device, unless
+they are specifically required to do so by law or contract.
+(6) A statement that the patient's eligibility for
+Senate File 233, p. 4
+hospice care may be withdrawn if the patient begins curative
+treatment with the investigational drug, biological product,
+or device and that hospice care may be reinstated if this
+treatment ends and the patient meets hospice eligibility
+requirements.
+g—, ( 7) A statement that the patient understands that the
+patient is liable for all expenses consequent to the use of
+the investigational drug, biological product, or device and
+that this liability extends to the patient's estate unless
+a contract between the patient and the manufacturer of the
+investigational drug, biological product, or device states
+otherwise.
+b. If the patient is an eligible patient as specified in
+subsection 2, paragraph "b-:
+(1) An explanation of the currently approved products and
+treatments for the disease or condition from which the patient
+suffers.
+(2) An attestation that the patient concurs with the
+patients treating physician in believing that all currently
+approved and conventionally recognized products and treatments
+are unlikely to prolong the patient's life.
+(3) Clear identification of the specific proposed
+individualized investigational treatment that the patient is
+seeking to use.
+(4) A description of the best and worst potential outcomes
+of using the individualized investigational treatment
+and a realistic description of the most likely outcome.
+The description shall include the possibility that new,
+unanticipated, different, or worse symptoms might result
+and that death could be hastened by use of the proposed
+individualized investigational treatment. The description
+shall be based on the treating physician's knowledge of
+the proposed individualized investigational treatment in
+conjunction with an awareness of the patient's condition.
+(5) A statement that the patient's health plan or
+third-party administrator and provider are not obligated to
+pay for any care or treatments consequent to the use of the
+individualized investigational treatment, unless they are
+specifically required to do so by law or contract.
+Senate File 233, p. 5
+(6) A statement that the patient's eligibility for hospice
+care may be withdrawn if the patient begins curative treatment
+with the individualized investigational treatment and that
+hospice care may be reinstated if this treatment ends and the
+patient meets hospice eligibility requirements.
+(7) A statement that the patient understands that the
+patient is liable for all expenses consequent to the use of
+the individualized investigational treatment and that this
+liability extends to the patient's estate, unless a contract
+between the patient and the manufacturer of the individualized
+investigational treatment states otherwise.
+Sec. 2. Section 144E.3, Code 2025, is amended to read as
+follows:
+144E.3 Manufacturer and eligible facility rights.
+
+Section 8:
+1. A manufacturer of an investigational drug, biological
+product, or device or a manufacturer operating within, and in
+compliance with all requirements applicable to, an eligible
+facility may make available, and an eligible patient, as
+applicable under section 144E.1, subsection 2, paragraph 'à"'
+or 'b", may request from a manufacturer of an investigational
+drug, biological product, or device, or a manufacturer
+operating within, and in compliance with all requirements
+applicable to, an eligible facility, the manufacturer's
+investigational drug, biological product, or device, or the
+manufacturer's individualized investigational treatment under
+this chapter. This chapter does not require a manufacturer
+of an investigational drug, biological product, or device, or
+of an individualized investigational treatment to provide or
+otherwise make available the investigational drug, biological
+product, or device, or the individualized investigational
+treatment to an eligible patient.
+
+Section 9:
+2. A An eligible facility, or a manufacturer described
+in subsection 1, that is in compliance with all applicable
+requirements, may do any of the following:
+a. Provide an investigational drug, biological product,
+or device, or an individualized investigational treatment
+to an eligible patient, as applicable under section 144E.1,
+subsection 2, paragraph "a"' or 'b -, without receiving
+compensation.
+Senate File 233, p. 6
+b. Require an eligible patient, as applicable under section
+144E.1, subsection 2, paragraph -a- or ­b-, to pay the costs
+of, or the costs associated with, the manufacture of the
+investigational drug, biological product, or device, or the
+individualized investigational treatment.
+Sec. 3. Section 144E.4, Code 2025, is amended to read as
+follows:
+144E.4 Treatment coverage.
+
+Section 10:
+1. This chapter does not expand the coverage required of an
+insurer under Title XIII, subtitle 1.
+
+Section 11:
+2. A health plan, third-party administrator, or
+governmental agency may, but is not required to, provide
+coverage for the cost of an investigational drug, biological
+product, or device, e• the cost of an individualized
+investigational treatment, the cost of services related to the
+use of an investigational drug, biological product, or device,
+or the cost of services related to the use of an individualized
+investigational treatment under this chapter.
+
+Section 12:
+3. This chapter does not require any governmental agency
+to pay costs associated with the use, care, or treatment of a
+patient with an investigational drug, biological product, or
+device, or an individualized investigational treatment.
+
+Section 13:
+4. This chapter does not require a hospital licensed under
+chapter 135B or other health care facility to provide new or
+additional services, unless approved by the hospital or other
+health care facility.
+Sec. 4. Section 144E.5, Code 2025, is amended to read as
+follows:
+144E.5 Heirs not liable for treatment debts.
+If a patient dies while being treated $-r with an
+investigational drug, biological product, or device, or
+an individualized investigational treatment, the patient's
+heirs are not liable for any outstanding debt related to the
+treatment or lack of insurance due to the treatment, unlC3s
+othcrwisc rcquircd by law.
+Sec. 5. Section 144E.6, Code 2025, is amended to read as
+follows:
+144E.6 Provider recourse.
+
+Section 14:
+1. To the extent consistent with state law, the board of
+Senate File 233, p. 7
+medicine created under chapter 147 shall not revoke, fail
+to renew, suspend, or take any action against a physician's
+license based solely on the physician's recommendations to
+an eligible patient regarding access to or treatment with an
+investigational drug, biological product, or device, or an
+individualized investigational treatment.
+
+Section 15:
+2. To the extent consistent with federal law, an entity
+responsible for Medicare certification shall not take action
+against a physician's Medicare certification based solely on
+the physician's recommendation that a patient have access to
+an investigational drug, biological product, or device, or an
+individualized investigational treatment.
+Sec. 6. Section 144E.7, Code 2025, is amended to read as
+follows:
+144E.7 State interference.
+An official, employee, or agent of this state shall not
+block or attempt to block an eligible patient's access to an
+investigational drug, biological product, or device, or to an
+individualized investigational treatment. Counseling, advice,
+or a recommendation consistent with medical standards of care
+from a licensed physician is not a violation of this section.
+Sec. 7. Section 144E.8, Code 2025, is amended to read as
+follows:
+144E.8 Private cause of action.
+
+Section 16:
+1. This chapter shall not create a private cause of action
+against a manufacturer of an investigational drug, biological
+product, or device, or an individualized investigational
+treatment, against an eligible facility, or against any other
+person or entity involved in the care of an eligible patient
+using the investigational drug, biological product, or device,
+or the individualized investigational treatment for any harm
+done to the eligible patient resulting from the investigational
+drug, biological product, or device, or the individualized
+investigational treatment, if the manufacturer, eligible
+facility, or other person or entity is complying in good faith
+with the terms of this chapter and has exercised reasonable
+care.
+Senate File 233, p. 8
+
+Section 17:
+2. This chapter shall not affect any mandatory health care
+coverage for participation in clinical trials under Title XIII,
+subtitle 1.
+1_2 , ••••
+AMY SINCY, R PAT GRASSLE
+President of the Senate Speaker of the House
+I hereby certify that this bill originated in the Senate and
+is known as Senate File 233, Ninety-first General Assembly.
+l
+W. CHARLES SMITHSON
+Secre ; ry he Senate
+Approved 2025
+KI' R: NOLDS
+Governor
+[DELETED:  S D P W 5 5]
+[DELETED:  I 1 1r z 2 I I S C i a r D u i t c i f t 4 U§2 a 4 C p 4 a t t f r p a i i t f ( H a t i a t H c r h t r t o t t f ( H r r i a i b o]
+[DELETED:  F 2 p 2(4 H g i f t u i b o d ( H d f i t i t r t(1 H a l-t s a t b t p t H e o U S f d t o b c p t f o a p r H r r t i f a i i t a a t p s h d r g s e a t o p o H g i f t u o t i t H d i t i t r t pb. I ttm a d- o d t i u t a f u b a i b t a i p i a t i c f f t h s I i b i n l t i t a a i i d b oem a d b o d t h 1 o a U S f a t b h n y b f g b t U S f d r u i i a U f d t 5 T ism a p- m s c t e s]
+[DELETED:  F 2 p 3 i t i n c a t r t f a w l r i d 6 w i s t a a m o a o l r t t t w t i a a m a t I t i a s i p a: A e t t t f t c ( A t b t a t t f t l ( C i t s b o d t t i s t A t u t i b d r t l T i t u d o w r t d h t b o d T t t t i b o d i c t A t o f a t t t u t b o d u s l c A t t]
+[DELETED:  F 2 p 4 c t i b d h r i t e a t(7 A t t t t i l f a t t u i b o d t l t t c t t b o d I t a s i pb: A e t f t c A t t l C i t s i t t t i t A t u t i r t l i t n d o w r t d t p t T t t t i t p A t t o f a t t t t t u t l c]
+[DELETED:  F 2 p 5 A t t h t t i t t r t t t A s t t t t i l a e t t i t t t t u c t t i t s 2 S C 2 i a r M A a i b o d a m a i r a a a s s p " m r f m a i b o d o a a i c r a t b o d o t i t u c T c d r a i b o d o a i t t i b o d o t i t e A o a s t i i m t f P i b d o a i t a a s p , w r]
+[DELETED:  F 2 p 6 R a a s s p ao b, t t- ­ o t c t t b o d o t t 3 S C 2 i a r T T c d n e a u s A t o b i n r p t a i b o d e c o a i t t s r t a i b o d t o s r t t a i t t c T c d n r c o t a i b o o a i t T d n r h 1 o h f s u t o 4 S C 2 i a r H t a p t w b o d o i t t l f a r t t l o i t t u l 5 S C 2 i a t r P r T l t]
+[DELETED:  F 2 p 7 u c 1 s n r f r s o t a a p b s t p r t e r a t o t b o d o a i t T t e c f l a e f M n t a a p p r t a p h t i b o d o a i t 6 S 1 C 2 i a t r S i e o a t s s n a t b a e t b o d o t i t C a a r s o c l i n a v t s 7 S 1 C 2 i a r a P a T c s n c p a a m o a i b o d o a i i a a e f o a a o e i i t c o a e t i b o d t i i t f a h t t e r f i b o d o t i t i t m e o o p e i c i g f t t o t c a e r]
+[DELETED:  F 2 p 8 T c s n a a f p i c t u 1 SYR P t S o t H h t t b i t S k S 2 N C 2;r h S R N]
+
+
+================================================================================
+
+Raw Text:
+STATE OF IOWA
+KIM REYNOLDS
+GOVERNOR
+May 19, 2025
+The Honorable Paul Pate
+Secretary of State of Iowa
+State Capitol
+Des Moines, Iowa 50319
+Dear Mr. Secretary,
+I hereby transmit:
+Senate File 233, an Act relating to the right to try Act.
+The above Senate File is hereby approved on this date.
+Sincgely,
+nolds
+Governor of Iowa
+cc: Secretary of the Senate
+Clerk of the House
+STATE CAPITOL DES MOINES, IOWA 50319 515.281.5211 PAX 515.725.3527 WWW.GOVERNOR.IOWA.GOV
+
+fi 1111 It III I111111111111 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIÎiIIN•"•
+i
+I
+.•IIIIIIIIIII111IIil•"'111I1111: .IÎIIIII••'ÎIIIÎIIIIII11111111.. •+ iIII111111111111111//W
+• r ,11
+0
+01
+S1;PI➢i➢PIPI1111111U111111 IIII III 1I "Vi III116ECIIIIIIlI1111111111111111111111111111 1111 11 11101111111111111111➢11111
+Ci1••NI IZAL. zXSS1',N'I 13I h' il
+9,.^.!Idaû III 11III1111I11111,.LIDBI III IIiIiIII III 111?IBIISI191111111IIIIIIIIIIII@1111IIIIIIIIIIIIIIIIIIIIIIIIIII011111III".E!IIIIIIIIIIIII III] IIFIORFI!IIIIIIIIIIIIIIIIIIIIIIAlI1111111I111111➢1111111111!1
+Senate File 233
+AN ACT
+RELATING TO THE RIGHT TO TRY ACT.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+Section 1. Section 144E.2, Code 2025, is amended to read as
+follows:
+144E.2 Definitions.
+As used in this chapter:
+1. 'Eligible facility"" means an institution operating under
+a federalwide assurance for the protection of human subjects
+pursuant to 42 U.S.C. §289(a) and 45 C.F.R. pt. 46, and
+subject to the federalwide assurance laws, rules, policies, and
+guidelines including renewals and updates.
+2. 'Eligible patient"" means an individual who meets all
+of the following conditions specified under paragraph 'a"" or
+"b"
+a. (1) Has a terminal illness, attested to by the patient's
+treating physician.
+(2) Has considered and rejected or has tried and failed
+to respond to all other treatment options approved by the
+United States food and drug administration.
+e- (3) Has received a recommendation from the individual's
+physician for an investigational drug, biological product, or
+device.
+
+Senate File 233, p. 2
+d• ( 4) Has given written informed consent for the use of
+the investigational drug, biological product, or device.
+e: (5) Has documentation from the individuals physician
+that the individual meets the requirements of this oub3cction
+paragraph "a
+b. ( 1) Has a life-threatening or severely debilitating
+illness, attested to by the patient's treating physician.
+(2) Has exhausted all other United States food and drug
+administration-approved treatment options by contraindication,
+potential or previous treatment failure, or actual or potential
+adverse reaction.
+(3) Has received a recommendation from the individual's
+physician for an individualized investigational treatment,
+based on an analysis of the patients genomic sequence, human
+chromosomes, deoxyribonucleic acid, ribonucleic acid, genes,
+gene products such as enzymes and other types of proteins, or
+metabolites.
+(4) Has given written informed consent for the use of the
+individualized investigational treatment.
+(5) Has documentation from the individual's physician that
+the individual meets the requirements of this paragraph "b-.
+3. -Individualized investigational treatment - means a drug,
+biological product, or device that is unique to, and produced
+exclusively for use by, an individual patient, based on the
+individual patient's own genetic profile, and is provided in a
+manner that is consistent with a federalwide assurance for the
+protection of human subjects. -Individualized investigational
+treatment" includes but is not limited to individualized
+gene therapy, antisense oligonucleotides, and individualized
+neoantigen vaccines.
+4. -investigational drug, biological product, or
+device - means a drug, biological product, or device that has
+successfully completed phase 1 of a United States food and drug
+administration-approved clinical trial but has not yet been
+approved for general use by the United States food and drug
+administration and remains under investigation in a United
+States food and drug administration-approved clinical trial.
+3. 5. -Terminal illness - means a progressive disease
+or medical or surgical condition that entails significant
+
+Senate File 233, p. 3
+functional impairment, that is not considered by a treating
+physician to be reversible even with administration of
+treatments approved by the United States food and drug
+administration, and that, without life-sustaining procedures,
+will result in death.
+•- 6. "Written informed consent" means a written document
+that is signed by the patient, a parent of a minor patient, or a
+legal guardian or other legal representative of the patient and
+attested to by the patient's treating physician and a witness
+and that includes, at a minimum, all of the following:
+a. If the patient is an eligible patient as specified in
+subsection 2, paragraph -a-:
+(1) An explanation of the products and treatments approved
+by the United States food and drug administration for the
+disease or condition from which the patient suffers.
+b-,- (2) An attestation that the patient concurs with the
+patients treating physician in believing that all products
+and treatments approved by the United States food and drug
+administration are unlikely to prolong the patient's life.
+e: (3) Clear identification of the specific proposed
+investigational drug, biological product, or device that the
+patient is seeking to use.
+(4) A description of the best and worst potential
+outcomes of using the investigational drug, biological product,
+or device and a realistic description of the most likely
+outcome. The description shall include the possibility that
+new, unanticipated, different, or worse symptoms might result
+and that death could be hastened by use of the proposed
+investigational drug, biological product, or device. The
+description shall be based on the treating physician's
+knowledge of the proposed investigational drug, biological
+product, or device in conjunction with an awareness of the
+patient's condition.
+(5) A statement that the patient's health plan or
+third-party administrator and provider are not obligated to
+pay for any care or treatments consequent to the use of the
+investigational drug, biological product, or device, unless
+they are specifically required to do so by law or contract.
+(6) A statement that the patient's eligibility for
+
+Senate File 233, p. 4
+hospice care may be withdrawn if the patient begins curative
+treatment with the investigational drug, biological product,
+or device and that hospice care may be reinstated if this
+treatment ends and the patient meets hospice eligibility
+requirements.
+g—, ( 7) A statement that the patient understands that the
+patient is liable for all expenses consequent to the use of
+the investigational drug, biological product, or device and
+that this liability extends to the patient's estate unless
+a contract between the patient and the manufacturer of the
+investigational drug, biological product, or device states
+otherwise.
+b. If the patient is an eligible patient as specified in
+subsection 2, paragraph "b-:
+(1) An explanation of the currently approved products and
+treatments for the disease or condition from which the patient
+suffers.
+(2) An attestation that the patient concurs with the
+patients treating physician in believing that all currently
+approved and conventionally recognized products and treatments
+are unlikely to prolong the patient's life.
+(3) Clear identification of the specific proposed
+individualized investigational treatment that the patient is
+seeking to use.
+(4) A description of the best and worst potential outcomes
+of using the individualized investigational treatment
+and a realistic description of the most likely outcome.
+The description shall include the possibility that new,
+unanticipated, different, or worse symptoms might result
+and that death could be hastened by use of the proposed
+individualized investigational treatment. The description
+shall be based on the treating physician's knowledge of
+the proposed individualized investigational treatment in
+conjunction with an awareness of the patient's condition.
+(5) A statement that the patient's health plan or
+third-party administrator and provider are not obligated to
+pay for any care or treatments consequent to the use of the
+individualized investigational treatment, unless they are
+specifically required to do so by law or contract.
+
+Senate File 233, p. 5
+(6) A statement that the patient's eligibility for hospice
+care may be withdrawn if the patient begins curative treatment
+with the individualized investigational treatment and that
+hospice care may be reinstated if this treatment ends and the
+patient meets hospice eligibility requirements.
+(7) A statement that the patient understands that the
+patient is liable for all expenses consequent to the use of
+the individualized investigational treatment and that this
+liability extends to the patient's estate, unless a contract
+between the patient and the manufacturer of the individualized
+investigational treatment states otherwise.
+Sec. 2. Section 144E.3, Code 2025, is amended to read as
+follows:
+144E.3 Manufacturer and eligible facility rights.
+1. A manufacturer of an investigational drug, biological
+product, or device or a manufacturer operating within, and in
+compliance with all requirements applicable to, an eligible
+facility may make available, and an eligible patient, as
+applicable under section 144E.1, subsection 2, paragraph 'à"'
+or 'b", may request from a manufacturer of an investigational
+drug, biological product, or device, or a manufacturer
+operating within, and in compliance with all requirements
+applicable to, an eligible facility, the manufacturer's
+investigational drug, biological product, or device, or the
+manufacturer's individualized investigational treatment under
+this chapter. This chapter does not require a manufacturer
+of an investigational drug, biological product, or device, or
+of an individualized investigational treatment to provide or
+otherwise make available the investigational drug, biological
+product, or device, or the individualized investigational
+treatment to an eligible patient.
+2. A An eligible facility, or a manufacturer described
+in subsection 1, that is in compliance with all applicable
+requirements, may do any of the following:
+a. Provide an investigational drug, biological product,
+or device, or an individualized investigational treatment
+to an eligible patient, as applicable under section 144E.1,
+subsection 2, paragraph "a"' or 'b -, without receiving
+compensation.
+
+Senate File 233, p. 6
+b. Require an eligible patient, as applicable under section
+144E.1, subsection 2, paragraph -a- or ­b-, to pay the costs
+of, or the costs associated with, the manufacture of the
+investigational drug, biological product, or device, or the
+individualized investigational treatment.
+Sec. 3. Section 144E.4, Code 2025, is amended to read as
+follows:
+144E.4 Treatment coverage.
+1. This chapter does not expand the coverage required of an
+insurer under Title XIII, subtitle 1.
+2. A health plan, third-party administrator, or
+governmental agency may, but is not required to, provide
+coverage for the cost of an investigational drug, biological
+product, or device, e• the cost of an individualized
+investigational treatment, the cost of services related to the
+use of an investigational drug, biological product, or device,
+or the cost of services related to the use of an individualized
+investigational treatment under this chapter.
+3. This chapter does not require any governmental agency
+to pay costs associated with the use, care, or treatment of a
+patient with an investigational drug, biological product, or
+device, or an individualized investigational treatment.
+4. This chapter does not require a hospital licensed under
+chapter 135B or other health care facility to provide new or
+additional services, unless approved by the hospital or other
+health care facility.
+Sec. 4. Section 144E.5, Code 2025, is amended to read as
+follows:
+144E.5 Heirs not liable for treatment debts.
+If a patient dies while being treated $-r with an
+investigational drug, biological product, or device, or
+an individualized investigational treatment, the patient's
+heirs are not liable for any outstanding debt related to the
+treatment or lack of insurance due to the treatment, unlC3s
+othcrwisc rcquircd by law.
+Sec. 5. Section 144E.6, Code 2025, is amended to read as
+follows:
+144E.6 Provider recourse.
+1. To the extent consistent with state law, the board of
+
+Senate File 233, p. 7
+medicine created under chapter 147 shall not revoke, fail
+to renew, suspend, or take any action against a physician's
+license based solely on the physician's recommendations to
+an eligible patient regarding access to or treatment with an
+investigational drug, biological product, or device, or an
+individualized investigational treatment.
+2. To the extent consistent with federal law, an entity
+responsible for Medicare certification shall not take action
+against a physician's Medicare certification based solely on
+the physician's recommendation that a patient have access to
+an investigational drug, biological product, or device, or an
+individualized investigational treatment.
+Sec. 6. Section 144E.7, Code 2025, is amended to read as
+follows:
+144E.7 State interference.
+An official, employee, or agent of this state shall not
+block or attempt to block an eligible patient's access to an
+investigational drug, biological product, or device, or to an
+individualized investigational treatment. Counseling, advice,
+or a recommendation consistent with medical standards of care
+from a licensed physician is not a violation of this section.
+Sec. 7. Section 144E.8, Code 2025, is amended to read as
+follows:
+144E.8 Private cause of action.
+1. This chapter shall not create a private cause of action
+against a manufacturer of an investigational drug, biological
+product, or device, or an individualized investigational
+treatment, against an eligible facility, or against any other
+person or entity involved in the care of an eligible patient
+using the investigational drug, biological product, or device,
+or the individualized investigational treatment for any harm
+done to the eligible patient resulting from the investigational
+drug, biological product, or device, or the individualized
+investigational treatment, if the manufacturer, eligible
+facility, or other person or entity is complying in good faith
+with the terms of this chapter and has exercised reasonable
+care.
+
+Senate File 233, p. 8
+2. This chapter shall not affect any mandatory health care
+coverage for participation in clinical trials under Title XIII,
+subtitle 1.
+1_2 , ••••
+AMY SINCY, R PAT GRASSLE
+President of the Senate Speaker of the House
+I hereby certify that this bill originated in the Senate and
+is known as Senate File 233, Ninety-first General Assembly.
+l
+W. CHARLES SMITHSON
+Secre ; ry he Senate
+Approved 2025
+KI' R: NOLDS
+Governor
+
+[DELETED:  S D P W 5 5]
+[DELETED:  I 1 1r z 2 I I S C i a r D u i t c i f t 4 U§2 a 4 C p 4 a t t f r p a i i t f ( H a t i a t H c r h t r t o t t f ( H r r i a i b o]
+[DELETED:  F 2 p 2(4 H g i f t u i b o d ( H d f i t i t r t(1 H a l-t s a t b t p t H e o U S f d t o b c p t f o a p r H r r t i f a i i t a a t p s h d r g s e a t o p o H g i f t u o t i t H d i t i t r t pb. I ttm a d- o d t i u t a f u b a i b t a i p i a t i c f f t h s I i b i n l t i t a a i i d b oem a d b o d t h 1 o a U S f a t b h n y b f g b t U S f d r u i i a U f d t 5 T ism a p- m s c t e s]
+[DELETED:  F 2 p 3 i t i n c a t r t f a w l r i d 6 w i s t a a m o a o l r t t t w t i a a m a t I t i a s i p a: A e t t t f t c ( A t b t a t t f t l ( C i t s b o d t t i s t A t u t i b d r t l T i t u d o w r t d h t b o d T t t t i b o d i c t A t o f a t t t u t b o d u s l c A t t]
+[DELETED:  F 2 p 4 c t i b d h r i t e a t(7 A t t t t i l f a t t u i b o d t l t t c t t b o d I t a s i pb: A e t f t c A t t l C i t s i t t t i t A t u t i r t l i t n d o w r t d t p t T t t t i t p A t t o f a t t t t t u t l c]
+[DELETED:  F 2 p 5 A t t h t t i t t r t t t A s t t t t i l a e t t i t t t t u c t t i t s 2 S C 2 i a r M A a i b o d a m a i r a a a s s p " m r f m a i b o d o a a i c r a t b o d o t i t u c T c d r a i b o d o a i t t i b o d o t i t e A o a s t i i m t f P i b d o a i t a a s p , w r]
+[DELETED:  F 2 p 6 R a a s s p ao b, t t- ­ o t c t t b o d o t t 3 S C 2 i a r T T c d n e a u s A t o b i n r p t a i b o d e c o a i t t s r t a i b o d t o s r t t a i t t c T c d n r c o t a i b o o a i t T d n r h 1 o h f s u t o 4 S C 2 i a r H t a p t w b o d o i t t l f a r t t l o i t t u l 5 S C 2 i a t r P r T l t]
+[DELETED:  F 2 p 7 u c 1 s n r f r s o t a a p b s t p r t e r a t o t b o d o a i t T t e c f l a e f M n t a a p p r t a p h t i b o d o a i t 6 S 1 C 2 i a t r S i e o a t s s n a t b a e t b o d o t i t C a a r s o c l i n a v t s 7 S 1 C 2 i a r a P a T c s n c p a a m o a i b o d o a i i a a e f o a a o e i i t c o a e t i b o d t i i t f a h t t e r f i b o d o t i t i t m e o o p e i c i g f t t o t c a e r]
+[DELETED:  F 2 p 8 T c s n a a f p i c t u 1 SYR P t S o t H h t t b i t S k S 2 N C 2;r h S R N]

@@ -1,0 +1,37 @@
+Title: 2 1. Page 1, by striking lines 7 and 8 and inserting
+Official Title: 2 1. Page 1, by striking lines 7 and 8 and inserting
+Number of Sections: 1
+Source: versions - Amendment H-1050
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 793
+H-1050
+1 Amend House File 793 as follows:
+3 <be certified as a fire fighter, and shall not serve as a
+4 noncertified fire fighter or volunteer fire fighter.>
+______________________________
+DUNWELL of Jasper
+HF 793.794 (2) 91
+-1- as/js 1/1
+[DELETED: eFe7AdHeFe73asf1.Pe1,bysgls7ad8adi<ecdasafef,adslntseasndfefrorvrfefLofJF74()9]
+
+
+================================================================================
+
+Raw Text:
+House File 793
+H-1050
+1 Amend House File 793 as follows:
+2 1. Page 1, by striking lines 7 and 8 and inserting
+3 <be certified as a fire fighter, and shall not serve as a
+4 noncertified fire fighter or volunteer fire fighter.>
+______________________________
+DUNWELL of Jasper
+HF 793.794 (2) 91
+-1- as/js 1/1
+
+[DELETED: eFe7AdHeFe73asf1.Pe1,bysgls7ad8adi<ecdasafef,adslntseasndfefrorvrfefLofJF74()9]
