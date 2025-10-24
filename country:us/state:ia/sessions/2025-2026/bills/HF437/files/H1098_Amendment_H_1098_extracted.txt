@@ -1,0 +1,55 @@
+Title: 1 Amend the amendment, H-1075, to House File 437, as follows:
+Official Title: 1 Amend the amendment, H-1075, to House File 437, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1098
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 437
+H-1098
+2 1. Page 1, after line 5 by inserting:
+3 <Sec. ___. Section 262.8, Code 2025, is amended to read as
+4 follows:
+5 262.8 Meetings.
+6 Meetings may be called by the board, by the president of the
+7 board, or by the executive director of the board upon written
+8 request of any five members thereof. A meeting shall not be
+9 held if the student member of the board specified in section
+10 262.1 is not present.>
+11 2. Page 5, line 11, before <establishing> by inserting
+12 <concerning meetings of the state board of regents and>
+13 3. By renumbering as necessary.
+______________________________
+JACOBY of Johnson
+H 1075.985 (1) 91
+-1- je/jh 1/1
+[DELETED: eFe4Adtea,H,toHeFe4,asf1.Pe1,arle5byi<._.Sn2,Ce2,isadtordaf8MMsmybecdbyteb,byteptoftb,orbyteeedroftebdunwrtofayfemst.Amgslntbhdiftestmroftebdsdins021isntp12.Pe5,le1,be<>byi2<gmsoftesebdofrsa33.ByrgasnYofJ15()9]
+
+
+================================================================================
+
+Raw Text:
+House File 437
+H-1098
+1 Amend the amendment, H-1075, to House File 437, as follows:
+2 1. Page 1, after line 5 by inserting:
+3 <Sec. ___. Section 262.8, Code 2025, is amended to read as
+4 follows:
+5 262.8 Meetings.
+6 Meetings may be called by the board, by the president of the
+7 board, or by the executive director of the board upon written
+8 request of any five members thereof. A meeting shall not be
+9 held if the student member of the board specified in section
+10 262.1 is not present.>
+11 2. Page 5, line 11, before <establishing> by inserting
+12 <concerning meetings of the state board of regents and>
+13 3. By renumbering as necessary.
+______________________________
+JACOBY of Johnson
+H 1075.985 (1) 91
+-1- je/jh 1/1
+
+[DELETED: eFe4Adtea,H,toHeFe4,asf1.Pe1,arle5byi<._.Sn2,Ce2,isadtordaf8MMsmybecdbyteb,byteptoftb,orbyteeedroftebdunwrtofayfemst.Amgslntbhdiftestmroftebdsdins021isntp12.Pe5,le1,be<>byi2<gmsoftesebdofrsa33.ByrgasnYofJ15()9]

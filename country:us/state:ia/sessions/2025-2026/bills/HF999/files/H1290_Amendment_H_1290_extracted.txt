@@ -1,0 +1,920 @@
+Title: 2 1. By striking everything after the enacting clause and
+Official Title: 2 1. By striking everything after the enacting clause and
+Number of Sections: 1
+Source: versions - Amendment H-1290
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+House File 999
+H-1290
+1 Amend House File 999 as follows:
+3 inserting:
+4 <DIVISION I
+5 CLAIMS AGAINST GRAIN DEPOSITORS AND SELLERS INDEMNITY FUND
+6 Section 1. Section 203.12, subsection 1, Code 2025, is
+7 amended to read as follows:
+8 1. Upon the cessation of a grain dealer license by
+9 revocation, cancellation, or expiration, any claim for the
+10 purchase price of grain against the grain dealer shall be made
+11 in writing and filed with the grain dealer and with the issuer
+12 of a deficiency bond or of an irrevocable letter of credit
+13 and with the department within one hundred twenty days after
+14 the date of the cessation. A failure to make this timely
+15 claim relieves the issuer and the grain depositors and sellers
+16 indemnity fund provided in chapter 203D section 203D.6 or
+17 203D.6A of all obligations to the claimant.
+18 Sec. 2. Section 203.15, subsection 6, Code 2025, is amended
+19 by striking the subsection.
+20 Sec. 3. Section 203C.14, subsection 2, paragraph a, Code
+21 2025, is amended to read as follows:
+22 a. Upon the cessation of a warehouse operator’s license due
+23 to revocation, cancellation, or expiration, a claim against the
+24 warehouse operator arising under this chapter shall be made in
+25 writing with the warehouse operator, with the issuer of a bond
+26 on agricultural products other than bulk grain, a deficiency
+27 bond, or an irrevocable letter of credit, and, if the claim
+28 relates to bulk grain, with the department. The claim must
+29 be made within one hundred twenty days after the cessation
+30 of the license. The failure to make a timely claim relieves
+31 the issuer and, if the claim relates to bulk grain, the grain
+32 depositors and sellers indemnity fund provided in chapter 203D
+33 section 203D.6 or 203D.6A of all obligations to the claimant.
+34 Sec. 4. Section 203D.1, Code 2025, is amended by adding the
+35 following new subsections:
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-1- da/ns 1/12
+1 NEW SUBSECTION. 8A. “Indemnity fees” or “fees” means a
+2 participation fee and per-bushel fee as provided in sections
+3 203D.3 and 203D.3A.
+4 NEW SUBSECTION. 14A. “Repayment loss” means the amount of
+5 a repayment claim held by a seller for purchased grain that the
+6 seller has paid back to a grain dealer’s bankruptcy estate,
+7 pursuant to an order issued, judgment entered, or settlement
+8 agreement approved by a bankruptcy court, and which amount
+9 has not been subsequently recovered through other legal or
+10 equitable remedies including the liquidation of the grain
+11 dealer’s assets.
+12 Sec. 5. Section 203D.1, subsection 14, Code 2025, is amended
+13 to read as follows:
+14 14. a. “Purchased grain” means grain any of the following:
+15 (1) Grain entered in the company-owned paid position as
+16 evidenced on the grain dealer’s daily position record.
+17 (2) Grain purchased under credit-sale contract.
+18 b. “Purchased grain” does not include grain that is subject
+19 to an exempt transaction based on documentation satisfactory
+20 to the department showing that the grain dealer did any of the
+21 following:
+22 (1) Purchased the grain from the United States government or
+23 any of its subdivisions or agencies.
+24 (2) Purchased the grain from a person licensed as a grain
+25 dealer in any jurisdiction.
+26 (3) Purchased the grain under a credit-sale contract.
+27 (4) (3) Entered the grain in the company-owned paid
+28 position as a cancellation of a collateral warehouse receipt.
+29 (5) (4) Entered the grain in the company-owned paid
+30 position as an intra-company location transfer.
+31 Sec. 6. Section 203D.1, subsection 16, Code 2025, is amended
+32 to read as follows:
+33 16. a. “Seller” means a person who sells grain which the
+34 person has produced or caused to be produced to a licensed
+35 grain dealer, but excludes a person who executes a credit-sale
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-2- da/ns 2/12
+1 contract as a seller as provided in section 203.15. However,
+2 “seller”
+3 b. “Seller” does not include any of the following:
+4 a. (1) A person licensed as a grain dealer in any
+5 jurisdiction who sells grain to a licensed grain dealer.
+6 b. (2) A person who sells grain that is not produced in
+7 this state unless such grain is delivered to a licensed grain
+8 dealer at a location in this state as the first point of sale.
+9 Sec. 7. Section 203D.3, subsections 1 and 4, Code 2025, are
+10 amended to read as follows:
+11 1. The grain depositors and sellers indemnity fund is
+12 created in the state treasury as a separate account. The
+13 general fund of the state is not liable for claims presented
+14 against the fund under section 203D.6 or 203D.6A.
+15 4. The moneys collected under this section and deposited in
+16 the fund shall be used exclusively to indemnify depositors and
+17 sellers as provided in section 203D.6 or 203D.6A and to pay the
+18 administrative costs of this chapter.
+19 Sec. 8. Section 203D.3A, unnumbered paragraph 1, Code 2025,
+20 is amended to read as follows:
+21 The department shall collect indemnity fees, including
+22 participation fees and per-bushel fees as provided in this
+23 section, if established imposed by the board pursuant to
+24 section 203D.5, at rates determined by the board as provided
+25 in that section. A person required to pay a fee shall use
+26 licensee shall remit indemnity fees and forms and deliver the
+27 payment to the department as required by the department.
+28 Sec. 9. Section 203D.3A, subsection 1, paragraph a,
+29 subparagraph (1), Code 2025, is amended to read as follows:
+30 (1) In calculating the amount of the initial participation
+31 fee, an applicant for a new license shall be deemed a licensee
+32 paying remitting the full annual amount of the participation
+33 fee owing on the licensee’s first anniversary date as provided
+34 in paragraph “b”. The department must be satisfied that the
+35 applicant is calculating the amount due in good faith and using
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-3- da/ns 3/12
+1 the best information available.
+2 (a) For a licensed grain dealer, the anniversary date is
+3 the last date to apply for the renewal of the grain dealer’s
+4 license before the license expires as provided in section
+5 203.5.
+6 (b) For a licensed warehouse operator, the anniversary date
+7 is the last date to apply for the renewal of the warehouse
+8 operator’s license before the license expires as provided in
+9 section 203C.37.
+10 Sec. 10. Section 203D.3A, subsection 1, paragraph b, Code
+11 2025, is amended to read as follows:
+12 b. A licensee shall pay remit a participation fee in
+13 one installment as part of a license renewal application
+14 in the same manner provided in paragraph “a”. However, the
+15 licensee may elect to remit the participation fee on four
+16 successive installment dates, with each installment date
+17 occurring on determined by the department not later than in the
+18 month succeeding each of the last date of the fund’s latest
+19 assessment quarter quarters as provided in section 203D.3.
+20 The licensee shall pay remit twenty-five percent of the total
+21 participation fee assessed on each installment date. However,
+22 nothing in this subsection prevents a licensee from paying
+23 the participation fee on an accelerated basis. A licensee
+24 shall pay the first installment on the last date of the
+25 fund’s assessment quarter immediately following the licensee’s
+26 anniversary date.
+27 (1) For a licensed grain dealer, the anniversary date is
+28 the last date to apply for the renewal of the grain dealer’s
+29 license before the license expires as provided in section
+30 203.5.
+31 (2) For a licensed warehouse operator, the anniversary date
+32 is the last date to apply for the renewal of the warehouse
+33 operator’s license before the license expires as provided in
+34 section 203C.37.
+35 Sec. 11. Section 203D.3A, subsection 2, Code 2025, is
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-4- da/ns 4/12
+1 amended to read as follows:
+2 2. a. A licensed grain dealer shall remit a per-bushel fee
+3 shall be assessed on all purchased grain.
+4 b. The licensed grain dealer shall forward remit the
+5 per-bushel fee to the department on a quarterly basis in the
+6 manner and using the forms a form prescribed by the department.
+7 The licensed grain dealer shall remit the per-bushel fee
+8 and form on four successive installment dates, with each
+9 installment date determined by the department not later than
+10 in the month succeeding each of the fund’s latest assessment
+11 quarters as provided in section 203D.3.
+12 c. A licensee licensed grain dealer is delinquent if the
+13 licensee grain dealer fails to submit remit the full quarterly
+14 per-bushel fee or quarterly forms and form when due or if,
+15 upon examination, an underpayment of the fee is found by the
+16 department. The licensed grain dealer is subject to a penalty
+17 of ten dollars for each day the licensed grain dealer is
+18 delinquent or an amount equal to the amount of the deficiency,
+19 whichever is less. However, a licensee licensed grain dealer
+20 who fails to submit remit the full quarterly per-bushel fee or
+21 quarterly forms form when due, is subject to a minimum payment
+22 of ten dollars. The department may establish and apply a
+23 margin of error in determining whether a licensed grain dealer
+24 is delinquent. The per-bushel fee shall be collected only once
+25 on each bushel of grain.
+26 c. d. The per-bushel fee shall not be collected more
+27 than once on each bushel of grain. A licensed grain dealer
+28 may choose to pass on the cost of a per-bushel fee to the
+29 sellers by an itemized discount noted on the settlement sheet.
+30 However, if the per-bushel fee is not in effect, no a licensed
+31 grain dealer shall not make such a discount on the purchase of
+32 grain. A discount made nominally for the per-bushel fee while
+33 the per-bushel fee is not in effect is grounds for a license
+34 suspension or revocation under chapter 203.
+35 Sec. 12. Section 203D.5, subsection 1, Code 2025, is amended
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-5- da/ns 5/12
+1 to read as follows:
+2 1. The board shall annually review the debits of and credits
+3 to the grain depositors and sellers indemnity fund created
+4 in section 203D.3 and shall determine whether to impose the
+5 participation fee and per-bushel fee indemnity fees as provided
+6 in section 203D.3A, make adjustments to the indemnity fees
+7 effective on the previous September 1 in effect, or waive the
+8 indemnity fees in effect as necessary to comply with this
+9 section. The board shall make the determination not later
+10 than May 1 of each year. The board shall impose the indemnity
+11 fees or adjust the indemnity fees effective on the previous
+12 September 1 in effect in accordance with chapter 17A. The
+13 imposition or adjustment of the indemnity fees shall become
+14 effective as follows:
+15 a. For the participation fee, on the first day of the fund’s
+16 following September 1 assessment year. However, the licensee
+17 shall continue to pay the any owing participation fee at the
+18 rate in effect on the prior September 1 first day of the fund’s
+19 current assessment year, until the licensee has paid the amount
+20 owing.
+21 b. For a per-bushel fee, on the following September 1 first
+22 day of the fund’s assessment year.
+23 Sec. 13. Section 203D.5, subsections 4 and 5, Code 2025, are
+24 amended to read as follows:
+25 4. If on the last date of the fund’s assessment year as
+26 provided in section 203D.3 the assets of the fund exceed eight
+27 twelve million dollars, less any encumbered balances or pending
+28 or unsettled claims, all of the following apply:
+29 a. The participation fee shall be waived and shall not be
+30 assessable or owing for the fund’s following assessment year
+31 of the fund. However, the licensee shall continue to pay
+32 any owing participation fee that was in effect on the prior
+33 September 1 first day of the fund’s current assessment year.
+34 b. The per-bushel fee shall be waived and shall not be
+35 assessable or owing.
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-6- da/ns 6/12
+1 5. The board shall reinstate the indemnity fees as
+2 provided in this section if the assets of the fund, less any
+3 unencumbered balances or pending or unsettled claims, are three
+4 five million dollars or less.
+5 Sec. 14. Section 203D.6, subsection 4, paragraph d, Code
+6 2025, is amended to read as follows:
+7 d. That the claim derives from a covered transaction. For
+8 purposes of this paragraph, a claim derives from a covered
+9 transaction if the claimant is a seller who transferred
+10 title to the grain to a licensed grain dealer other than by
+11 credit-sale contract within six months of the incurrence date
+12 for a claim period as provided in subsection 2, or if the
+13 claimant is a depositor who delivered the grain to a licensed
+14 warehouse operator.
+15 Sec. 15. Section 203D.6, subsection 8, Code 2025, is amended
+16 to read as follows:
+17 8. Payment of claims. Upon a determination that the claim
+18 is eligible for payment, the board shall provide for payment of
+19 ninety percent of the loss, as determined under subsection 5,
+20 but not more than three hundred thousand dollars per claimant.
+21 If at any time the board determines that there are insufficient
+22 funds moneys to make payment payments of all claims under this
+23 section and all repayment claims under section 203D.6A, the
+24 board may order that payment payments be deferred on specified
+25 claims. The department, upon the board’s instruction, shall
+26 hold those claims for payment deferred payments until the board
+27 determines that the fund again contains there are sufficient
+28 assets moneys in the fund to make payments on all those claims.
+29 Sec. 16. NEW SECTION. 203D.6A Repayment claims against
+30 fund.
+31 1. A separate indemnity claim process is established to
+32 provide for the indemnification of a repayment loss incurred by
+33 a seller against a grain dealer who is a debtor in bankruptcy
+34 under the protections provided in Tit. 11 of the United States
+35 Code.
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-7- da/ns 7/12
+1 a. A repayment claim shall be filed with the department in
+2 the manner prescribed by the department.
+3 b. A seller may file an eligible claim for a loss under
+4 section 203D.6 and an eligible repayment claim for a repayment
+5 loss under this section.
+6 2. To be timely, a seller must file a repayment claim with
+7 the department not later than sixty days after the repayment
+8 loss is finalized by a bankruptcy court, whether by an order
+9 issued, judgment entered, or settlement agreement approved.
+10 3. The department may provide notice of the repayment claim
+11 process to a seller that may become or has become subject to
+12 an order issued, judgment entered, or settlement agreement
+13 approved by a bankruptcy court that requires the seller to
+14 pay back amounts previously received for grain purchased by a
+15 licensed grain dealer, in the bankruptcy of the grain dealer.
+16 If the department chooses to provide a notice to the seller, it
+17 shall have discretion to determine any reasonable method and
+18 manner of providing such notice. A failure by the department
+19 to provide a notice or a failure by a seller to receive a notice
+20 under this subsection, does not relieve the seller of the
+21 requirement to timely file a repayment claim.
+22 4. The board shall determine that a repayment claim is
+23 eligible for payment from the fund if the board finds all of
+24 the following:
+25 a. The repayment claim was timely filed.
+26 b. The repayment claimant qualifies as a seller.
+27 c. The repayment claim derives from a covered transaction.
+28 For purposes of this paragraph, a claim derives from a covered
+29 transaction if the claimant is a seller who transferred title
+30 to the grain to a licensed grain dealer within six months of
+31 the incurrence date as provided in section 203D.6, subsection
+32 2.
+33 d. The seller submits adequate proof to establish the
+34 repayment claim and the amount of the repayment loss.
+35 e. A claim has not been paid for the same repayment loss.
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-8- da/ns 8/12
+1 5. A seller is not entitled to indemnify a claim for a
+2 repayment loss if the repayment loss is incurred as a result of
+3 a fraudulent transfer or conveyance by the seller.
+4 6. The dollar value of a repayment claim is the amount a
+5 seller has paid back that was previously received for the grain
+6 as a result of an order issued, judgment entered, or settlement
+7 agreement approved by a bankruptcy court and which has not been
+8 recovered through other legal or equitable remedies including
+9 the liquidation of assets.
+10 7. The department acting on behalf of the board shall
+11 deliver a notice to a seller filing a claim under this section.
+12 The notice must include the board’s determination of the
+13 seller’s eligibility and the value of the seller’s repayment
+14 loss. Within twenty days of delivering the notice, the seller
+15 may request a hearing for the review of either determination.
+16 The request shall be made in the manner provided by the
+17 board. The hearing and any further appeal shall be conducted
+18 as a contested case subject to chapter 17A. A seller whose
+19 repayment claim has been refused by the board may appeal the
+20 refusal to either the district court of Polk county or the
+21 district court of the county in which the seller resides.
+22 8. Upon a determination that the claim is eligible for
+23 indemnification, the board shall provide for payment of ninety
+24 percent of the repayment loss, as determined by the board,
+25 but not more than three hundred thousand dollars counting
+26 the dollar value losses paid to the same grain dealer during
+27 the claim period as provided in section 203D.6. If at any
+28 time the board determines that there are insufficient moneys
+29 in the fund to make payment of all claims under section
+30 203D.6 and this section, the board may order that payment be
+31 deferred on specified claims. The department, upon the board’s
+32 instruction, shall hold the claims for deferred payment until
+33 the board determines that the fund again contains sufficient
+34 assets.
+35 9. In the event of the payment of a repayment loss under
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-9- da/ns 9/12
+1 this section, the fund is subrogated to the extent of the
+2 amount of any payments to all rights, powers, privileges,
+3 and remedies of the seller against any person regarding
+4 the repayment loss. The seller shall render all necessary
+5 assistance to the department and the board in securing the
+6 rights granted in this section. No action or claim initiated
+7 by a seller and pending at the time of payment from the fund
+8 shall be compromised or settled without the consent of the
+9 board.
+10 10. a. A repayment claim shall expire if five years after
+11 the board determines that the repayment claim is eligible, and
+12 the claimant has failed to do any of the following:
+13 (1) Provide for the fund’s subrogation or render all
+14 necessary assistance to the department and the board in
+15 securing the department’s rights of subrogation as required in
+16 this section.
+17 (2) Provide necessary documentation or information required
+18 by the board in order to process the repayment claim.
+19 b. The fund is not liable for the payment of an expired
+20 repayment claim.
+21 Sec. 17. EMERGENCY RULES. The department of agriculture
+22 and land stewardship shall adopt emergency rules under section
+23 17A.4, subsection 3, and section 17A.5, subsection 2, paragraph
+24 “b”, to implement the provisions of this division of this
+25 Act within thirty business days of the effective date of
+26 this section of this Act and shall submit such rules to the
+27 administrative rules coordinator and the administrative code
+28 editor pursuant to section 17A.5, subsection 1, within the same
+29 period. The rules shall be effective immediately upon filing
+30 unless a later date is specified in the rules. Any rules
+31 adopted in accordance with this section shall also be published
+32 as a notice of intended action as provided in section 17A.4.
+33 Sec. 18. ASSESSMENT OF INDEMNITY FEES. A grain dealer
+34 licensed under chapter 203 who is a party to a credit-sale
+35 contract shall owe any indemnity fees assessed on grain
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-10- da/ns 10/12
+1 purchased under the credit-sale contract beginning on September
+2 1 of the first assessment quarter pursuant to section 203D.3A.
+3 Sec. 19. EFFECTIVE DATE. The following, being deemed of
+4 immediate importance, takes effect upon enactment:
+5 The section of this division of this Act requiring the
+6 department of agriculture and land stewardship to adopt
+7 emergency rules.
+8 Sec. 20. APPLICABILITY.
+9 1. The process established in section 203D.6A, as enacted
+10 by this Act, providing for the indemnification of a repayment
+11 claim applies to a seller who incurs a repayment loss against
+12 a grain dealer, if the grain dealer is a debtor in bankruptcy
+13 under the protections provided in Tit. 11 of the United States
+14 Code on or after October 24, 2022.
+15 2. For a repayment loss incurred prior to July 1, 2025, the
+16 end of the claim period in section 203D.6A, subsection 2, as
+17 enacted by this Act, is August 29, 2025.
+18 DIVISION II
+19 ASSESSMENT YEAR
+20 Sec. 21. Section 203D.3, subsection 3, Code 2025, is amended
+21 to read as follows:
+22 3. The assessment year of the fund begins September is the
+23 same as the state fiscal year beginning on July 1 and ends
+24 ending on August 31 June 30. Assessment quarters of the fund
+25 begin September on July 1, December October 1, March January 1,
+26 and June April 1. The finances of the fund shall be calculated
+27 on an accrual basis in accordance with generally accepted
+28 accounting principles.
+29 Sec. 22. CONTINGENT EFFECTIVE DATE.
+30 1. This division of this Act takes effect on the publication
+31 date of the issue of the Iowa administrative bulletin that
+32 includes a notice by the secretary of agriculture stating
+33 that the indemnity fees paid by grain dealers and warehouse
+34 operators have been waived as provided in section 203D.5.
+35 2. The department of agriculture and land stewardship shall
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-11- da/ns 11/12
+1 send a copy of the notice to the Code editor at least two
+2 weeks prior to the publication date of the Iowa administrative
+3 bulletin as described in subsection l.>
+4 2. Title page, by striking lines 1 through 6 and inserting
+5 <An Act regulating the marketing of grain, by providing for
+6 fees paid by grain dealers and warehouse operators into the
+7 grain depositors and sellers indemnity fund, and the payment of
+8 claims to reimburse sellers and depositors for losses covered
+9 by the fund, and including effective date and applicability
+10 provisions.>
+______________________________
+MOMMSEN of Clinton
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-12- da/ns 12/12
+[DELETED: eFe9AdHeFe99asf1.Bysgegarteegceai<NCSATGNDSADSSIYFSn1.Sn2,sn1,Ce2,iadtordasf1.Untecnofagndrlebr,c,ore,aycmfrt0pepeofgnattegndrslbem1inwgadfdwhtegndradwhtei2ofadybdorofanielrofc3adwhtedtwnoehdtydsa4tedeoftec.Afetometst5cmrsteiradtegndsads6iyfdpdincr2Dsn26o72Aofalostotec8S.2.Sn2,sn6,Ce2,isa9bysgtes0S.3.Sn2,sn2,pha,C12,isadtordasf2Untecnofaweosled3tor,c,ore,acmatt4weoragurtscrslbemei5wgwhteweo,whteirofab6onalpsortnbkg,ad7b,oranielrofc,a,iftec8rstobkg,whted.Tecmm9bemewnoehdtydsartec0oftel.Tefetomeatycmr1teira,iftecmrstobkg,teg2dsadssiyfdpdincr23sn26or2Aofalostotec4S.4.Sn2,Ce2,isadbyagt5fgnwsF92()9gtsHF99toCMtoSF6s1]
+[DELETED: NWS.8.ormsyf”“pnfeadplfeaspdins23ad2NWS.1.msteatotlartcmhdbyasrfrpdgntttsrhspdbktoagndsbyepttoanori,jte,orsatadbyabyc,adwhahsntbnsyrdthorllo0eersigtelnofteg1dsa2S.5.Sn2,sn1,Ce2,isa3tordasf41.msgnayoftef.“dg5()Gnedintecdpdpna6edontegndsdypnr7()Gnpdurcec.“dg8dsntiegnttiss9toanettnbdondns0totedtsgtttegndrddayoft1f2()PdtegnfmteUdSsgto3ayofisssora4()Pdtegnfmapnldasag5drinayj6()Pdtegnuracec7()()Edtegnintecdp8pnasacnofaclwer9()()Edtegnintecdp0pnasaniylnt1S.6.Sn2,sn1,Ce2,isa2tordasf31.msapnwossgnwht.“4pnhspdorcdtobepdtoal5gnd,btesapnwoesacF92()9gtsHF99toCMtoSF6s2]
+[DELETED: ctasasraspdinsn2.H.“dsntieayoftef()Apnldasagndrinajnwossgntoaldgnd()ApnwossgnttisntpditsseusshgnisddtoaldgdratalnintsseasteftptofsS.7.Sn2,ss1ad4,Ce2,a0adtordasf11.Tegndsadssiyfdi2cdintesetyasasea.T3glfdofteseisntlefrcsp4attefdursn26or254.Temscdurtssnadddi6tefdslbeudeytoiydsa7ssaspdinsn26or2Aadtopyt8aecsoftsc9S.8.Sn2,udph1,Ce20isadtordasf1Tedtslctiyf,i2pnfsadplfsaspdint3s,ifedidbytebdptt4sn2,atrsddbytebdasp5intts.Apnrdtopyafeslu6leslrtiyfsadfsaddrt7pttotedtasrdbyted8S.9.Sn2,sn1,pha9sh(,Ce2,isadtordasf0()Incgteatofteilp1f,anatfranwleslbeddal2pgrgteflalatoftep3feogontelsftaydeasp4inph.Tedtmtbesdttt5atiscgteatdeingdfhaduF92()9gtsHF99toCMtoSF6s3]
+[DELETED: tebtina()Fraldgnd,teaydeiteltdetoayfrterloftegndlebeteleesaspdins2()Fraldweo,teaydisteltdetoayfrterloftewoslebeteleesaspdisn20S.1.Sn2,sn1,phb,C12,isadtordasf2Aleslpyrtapnfei3oeitasptofalerla4intesemrpdinph.H,t5lemyettorttepnfeonf6seitd,whehitd7ogonddbytedtntlrtnint8mhsgehofteltdeoftefsl9atqrqsaspdinsn20Teleslpyrtteptoftet1pnfeadonehitd.H2ngintssnpsalefmp3tepnfeonanadb.Al4slpyteftitonteltdeoft5fsatqriyfgtel6ayd7()Fraldgnd,teaydei8teltdetoayfrterloftegnd9lebeteleesaspdins021()Fraldweo,teayd2isteltdetoayfrterloftew3oslebeteleesaspdi4sn25S.1.Sn2,sn2,Ce2,iF92()9gtsHF99toCMtoSF6s4]
+[DELETED: adtordasf2.AldgndrslrtaplfslbeadonalpdgTeldgndrslfdrttplfetotedtonaqybsintmradugtefsafmpdbytedTeldgndrslrtteplfadfmonfrseitd,wheitdeddbytedtntlrt0intemhsgehoftefslta1qsaspdinsn22Aleldgndrisdtift3legndrfstostrtteflq4plfeorqyfsadfmwndeori5une,anutoftefeisfdbyt6d.Teldgndrissttoap7oftndsfrehdyteldgndri8dtoranateltoteatofted9wrisl.H,aleldgnd0wofstostrtteflqyplfeo1qyfsfmwnd,issttoammp2oftnd.Tedtmyehaday3mnoferindgwraldgnd4isd.Teplfeslbecdoyo5onehblofg.d6Teplfeslntbecdm7tnoeonehblofg.Aldgnd8mycetopsontectofaplfetot9ssbyaniddtndontests0H,ifteplfeisntine,noal1gndrslntmeshadtontepeo2g.Adtmenyfrteplfew3teplfeisntinetisgsfral4snorrnurcr25S.1.Sn2,sn1,Ce2,isaF92()9gtsHF99toCMtoSF6s5]
+[DELETED: tordasf1.Tebdslayrwtedsofadctotegndsadssiyfdcinsn23adsldewrtoietpnfeadplfeiyfsaspinsn2,meastoteiyfeeontepsSr1ine,orwetiyfsinetasnytocywhts.Tebdslmetednntl0tnMy1ofehy.Tebdslietei1fsoratteiyfseeontep2Sr1inetinaewhcr1.T3inoratofteiyfsslb4eeasf5Frtepnf,onteftdyoftef6fgSr1aty.H,tel7slcetopyteayogpnfeatt8reinetonteprSr1ftdyoftef9ctaty,ultelehspdtea0o1Fraplf,ontefgSr1f2dyoftefsaty3S.1.Sn2,ss4ad5,Ce2,a4adtordasf54.Ifonteltdeoftefsatyra6pdinsn23teasoftefdede7temnd,lsayedbsorp8orudc,aloftefga9Tepnfeslbewdadslntb0aeorogfrtefsfgaty1oftef.H,teleslcetop2ayogpnfettwsinetontep3Sr1ftdyoftefsctaty4Teplfeslbewdadslntb5aeoroF92()9gtsHF99toCMtoSF6s6]
+[DELETED: 5.Tebdslreteiyfsapdintssnifteasoftef,lsaudbsorpgorudc,aetfemndsorlS.1.Sn2,sn4,phd,C2,isadtordasfTttecmdsfmacdt.Fpsoftsp,acmdsfmactniftectisasrwot0tetotegntoaldgndrortnb1cectwnsxmsofteied2fracmpdaspdinsn2,orift3ctisadrwoddtegntoal4weo5S.1.Sn2,sn8,Ce2,isa6tordasf78.Unadntttectofc8iseefrp,tebdslpefrpto9nyptoftel,asddursn50btntmetntehdtddsprc1Ifataytetebddsttteaei2fsmstomeptpsofalcsurt3snadalrtcsursn2,t4bdmyorttptpsbeddons5c.Ted,untebsi,s6hdtecsfrptddpsulteb7dstttefdancsteaes8asmsintefdtomepsonaltec9S.1.NWSARtcsa11.Aseiycmpsisedt2pefrteinofartlsidb3asratagndrwoisadrinb4urtepspdinT.11ofteUdS5CF92()9gtsHF99toCMtoSF6s7]
+[DELETED: ArtcmslbefdwhtedtitemrpdbytedAsrmyfeaneecmfralsusn26adaneertcmfrarlsurtss2.Tobet,asrmtfeartcmwtedtntlrtnsydsarterlsisfdbyabyc,wrbyanoi,jte,orstata03.Tedtmypeneoftertc1pstoasrttmybeorhsbestt2anori,jte,orsta3adbyabyctttrstesrt4pybkaspyrdfrgnpdby5ldgnd,intebyoftegnd6Iftedtcstopeanetotes,i7slhedntodeayremda8mrofpgshn.Afebyted9topeaneorafebyasrtorean0urtss,dsntretesroft1rttotyfeartc24.Tebdsldettartcmi3eefrptfmtefdiftebdfsalo4tef5Tertcmwstyf6Tertctqsasas7Tertcmdsfmacdt8Frpsoftsp,acmdsfmac9tniftectisasrwotdt0totegntoaldgndrwnsxmso1teiedeaspdinsn2,s223Tesrssaepftoeht4rtcmadteatoftertl5AcmhsntbnpdfrtesertlF92()9gtsHF99toCMtoSF6s8]
+[DELETED: 5.Asrisntedtoiyacmfrrtlsiftertlsisidasartoafttrorcebytes6.Tedrveofartcmisteatsrhspdbkttwspyrdfrtegasartofanori,jte,orsatadbyabyctadwhhsntbrdthorlloreersitelnofa07.Tedtagonbfoftebds1dranetoasrfgacmurtss2Tenemtietebsdnoft3sseyadteveoftessr4l.Wntydsofdgten,tes5myrtahgfrterwoferd6Tertslbemeintemrpdbyt7b.Tehgadayfralslbec8asacdcesttocr1.Asrw9rtcmhsbnrdbytebdmyalt0rltoertedtctofPkcyort1dtctoftecyinwhtesrr28.Unadntttecmiseef3i,tebdslpefrptofn4ptoftertl,asddbyteb5btntmetntehdtddsc6tedrvelspdtotesegndrd7tecmpdaspdinsn2.Ifata8tetebddsttteaeitm9intefdtomeptofalcsurs026adtss,tebdmyorttptb1ddonsdc.Ted,unteb2i,slhdtecsfrddptu3tebddstttefdancss4a59.InteetofteptofartlsuF92()9gtsHF99toCMtoSF6s9]
+[DELETED: tss,tefdissdtoteetoftatofaypstoalr,p,padrsoftesrataypnrtertl.Tesrslrralnaetotedtadtebdinsgtrsgdintss.Noanorcmibyasradpgatteteofptfmtefslbecdorsdwttectoftb01.Artcmsleeiffeysa1tebddstttertcmise,a2tecthsfdtodoayoftef3()Pefrtefssnorrra4nyaetotedtadtebdi5sgtedsrsofsnasrdi6tss7()Penydnorinr8bytebdinortopstertc9Tefdisntlefrteptofane0rtc1S.1.EYR.Tedtofa2adldspslateyrsurs31,sn3,adsn1,sn2,p4“,toittepsoftsdnoft5Atwntybsdsofteeedeo6tssnoftsAtadslstshrstot7aerscradteaec8erpttosn1,sn1,wntes9p.Tersslbeeeiyunf0usalrdeissdinter.Ayr1adinaewhtssnslaobep2asaneofidanaspdinsn13S.1.ATOFIYF.Agnd4ldurcr23woisapytoac5ctsloeayiyfsadongF92()9gtsHF99toCMtoSF6s1]
+[DELETED: pdurtecectbgonS1ofteftatqrpttosn2S.1.EED.Tef,bgddoiei,tsetuneTesnoftsdnoftsAtrgtdtofaeadldsptoaeyrS.2.A1.Tepsedinsn2,ase0bytsA,pgfrteinofar1cmastoasrwoisartlsa2agnd,iftegndrisadrinb3urtepspdinT.11ofteUdS4CeonorarOr2,252.FrartlsidprtoJy1,2,t6edoftecmpdinsn2,sn2,a7edbytsA,isAt2,28DNI9ATY0S.2.Sn2,sn3,Ce2,isa1tordasf23.TeatyroftefdbsSrist3seasteseflyrbgonJy1ade4egonAt31Je3.Atqsoftef5bnSronJy1,DrOr1,MhJy16adJeAl1.Tefsoftefdslbec7onanalbsinaewhgya8agp9S.2.CTEED01.TsdnoftsAttsetontep1deofteieofteIaaebnt2isanebytesyofaes3ttteiyfspdbygndsadw4oshebnwdaspdinsn252.TedtofaeadldspsF92()9gtsHF99toCMtoSF6s1]
+[DELETED: sdacyoftenetoteCeeratlttwsprtotepndeofteIaabnasddinsnl2.Tep,bysgls1th6adi<nAtrgtemgofg,bypgffspdbygndsadweosiotgndsadssiyf,adteptocstoressaddsfrlscbytef,adigeedeada0pNofCF92()9gtsHF99toCMtoSF6s1]
+
+
+================================================================================
+
+Raw Text:
+House File 999
+H-1290
+1 Amend House File 999 as follows:
+2 1. By striking everything after the enacting clause and
+3 inserting:
+4 <DIVISION I
+5 CLAIMS AGAINST GRAIN DEPOSITORS AND SELLERS INDEMNITY FUND
+6 Section 1. Section 203.12, subsection 1, Code 2025, is
+7 amended to read as follows:
+8 1. Upon the cessation of a grain dealer license by
+9 revocation, cancellation, or expiration, any claim for the
+10 purchase price of grain against the grain dealer shall be made
+11 in writing and filed with the grain dealer and with the issuer
+12 of a deficiency bond or of an irrevocable letter of credit
+13 and with the department within one hundred twenty days after
+14 the date of the cessation. A failure to make this timely
+15 claim relieves the issuer and the grain depositors and sellers
+16 indemnity fund provided in chapter 203D section 203D.6 or
+17 203D.6A of all obligations to the claimant.
+18 Sec. 2. Section 203.15, subsection 6, Code 2025, is amended
+19 by striking the subsection.
+20 Sec. 3. Section 203C.14, subsection 2, paragraph a, Code
+21 2025, is amended to read as follows:
+22 a. Upon the cessation of a warehouse operator’s license due
+23 to revocation, cancellation, or expiration, a claim against the
+24 warehouse operator arising under this chapter shall be made in
+25 writing with the warehouse operator, with the issuer of a bond
+26 on agricultural products other than bulk grain, a deficiency
+27 bond, or an irrevocable letter of credit, and, if the claim
+28 relates to bulk grain, with the department. The claim must
+29 be made within one hundred twenty days after the cessation
+30 of the license. The failure to make a timely claim relieves
+31 the issuer and, if the claim relates to bulk grain, the grain
+32 depositors and sellers indemnity fund provided in chapter 203D
+33 section 203D.6 or 203D.6A of all obligations to the claimant.
+34 Sec. 4. Section 203D.1, Code 2025, is amended by adding the
+35 following new subsections:
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-1- da/ns 1/12
+
+1 NEW SUBSECTION. 8A. “Indemnity fees” or “fees” means a
+2 participation fee and per-bushel fee as provided in sections
+3 203D.3 and 203D.3A.
+4 NEW SUBSECTION. 14A. “Repayment loss” means the amount of
+5 a repayment claim held by a seller for purchased grain that the
+6 seller has paid back to a grain dealer’s bankruptcy estate,
+7 pursuant to an order issued, judgment entered, or settlement
+8 agreement approved by a bankruptcy court, and which amount
+9 has not been subsequently recovered through other legal or
+10 equitable remedies including the liquidation of the grain
+11 dealer’s assets.
+12 Sec. 5. Section 203D.1, subsection 14, Code 2025, is amended
+13 to read as follows:
+14 14. a. “Purchased grain” means grain any of the following:
+15 (1) Grain entered in the company-owned paid position as
+16 evidenced on the grain dealer’s daily position record.
+17 (2) Grain purchased under credit-sale contract.
+18 b. “Purchased grain” does not include grain that is subject
+19 to an exempt transaction based on documentation satisfactory
+20 to the department showing that the grain dealer did any of the
+21 following:
+22 (1) Purchased the grain from the United States government or
+23 any of its subdivisions or agencies.
+24 (2) Purchased the grain from a person licensed as a grain
+25 dealer in any jurisdiction.
+26 (3) Purchased the grain under a credit-sale contract.
+27 (4) (3) Entered the grain in the company-owned paid
+28 position as a cancellation of a collateral warehouse receipt.
+29 (5) (4) Entered the grain in the company-owned paid
+30 position as an intra-company location transfer.
+31 Sec. 6. Section 203D.1, subsection 16, Code 2025, is amended
+32 to read as follows:
+33 16. a. “Seller” means a person who sells grain which the
+34 person has produced or caused to be produced to a licensed
+35 grain dealer, but excludes a person who executes a credit-sale
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-2- da/ns 2/12
+
+1 contract as a seller as provided in section 203.15. However,
+2 “seller”
+3 b. “Seller” does not include any of the following:
+4 a. (1) A person licensed as a grain dealer in any
+5 jurisdiction who sells grain to a licensed grain dealer.
+6 b. (2) A person who sells grain that is not produced in
+7 this state unless such grain is delivered to a licensed grain
+8 dealer at a location in this state as the first point of sale.
+9 Sec. 7. Section 203D.3, subsections 1 and 4, Code 2025, are
+10 amended to read as follows:
+11 1. The grain depositors and sellers indemnity fund is
+12 created in the state treasury as a separate account. The
+13 general fund of the state is not liable for claims presented
+14 against the fund under section 203D.6 or 203D.6A.
+15 4. The moneys collected under this section and deposited in
+16 the fund shall be used exclusively to indemnify depositors and
+17 sellers as provided in section 203D.6 or 203D.6A and to pay the
+18 administrative costs of this chapter.
+19 Sec. 8. Section 203D.3A, unnumbered paragraph 1, Code 2025,
+20 is amended to read as follows:
+21 The department shall collect indemnity fees, including
+22 participation fees and per-bushel fees as provided in this
+23 section, if established imposed by the board pursuant to
+24 section 203D.5, at rates determined by the board as provided
+25 in that section. A person required to pay a fee shall use
+26 licensee shall remit indemnity fees and forms and deliver the
+27 payment to the department as required by the department.
+28 Sec. 9. Section 203D.3A, subsection 1, paragraph a,
+29 subparagraph (1), Code 2025, is amended to read as follows:
+30 (1) In calculating the amount of the initial participation
+31 fee, an applicant for a new license shall be deemed a licensee
+32 paying remitting the full annual amount of the participation
+33 fee owing on the licensee’s first anniversary date as provided
+34 in paragraph “b”. The department must be satisfied that the
+35 applicant is calculating the amount due in good faith and using
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-3- da/ns 3/12
+
+1 the best information available.
+2 (a) For a licensed grain dealer, the anniversary date is
+3 the last date to apply for the renewal of the grain dealer’s
+4 license before the license expires as provided in section
+5 203.5.
+6 (b) For a licensed warehouse operator, the anniversary date
+7 is the last date to apply for the renewal of the warehouse
+8 operator’s license before the license expires as provided in
+9 section 203C.37.
+10 Sec. 10. Section 203D.3A, subsection 1, paragraph b, Code
+11 2025, is amended to read as follows:
+12 b. A licensee shall pay remit a participation fee in
+13 one installment as part of a license renewal application
+14 in the same manner provided in paragraph “a”. However, the
+15 licensee may elect to remit the participation fee on four
+16 successive installment dates, with each installment date
+17 occurring on determined by the department not later than in the
+18 month succeeding each of the last date of the fund’s latest
+19 assessment quarter quarters as provided in section 203D.3.
+20 The licensee shall pay remit twenty-five percent of the total
+21 participation fee assessed on each installment date. However,
+22 nothing in this subsection prevents a licensee from paying
+23 the participation fee on an accelerated basis. A licensee
+24 shall pay the first installment on the last date of the
+25 fund’s assessment quarter immediately following the licensee’s
+26 anniversary date.
+27 (1) For a licensed grain dealer, the anniversary date is
+28 the last date to apply for the renewal of the grain dealer’s
+29 license before the license expires as provided in section
+30 203.5.
+31 (2) For a licensed warehouse operator, the anniversary date
+32 is the last date to apply for the renewal of the warehouse
+33 operator’s license before the license expires as provided in
+34 section 203C.37.
+35 Sec. 11. Section 203D.3A, subsection 2, Code 2025, is
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-4- da/ns 4/12
+
+1 amended to read as follows:
+2 2. a. A licensed grain dealer shall remit a per-bushel fee
+3 shall be assessed on all purchased grain.
+4 b. The licensed grain dealer shall forward remit the
+5 per-bushel fee to the department on a quarterly basis in the
+6 manner and using the forms a form prescribed by the department.
+7 The licensed grain dealer shall remit the per-bushel fee
+8 and form on four successive installment dates, with each
+9 installment date determined by the department not later than
+10 in the month succeeding each of the fund’s latest assessment
+11 quarters as provided in section 203D.3.
+12 c. A licensee licensed grain dealer is delinquent if the
+13 licensee grain dealer fails to submit remit the full quarterly
+14 per-bushel fee or quarterly forms and form when due or if,
+15 upon examination, an underpayment of the fee is found by the
+16 department. The licensed grain dealer is subject to a penalty
+17 of ten dollars for each day the licensed grain dealer is
+18 delinquent or an amount equal to the amount of the deficiency,
+19 whichever is less. However, a licensee licensed grain dealer
+20 who fails to submit remit the full quarterly per-bushel fee or
+21 quarterly forms form when due, is subject to a minimum payment
+22 of ten dollars. The department may establish and apply a
+23 margin of error in determining whether a licensed grain dealer
+24 is delinquent. The per-bushel fee shall be collected only once
+25 on each bushel of grain.
+26 c. d. The per-bushel fee shall not be collected more
+27 than once on each bushel of grain. A licensed grain dealer
+28 may choose to pass on the cost of a per-bushel fee to the
+29 sellers by an itemized discount noted on the settlement sheet.
+30 However, if the per-bushel fee is not in effect, no a licensed
+31 grain dealer shall not make such a discount on the purchase of
+32 grain. A discount made nominally for the per-bushel fee while
+33 the per-bushel fee is not in effect is grounds for a license
+34 suspension or revocation under chapter 203.
+35 Sec. 12. Section 203D.5, subsection 1, Code 2025, is amended
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-5- da/ns 5/12
+
+1 to read as follows:
+2 1. The board shall annually review the debits of and credits
+3 to the grain depositors and sellers indemnity fund created
+4 in section 203D.3 and shall determine whether to impose the
+5 participation fee and per-bushel fee indemnity fees as provided
+6 in section 203D.3A, make adjustments to the indemnity fees
+7 effective on the previous September 1 in effect, or waive the
+8 indemnity fees in effect as necessary to comply with this
+9 section. The board shall make the determination not later
+10 than May 1 of each year. The board shall impose the indemnity
+11 fees or adjust the indemnity fees effective on the previous
+12 September 1 in effect in accordance with chapter 17A. The
+13 imposition or adjustment of the indemnity fees shall become
+14 effective as follows:
+15 a. For the participation fee, on the first day of the fund’s
+16 following September 1 assessment year. However, the licensee
+17 shall continue to pay the any owing participation fee at the
+18 rate in effect on the prior September 1 first day of the fund’s
+19 current assessment year, until the licensee has paid the amount
+20 owing.
+21 b. For a per-bushel fee, on the following September 1 first
+22 day of the fund’s assessment year.
+23 Sec. 13. Section 203D.5, subsections 4 and 5, Code 2025, are
+24 amended to read as follows:
+25 4. If on the last date of the fund’s assessment year as
+26 provided in section 203D.3 the assets of the fund exceed eight
+27 twelve million dollars, less any encumbered balances or pending
+28 or unsettled claims, all of the following apply:
+29 a. The participation fee shall be waived and shall not be
+30 assessable or owing for the fund’s following assessment year
+31 of the fund. However, the licensee shall continue to pay
+32 any owing participation fee that was in effect on the prior
+33 September 1 first day of the fund’s current assessment year.
+34 b. The per-bushel fee shall be waived and shall not be
+35 assessable or owing.
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-6- da/ns 6/12
+
+1 5. The board shall reinstate the indemnity fees as
+2 provided in this section if the assets of the fund, less any
+3 unencumbered balances or pending or unsettled claims, are three
+4 five million dollars or less.
+5 Sec. 14. Section 203D.6, subsection 4, paragraph d, Code
+6 2025, is amended to read as follows:
+7 d. That the claim derives from a covered transaction. For
+8 purposes of this paragraph, a claim derives from a covered
+9 transaction if the claimant is a seller who transferred
+10 title to the grain to a licensed grain dealer other than by
+11 credit-sale contract within six months of the incurrence date
+12 for a claim period as provided in subsection 2, or if the
+13 claimant is a depositor who delivered the grain to a licensed
+14 warehouse operator.
+15 Sec. 15. Section 203D.6, subsection 8, Code 2025, is amended
+16 to read as follows:
+17 8. Payment of claims. Upon a determination that the claim
+18 is eligible for payment, the board shall provide for payment of
+19 ninety percent of the loss, as determined under subsection 5,
+20 but not more than three hundred thousand dollars per claimant.
+21 If at any time the board determines that there are insufficient
+22 funds moneys to make payment payments of all claims under this
+23 section and all repayment claims under section 203D.6A, the
+24 board may order that payment payments be deferred on specified
+25 claims. The department, upon the board’s instruction, shall
+26 hold those claims for payment deferred payments until the board
+27 determines that the fund again contains there are sufficient
+28 assets moneys in the fund to make payments on all those claims.
+29 Sec. 16. NEW SECTION. 203D.6A Repayment claims against
+30 fund.
+31 1. A separate indemnity claim process is established to
+32 provide for the indemnification of a repayment loss incurred by
+33 a seller against a grain dealer who is a debtor in bankruptcy
+34 under the protections provided in Tit. 11 of the United States
+35 Code.
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-7- da/ns 7/12
+
+1 a. A repayment claim shall be filed with the department in
+2 the manner prescribed by the department.
+3 b. A seller may file an eligible claim for a loss under
+4 section 203D.6 and an eligible repayment claim for a repayment
+5 loss under this section.
+6 2. To be timely, a seller must file a repayment claim with
+7 the department not later than sixty days after the repayment
+8 loss is finalized by a bankruptcy court, whether by an order
+9 issued, judgment entered, or settlement agreement approved.
+10 3. The department may provide notice of the repayment claim
+11 process to a seller that may become or has become subject to
+12 an order issued, judgment entered, or settlement agreement
+13 approved by a bankruptcy court that requires the seller to
+14 pay back amounts previously received for grain purchased by a
+15 licensed grain dealer, in the bankruptcy of the grain dealer.
+16 If the department chooses to provide a notice to the seller, it
+17 shall have discretion to determine any reasonable method and
+18 manner of providing such notice. A failure by the department
+19 to provide a notice or a failure by a seller to receive a notice
+20 under this subsection, does not relieve the seller of the
+21 requirement to timely file a repayment claim.
+22 4. The board shall determine that a repayment claim is
+23 eligible for payment from the fund if the board finds all of
+24 the following:
+25 a. The repayment claim was timely filed.
+26 b. The repayment claimant qualifies as a seller.
+27 c. The repayment claim derives from a covered transaction.
+28 For purposes of this paragraph, a claim derives from a covered
+29 transaction if the claimant is a seller who transferred title
+30 to the grain to a licensed grain dealer within six months of
+31 the incurrence date as provided in section 203D.6, subsection
+32 2.
+33 d. The seller submits adequate proof to establish the
+34 repayment claim and the amount of the repayment loss.
+35 e. A claim has not been paid for the same repayment loss.
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-8- da/ns 8/12
+
+1 5. A seller is not entitled to indemnify a claim for a
+2 repayment loss if the repayment loss is incurred as a result of
+3 a fraudulent transfer or conveyance by the seller.
+4 6. The dollar value of a repayment claim is the amount a
+5 seller has paid back that was previously received for the grain
+6 as a result of an order issued, judgment entered, or settlement
+7 agreement approved by a bankruptcy court and which has not been
+8 recovered through other legal or equitable remedies including
+9 the liquidation of assets.
+10 7. The department acting on behalf of the board shall
+11 deliver a notice to a seller filing a claim under this section.
+12 The notice must include the board’s determination of the
+13 seller’s eligibility and the value of the seller’s repayment
+14 loss. Within twenty days of delivering the notice, the seller
+15 may request a hearing for the review of either determination.
+16 The request shall be made in the manner provided by the
+17 board. The hearing and any further appeal shall be conducted
+18 as a contested case subject to chapter 17A. A seller whose
+19 repayment claim has been refused by the board may appeal the
+20 refusal to either the district court of Polk county or the
+21 district court of the county in which the seller resides.
+22 8. Upon a determination that the claim is eligible for
+23 indemnification, the board shall provide for payment of ninety
+24 percent of the repayment loss, as determined by the board,
+25 but not more than three hundred thousand dollars counting
+26 the dollar value losses paid to the same grain dealer during
+27 the claim period as provided in section 203D.6. If at any
+28 time the board determines that there are insufficient moneys
+29 in the fund to make payment of all claims under section
+30 203D.6 and this section, the board may order that payment be
+31 deferred on specified claims. The department, upon the board’s
+32 instruction, shall hold the claims for deferred payment until
+33 the board determines that the fund again contains sufficient
+34 assets.
+35 9. In the event of the payment of a repayment loss under
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-9- da/ns 9/12
+
+1 this section, the fund is subrogated to the extent of the
+2 amount of any payments to all rights, powers, privileges,
+3 and remedies of the seller against any person regarding
+4 the repayment loss. The seller shall render all necessary
+5 assistance to the department and the board in securing the
+6 rights granted in this section. No action or claim initiated
+7 by a seller and pending at the time of payment from the fund
+8 shall be compromised or settled without the consent of the
+9 board.
+10 10. a. A repayment claim shall expire if five years after
+11 the board determines that the repayment claim is eligible, and
+12 the claimant has failed to do any of the following:
+13 (1) Provide for the fund’s subrogation or render all
+14 necessary assistance to the department and the board in
+15 securing the department’s rights of subrogation as required in
+16 this section.
+17 (2) Provide necessary documentation or information required
+18 by the board in order to process the repayment claim.
+19 b. The fund is not liable for the payment of an expired
+20 repayment claim.
+21 Sec. 17. EMERGENCY RULES. The department of agriculture
+22 and land stewardship shall adopt emergency rules under section
+23 17A.4, subsection 3, and section 17A.5, subsection 2, paragraph
+24 “b”, to implement the provisions of this division of this
+25 Act within thirty business days of the effective date of
+26 this section of this Act and shall submit such rules to the
+27 administrative rules coordinator and the administrative code
+28 editor pursuant to section 17A.5, subsection 1, within the same
+29 period. The rules shall be effective immediately upon filing
+30 unless a later date is specified in the rules. Any rules
+31 adopted in accordance with this section shall also be published
+32 as a notice of intended action as provided in section 17A.4.
+33 Sec. 18. ASSESSMENT OF INDEMNITY FEES. A grain dealer
+34 licensed under chapter 203 who is a party to a credit-sale
+35 contract shall owe any indemnity fees assessed on grain
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-10- da/ns 10/12
+
+1 purchased under the credit-sale contract beginning on September
+2 1 of the first assessment quarter pursuant to section 203D.3A.
+3 Sec. 19. EFFECTIVE DATE. The following, being deemed of
+4 immediate importance, takes effect upon enactment:
+5 The section of this division of this Act requiring the
+6 department of agriculture and land stewardship to adopt
+7 emergency rules.
+8 Sec. 20. APPLICABILITY.
+9 1. The process established in section 203D.6A, as enacted
+10 by this Act, providing for the indemnification of a repayment
+11 claim applies to a seller who incurs a repayment loss against
+12 a grain dealer, if the grain dealer is a debtor in bankruptcy
+13 under the protections provided in Tit. 11 of the United States
+14 Code on or after October 24, 2022.
+15 2. For a repayment loss incurred prior to July 1, 2025, the
+16 end of the claim period in section 203D.6A, subsection 2, as
+17 enacted by this Act, is August 29, 2025.
+18 DIVISION II
+19 ASSESSMENT YEAR
+20 Sec. 21. Section 203D.3, subsection 3, Code 2025, is amended
+21 to read as follows:
+22 3. The assessment year of the fund begins September is the
+23 same as the state fiscal year beginning on July 1 and ends
+24 ending on August 31 June 30. Assessment quarters of the fund
+25 begin September on July 1, December October 1, March January 1,
+26 and June April 1. The finances of the fund shall be calculated
+27 on an accrual basis in accordance with generally accepted
+28 accounting principles.
+29 Sec. 22. CONTINGENT EFFECTIVE DATE.
+30 1. This division of this Act takes effect on the publication
+31 date of the issue of the Iowa administrative bulletin that
+32 includes a notice by the secretary of agriculture stating
+33 that the indemnity fees paid by grain dealers and warehouse
+34 operators have been waived as provided in section 203D.5.
+35 2. The department of agriculture and land stewardship shall
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-11- da/ns 11/12
+
+1 send a copy of the notice to the Code editor at least two
+2 weeks prior to the publication date of the Iowa administrative
+3 bulletin as described in subsection l.>
+4 2. Title page, by striking lines 1 through 6 and inserting
+5 <An Act regulating the marketing of grain, by providing for
+6 fees paid by grain dealers and warehouse operators into the
+7 grain depositors and sellers indemnity fund, and the payment of
+8 claims to reimburse sellers and depositors for losses covered
+9 by the fund, and including effective date and applicability
+10 provisions.>
+______________________________
+MOMMSEN of Clinton
+HF 999.1492 (2) 91
+(amending this HF 999 to CONFORM to SF 608)
+-12- da/ns 12/12
+
+[DELETED: eFe9AdHeFe99asf1.Bysgegarteegceai<NCSATGNDSADSSIYFSn1.Sn2,sn1,Ce2,iadtordasf1.Untecnofagndrlebr,c,ore,aycmfrt0pepeofgnattegndrslbem1inwgadfdwhtegndradwhtei2ofadybdorofanielrofc3adwhtedtwnoehdtydsa4tedeoftec.Afetometst5cmrsteiradtegndsads6iyfdpdincr2Dsn26o72Aofalostotec8S.2.Sn2,sn6,Ce2,isa9bysgtes0S.3.Sn2,sn2,pha,C12,isadtordasf2Untecnofaweosled3tor,c,ore,acmatt4weoragurtscrslbemei5wgwhteweo,whteirofab6onalpsortnbkg,ad7b,oranielrofc,a,iftec8rstobkg,whted.Tecmm9bemewnoehdtydsartec0oftel.Tefetomeatycmr1teira,iftecmrstobkg,teg2dsadssiyfdpdincr23sn26or2Aofalostotec4S.4.Sn2,Ce2,isadbyagt5fgnwsF92()9gtsHF99toCMtoSF6s1]
+[DELETED: NWS.8.ormsyf”“pnfeadplfeaspdins23ad2NWS.1.msteatotlartcmhdbyasrfrpdgntttsrhspdbktoagndsbyepttoanori,jte,orsatadbyabyc,adwhahsntbnsyrdthorllo0eersigtelnofteg1dsa2S.5.Sn2,sn1,Ce2,isa3tordasf41.msgnayoftef.“dg5()Gnedintecdpdpna6edontegndsdypnr7()Gnpdurcec.“dg8dsntiegnttiss9toanettnbdondns0totedtsgtttegndrddayoft1f2()PdtegnfmteUdSsgto3ayofisssora4()Pdtegnfmapnldasag5drinayj6()Pdtegnuracec7()()Edtegnintecdp8pnasacnofaclwer9()()Edtegnintecdp0pnasaniylnt1S.6.Sn2,sn1,Ce2,isa2tordasf31.msapnwossgnwht.“4pnhspdorcdtobepdtoal5gnd,btesapnwoesacF92()9gtsHF99toCMtoSF6s2]
+[DELETED: ctasasraspdinsn2.H.“dsntieayoftef()Apnldasagndrinajnwossgntoaldgnd()ApnwossgnttisntpditsseusshgnisddtoaldgdratalnintsseasteftptofsS.7.Sn2,ss1ad4,Ce2,a0adtordasf11.Tegndsadssiyfdi2cdintesetyasasea.T3glfdofteseisntlefrcsp4attefdursn26or254.Temscdurtssnadddi6tefdslbeudeytoiydsa7ssaspdinsn26or2Aadtopyt8aecsoftsc9S.8.Sn2,udph1,Ce20isadtordasf1Tedtslctiyf,i2pnfsadplfsaspdint3s,ifedidbytebdptt4sn2,atrsddbytebdasp5intts.Apnrdtopyafeslu6leslrtiyfsadfsaddrt7pttotedtasrdbyted8S.9.Sn2,sn1,pha9sh(,Ce2,isadtordasf0()Incgteatofteilp1f,anatfranwleslbeddal2pgrgteflalatoftep3feogontelsftaydeasp4inph.Tedtmtbesdttt5atiscgteatdeingdfhaduF92()9gtsHF99toCMtoSF6s3]
+[DELETED: tebtina()Fraldgnd,teaydeiteltdetoayfrterloftegndlebeteleesaspdins2()Fraldweo,teaydisteltdetoayfrterloftewoslebeteleesaspdisn20S.1.Sn2,sn1,phb,C12,isadtordasf2Aleslpyrtapnfei3oeitasptofalerla4intesemrpdinph.H,t5lemyettorttepnfeonf6seitd,whehitd7ogonddbytedtntlrtnint8mhsgehofteltdeoftefsl9atqrqsaspdinsn20Teleslpyrtteptoftet1pnfeadonehitd.H2ngintssnpsalefmp3tepnfeonanadb.Al4slpyteftitonteltdeoft5fsatqriyfgtel6ayd7()Fraldgnd,teaydei8teltdetoayfrterloftegnd9lebeteleesaspdins021()Fraldweo,teayd2isteltdetoayfrterloftew3oslebeteleesaspdi4sn25S.1.Sn2,sn2,Ce2,iF92()9gtsHF99toCMtoSF6s4]
+[DELETED: adtordasf2.AldgndrslrtaplfslbeadonalpdgTeldgndrslfdrttplfetotedtonaqybsintmradugtefsafmpdbytedTeldgndrslrtteplfadfmonfrseitd,wheitdeddbytedtntlrt0intemhsgehoftefslta1qsaspdinsn22Aleldgndrisdtift3legndrfstostrtteflq4plfeorqyfsadfmwndeori5une,anutoftefeisfdbyt6d.Teldgndrissttoap7oftndsfrehdyteldgndri8dtoranateltoteatofted9wrisl.H,aleldgnd0wofstostrtteflqyplfeo1qyfsfmwnd,issttoammp2oftnd.Tedtmyehaday3mnoferindgwraldgnd4isd.Teplfeslbecdoyo5onehblofg.d6Teplfeslntbecdm7tnoeonehblofg.Aldgnd8mycetopsontectofaplfetot9ssbyaniddtndontests0H,ifteplfeisntine,noal1gndrslntmeshadtontepeo2g.Adtmenyfrteplfew3teplfeisntinetisgsfral4snorrnurcr25S.1.Sn2,sn1,Ce2,isaF92()9gtsHF99toCMtoSF6s5]
+[DELETED: tordasf1.Tebdslayrwtedsofadctotegndsadssiyfdcinsn23adsldewrtoietpnfeadplfeiyfsaspinsn2,meastoteiyfeeontepsSr1ine,orwetiyfsinetasnytocywhts.Tebdslmetednntl0tnMy1ofehy.Tebdslietei1fsoratteiyfseeontep2Sr1inetinaewhcr1.T3inoratofteiyfsslb4eeasf5Frtepnf,onteftdyoftef6fgSr1aty.H,tel7slcetopyteayogpnfeatt8reinetonteprSr1ftdyoftef9ctaty,ultelehspdtea0o1Fraplf,ontefgSr1f2dyoftefsaty3S.1.Sn2,ss4ad5,Ce2,a4adtordasf54.Ifonteltdeoftefsatyra6pdinsn23teasoftefdede7temnd,lsayedbsorp8orudc,aloftefga9Tepnfeslbewdadslntb0aeorogfrtefsfgaty1oftef.H,teleslcetop2ayogpnfettwsinetontep3Sr1ftdyoftefsctaty4Teplfeslbewdadslntb5aeoroF92()9gtsHF99toCMtoSF6s6]
+[DELETED: 5.Tebdslreteiyfsapdintssnifteasoftef,lsaudbsorpgorudc,aetfemndsorlS.1.Sn2,sn4,phd,C2,isadtordasfTttecmdsfmacdt.Fpsoftsp,acmdsfmactniftectisasrwot0tetotegntoaldgndrortnb1cectwnsxmsofteied2fracmpdaspdinsn2,orift3ctisadrwoddtegntoal4weo5S.1.Sn2,sn8,Ce2,isa6tordasf78.Unadntttectofc8iseefrp,tebdslpefrpto9nyptoftel,asddursn50btntmetntehdtddsprc1Ifataytetebddsttteaei2fsmstomeptpsofalcsurt3snadalrtcsursn2,t4bdmyorttptpsbeddons5c.Ted,untebsi,s6hdtecsfrptddpsulteb7dstttefdancsteaes8asmsintefdtomepsonaltec9S.1.NWSARtcsa11.Aseiycmpsisedt2pefrteinofartlsidb3asratagndrwoisadrinb4urtepspdinT.11ofteUdS5CF92()9gtsHF99toCMtoSF6s7]
+[DELETED: ArtcmslbefdwhtedtitemrpdbytedAsrmyfeaneecmfralsusn26adaneertcmfrarlsurtss2.Tobet,asrmtfeartcmwtedtntlrtnsydsarterlsisfdbyabyc,wrbyanoi,jte,orstata03.Tedtmypeneoftertc1pstoasrttmybeorhsbestt2anori,jte,orsta3adbyabyctttrstesrt4pybkaspyrdfrgnpdby5ldgnd,intebyoftegnd6Iftedtcstopeanetotes,i7slhedntodeayremda8mrofpgshn.Afebyted9topeaneorafebyasrtorean0urtss,dsntretesroft1rttotyfeartc24.Tebdsldettartcmi3eefrptfmtefdiftebdfsalo4tef5Tertcmwstyf6Tertctqsasas7Tertcmdsfmacdt8Frpsoftsp,acmdsfmac9tniftectisasrwotdt0totegntoaldgndrwnsxmso1teiedeaspdinsn2,s223Tesrssaepftoeht4rtcmadteatoftertl5AcmhsntbnpdfrtesertlF92()9gtsHF99toCMtoSF6s8]
+[DELETED: 5.Asrisntedtoiyacmfrrtlsiftertlsisidasartoafttrorcebytes6.Tedrveofartcmisteatsrhspdbkttwspyrdfrtegasartofanori,jte,orsatadbyabyctadwhhsntbrdthorlloreersitelnofa07.Tedtagonbfoftebds1dranetoasrfgacmurtss2Tenemtietebsdnoft3sseyadteveoftessr4l.Wntydsofdgten,tes5myrtahgfrterwoferd6Tertslbemeintemrpdbyt7b.Tehgadayfralslbec8asacdcesttocr1.Asrw9rtcmhsbnrdbytebdmyalt0rltoertedtctofPkcyort1dtctoftecyinwhtesrr28.Unadntttecmiseef3i,tebdslpefrptofn4ptoftertl,asddbyteb5btntmetntehdtddsc6tedrvelspdtotesegndrd7tecmpdaspdinsn2.Ifata8tetebddsttteaeitm9intefdtomeptofalcsurs026adtss,tebdmyorttptb1ddonsdc.Ted,unteb2i,slhdtecsfrddptu3tebddstttefdancss4a59.InteetofteptofartlsuF92()9gtsHF99toCMtoSF6s9]
+[DELETED: tss,tefdissdtoteetoftatofaypstoalr,p,padrsoftesrataypnrtertl.Tesrslrralnaetotedtadtebdinsgtrsgdintss.Noanorcmibyasradpgatteteofptfmtefslbecdorsdwttectoftb01.Artcmsleeiffeysa1tebddstttertcmise,a2tecthsfdtodoayoftef3()Pefrtefssnorrra4nyaetotedtadtebdi5sgtedsrsofsnasrdi6tss7()Penydnorinr8bytebdinortopstertc9Tefdisntlefrteptofane0rtc1S.1.EYR.Tedtofa2adldspslateyrsurs31,sn3,adsn1,sn2,p4“,toittepsoftsdnoft5Atwntybsdsofteeedeo6tssnoftsAtadslstshrstot7aerscradteaec8erpttosn1,sn1,wntes9p.Tersslbeeeiyunf0usalrdeissdinter.Ayr1adinaewhtssnslaobep2asaneofidanaspdinsn13S.1.ATOFIYF.Agnd4ldurcr23woisapytoac5ctsloeayiyfsadongF92()9gtsHF99toCMtoSF6s1]
+[DELETED: pdurtecectbgonS1ofteftatqrpttosn2S.1.EED.Tef,bgddoiei,tsetuneTesnoftsdnoftsAtrgtdtofaeadldsptoaeyrS.2.A1.Tepsedinsn2,ase0bytsA,pgfrteinofar1cmastoasrwoisartlsa2agnd,iftegndrisadrinb3urtepspdinT.11ofteUdS4CeonorarOr2,252.FrartlsidprtoJy1,2,t6edoftecmpdinsn2,sn2,a7edbytsA,isAt2,28DNI9ATY0S.2.Sn2,sn3,Ce2,isa1tordasf23.TeatyroftefdbsSrist3seasteseflyrbgonJy1ade4egonAt31Je3.Atqsoftef5bnSronJy1,DrOr1,MhJy16adJeAl1.Tefsoftefdslbec7onanalbsinaewhgya8agp9S.2.CTEED01.TsdnoftsAttsetontep1deofteieofteIaaebnt2isanebytesyofaes3ttteiyfspdbygndsadw4oshebnwdaspdinsn252.TedtofaeadldspsF92()9gtsHF99toCMtoSF6s1]
+[DELETED: sdacyoftenetoteCeeratlttwsprtotepndeofteIaabnasddinsnl2.Tep,bysgls1th6adi<nAtrgtemgofg,bypgffspdbygndsadweosiotgndsadssiyf,adteptocstoressaddsfrlscbytef,adigeedeada0pNofCF92()9gtsHF99toCMtoSF6s1]

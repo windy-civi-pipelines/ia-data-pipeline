@@ -1,0 +1,33 @@
+Title: 1 Amend the amendment, H-1265, to House File 1002, as follows:
+Official Title: 1 Amend the amendment, H-1265, to House File 1002, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1267
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 1002
+H-1267
+2 1. Page 2, line 21, by striking <three> and inserting <five>
+______________________________
+NIELSEN of Johnson
+H 1265.1695 (1) 91
+-1- ns/js 1/1
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe2,le2,bysg<>adig<NofJ15()9]
+
+
+================================================================================
+
+Raw Text:
+House File 1002
+H-1267
+1 Amend the amendment, H-1265, to House File 1002, as follows:
+2 1. Page 2, line 21, by striking <three> and inserting <five>
+______________________________
+NIELSEN of Johnson
+H 1265.1695 (1) 91
+-1- ns/js 1/1
+
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe2,le2,bysg<>adig<NofJ15()9]

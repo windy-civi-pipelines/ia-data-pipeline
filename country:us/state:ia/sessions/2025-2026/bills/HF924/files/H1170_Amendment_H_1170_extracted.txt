@@ -1,0 +1,41 @@
+Title: 1 Amend the amendment, H-1156, to House File 924, as follows:
+Official Title: 1 Amend the amendment, H-1156, to House File 924, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1170
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 924
+H-1170
+2 1. Page 1, line 14, by striking <revolver.> and inserting
+3 <revolver, nor shall a nonprofessional permit to carry weapons
+4 held by a person who has not reached the age of twenty-one be
+5 valid for the transfer of a pistol or revolver from a federally
+6 licensed firearms dealer.>
+______________________________
+HOLT of Crawford
+H 1156.1206 (2) 91
+-1- sb/js 1/1
+[DELETED: eFe9Adtea,H,toHeFe9,asf1.Pe1,le1,bysg<>adi<,nrslanlpttocywhdbyapnwohsntrdteaeoftebvdfrtetrofaplorrrfmafldfsdTofC16()9]
+
+
+================================================================================
+
+Raw Text:
+House File 924
+H-1170
+1 Amend the amendment, H-1156, to House File 924, as follows:
+2 1. Page 1, line 14, by striking <revolver.> and inserting
+3 <revolver, nor shall a nonprofessional permit to carry weapons
+4 held by a person who has not reached the age of twenty-one be
+5 valid for the transfer of a pistol or revolver from a federally
+6 licensed firearms dealer.>
+______________________________
+HOLT of Crawford
+H 1156.1206 (2) 91
+-1- sb/js 1/1
+
+[DELETED: eFe9Adtea,H,toHeFe9,asf1.Pe1,le1,bysg<>adi<,nrslanlpttocywhdbyapnwohsntrdteaeoftebvdfrtetrofaplorrrfmafldfsdTofC16()9]

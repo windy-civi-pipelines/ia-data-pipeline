@@ -1,0 +1,39 @@
+Title: 1 Amend the amendment, H-1153, to House File 872, as follows:
+Official Title: 1 Amend the amendment, H-1153, to House File 872, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1173
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 872
+H-1173
+2 1. Page 1, after line 1 by inserting:
+3 <1. Page 1, by striking line 10 and inserting:
+4 <(2) Is operated for profit and under single management.>>
+5 2. By renumbering as necessary.
+______________________________
+BAETH of Polk
+H 1153.1228 (2) 91
+-1- nls/ko 1/1
+[DELETED: eFe8Adtea,H,toHeFe8,asf1.Pe1,arle1byi<.Pe1,bysgle10adi<)Isodfrptadursem2.ByrgasnHofP18()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 872
+H-1173
+1 Amend the amendment, H-1153, to House File 872, as follows:
+2 1. Page 1, after line 1 by inserting:
+3 <1. Page 1, by striking line 10 and inserting:
+4 <(2) Is operated for profit and under single management.>>
+5 2. By renumbering as necessary.
+______________________________
+BAETH of Polk
+H 1153.1228 (2) 91
+-1- nls/ko 1/1
+
+[DELETED: eFe8Adtea,H,toHeFe8,asf1.Pe1,arle1byi<.Pe1,bysgle10adi<)Isodfrptadursem2.ByrgasnHofP18()9o1]

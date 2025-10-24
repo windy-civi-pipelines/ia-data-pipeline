@@ -1,0 +1,39 @@
+Title: 2 1. Page 1, line 8, by striking <employment,> and inserting
+Official Title: 2 1. Page 1, line 8, by striking <employment,> and inserting
+Number of Sections: 1
+Source: versions - Amendment S-3181
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 607
+S-3181
+1 Amend Senate File 607 as follows:
+3 <employment,>
+4 2. By striking page 3, line 34, through page 4, line 19.
+5 3. By renumbering as necessary.
+______________________________
+ADRIAN DICKEY
+SF 607.2060 (1) 91
+-1- je/js 1/1
+[DELETED: eFe6AdSeFe67asf1.Pe1,le8,bysg<>adi<2.Bysgpe3,le3,thpe4,le13.ByrgasnNDF60()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 607
+S-3181
+1 Amend Senate File 607 as follows:
+2 1. Page 1, line 8, by striking <employment,> and inserting
+3 <employment,>
+4 2. By striking page 3, line 34, through page 4, line 19.
+5 3. By renumbering as necessary.
+______________________________
+ADRIAN DICKEY
+SF 607.2060 (1) 91
+-1- je/js 1/1
+
+[DELETED: eFe6AdSeFe67asf1.Pe1,le8,bysg<>adi<2.Bysgpe3,le3,thpe4,le13.ByrgasnNDF60()9]

@@ -1,0 +1,270 @@
+Title: BILL)
+Official Title: BILL)
+Number of Sections: 1
+Source: versions - Prefiled
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+A BILL FOR
+1 An Act relating to contracts entered into by state agencies and
+2 including applicability provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1329DP (2) 91
+sc/ns
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 8A.311C State purchasing contracts
+2 —— prohibited terms.
+3 The provisions set forth in this section are void as a matter
+4 of law as contrary to public policy if included in a contract
+5 entered into by the department, the department of management or
+6 a supported entity pursuant to chapter 8, subchapter XI, or any
+7 other state agency. A state agency’s contract that includes
+8 any of the following provisions shall be interpreted as if the
+9 contract did not include the void provision:
+10 1. A provision that requires the state or its agencies to
+11 defend, indemnify, hold harmless another person, or otherwise
+12 assume the debt or liability of another person in violation of
+13 Article VII, section 1, of the Constitution of the State of
+14 Iowa.
+15 2. A provision that seeks to impose vendor terms that
+16 are unknown at the time of signing the contract or can be
+17 unilaterally changed by the vendor.
+18 3. A provision that violates chapter 13 by not allowing
+19 a state agency to participate in its own defense through
+20 representation by the attorney general.
+21 4. A provision that grants to any person other than the
+22 attorney general the authority to convey to a court or litigant
+23 the state’s consent to any settlement of a suit involving the
+24 contract when such settlement could impose liability on the
+25 state.
+26 5. A provision that specifies that the contract is governed
+27 by the laws of a foreign state or nation.
+28 6. A provision that claims blanket confidentiality of the
+29 contract’s terms.
+30 7. A provision that claims that payment terms, including but
+31 not limited to cost proposals or other pricing information, of
+32 the contract are confidential.
+33 8. A provision that authorizes or requires a venue for
+34 litigation other than the district court of Polk county, Iowa,
+35 or the United States district court for the southern district
+LSB 1329DP (2) 91
+-1- sc/ns 1/3
+S.F. _____ H.F. _____
+1 of Iowa sitting in Des Moines, Iowa.
+2 9. A provision that requires a state agency to pay attorney
+3 fees, court costs, or other litigation expenses in the event of
+4 a contractual dispute.
+5 10. A provision that imposes on the state or its agencies
+6 binding arbitration or another binding extrajudicial dispute
+7 resolution process in which the final resolution is not
+8 determined by the state.
+9 11. A provision that waives a state agency’s right to a jury
+10 trial.
+11 12. A provision that obligates a state agency to pay a late
+12 payment charge not consistent with section 8A.514, interest
+13 greater than allowed under section 8A.514 or other applicable
+14 law, or any cancellation charge, as such charges constitute
+15 pledges of the state’s credit.
+16 13. A provision that obligates a state agency to pay a tax.
+17 14. A provision that imposes a prior notice obligation on
+18 a state agency as a condition for the automatic renewal of a
+19 software license. A state agency may provide notice of its
+20 intent to terminate a software license at any time before the
+21 renewal date established in the contract.
+22 15. A provision that obligates a state agency to accept risk
+23 of loss before the receipt of items or goods.
+24 16. A provision that obligates a state agency to have
+25 commercial insurance.
+26 17. A provision that obligates a state agency to grant a
+27 contractor full or partial ownership of intellectual property
+28 developed pursuant to a state agency contract when the
+29 intellectual property is developed in whole or in part using
+30 federal funding.
+31 18. A provision that limits the time in which the state or
+32 its agencies may bring a legal claim under the contract to a
+33 period shorter than that provided by Iowa law.
+34 19. A boilerplate provision included in a vendor’s
+35 transactional documents, including but not limited to ordering
+LSB 1329DP (2) 91
+-2- sc/ns 2/3
+S.F. _____ H.F. _____
+1 documents and quotations, that seeks to alter the terms of a
+2 state agency’s contract or to impose new terms in the contract.
+3 Sec. 2. NEW SECTION. 8A.311D State purchasing contracts ——
+4 required terms.
+5 All of the following provisions shall be deemed to be
+6 included in a state agency vendor contract:
+7 1. Governing law. The contract shall be governed by
+8 the laws of the state of Iowa, without giving effect to any
+9 conflict of laws principles of Iowa law that may require the
+10 application of another jurisdiction’s law.
+11 2. Venue. Any litigation commenced in connection with the
+12 contract shall be brought and maintained in the district court
+13 of Polk county, Iowa, or the United States district court for
+14 the southern district of Iowa sitting in Des Moines, Iowa, as
+15 appropriate.
+16 Sec. 3. APPLICABILITY. This Act applies to contracts
+17 entered into or renewed on or after the effective date of this
+18 Act.
+19 EXPLANATION
+20 The inclusion of this explanation does not constitute agreement with
+21 the explanation’s substance by the members of the general assembly.
+22 This bill prohibits the inclusion of certain provisions in
+23 contracts entered into by the department of administrative
+24 services, the department of management or supported entities
+25 pursuant to Code chapter 8, subchapter XI (information
+26 technology), and any other state agency, and declares those
+27 provisions void if present in such contracts. The bill also
+28 provides that every state agency vendor contract shall be
+29 deemed to include provisions requiring the contract to be
+30 governed by Iowa law and for litigation related to the contract
+31 to be brought and maintained in the district court of Polk
+32 county, Iowa, or the United States district court for the
+33 southern district of Iowa sitting in Des Moines, Iowa.
+LSB 1329DP (2) 91
+-3- sc/ns 3/3
+[DELETED: EFE_Y(DDTOESBLFAnAtrgtocsediobyseasaigaypBEITEDBYTEGLAYOFTESEOFIB1P()9]
+[DELETED: .__H._Sn1.NWSCSepgc—pdtTepsstfhintssnaevdasamoflwascytopcpyifidinacediobyted,tedtofmtoasdeypttocr8,srX,oraorsea.Aseasctttiayoftefgpsslbeidasiftctddntietevdp01.Apnttrsteseorisast1d,i,hdhsarp,oro2aetedtorlyofarpninvno3AeV,sn1,ofteCnofteSeo4I52.Apnttsstoievrtst6aeunatteteofsgtectorcnb7uycdbytev83.Apnttvscr13bynta9aseaytopeinisondet0rnbyteayg14.Apnttgstoaypnortnt2ayglteaytocytoactorl3tesscttoaystofastigt4ctwnshstcdielyont5s65.Apnttsstttectisg7bytelsofafnseorn86.Apnttcsbtcyoft9cst07.Apnttcsttptt,igb1ntldtoctpsororpgi,o2tectaec38.Apnttasorrsavef4lnortntedtctofPkc,I5orteUdSsdtctfrtesndB1P()9s1]
+[DELETED: .__H._ofIasginDsM,I9.Apnttrsaseaytopyaf,ctc,ororlnesinteetoacld1.Apnttisonteseorisabganorarbgeldrnpsinwhteflrnisnddbytes1.Apnttwsaseasrttoaj0t11.Apnttosaseaytopyal2ptcentctwhsn8,i3grtnadursn84orora4l,oraycnc,asshcsc5psoftessc61.Apnttosaseaytopyat71.Apnttisaprneono8aseayasacnfrteacrlof9sel.Aseaymypeneofi0ittoteaseleataytebet1rldeedintec21.Apnttosaseaytoatr3oflsbetertofisorg41.Apnttosaseaytoh5cli61.Apnttosaseaytogt7crflorplopofilp8ddpttoaseayctwnt9ilpyisddinweorinptu0flf11.Apnttlsteteinwhteseo2isasmybgallcmurtectto3pdsrtnttpdbyIal41.Abepnidinav5tld,igbtntldtooB1P()9s2]
+[DELETED: .__H._dsadq,ttsstoartetsofseasctortoienwtsintecS.2.NWSDSepgcs—dtAloftefgpsslbeddtobidinaseayvrc1.TectslbegdbgltelsofteseofI,wtggettoactoflspsofIalwttmyret0anofarjsl12.Aylncdincnwht2ctslbebtadmdintedtc3ofPkc,I,orteUdSsdtctf4tesndtofIasginDsM,I,a5a6S.3.A.TsAtastoc7edioorrdonorarteeedeoft8A9Eeinoftsendsntceatweessebytemsoftegla2Tsblpsteinofcnpsi3csediobytedtofa4s,tedtofmtorsde5pttoCecr8,srXI(6t,adayorsea,addst7psvdifptinshc.Tebla8pstteyseayvrctslb9ddtoiepsrgtecttob0gdbyIalwadfrlnrdtotec1tobebtadmdintedtctofP2c,I,orteUdSsdtctfrt3sndtofIasginDsM,IB1P()9s3]
+
+
+================================================================================
+
+Raw Text:
+SENATE/HOUSE FILE _____
+BY (PROPOSED DEPARTMENT OF
+ADMINISTRATIVE SERVICES
+BILL)
+A BILL FOR
+1 An Act relating to contracts entered into by state agencies and
+2 including applicability provisions.
+3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+TLSB 1329DP (2) 91
+sc/ns
+
+S.F. _____ H.F. _____
+1 Section 1. NEW SECTION. 8A.311C State purchasing contracts
+2 —— prohibited terms.
+3 The provisions set forth in this section are void as a matter
+4 of law as contrary to public policy if included in a contract
+5 entered into by the department, the department of management or
+6 a supported entity pursuant to chapter 8, subchapter XI, or any
+7 other state agency. A state agency’s contract that includes
+8 any of the following provisions shall be interpreted as if the
+9 contract did not include the void provision:
+10 1. A provision that requires the state or its agencies to
+11 defend, indemnify, hold harmless another person, or otherwise
+12 assume the debt or liability of another person in violation of
+13 Article VII, section 1, of the Constitution of the State of
+14 Iowa.
+15 2. A provision that seeks to impose vendor terms that
+16 are unknown at the time of signing the contract or can be
+17 unilaterally changed by the vendor.
+18 3. A provision that violates chapter 13 by not allowing
+19 a state agency to participate in its own defense through
+20 representation by the attorney general.
+21 4. A provision that grants to any person other than the
+22 attorney general the authority to convey to a court or litigant
+23 the state’s consent to any settlement of a suit involving the
+24 contract when such settlement could impose liability on the
+25 state.
+26 5. A provision that specifies that the contract is governed
+27 by the laws of a foreign state or nation.
+28 6. A provision that claims blanket confidentiality of the
+29 contract’s terms.
+30 7. A provision that claims that payment terms, including but
+31 not limited to cost proposals or other pricing information, of
+32 the contract are confidential.
+33 8. A provision that authorizes or requires a venue for
+34 litigation other than the district court of Polk county, Iowa,
+35 or the United States district court for the southern district
+LSB 1329DP (2) 91
+-1- sc/ns 1/3
+
+S.F. _____ H.F. _____
+1 of Iowa sitting in Des Moines, Iowa.
+2 9. A provision that requires a state agency to pay attorney
+3 fees, court costs, or other litigation expenses in the event of
+4 a contractual dispute.
+5 10. A provision that imposes on the state or its agencies
+6 binding arbitration or another binding extrajudicial dispute
+7 resolution process in which the final resolution is not
+8 determined by the state.
+9 11. A provision that waives a state agency’s right to a jury
+10 trial.
+11 12. A provision that obligates a state agency to pay a late
+12 payment charge not consistent with section 8A.514, interest
+13 greater than allowed under section 8A.514 or other applicable
+14 law, or any cancellation charge, as such charges constitute
+15 pledges of the state’s credit.
+16 13. A provision that obligates a state agency to pay a tax.
+17 14. A provision that imposes a prior notice obligation on
+18 a state agency as a condition for the automatic renewal of a
+19 software license. A state agency may provide notice of its
+20 intent to terminate a software license at any time before the
+21 renewal date established in the contract.
+22 15. A provision that obligates a state agency to accept risk
+23 of loss before the receipt of items or goods.
+24 16. A provision that obligates a state agency to have
+25 commercial insurance.
+26 17. A provision that obligates a state agency to grant a
+27 contractor full or partial ownership of intellectual property
+28 developed pursuant to a state agency contract when the
+29 intellectual property is developed in whole or in part using
+30 federal funding.
+31 18. A provision that limits the time in which the state or
+32 its agencies may bring a legal claim under the contract to a
+33 period shorter than that provided by Iowa law.
+34 19. A boilerplate provision included in a vendor’s
+35 transactional documents, including but not limited to ordering
+LSB 1329DP (2) 91
+-2- sc/ns 2/3
+
+S.F. _____ H.F. _____
+1 documents and quotations, that seeks to alter the terms of a
+2 state agency’s contract or to impose new terms in the contract.
+3 Sec. 2. NEW SECTION. 8A.311D State purchasing contracts ——
+4 required terms.
+5 All of the following provisions shall be deemed to be
+6 included in a state agency vendor contract:
+7 1. Governing law. The contract shall be governed by
+8 the laws of the state of Iowa, without giving effect to any
+9 conflict of laws principles of Iowa law that may require the
+10 application of another jurisdiction’s law.
+11 2. Venue. Any litigation commenced in connection with the
+12 contract shall be brought and maintained in the district court
+13 of Polk county, Iowa, or the United States district court for
+14 the southern district of Iowa sitting in Des Moines, Iowa, as
+15 appropriate.
+16 Sec. 3. APPLICABILITY. This Act applies to contracts
+17 entered into or renewed on or after the effective date of this
+18 Act.
+19 EXPLANATION
+20 The inclusion of this explanation does not constitute agreement with
+21 the explanation’s substance by the members of the general assembly.
+22 This bill prohibits the inclusion of certain provisions in
+23 contracts entered into by the department of administrative
+24 services, the department of management or supported entities
+25 pursuant to Code chapter 8, subchapter XI (information
+26 technology), and any other state agency, and declares those
+27 provisions void if present in such contracts. The bill also
+28 provides that every state agency vendor contract shall be
+29 deemed to include provisions requiring the contract to be
+30 governed by Iowa law and for litigation related to the contract
+31 to be brought and maintained in the district court of Polk
+32 county, Iowa, or the United States district court for the
+33 southern district of Iowa sitting in Des Moines, Iowa.
+LSB 1329DP (2) 91
+-3- sc/ns 3/3
+
+[DELETED: EFE_Y(DDTOESBLFAnAtrgtocsediobyseasaigaypBEITEDBYTEGLAYOFTESEOFIB1P()9]
+[DELETED: .__H._Sn1.NWSCSepgc—pdtTepsstfhintssnaevdasamoflwascytopcpyifidinacediobyted,tedtofmtoasdeypttocr8,srX,oraorsea.Aseasctttiayoftefgpsslbeidasiftctddntietevdp01.Apnttrsteseorisast1d,i,hdhsarp,oro2aetedtorlyofarpninvno3AeV,sn1,ofteCnofteSeo4I52.Apnttsstoievrtst6aeunatteteofsgtectorcnb7uycdbytev83.Apnttvscr13bynta9aseaytopeinisondet0rnbyteayg14.Apnttgstoaypnortnt2ayglteaytocytoactorl3tesscttoaystofastigt4ctwnshstcdielyont5s65.Apnttsstttectisg7bytelsofafnseorn86.Apnttcsbtcyoft9cst07.Apnttcsttptt,igb1ntldtoctpsororpgi,o2tectaec38.Apnttasorrsavef4lnortntedtctofPkc,I5orteUdSsdtctfrtesndB1P()9s1]
+[DELETED: .__H._ofIasginDsM,I9.Apnttrsaseaytopyaf,ctc,ororlnesinteetoacld1.Apnttisonteseorisabganorarbgeldrnpsinwhteflrnisnddbytes1.Apnttwsaseasrttoaj0t11.Apnttosaseaytopyal2ptcentctwhsn8,i3grtnadursn84orora4l,oraycnc,asshcsc5psoftessc61.Apnttosaseaytopyat71.Apnttisaprneono8aseayasacnfrteacrlof9sel.Aseaymypeneofi0ittoteaseleataytebet1rldeedintec21.Apnttosaseaytoatr3oflsbetertofisorg41.Apnttosaseaytoh5cli61.Apnttosaseaytogt7crflorplopofilp8ddpttoaseayctwnt9ilpyisddinweorinptu0flf11.Apnttlsteteinwhteseo2isasmybgallcmurtectto3pdsrtnttpdbyIal41.Abepnidinav5tld,igbtntldtooB1P()9s2]
+[DELETED: .__H._dsadq,ttsstoartetsofseasctortoienwtsintecS.2.NWSDSepgcs—dtAloftefgpsslbeddtobidinaseayvrc1.TectslbegdbgltelsofteseofI,wtggettoactoflspsofIalwttmyret0anofarjsl12.Aylncdincnwht2ctslbebtadmdintedtc3ofPkc,I,orteUdSsdtctf4tesndtofIasginDsM,I,a5a6S.3.A.TsAtastoc7edioorrdonorarteeedeoft8A9Eeinoftsendsntceatweessebytemsoftegla2Tsblpsteinofcnpsi3csediobytedtofa4s,tedtofmtorsde5pttoCecr8,srXI(6t,adayorsea,addst7psvdifptinshc.Tebla8pstteyseayvrctslb9ddtoiepsrgtecttob0gdbyIalwadfrlnrdtotec1tobebtadmdintedtctofP2c,I,orteUdSsdtctfrt3sndtofIasginDsM,IB1P()9s3]

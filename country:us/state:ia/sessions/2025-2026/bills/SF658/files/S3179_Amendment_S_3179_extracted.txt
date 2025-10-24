@@ -1,0 +1,41 @@
+Title: 2 1. Page 3, line 14, by striking <100.00> and inserting
+Official Title: 2 1. Page 3, line 14, by striking <100.00> and inserting
+Number of Sections: 1
+Source: versions - Amendment S-3179
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate File 658
+S-3179
+1 Amend Senate File 658 as follows:
+3 <98.00>
+4 2. Page 4, line 7, by striking <8.00> and inserting <7.00>
+5 3. Page 14, line 21, by striking <4.20> and inserting <3.20>
+______________________________
+DENNIS GUTH
+SF 658.2062 (1) 91
+amending this SF 658 to conform to HF 1044
+-1- sc/ns 1/1
+[DELETED: eFe6AdSeFe68asf1.Pe3,le1,bysg<>adi<2.Pe4,le7,bysg<>adig<3.Pe1,le2,bysg<>adig<SGF62()9gtsSF68tocmtoHF1s1]
+
+
+================================================================================
+
+Raw Text:
+Senate File 658
+S-3179
+1 Amend Senate File 658 as follows:
+2 1. Page 3, line 14, by striking <100.00> and inserting
+3 <98.00>
+4 2. Page 4, line 7, by striking <8.00> and inserting <7.00>
+5 3. Page 14, line 21, by striking <4.20> and inserting <3.20>
+______________________________
+DENNIS GUTH
+SF 658.2062 (1) 91
+amending this SF 658 to conform to HF 1044
+-1- sc/ns 1/1
+
+[DELETED: eFe6AdSeFe68asf1.Pe3,le1,bysg<>adi<2.Pe4,le7,bysg<>adig<3.Pe1,le2,bysg<>adig<SGF62()9gtsSF68tocmtoHF1s1]

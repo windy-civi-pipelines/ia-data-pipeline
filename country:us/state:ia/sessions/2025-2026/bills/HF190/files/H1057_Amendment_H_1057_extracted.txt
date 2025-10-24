@@ -1,0 +1,35 @@
+Title: 2 1. Page 2, line 9, after <employed> by inserting <or
+Official Title: 2 1. Page 2, line 9, after <employed> by inserting <or
+Number of Sections: 1
+Source: versions - Amendment H-1057
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 190
+H-1057
+1 Amend House File 190 as follows:
+3 designated>
+______________________________
+GEHLBACH of Dallas
+HF 190.800 (1) 91
+-1- jda/jh 1/1
+[DELETED: eFe1AdHeFe10asf1.Pe2,le9,ar<>byig<dHofDF10()9]
+
+
+================================================================================
+
+Raw Text:
+House File 190
+H-1057
+1 Amend House File 190 as follows:
+2 1. Page 2, line 9, after <employed> by inserting <or
+3 designated>
+______________________________
+GEHLBACH of Dallas
+HF 190.800 (1) 91
+-1- jda/jh 1/1
+
+[DELETED: eFe1AdHeFe10asf1.Pe2,le9,ar<>byig<dHofDF10()9]

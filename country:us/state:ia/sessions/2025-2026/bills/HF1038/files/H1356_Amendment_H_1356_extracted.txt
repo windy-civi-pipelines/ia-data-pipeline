@@ -1,0 +1,41 @@
+Title: 1 Amend the amendment, H-1349, to House File 1038, as follows:
+Official Title: 1 Amend the amendment, H-1349, to House File 1038, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1356
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 1038
+H-1356
+2 1. Page 3, line 22, by striking <five> and inserting <two
+3 and one-half>
+4 2. Page 4, line 23, by striking <more than fifty> and
+5 inserting <at least forty-five>
+6 3. Page 7, line 8, by striking <city> and inserting <county>
+______________________________
+MOHR of Scott
+H 1349.2131 (1) 91
+-1- lh/ko 1/1
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe3,le2,bysg<>adig<ado2.Pe4,le2,bysg<etnf>aig<tltf3.Pe7,le8,bysg<>adig<RofS11()9o1]
+
+
+================================================================================
+
+Raw Text:
+House File 1038
+H-1356
+1 Amend the amendment, H-1349, to House File 1038, as follows:
+2 1. Page 3, line 22, by striking <five> and inserting <two
+3 and one-half>
+4 2. Page 4, line 23, by striking <more than fifty> and
+5 inserting <at least forty-five>
+6 3. Page 7, line 8, by striking <city> and inserting <county>
+______________________________
+MOHR of Scott
+H 1349.2131 (1) 91
+-1- lh/ko 1/1
+
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe3,le2,bysg<>adig<ado2.Pe4,le2,bysg<etnf>aig<tltf3.Pe7,le8,bysg<>adig<RofS11()9o1]

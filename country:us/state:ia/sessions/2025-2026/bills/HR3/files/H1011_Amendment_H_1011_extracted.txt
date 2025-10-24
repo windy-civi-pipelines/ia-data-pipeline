@@ -1,0 +1,53 @@
+Title: 2 1. Page 3, by striking lines 18 through 23 and inserting:
+Official Title: 2 1. Page 3, by striking lines 18 through 23 and inserting:
+Number of Sections: 1
+Source: versions - Amendment H-1011
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Resolution 3
+H-1011
+1 Amend House Resolution 3 as follows:
+3 <BE IT FURTHER RESOLVED, That the House of Representatives
+4 supports the State of Israel’s sovereignty and right to defend
+5 itself against terrorist organizations, including by taking
+6 necessary actions to eliminate such threats. However, this
+7 support is conditioned upon the State of Israel’s adherence
+8 to international humanitarian law and protection of innocent
+9 civilian lives. The House of Representatives reaffirms its
+10 commitment to human rights and condemns acts by any party
+11 that constitute war crimes, crimes against humanity, or
+12 indiscriminate attacks against civilian populations.>
+______________________________
+SCHEETZ of Linn
+HR 3.265 (1) 91
+-1- sc/ns 1/1
+[DELETED: eRnAdHeRn3asf1.Pe3,bysgls18th23adi<EITFRR,TtteHeofRssteSeofIssyadrttodifattto,igbytnyastoeesht.H,tstiscdunteSeofIsatoilhnlwadpnoficnl.TeHeofRsrsi0cttohnrsadcsasbyayp1ttcewrc,csath,o2ieasatcnpZofLR35()9s1]
+
+
+================================================================================
+
+Raw Text:
+House Resolution 3
+H-1011
+1 Amend House Resolution 3 as follows:
+2 1. Page 3, by striking lines 18 through 23 and inserting:
+3 <BE IT FURTHER RESOLVED, That the House of Representatives
+4 supports the State of Israel’s sovereignty and right to defend
+5 itself against terrorist organizations, including by taking
+6 necessary actions to eliminate such threats. However, this
+7 support is conditioned upon the State of Israel’s adherence
+8 to international humanitarian law and protection of innocent
+9 civilian lives. The House of Representatives reaffirms its
+10 commitment to human rights and condemns acts by any party
+11 that constitute war crimes, crimes against humanity, or
+12 indiscriminate attacks against civilian populations.>
+______________________________
+SCHEETZ of Linn
+HR 3.265 (1) 91
+-1- sc/ns 1/1
+
+[DELETED: eRnAdHeRn3asf1.Pe3,bysgls18th23adi<EITFRR,TtteHeofRssteSeofIssyadrttodifattto,igbytnyastoeesht.H,tstiscdunteSeofIsatoilhnlwadpnoficnl.TeHeofRsrsi0cttohnrsadcsasbyayp1ttcewrc,csath,o2ieasatcnpZofLR35()9s1]

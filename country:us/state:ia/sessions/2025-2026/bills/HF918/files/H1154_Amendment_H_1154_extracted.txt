@@ -1,0 +1,112 @@
+Title: 5 4. Page 2, line 19, by striking <5B.> and inserting <5A.>
+Official Title: 5 4. Page 2, line 19, by striking <5B.> and inserting <5A.>
+Number of Sections: 1
+Source: versions - Amendment H-1154
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 918
+H-1154
+1 Amend House File 918 as follows:
+2 1. Page 1, by striking lines 13 through 20.
+3 2. Page 1, by striking lines 23 through 30.
+4 3. Page 2, by striking lines 2 through 18.
+6 5. By striking page 2, line 32, through page 3, line 3, and
+7 inserting:
+8 <NEW SUBSECTION. 5B. A person convicted of a violation
+9 of subsection 1 is guilty of a simple misdemeanor punishable
+10 as a scheduled violation under section 805.8A, subsection 14,
+11 paragraph “f”.>
+12 6. By striking page 3, line 25, through page 4, line 3, and
+13 inserting:
+14 <f. Proof of financial responsibility. If, in connection
+15 with a motor vehicle accident, a person is charged and found
+16 guilty of a violation of section 321.20B, subsection 1, the
+17 scheduled fine is six hundred forty-five dollars; otherwise,
+18 the scheduled fine for a violation of section 321.20B,
+19 subsection 1, is three hundred twenty-five dollars.
+20 (1) The scheduled fine for a violation of section 321.20B,
+21 subsection 1, is as follows:
+22 (a) If the violation occurred in connection
+23 with a motor vehicle accident ............$645.
+24 (b) If the violation did not occur in connection
+25 with a motor vehicle accident ............$325.
+26 (c) For a second violation within five years, the scheduled
+27 fine under subparagraph division (a) or (b), as applicable,
+28 shall be doubled.
+29 (d) For a third or subsequent violation within five years,
+30 the scheduled fine under subparagraph division (a) or (b), as
+31 applicable, shall be tripled.
+32 (2) Notwithstanding section 805.12, fines collected
+33 pursuant to this paragraph shall be submitted to the state
+34 court administrator and distributed fifty percent to the victim
+35 compensation fund established in section 915.94, twenty-five
+HF 918.823 (2) 91
+-1- th/ns 1/2
+1 percent to the county in which such fine is imposed, and
+2 twenty-five percent to the general fund of the state.>
+3 7. By renumbering as necessary.
+______________________________
+GJERDE of Linn
+HF 918.823 (2) 91
+-2- th/ns 2/2
+[DELETED: eFe9AdHeFe98asf1.Pe1,bysgls13th22.Pe1,bysgls23th33.Pe2,bysgls2th14.Pe2,le1,bysg<>adig<5.Bysgpe2,le3,thpe3,le3,ai<WS.5.Apncdofavofsn1isgyofasemrp0asasdvnursn8,sn11ph.26.Bysgpe3,le2,thpe4,le3,a3i4<I,inc.Pfofflr5whamrvea,apniscdadf6gyofavnofsn3,sn1,t7sdfeissxhdfed;o8tesdfefravnofsn39sn1,istehdted0()Tesdfefravnofsn31sn1,isasf2()Iftevnodinc3whamrveat.4()Iftevnddntorinc5whamrveat.6()Frasdvnwnfey,tes7feurshdn()or(,asa8slbed9()Fratdorstvnwnfey0tesdfeurshdn()or(,a1a,slbet2()Ngsn8,fsc3pttotsphslbesdtotes4ctaradddfypttotev5cnfdedinsn9,tF93()9s1]
+[DELETED: pttotecyinwhshfeisi,atepttoteglfdoftes7.ByrgasnEofLF93()9s2]
+
+
+================================================================================
+
+Raw Text:
+House File 918
+H-1154
+1 Amend House File 918 as follows:
+2 1. Page 1, by striking lines 13 through 20.
+3 2. Page 1, by striking lines 23 through 30.
+4 3. Page 2, by striking lines 2 through 18.
+5 4. Page 2, line 19, by striking <5B.> and inserting <5A.>
+6 5. By striking page 2, line 32, through page 3, line 3, and
+7 inserting:
+8 <NEW SUBSECTION. 5B. A person convicted of a violation
+9 of subsection 1 is guilty of a simple misdemeanor punishable
+10 as a scheduled violation under section 805.8A, subsection 14,
+11 paragraph “f”.>
+12 6. By striking page 3, line 25, through page 4, line 3, and
+13 inserting:
+14 <f. Proof of financial responsibility. If, in connection
+15 with a motor vehicle accident, a person is charged and found
+16 guilty of a violation of section 321.20B, subsection 1, the
+17 scheduled fine is six hundred forty-five dollars; otherwise,
+18 the scheduled fine for a violation of section 321.20B,
+19 subsection 1, is three hundred twenty-five dollars.
+20 (1) The scheduled fine for a violation of section 321.20B,
+21 subsection 1, is as follows:
+22 (a) If the violation occurred in connection
+23 with a motor vehicle accident ............$645.
+24 (b) If the violation did not occur in connection
+25 with a motor vehicle accident ............$325.
+26 (c) For a second violation within five years, the scheduled
+27 fine under subparagraph division (a) or (b), as applicable,
+28 shall be doubled.
+29 (d) For a third or subsequent violation within five years,
+30 the scheduled fine under subparagraph division (a) or (b), as
+31 applicable, shall be tripled.
+32 (2) Notwithstanding section 805.12, fines collected
+33 pursuant to this paragraph shall be submitted to the state
+34 court administrator and distributed fifty percent to the victim
+35 compensation fund established in section 915.94, twenty-five
+HF 918.823 (2) 91
+-1- th/ns 1/2
+
+1 percent to the county in which such fine is imposed, and
+2 twenty-five percent to the general fund of the state.>
+3 7. By renumbering as necessary.
+______________________________
+GJERDE of Linn
+HF 918.823 (2) 91
+-2- th/ns 2/2
+
+[DELETED: eFe9AdHeFe98asf1.Pe1,bysgls13th22.Pe1,bysgls23th33.Pe2,bysgls2th14.Pe2,le1,bysg<>adig<5.Bysgpe2,le3,thpe3,le3,ai<WS.5.Apncdofavofsn1isgyofasemrp0asasdvnursn8,sn11ph.26.Bysgpe3,le2,thpe4,le3,a3i4<I,inc.Pfofflr5whamrvea,apniscdadf6gyofavnofsn3,sn1,t7sdfeissxhdfed;o8tesdfefravnofsn39sn1,istehdted0()Tesdfefravnofsn31sn1,isasf2()Iftevnodinc3whamrveat.4()Iftevnddntorinc5whamrveat.6()Frasdvnwnfey,tes7feurshdn()or(,asa8slbed9()Fratdorstvnwnfey0tesdfeurshdn()or(,a1a,slbet2()Ngsn8,fsc3pttotsphslbesdtotes4ctaradddfypttotev5cnfdedinsn9,tF93()9s1]
+[DELETED: pttotecyinwhshfeisi,atepttoteglfdoftes7.ByrgasnEofLF93()9s2]

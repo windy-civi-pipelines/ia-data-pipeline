@@ -1,0 +1,37 @@
+Title: 1 Amend the amendment, H-1002, to House File 144, as follows:
+Official Title: 1 Amend the amendment, H-1002, to House File 144, as follows:
+Number of Sections: 1
+Source: versions - Amendment H-1004
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House File 144
+H-1004
+2 1. Page 1, before line 3 by inserting:
+3 <___. By striking page 5, line 22, through page 6, line 24.>
+4 2. By renumbering as necessary.
+______________________________
+KAUFMANN of Cedar
+H 1002.112 (2) 91
+-1- ll/ns 1/1
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe1,bele3byi<.Bysgpe5,le2,thpe6,le22.ByrgasnNofC12()9s1]
+
+
+================================================================================
+
+Raw Text:
+House File 144
+H-1004
+1 Amend the amendment, H-1002, to House File 144, as follows:
+2 1. Page 1, before line 3 by inserting:
+3 <___. By striking page 5, line 22, through page 6, line 24.>
+4 2. By renumbering as necessary.
+______________________________
+KAUFMANN of Cedar
+H 1002.112 (2) 91
+-1- ll/ns 1/1
+
+[DELETED: eFe1Adtea,H,toHeFe1,asf1.Pe1,bele3byi<.Bysgpe5,le2,thpe6,le22.ByrgasnNofC12()9s1]

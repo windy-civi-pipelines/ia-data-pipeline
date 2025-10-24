@@ -1,0 +1,132 @@
+Title: 3 <Sec. ___. Section 96.4, subsection 3, paragraph b, Code
+Official Title: 3 <Sec. ___. Section 96.4, subsection 3, paragraph b, Code
+Number of Sections: 1
+Source: versions - Amendment S-3184
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Senate File 607
+S-3184
+1 Amend Senate File 607 as follows:
+2 1. Page 1, after line 19 by inserting:
+4 2025, is amended to read as follows:
+5 b. Notwithstanding any provision of this chapter to the
+6 contrary, the department may establish by rule a process to
+7 waive or alter the work search requirements of this subsection
+8 for a claim for benefits if an individual has a reasonable
+9 expectation that the individual will be returning to employment
+10 and is attached to a regular job or industry or a member in
+11 good standing of a union therein eligible for referral for
+12 employment. To be considered attached to a regular job or
+13 industry, an individual must be on a short-term seasonal or
+14 temporary layoff. If work is not available at the conclusion
+15 of the layoff period due to short-term circumstances beyond
+16 the employer’s control, the employer may request an extension
+17 of the waiver or alteration for up to two weeks from the
+18 department. For purposes of this paragraph, “short-term
+19 seasonal or temporary layoff” means a layoff period of sixteen
+20 weeks or less due to seasonal weather conditions or other
+21 conditions that impact the ability to perform work related to
+22 highway construction, repair, or maintenance with a specific
+23 return-to-work date verified by the employer.
+24 Sec. ___. Section 96.5, subsection 3, paragraph b, Code
+25 2025, is amended by adding the following new subparagraphs:
+26 NEW SUBPARAGRAPH. (4) (a) If the individual has a
+27 reasonable expectation that the individual will be returning
+28 to employment, as defined by the department by rule, and
+29 is attached to a regular job or industry or is a member in
+30 good standing of a union therein eligible for referral for
+31 employment.
+32 (b) To be considered attached to a regular job or industry,
+33 an individual must be on a short-term seasonal or temporary
+34 layoff as defined in section 96.4, subsection 3.
+35 NEW SUBPARAGRAPH. (5) If all of the following circumstances
+SF 607.1762 (2) 91
+-1- je/js 1/2
+1 apply:
+2 (a) The individual is unemployed due to the individual’s
+3 employer temporarily ceasing operations or going out of
+4 business at the factory, establishment, or other premises at
+5 which the individual was last employed.
+6 (b) The reason for the employer going out of business was a
+7 result of unforeseen circumstances, including but not limited
+8 to cybersecurity attacks.
+9 (c) The individual has a reasonable expectation that the
+10 individual will be returning to employment with the employer
+11 that temporarily ceased operations or went out of business.>
+12 2. Title page, line 1, by striking <taxes on employers>
+13 3. By renumbering as necessary.
+______________________________
+THOMAS TOWNSEND
+SF 607.1762 (2) 91
+-2- je/js 2/2
+[DELETED: eFe6AdSeFe67asf1.Pe1,arle19byi<._.Sn9,sn3,phb,C2,isadtordasfNgaypnoftscrtotc,tedtmyehbyreapstweorartewkshrsoftssfracmfrbsifanilhsarenttteilwlbergtoe0adisadtoarrjboriyoramri1gdsgofauntneefrrlf2e.Tobecdadtoarrjbo3i,anilmtbeonasmslo4tyl.Ifwkisntaeattec5oftelfpddetosmcsb6teesc,teermyrtane7oftewroranfruptotowsfmt8d.Frpsoftsplortyl9msalfpdofs0wsorlsdetoslwrcsoro1csttitteaytopmwkrdt2hyc,r,ormewhas3rkdevdbytee4S._.Sn9,sn3,phb,C52,isadbyagtefgnws6NWS.()()Ifteilhs7reenttteilwlber8toe,asddbytedtbyr,a9isadtoarrjboriyorisamri0gdsgofauntneefrrlf1e2()Tobecdadtoarrjbori3anilmtbeonasmslort4lfasddinsn9,sn35NWS.()IfaloftefgcF62()9]
+[DELETED: a()Teilisuddetoteiertycgosorggotobsattef,e,ororpsawhteilwslte()Ternfrteerggotofbswsrtofunc,igbtntltocya()Teilhsareenttt0ilwlbergtoetwhtee1tttycdosorwtotofb22.Tep,le1,bysg<sone33.ByrgasnSTF62()9]
+
+
+================================================================================
+
+Raw Text:
+Senate File 607
+S-3184
+1 Amend Senate File 607 as follows:
+2 1. Page 1, after line 19 by inserting:
+3 <Sec. ___. Section 96.4, subsection 3, paragraph b, Code
+4 2025, is amended to read as follows:
+5 b. Notwithstanding any provision of this chapter to the
+6 contrary, the department may establish by rule a process to
+7 waive or alter the work search requirements of this subsection
+8 for a claim for benefits if an individual has a reasonable
+9 expectation that the individual will be returning to employment
+10 and is attached to a regular job or industry or a member in
+11 good standing of a union therein eligible for referral for
+12 employment. To be considered attached to a regular job or
+13 industry, an individual must be on a short-term seasonal or
+14 temporary layoff. If work is not available at the conclusion
+15 of the layoff period due to short-term circumstances beyond
+16 the employer’s control, the employer may request an extension
+17 of the waiver or alteration for up to two weeks from the
+18 department. For purposes of this paragraph, “short-term
+19 seasonal or temporary layoff” means a layoff period of sixteen
+20 weeks or less due to seasonal weather conditions or other
+21 conditions that impact the ability to perform work related to
+22 highway construction, repair, or maintenance with a specific
+23 return-to-work date verified by the employer.
+24 Sec. ___. Section 96.5, subsection 3, paragraph b, Code
+25 2025, is amended by adding the following new subparagraphs:
+26 NEW SUBPARAGRAPH. (4) (a) If the individual has a
+27 reasonable expectation that the individual will be returning
+28 to employment, as defined by the department by rule, and
+29 is attached to a regular job or industry or is a member in
+30 good standing of a union therein eligible for referral for
+31 employment.
+32 (b) To be considered attached to a regular job or industry,
+33 an individual must be on a short-term seasonal or temporary
+34 layoff as defined in section 96.4, subsection 3.
+35 NEW SUBPARAGRAPH. (5) If all of the following circumstances
+SF 607.1762 (2) 91
+-1- je/js 1/2
+
+1 apply:
+2 (a) The individual is unemployed due to the individual’s
+3 employer temporarily ceasing operations or going out of
+4 business at the factory, establishment, or other premises at
+5 which the individual was last employed.
+6 (b) The reason for the employer going out of business was a
+7 result of unforeseen circumstances, including but not limited
+8 to cybersecurity attacks.
+9 (c) The individual has a reasonable expectation that the
+10 individual will be returning to employment with the employer
+11 that temporarily ceased operations or went out of business.>
+12 2. Title page, line 1, by striking <taxes on employers>
+13 3. By renumbering as necessary.
+______________________________
+THOMAS TOWNSEND
+SF 607.1762 (2) 91
+-2- je/js 2/2
+
+[DELETED: eFe6AdSeFe67asf1.Pe1,arle19byi<._.Sn9,sn3,phb,C2,isadtordasfNgaypnoftscrtotc,tedtmyehbyreapstweorartewkshrsoftssfracmfrbsifanilhsarenttteilwlbergtoe0adisadtoarrjboriyoramri1gdsgofauntneefrrlf2e.Tobecdadtoarrjbo3i,anilmtbeonasmslo4tyl.Ifwkisntaeattec5oftelfpddetosmcsb6teesc,teermyrtane7oftewroranfruptotowsfmt8d.Frpsoftsplortyl9msalfpdofs0wsorlsdetoslwrcsoro1csttitteaytopmwkrdt2hyc,r,ormewhas3rkdevdbytee4S._.Sn9,sn3,phb,C52,isadbyagtefgnws6NWS.()()Ifteilhs7reenttteilwlber8toe,asddbytedtbyr,a9isadtoarrjboriyorisamri0gdsgofauntneefrrlf1e2()Tobecdadtoarrjbori3anilmtbeonasmslort4lfasddinsn9,sn35NWS.()IfaloftefgcF62()9]
+[DELETED: a()Teilisuddetoteiertycgosorggotobsattef,e,ororpsawhteilwslte()Ternfrteerggotofbswsrtofunc,igbtntltocya()Teilhsareenttt0ilwlbergtoetwhtee1tttycdosorwtotofb22.Tep,le1,bysg<sone33.ByrgasnSTF62()9]

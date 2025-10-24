@@ -1,0 +1,146 @@
+Title: 1 Amend House File 933, as amended, passed, and reprinted by
+Official Title: 1 Amend House File 933, as amended, passed, and reprinted by
+Number of Sections: 1
+Source: versions - Amendment S-3131
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House File 933
+S-3131
+2 the House, as follows:
+3 1. By striking page 1, line 3, through page 4, line 9, and
+4 inserting:
+5 <Sec. ___. Section 135C.1, Code 2025, is amended by adding
+6 the following new subsection:
+7 NEW SUBSECTION. 16A. “Pediatric palliative care patient”
+8 means an individual described by all of the following:
+9 a. The individual is under twenty-one years of age.
+10 b. The individual has been diagnosed with a chronic,
+11 complex, life-threatening illness that is expected to shorten
+12 the individual’s life expectancy.
+13 c. The individual is not expected to survive past twenty-one
+14 years of age.
+15 Sec. ___. Section 135C.2, Code 2025, is amended by adding
+16 the following new subsection:
+17 NEW SUBSECTION. 5A. The department shall establish a
+18 special classification within the residential care facility
+19 category for residential care facilities which have the primary
+20 purpose of serving pediatric palliative care patients and
+21 that only provides respite care services and the services of
+22 a hospice program as defined in section 135J.1. A facility
+23 within the special classification established pursuant to
+24 this subsection shall be exempt from section 10A.713. The
+25 department shall adopt rules pursuant to chapter 17A which
+26 shall include but not be limited to all of the following:
+27 a. A residential care facility within the special
+28 classification established pursuant to this subsection may be
+29 referred to as a pediatric palliative care center.
+30 b. A licensed residential care facility within the special
+31 classification established pursuant to this subsection shall
+32 be eligible for funding available to hospice programs licensed
+33 under chapter 135J, and licensed residential care facilities
+34 that treat individuals with an illness or disability, including
+35 but not limited to funding from the federal social services
+HF 933.1674 (2) 91
+-1- dg/ko 1/2
+1 block grant, the state supplementary assistance program, the
+2 hospice respite benefit, home and community-based services
+3 waivers, any funding source under chapter 249A, and any benefit
+4 a nursing facility may be eligible for related to respite care
+5 services.
+6 Sec. ___. EMERGENCY RULES. The department of health and
+7 human services may adopt emergency rules under section 17A.4,
+8 subsection 3, and section 17A.5, subsection 2, paragraph “b”,
+9 to implement the provisions of this Act and the rules shall
+10 be effective immediately upon filing unless a later date is
+11 specified in the rules. Any rules adopted in accordance with
+12 this section shall also be published as a notice of intended
+13 action as provided in section 17A.4.
+14 Sec. ___. EFFECTIVE DATE. This Act, being deemed of
+15 immediate importance, takes effect upon enactment.>
+16 2. Title page, line 1, after <centers> by inserting <, and
+17 including effective date provisions>
+18 3. By renumbering as necessary.
+______________________________
+KARA WARME
+______________________________
+ANNETTE SWEENEY
+HF 933.1674 (2) 91
+-2- dg/ko 2/2
+[DELETED: eFe9AdHeFe9,asa,p,adrdbteH,asf1.Bysgpe1,le3,thpe4,le9,ai<._.Sn1,Ce2,isadbyatefgnwsNWS.1cpecepmsanilddbyaloftefTeilisurteysofa0Teilhsbnddwhac1c,lgisttisedtos2teislee3Teilisntedtoseptt4ysofa5S._.Sn1,Ce2,isadbya6tefgnws7NWS.5.Tedtsleh8slcnwnterlcef9cyfrrlcefswhhetep0peofsgpcpecepsa1ttoypsrecessadtesso2ahepmasddinsn1.Af3wnteslcnedptt4tssnslbeetfmsn1.T5dtslatrspttocr1Aw6sliebtntbeldtoaloftef7Arlcefywntes8cnedpttotssnmyb9rdtoasapcpecec0Aldrlcefywntes1cnedpttotssns2beeefrfgaetohepsl3urcr1,adldrlcef4ttttiswhanisord,i5btntldtofgfmteflslsF94()9]
+[DELETED: bkg,tesesyaep,thereb,headcdsw,ayfgseurcr2,adaybangfymybeeefrrdtorecsS._.EYR.Tedtofhhahnssmyateyrsursn1sn3,adsn1,sn2,ph“toittepsoftsAtadterss0beeeiyunfgusalrdei1sdinter.Ayrsadinaew2tssnslaobepdasaneofi3anaspdinsn14S._.EED.TsA,bgddo5iei,tsetune62.Tep,le1,ar<>byig<,a7igeedep83.ByrgasnAWESF94()9]
+
+
+================================================================================
+
+Raw Text:
+House File 933
+S-3131
+1 Amend House File 933, as amended, passed, and reprinted by
+2 the House, as follows:
+3 1. By striking page 1, line 3, through page 4, line 9, and
+4 inserting:
+5 <Sec. ___. Section 135C.1, Code 2025, is amended by adding
+6 the following new subsection:
+7 NEW SUBSECTION. 16A. “Pediatric palliative care patient”
+8 means an individual described by all of the following:
+9 a. The individual is under twenty-one years of age.
+10 b. The individual has been diagnosed with a chronic,
+11 complex, life-threatening illness that is expected to shorten
+12 the individual’s life expectancy.
+13 c. The individual is not expected to survive past twenty-one
+14 years of age.
+15 Sec. ___. Section 135C.2, Code 2025, is amended by adding
+16 the following new subsection:
+17 NEW SUBSECTION. 5A. The department shall establish a
+18 special classification within the residential care facility
+19 category for residential care facilities which have the primary
+20 purpose of serving pediatric palliative care patients and
+21 that only provides respite care services and the services of
+22 a hospice program as defined in section 135J.1. A facility
+23 within the special classification established pursuant to
+24 this subsection shall be exempt from section 10A.713. The
+25 department shall adopt rules pursuant to chapter 17A which
+26 shall include but not be limited to all of the following:
+27 a. A residential care facility within the special
+28 classification established pursuant to this subsection may be
+29 referred to as a pediatric palliative care center.
+30 b. A licensed residential care facility within the special
+31 classification established pursuant to this subsection shall
+32 be eligible for funding available to hospice programs licensed
+33 under chapter 135J, and licensed residential care facilities
+34 that treat individuals with an illness or disability, including
+35 but not limited to funding from the federal social services
+HF 933.1674 (2) 91
+-1- dg/ko 1/2
+
+1 block grant, the state supplementary assistance program, the
+2 hospice respite benefit, home and community-based services
+3 waivers, any funding source under chapter 249A, and any benefit
+4 a nursing facility may be eligible for related to respite care
+5 services.
+6 Sec. ___. EMERGENCY RULES. The department of health and
+7 human services may adopt emergency rules under section 17A.4,
+8 subsection 3, and section 17A.5, subsection 2, paragraph “b”,
+9 to implement the provisions of this Act and the rules shall
+10 be effective immediately upon filing unless a later date is
+11 specified in the rules. Any rules adopted in accordance with
+12 this section shall also be published as a notice of intended
+13 action as provided in section 17A.4.
+14 Sec. ___. EFFECTIVE DATE. This Act, being deemed of
+15 immediate importance, takes effect upon enactment.>
+16 2. Title page, line 1, after <centers> by inserting <, and
+17 including effective date provisions>
+18 3. By renumbering as necessary.
+______________________________
+KARA WARME
+______________________________
+ANNETTE SWEENEY
+HF 933.1674 (2) 91
+-2- dg/ko 2/2
+
+[DELETED: eFe9AdHeFe9,asa,p,adrdbteH,asf1.Bysgpe1,le3,thpe4,le9,ai<._.Sn1,Ce2,isadbyatefgnwsNWS.1cpecepmsanilddbyaloftefTeilisurteysofa0Teilhsbnddwhac1c,lgisttisedtos2teislee3Teilisntedtoseptt4ysofa5S._.Sn1,Ce2,isadbya6tefgnws7NWS.5.Tedtsleh8slcnwnterlcef9cyfrrlcefswhhetep0peofsgpcpecepsa1ttoypsrecessadtesso2ahepmasddinsn1.Af3wnteslcnedptt4tssnslbeetfmsn1.T5dtslatrspttocr1Aw6sliebtntbeldtoaloftef7Arlcefywntes8cnedpttotssnmyb9rdtoasapcpecec0Aldrlcefywntes1cnedpttotssns2beeefrfgaetohepsl3urcr1,adldrlcef4ttttiswhanisord,i5btntldtofgfmteflslsF94()9]
+[DELETED: bkg,tesesyaep,thereb,headcdsw,ayfgseurcr2,adaybangfymybeeefrrdtorecsS._.EYR.Tedtofhhahnssmyateyrsursn1sn3,adsn1,sn2,ph“toittepsoftsAtadterss0beeeiyunfgusalrdei1sdinter.Ayrsadinaew2tssnslaobepdasaneofi3anaspdinsn14S._.EED.TsA,bgddo5iei,tsetune62.Tep,le1,ar<>byig<,a7igeedep83.ByrgasnAWESF94()9]
